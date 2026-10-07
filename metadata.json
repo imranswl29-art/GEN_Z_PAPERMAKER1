@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix PTTB_PAPERMAKER_SOFTWARE",
+  "description": "PAPER MAKER SOFTWARE LASTEST VERSION PRO",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
