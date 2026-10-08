@@ -185,6 +185,8 @@ export const ResultCardView: React.FC<ResultCardViewProps> = ({
     };
   });
 
+  const isInitialLoadedRef = useRef(false);
+
   // Fetch Marksheet data from permanent database on mount/user change
   useEffect(() => {
     fetchMarksheetsFromFirestore(currentUser?.id)
@@ -205,11 +207,15 @@ export const ResultCardView: React.FC<ResultCardViewProps> = ({
             }
           })
           .catch(() => {});
+      })
+      .finally(() => {
+        isInitialLoadedRef.current = true;
       });
   }, [currentUser?.id]);
 
   // Permanent database auto-persist to Firestore and backend API
   useEffect(() => {
+    if (!isInitialLoadedRef.current) return;
     localStorage.setItem('ptbb_marksheet_data', JSON.stringify(marksheet));
     const marksheetWithUser = {
       ...marksheet,
@@ -1017,10 +1023,10 @@ export const ResultCardView: React.FC<ResultCardViewProps> = ({
             className="bg-white rounded-2xl shadow-xl border border-slate-300 p-6 sm:p-10 max-w-4xl mx-auto print:border-none print:shadow-none print:p-0 print:m-0 print:max-w-none print:w-full"
           >
             {/* Header with Unified Branding & Monogram */}
-            <div className="border-b-2 border-slate-900 pb-3 mb-4 text-center">
-              <div className="flex items-center justify-between gap-4">
+            <div className="paper-header border-b-2 border-slate-900 pb-3 mb-4 text-center">
+              <div className="header-row flex items-center justify-between gap-4">
                 {/* Left Monogram */}
-                <div className="shrink-0">
+                <div className="school-monogram-container shrink-0">
                   <SchoolMonogram
                     logoUrl={branding.logoUrl}
                     schoolName={branding.schoolName}
@@ -1029,8 +1035,8 @@ export const ResultCardView: React.FC<ResultCardViewProps> = ({
                 </div>
 
                 {/* Center School Details */}
-                <div className="flex-1 min-w-0 px-2 text-center">
-                  <h1 className="text-xl sm:text-2xl font-black uppercase text-slate-950 tracking-tight leading-tight">
+                <div className="school-name-col flex-1 min-w-0 px-2 text-center">
+                  <h1 className="school-name-title text-xl sm:text-2xl font-black uppercase text-slate-950 tracking-tight leading-tight">
                     {branding.schoolName}
                   </h1>
                   <div className="text-xs sm:text-sm font-bold text-slate-700 tracking-wide mt-0.5">

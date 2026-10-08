@@ -17,6 +17,9 @@ import {
   Code2,
   CheckSquare,
   Trash2,
+  FolderArchive,
+  Award,
+  ShieldCheck,
 } from 'lucide-react';
 import { UserAccount } from '../types/user';
 import { GeneratedExamPaper, ClassLevel } from '../types/paper';
@@ -140,41 +143,61 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
 
       {/* Metrics Row */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-        <div className="card-3d p-4">
-          <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 block mb-1">
-            Total Papers Created
-          </span>
-          <div className="text-2xl font-black text-slate-950">{savedPapers.length}</div>
-          <span className="text-[11px] text-blue-700 font-bold">Ready to print & export</span>
+        <div className="card-3d p-4 flex flex-col justify-between">
+          <div className="flex items-center justify-between mb-1">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+              Total Papers Created
+            </span>
+            <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center shadow-xs shrink-0">
+              <FolderArchive className="w-4 h-4 text-white" />
+            </div>
+          </div>
+          <div className="text-2xl font-black text-slate-950 mt-1">{savedPapers.length}</div>
+          <span className="text-[11px] text-blue-700 font-bold mt-0.5">Ready to print & export</span>
         </div>
 
-        <div className="card-3d p-4">
-          <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 block mb-1">
-            Target Board Pattern
-          </span>
-          <div className="text-base font-bold text-slate-950 truncate">
+        <div className="card-3d p-4 flex flex-col justify-between">
+          <div className="flex items-center justify-between mb-1">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+              Target Board Pattern
+            </span>
+            <div className="w-8 h-8 rounded-lg bg-indigo-600 text-white flex items-center justify-center shadow-xs shrink-0">
+              <Award className="w-4 h-4 text-white" />
+            </div>
+          </div>
+          <div className="text-base font-bold text-slate-950 truncate mt-1">
             {currentUser?.targetBoard ? currentUser.targetBoard.toUpperCase() + ' Board' : 'BISE Punjab'}
           </div>
-          <span className="text-[11px] text-slate-700 font-semibold">PTBB Pairing Scheme</span>
+          <span className="text-[11px] text-slate-700 font-semibold mt-0.5">PTBB Pairing Scheme</span>
         </div>
 
-        <div className="card-3d p-4">
-          <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 block mb-1">
-            Active Classes
-          </span>
-          <div className="text-base font-bold text-slate-950">9th & 10th Class</div>
-          <span className="text-[11px] text-blue-700 font-bold">Matric Science Group</span>
+        <div className="card-3d p-4 flex flex-col justify-between">
+          <div className="flex items-center justify-between mb-1">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+              Active Classes
+            </span>
+            <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center shadow-xs shrink-0">
+              <GraduationCap className="w-4 h-4 text-white" />
+            </div>
+          </div>
+          <div className="text-base font-bold text-slate-950 mt-1">9th & 10th Class</div>
+          <span className="text-[11px] text-blue-700 font-bold mt-0.5">Matric Science Group</span>
         </div>
 
-        <div className="card-3d p-4">
-          <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 block mb-1">
-            System License
-          </span>
-          <div className="text-base font-bold text-emerald-700 flex items-center gap-1">
+        <div className="card-3d p-4 flex flex-col justify-between">
+          <div className="flex items-center justify-between mb-1">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+              System License
+            </span>
+            <div className="w-8 h-8 rounded-lg bg-amber-600 text-white flex items-center justify-center shadow-xs shrink-0">
+              <ShieldCheck className="w-4 h-4 text-white" />
+            </div>
+          </div>
+          <div className="text-base font-bold text-emerald-700 flex items-center gap-1 mt-1">
             <CheckCircle2 className="w-4 h-4 text-emerald-600" />
             <span>Active</span>
           </div>
-          <span className="text-[11px] text-slate-700 font-semibold">
+          <span className="text-[11px] text-slate-700 font-semibold mt-0.5">
             Valid till {currentUser?.expiryDate || '2027-12-31'}
           </span>
         </div>

@@ -6,7 +6,7 @@ import {
 import { PUNJAB_BOARDS } from '../data/ptbbData';
 import { ClassLevel } from '../types/paper';
 import { getPrincipalPortalLink } from '../utils/publicUrl';
-import { deleteAccountFromFirestore } from '../firebase';
+import { deleteAccountFromFirestore, saveAccountToFirestore, saveAllAccountsToFirestore } from '../firebase';
 import {
   ShieldAlert,
   Users,
@@ -112,6 +112,17 @@ export const AdminPortalModal: React.FC<AdminPortalModalProps> = ({
     };
 
     const updated = [newAccount, ...accounts];
+    // Immediate individual persist to Firestore cloud
+    saveAccountToFirestore(newAccount).catch((err) =>
+      console.warn('Failed to save new account to Firestore:', err)
+    );
+    // Immediate persist to backend server
+    fetch('/api/accounts/save', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(newAccount),
+    }).catch(() => {});
+
     onUpdateAccounts(updated);
     setSuccessToast(`Account created for "${newAccount.schoolName}"! Credentials ready to copy.`);
     setActiveTab('principals');
@@ -134,15 +145,34 @@ export const AdminPortalModal: React.FC<AdminPortalModalProps> = ({
       deleteAccountFromFirestore(id).catch((err) =>
         console.warn('Failed to delete account from Firestore:', err)
       );
+      fetch(`/api/accounts/${encodeURIComponent(id)}`, { method: 'DELETE' }).catch(() => {});
       onUpdateAccounts(updated);
     }
   };
 
   const handleToggleStatus = (id: string) => {
     if (id === 'user-admin-01') return;
-    const updated = accounts.map((a) =>
-      a.id === id ? { ...a, status: a.status === 'active' ? ('suspended' as const) : ('active' as const) } : a
-    );
+    let changedAccount: UserAccount | undefined;
+    const updated = accounts.map((a) => {
+      if (a.id === id) {
+        const nextStatus = a.status === 'active' ? ('suspended' as const) : ('active' as const);
+        changedAccount = { ...a, status: nextStatus };
+        return changedAccount;
+      }
+      return a;
+    });
+
+    if (changedAccount) {
+      saveAccountToFirestore(changedAccount).catch((err) =>
+        console.warn('Failed to update status in Firestore:', err)
+      );
+      fetch('/api/accounts/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(changedAccount),
+      }).catch(() => {});
+    }
+
     onUpdateAccounts(updated);
   };
 
@@ -720,17 +750,30 @@ Software Engineering & Operations: MUHAMMAD IMRAN KHAN (MSc Computer Science)
               <form
                 onSubmit={(e) => {
                   e.preventDefault();
-                  const updated = accounts.map((a) =>
-                    a.role === 'admin'
-                      ? {
-                          ...a,
-                          username: adminUsername.trim(),
-                          password: adminPassword.trim(),
-                          name: adminName.trim(),
-                          phone: adminPhone.trim(),
-                        }
-                      : a
-                  );
+                  let updatedAdmin: UserAccount | undefined;
+                  const updated = accounts.map((a) => {
+                    if (a.role === 'admin') {
+                      updatedAdmin = {
+                        ...a,
+                        username: adminUsername.trim(),
+                        password: adminPassword.trim(),
+                        name: adminName.trim(),
+                        phone: adminPhone.trim(),
+                      };
+                      return updatedAdmin;
+                    }
+                    return a;
+                  });
+                  if (updatedAdmin) {
+                    saveAccountToFirestore(updatedAdmin).catch((err) =>
+                      console.warn('Failed to update admin credentials in Firestore:', err)
+                    );
+                    fetch('/api/accounts/save', {
+                      method: 'POST',
+                      headers: { 'Content-Type': 'application/json' },
+                      body: JSON.stringify(updatedAdmin),
+                    }).catch(() => {});
+                  }
                   onUpdateAccounts(updated);
                   setSuccessToast('Super Admin credentials updated successfully! Keep this password secure.');
                 }}

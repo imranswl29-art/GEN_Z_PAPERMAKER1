@@ -37,55 +37,98 @@ export const LoginModal: React.FC<LoginModalProps> = ({
     setError(null);
     setIsLoading(true);
 
+    const trimmedUser = username.trim().toLowerCase();
+    const trimmedPass = password.trim();
+
+    // Strict security check: Verify if the account username itself is frozen/suspended
+    const userByUsername = accounts.find((a) => a.username.toLowerCase() === trimmedUser);
+    if (
+      userByUsername &&
+      (userByUsername.status === 'suspended' ||
+        userByUsername.status === 'freeze' ||
+        userByUsername.status === 'frozen')
+    ) {
+      setIsLoading(false);
+      setError(
+        `This institutional account ("${userByUsername.schoolName}") is frozen by the Super Administrator. Access is strictly blocked.`
+      );
+      return;
+    }
+
+    // 1. Check loaded Firestore / cache accounts state
+    const localMatch = accounts.find(
+      (a) => a.username.toLowerCase() === trimmedUser && a.password === trimmedPass
+    );
+
+    if (localMatch) {
+      if (
+        localMatch.status === 'suspended' ||
+        localMatch.status === 'freeze' ||
+        localMatch.status === 'frozen'
+      ) {
+        setIsLoading(false);
+        setError(
+          'This institutional account has been frozen by the Super Administrator. Access is strictly blocked.'
+        );
+        return;
+      }
+
+      // Sync with backend API to maintain persistence
+      fetch('/api/accounts/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(localMatch),
+      }).catch(() => {});
+
+      setIsLoading(false);
+      onLoginSuccess(localMatch);
+      return;
+    }
+
+    // 2. Authenticate with secure backend endpoint
     try {
-      // 1. Authenticate with secure backend endpoint
       const res = await fetch('/api/accounts/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          username: username.trim(),
-          password: password.trim(),
+          username: trimmedUser,
+          password: trimmedPass,
         }),
       });
 
       if (res.ok) {
         const data = await res.json();
         if (data.user) {
+          if (
+            data.user.status === 'suspended' ||
+            data.user.status === 'freeze' ||
+            data.user.status === 'frozen'
+          ) {
+            setIsLoading(false);
+            setError(
+              'This institutional account has been frozen by the Super Administrator. Access is strictly blocked.'
+            );
+            return;
+          }
           if (data.token) {
             sessionStorage.setItem('ptbb_auth_token', data.token);
           }
+          setIsLoading(false);
           onLoginSuccess(data.user);
           return;
         }
       } else {
         const errJson = await res.json().catch(() => null);
-        if (errJson?.error) {
-          setError(errJson.error);
-          setIsLoading(false);
-          return;
-        }
-      }
-    } catch (apiErr) {
-      console.warn('Backend login endpoint unavailable, checking loaded accounts:', apiErr);
-    }
-
-    // 2. Fallback to loaded accounts state if server is offline
-    const found = accounts.find(
-      (a) =>
-        a.username.toLowerCase() === username.trim().toLowerCase() &&
-        a.password === password.trim()
-    );
-
-    setIsLoading(false);
-    if (found) {
-      if (found.status === 'suspended') {
-        setError('This institutional account has been frozen by the Super Administrator. Please contact Central Admin.');
+        setIsLoading(false);
+        setError(errJson?.error || 'Invalid Username or Password! Please verify your official credentials.');
         return;
       }
-      onLoginSuccess(found);
-    } else {
-      setError('Invalid Username or Password! Please verify your official credentials provided by Admin.');
+    } catch (apiErr) {
+      console.warn('Backend login endpoint unavailable:', apiErr);
     }
+
+    setIsLoading(false);
+    setError('Invalid Username or Password! Please verify your official credentials provided by Admin.');
   };
 
   return (

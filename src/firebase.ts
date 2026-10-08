@@ -112,6 +112,8 @@ export async function saveAccountToFirestore(account: UserAccount): Promise<void
   try {
     // Sanitize account object to ensure plain data
     const cleanAccount = JSON.parse(JSON.stringify(account));
+    if (cleanAccount.role === 'school') cleanAccount.role = 'principal';
+    if (!cleanAccount.status) cleanAccount.status = 'active';
     await setDoc(doc(db, 'accounts', account.id), cleanAccount);
   } catch (error) {
     console.error(`Failed to save account ${account.id} to Firestore:`, error);
@@ -122,14 +124,19 @@ export async function saveAccountToFirestore(account: UserAccount): Promise<void
 export async function saveAllAccountsToFirestore(accounts: UserAccount[]): Promise<void> {
   const collectionPath = 'accounts';
   try {
-    const batch = writeBatch(db);
-    for (const acc of accounts) {
+    const promises = accounts.map((acc) => {
       const cleanAcc = JSON.parse(JSON.stringify(acc));
-      batch.set(doc(db, 'accounts', acc.id), cleanAcc);
+      if (cleanAcc.role === 'school') cleanAcc.role = 'principal';
+      if (!cleanAcc.status) cleanAcc.status = 'active';
+      return setDoc(doc(db, 'accounts', acc.id), cleanAcc);
+    });
+    const results = await Promise.allSettled(promises);
+    const failures = results.filter((r) => r.status === 'rejected');
+    if (failures.length > 0) {
+      console.warn(`Firestore batch save: ${failures.length} account writes warned/failed.`);
     }
-    await batch.commit();
   } catch (error) {
-    console.error('Failed to batch save accounts to Firestore:', error);
+    console.error('Failed to save all accounts to Firestore:', error);
     handleFirestoreError(error, OperationType.WRITE, collectionPath);
   }
 }

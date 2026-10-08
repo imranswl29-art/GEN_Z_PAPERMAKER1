@@ -85,7 +85,7 @@ const DEFAULT_INITIAL_ACCOUNTS = [
     id: 'user-smart-pakpattan',
     username: 'pakpattan@smartschool.edu.pk',
     password: 'SmartDemo123',
-    role: 'school',
+    role: 'principal',
     name: 'Principal - The Smart School',
     schoolName: 'THE SMART SCHOOL PAKPATTAN',
     campusName: 'Pakpattan Branch (City Campus)',
@@ -103,7 +103,7 @@ const DEFAULT_INITIAL_ACCOUNTS = [
     id: 'user-knowledge-okara',
     username: 'okara@knowledgeschool.edu.pk',
     password: 'KnowledgeDemo123',
-    role: 'school',
+    role: 'principal',
     name: 'Principal - The Knowledge School',
     schoolName: 'THE KNOWLEDGE SCHOOL OKARA',
     campusName: 'Okara Branch (Main Campus)',
@@ -271,6 +271,32 @@ app.post('/api/accounts', (req, res) => {
   res.json({ success: true, count: accounts.length });
 });
 
+// Save or Update Single Account
+app.post('/api/accounts/save', (req, res) => {
+  const account = req.body;
+  if (!account || !account.id) {
+    return res.status(400).json({ error: 'Valid account object with id required.' });
+  }
+  const current = readAccountsFromFile();
+  const idx = current.findIndex((a) => a.id === account.id || a.username === account.username);
+  if (idx >= 0) {
+    current[idx] = { ...current[idx], ...account };
+  } else {
+    current.unshift(account);
+  }
+  writeAccountsToFile(current);
+  res.json({ success: true, account });
+});
+
+// Delete Single Account
+app.delete('/api/accounts/:id', (req, res) => {
+  const id = req.params.id;
+  const current = readAccountsFromFile();
+  const updated = current.filter((a) => a.id !== id);
+  writeAccountsToFile(updated);
+  res.json({ success: true, deletedId: id });
+});
+
 // Secure Backend Authentication Endpoint
 app.post('/api/accounts/login', (req, res) => {
   const { username = '', password = '' } = req.body || {};
@@ -285,7 +311,7 @@ app.post('/api/accounts/login', (req, res) => {
     return res.status(401).json({ error: 'Invalid Username or Password! Please verify your official credentials.' });
   }
 
-  if (found.status === 'suspended') {
+  if (found.status === 'suspended' || found.status === 'freeze' || found.status === 'frozen') {
     return res.status(403).json({ error: 'This institutional account has been frozen by the Super Administrator.' });
   }
 

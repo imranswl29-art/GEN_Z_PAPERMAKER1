@@ -63,58 +63,67 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
       label: 'Dashboard',
       icon: LayoutDashboard,
       badge: 'Home',
+      badgeColor: 'bg-blue-600 text-white',
     },
     {
       id: 'create_paper',
       label: 'Create Paper',
       icon: FilePlus2,
       badge: 'AI & Manual',
-      highlight: true,
+      badgeColor: 'bg-emerald-600 text-white',
     },
     {
       id: 'question_bank',
       label: 'Question Bank',
       icon: BookOpen,
       badge: 'Matric 9-10',
+      badgeColor: 'bg-indigo-600 text-white',
     },
     {
       id: 'saved_papers',
       label: 'Saved Papers',
       icon: FolderArchive,
+      badgeColor: 'bg-amber-600 text-white',
     },
     {
       id: 'answer_key',
       label: 'Answer Keys',
       icon: FileCheck2,
+      badgeColor: 'bg-teal-600 text-white',
     },
     {
       id: 'bubble_sheet',
       label: 'OMR Bubble Sheets',
       icon: CircleDot,
+      badgeColor: 'bg-cyan-600 text-white',
     },
     {
       id: 'school_profile',
       label: 'School Branding',
       icon: Building2,
       badge: 'Monogram',
+      badgeColor: 'bg-rose-600 text-white',
     },
     {
       id: 'date_sheet',
       label: 'Date Sheet Generator',
       icon: Calendar,
       badge: 'New',
+      badgeColor: 'bg-purple-600 text-white',
     },
     {
       id: 'result_card',
       label: 'Result Card & Marksheet',
       icon: Award,
       badge: 'New',
+      badgeColor: 'bg-blue-700 text-white',
     },
     {
       id: 'support_bug',
       label: 'Support & Report Bug',
       icon: LifeBuoy,
       badge: 'Help',
+      badgeColor: 'bg-emerald-700 text-white',
     },
   ];
 
@@ -124,7 +133,7 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
       label: 'Admin Portal',
       icon: ShieldCheck,
       badge: 'Super Admin',
-      highlight: false,
+      badgeColor: 'bg-amber-700 text-white',
     });
   }
 
@@ -236,12 +245,20 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
               } rounded-xl text-xs transition-all cursor-pointer ${
                 isActive
                   ? 'btn-3d btn-3d-blue text-white font-black shadow-md'
-                  : 'text-slate-700 hover:text-slate-950 hover:bg-slate-100 font-bold border border-transparent hover:border-slate-200'
+                  : 'text-slate-800 hover:text-slate-950 hover:bg-slate-100 font-bold border border-transparent hover:border-slate-200'
               }`}
             >
-              <div className="flex items-center gap-2.5">
-                <Icon className={`w-4 h-4 shrink-0 ${isActive ? 'text-white' : 'text-blue-700'}`} />
-                {!isCollapsed && <span className="truncate">{item.label}</span>}
+              <div className="flex items-center gap-2.5 min-w-0">
+                <div
+                  className={`w-7 h-7 rounded-lg flex items-center justify-center shrink-0 shadow-xs transition-all ${
+                    isActive
+                      ? 'bg-white text-blue-900 shadow-sm ring-2 ring-white/50'
+                      : `${item.badgeColor} ring-1 ring-black/5`
+                  }`}
+                >
+                  <Icon className="w-4 h-4 shrink-0 text-current" strokeWidth={2.4} />
+                </div>
+                {!isCollapsed && <span className="truncate font-bold">{item.label}</span>}
               </div>
               {!isCollapsed && item.badge && (
                 <span

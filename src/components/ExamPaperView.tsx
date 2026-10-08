@@ -747,7 +747,7 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
       <div id="exam-paper-container" className="p-4 sm:p-5 md:p-6 relative text-slate-900 font-sans bg-white print:p-0 print:m-0 print:w-full">
         {/* Background Watermark */}
         {header.showWatermark && (
-          <div className="absolute inset-0 flex items-center justify-center pointer-events-none select-none overflow-hidden z-0 opacity-[0.04]">
+          <div className="paper-watermark-bg absolute inset-0 flex items-center justify-center pointer-events-none select-none overflow-hidden z-0 opacity-[0.04]">
             {header.customLogoUrl ? (
               <div className="flex flex-col items-center justify-center">
                 <img
@@ -776,9 +776,9 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
               {/* Authentic Board Double-Border Header */}
               <div className="paper-header page-break-inside-avoid border-2 border-slate-900 p-3 sm:p-4 rounded-xs bg-white text-center space-y-2">
                 {/* Top Row: School Monogram (Left) + School Name (Center, Unclipped & Prominent) + Roll No (Right, NO Paper Code) */}
-                <div className="flex items-center justify-between gap-2 sm:gap-4">
+                <div className="header-row flex items-center justify-between gap-2 sm:gap-4">
                   {/* Left: School Monogram */}
-                  <div className="w-14 h-14 sm:w-20 sm:h-20 border-2 border-slate-900 rounded-full p-1 bg-white flex items-center justify-center overflow-hidden shrink-0 shadow-2xs">
+                  <div className="school-monogram-container w-14 h-14 sm:w-20 sm:h-20 border-2 border-slate-900 rounded-full p-1 bg-white flex items-center justify-center overflow-hidden shrink-0 shadow-2xs">
                     {header.customLogoUrl ? (
                       <img
                         src={header.customLogoUrl}
@@ -794,8 +794,8 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
                   </div>
 
                   {/* Center: School Name (LARGE, ELEGANT, UNCLIPPED, FULL PROMINENCE FOR PRINT & SCREEN) */}
-                  <div className="flex-1 min-w-0 text-center px-1 sm:px-3">
-                    <h1 className="text-lg sm:text-2xl md:text-3xl font-black uppercase tracking-tight font-serif text-slate-950 leading-tight">
+                  <div className="school-name-col flex-1 min-w-0 text-center px-1 sm:px-3">
+                    <h1 className="school-name-title text-lg sm:text-2xl md:text-3xl font-black uppercase tracking-tight font-serif text-slate-950 leading-tight">
                       {header.instituteName}
                     </h1>
                     <div className="text-[11px] sm:text-sm font-bold text-slate-800 uppercase tracking-wider mt-1">
@@ -877,11 +877,11 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
                     </span>
                   </div>
 
-                  <div className="grid grid-cols-4 gap-1.5 sm:gap-2 text-xs" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, minmax(0, 1fr))' }}>
+                  <div className="omr-grid grid grid-cols-4 gap-1.5 sm:gap-2 text-xs" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, minmax(0, 1fr))' }}>
                     {objectiveSection.questions.map((m) => (
                       <div
                         key={m.id}
-                        className="border border-slate-300 rounded px-2 py-1 bg-white flex items-center justify-between gap-1 shadow-none overflow-hidden"
+                        className="omr-cell border border-slate-300 rounded px-2 py-1 bg-white flex items-center justify-between gap-1 shadow-none overflow-hidden"
                       >
                         <span className="font-black font-mono text-[11px] text-slate-900 shrink-0 min-w-[32px]">
                           Q.{m.qNo}
@@ -890,7 +890,7 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
                           {(['A', 'B', 'C', 'D'] as const).map((letter) => (
                             <div
                               key={letter}
-                              className="w-[18px] h-[18px] min-w-[18px] min-h-[18px] rounded-full border border-slate-900 flex items-center justify-center text-[9px] font-black text-slate-900 bg-white shrink-0"
+                              className="omr-bubble w-[18px] h-[18px] min-w-[18px] min-h-[18px] rounded-full border border-slate-900 flex items-center justify-center text-[9px] font-black text-slate-900 bg-white shrink-0"
                             >
                               {letter}
                             </div>
@@ -1110,9 +1110,9 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
             >
               {/* Authentic Board Header for Subjective Paper */}
               <div className="paper-header page-break-inside-avoid border-2 border-slate-900 p-3 sm:p-4 rounded-xs bg-white text-center space-y-2">
-                <div className="flex items-center justify-between gap-2 sm:gap-3">
+                <div className="header-row flex items-center justify-between gap-2 sm:gap-3">
                   {/* Left: Monogram */}
-                  <div className="w-14 h-14 sm:w-18 sm:h-18 border-2 border-slate-900 rounded-full p-1 bg-white flex items-center justify-center overflow-hidden shrink-0 shadow-2xs">
+                  <div className="school-monogram-container w-14 h-14 sm:w-18 sm:h-18 border-2 border-slate-900 rounded-full p-1 bg-white flex items-center justify-center overflow-hidden shrink-0 shadow-2xs">
                     {header.customLogoUrl ? (
                       <img
                         src={header.customLogoUrl}
@@ -1128,8 +1128,8 @@ export const ExamPaperView: React.FC<ExamPaperViewProps> = ({
                   </div>
 
                   {/* Center: School Name (LARGE, ELEGANT, UNCLIPPED, FULL PROMINENCE FOR PRINT & SCREEN) */}
-                  <div className="flex-1 min-w-0 text-center px-1 sm:px-3">
-                    <h1 className="text-lg sm:text-2xl md:text-3xl font-black uppercase tracking-tight font-serif text-slate-950 leading-tight">
+                  <div className="school-name-col flex-1 min-w-0 text-center px-1 sm:px-3">
+                    <h1 className="school-name-title text-lg sm:text-2xl md:text-3xl font-black uppercase tracking-tight font-serif text-slate-950 leading-tight">
                       {header.instituteName}
                     </h1>
                     <div className="text-[11px] sm:text-sm font-bold text-slate-800 uppercase tracking-wider mt-1">

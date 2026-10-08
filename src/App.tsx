@@ -78,16 +78,20 @@ export default function App() {
       const saved = localStorage.getItem('ptbb_current_user');
       if (saved) {
         const parsed = JSON.parse(saved);
-        // Clear any default or hardcoded admin sessions on load as strictly requested
-        if (parsed?.role === 'admin' || parsed?.username === 'admin') {
-          localStorage.removeItem('ptbb_current_user');
-          return INITIAL_ACCOUNTS[1];
+        // Verify account is not suspended or frozen
+        if (
+          parsed &&
+          parsed.username &&
+          parsed.status !== 'suspended' &&
+          parsed.status !== 'freeze' &&
+          parsed.status !== 'frozen'
+        ) {
+          return parsed;
         }
-        return parsed;
       }
     } catch (e) {}
-    // Default to verified institutional school account so portal is instantly functional
-    return INITIAL_ACCOUNTS[1];
+    // Mandatory security: Do not auto-login to any default account
+    return null;
   });
 
   // Fetch accounts from Firebase Firestore on mount (with Express/localStorage backup)
@@ -97,16 +101,12 @@ export default function App() {
         if (Array.isArray(cloudAccounts) && cloudAccounts.length > 0) {
           setAccounts((prev) => {
             const mergedMap = new Map<string, UserAccount>();
-            // Ensure default initial accounts (Admin & Seeded Demo Schools) always exist
+            // Default seed templates
             INITIAL_ACCOUNTS.forEach((acc) => mergedMap.set(acc.id, acc));
-            // Add cloud accounts from Firestore
+            // Local state cache
+            prev.forEach((acc) => mergedMap.set(acc.id, acc));
+            // Cloud accounts from Firestore take authoritative precedence
             cloudAccounts.forEach((acc: UserAccount) => mergedMap.set(acc.id, acc));
-            // Add any local accounts not yet in cloud
-            prev.forEach((acc) => {
-              if (!mergedMap.has(acc.id)) {
-                mergedMap.set(acc.id, acc);
-              }
-            });
             const merged = Array.from(mergedMap.values());
             localStorage.setItem('ptbb_accounts_list', JSON.stringify(merged));
             return merged;
@@ -125,6 +125,7 @@ export default function App() {
             if (Array.isArray(serverAccounts) && serverAccounts.length > 0) {
               setAccounts((prev) => {
                 const mergedMap = new Map<string, UserAccount>();
+                INITIAL_ACCOUNTS.forEach((acc) => mergedMap.set(acc.id, acc));
                 serverAccounts.forEach((acc: UserAccount) => mergedMap.set(acc.id, acc));
                 prev.forEach((acc) => {
                   if (!mergedMap.has(acc.id)) mergedMap.set(acc.id, acc);
@@ -259,6 +260,10 @@ export default function App() {
     const params = new URLSearchParams(window.location.search);
     const principalKey = params.get('principal') || params.get('school');
     if (principalKey) {
+      // Mandatory security: clear any previous session when accessing via shared link
+      setCurrentUser(null);
+      localStorage.removeItem('ptbb_current_user');
+
       const savedAccounts = localStorage.getItem('ptbb_accounts_list');
       const allAccounts: UserAccount[] = savedAccounts ? JSON.parse(savedAccounts) : INITIAL_ACCOUNTS;
       const match = allAccounts.find(
@@ -267,36 +272,71 @@ export default function App() {
           a.id.toLowerCase() === principalKey.toLowerCase()
       );
       if (match) {
-        if (match.status === 'suspended') {
+        if (
+          match.status === 'suspended' ||
+          match.status === 'freeze' ||
+          match.status === 'frozen'
+        ) {
           setIsFrozenLocked(true);
           setFrozenPrincipalInfo(match);
         } else {
-          // As requested by user: Mandatory password authentication required to open software
-          setCurrentUser(null);
           setLoginInitialUsername(match.username);
           setLoginTargetSchool(`${match.schoolName} (${match.city})`);
           setIsLoginModalOpen(true);
         }
+      } else {
+        setLoginInitialUsername(principalKey);
+        setIsLoginModalOpen(true);
       }
     }
   }, []);
 
-  // Live account freeze enforcement: if currently logged-in principal gets frozen
+  // Live account freeze enforcement: if currently logged-in account gets frozen or deleted
   useEffect(() => {
-    if (currentUser && currentUser.role === 'principal') {
-      const liveAcc = accounts.find((a) => a.id === currentUser.id);
-      if (liveAcc && liveAcc.status === 'suspended') {
+    if (currentUser) {
+      const liveAcc = accounts.find(
+        (a) =>
+          a.id === currentUser.id ||
+          a.username.toLowerCase() === currentUser.username.toLowerCase()
+      );
+      if (!liveAcc) {
+        // Account deleted by Super Admin
+        handleLogout();
+      } else if (
+        liveAcc.status === 'suspended' ||
+        liveAcc.status === 'freeze' ||
+        liveAcc.status === 'frozen'
+      ) {
         setIsFrozenLocked(true);
         setFrozenPrincipalInfo(liveAcc);
-      } else if (liveAcc && liveAcc.status === 'active') {
+        setCurrentUser(null);
+        localStorage.removeItem('ptbb_current_user');
+      } else {
         setIsFrozenLocked(false);
         setFrozenPrincipalInfo(null);
       }
-    } else {
-      setIsFrozenLocked(false);
-      setFrozenPrincipalInfo(null);
     }
   }, [currentUser, accounts]);
+
+  // Synchronize active paper header with current logged in school
+  useEffect(() => {
+    if (currentUser && currentUser.schoolName) {
+      setActivePaper((prev) => {
+        const h = prev.header;
+        return {
+          ...prev,
+          userId: currentUser.id,
+          header: {
+            ...h,
+            instituteName: currentUser.schoolName || h.instituteName,
+            campusName: currentUser.campusName || h.campusName,
+            phone: currentUser.phone || h.phone,
+            customLogoUrl: currentUser.logoUrl || h.customLogoUrl,
+          },
+        };
+      });
+    }
+  }, [currentUser?.id, currentUser?.schoolName, currentUser?.logoUrl]);
 
   // Persistence
   useEffect(() => {
@@ -457,6 +497,61 @@ export default function App() {
   };
 
   if (!currentUser) {
+    if (isFrozenLocked && frozenPrincipalInfo) {
+      return (
+        <div className="min-h-screen bg-slate-950 flex items-center justify-center p-4 font-sans text-slate-800">
+          <div className="bg-white rounded-3xl shadow-2xl max-w-md w-full overflow-hidden border-2 border-rose-300 animate-in fade-in zoom-in-95">
+            <div className="bg-gradient-to-r from-rose-900 via-red-900 to-slate-900 text-white p-5 text-center space-y-2">
+              <div className="w-14 h-14 rounded-full bg-rose-500/20 border-2 border-rose-400 mx-auto flex items-center justify-center text-rose-300 shadow-inner">
+                <ShieldAlert className="w-7 h-7" />
+              </div>
+              <h2 className="text-lg font-black uppercase tracking-wide">
+                Account Suspended / Frozen
+              </h2>
+              <p className="text-xs text-rose-200">
+                Central Super Admin has restricted portal access
+              </p>
+            </div>
+
+            <div className="p-5 space-y-3.5 text-xs text-slate-700">
+              <div className="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 space-y-1">
+                <div className="text-[10px] font-bold uppercase text-slate-500">Institute / School Name:</div>
+                <div className="text-sm font-black text-slate-900">{frozenPrincipalInfo.schoolName}</div>
+                <div className="text-xs text-slate-600">{frozenPrincipalInfo.campusName} — {frozenPrincipalInfo.city}</div>
+                <div className="text-[11px] font-mono font-bold text-indigo-700 pt-1">
+                  Login ID: {frozenPrincipalInfo.username}
+                </div>
+              </div>
+
+              <div className="bg-rose-50 border border-rose-200 rounded-2xl p-3.5 space-y-2 text-rose-950">
+                <p className="font-bold leading-relaxed">
+                  Notice from Central Administration:
+                </p>
+                <p className="leading-relaxed">
+                  This institutional account has been frozen by the Super Administrator. Access to examination paper generation and question banks is strictly blocked.
+                </p>
+              </div>
+
+              <div className="flex flex-col gap-2 pt-1">
+                <button
+                  type="button"
+                  onClick={() => {
+                    setIsFrozenLocked(false);
+                    setFrozenPrincipalInfo(null);
+                    setLoginInitialUsername('');
+                    setLoginTargetSchool('');
+                  }}
+                  className="w-full py-2.5 px-4 bg-blue-600 hover:bg-blue-500 text-white rounded-xl font-bold text-center cursor-pointer transition-colors shadow-sm"
+                >
+                  Sign In with Different Credentials
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     return (
       <div className="min-h-screen bg-slate-950 flex items-center justify-center p-4 font-sans text-slate-800">
         <LoginModal

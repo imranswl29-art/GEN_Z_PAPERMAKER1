@@ -38,10 +38,10 @@ export const BubbleSheetView: React.FC<BubbleSheetViewProps> = ({ paper, onClose
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black/60 flex items-center justify-center p-4 overflow-y-auto no-print">
-      <div className="bg-white rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] flex flex-col overflow-hidden">
+    <div className="fixed inset-0 z-50 bg-black/60 flex items-center justify-center p-4 overflow-y-auto print:static print:p-0 print:m-0 print:bg-white print:overflow-visible print:block print:w-full print:h-auto">
+      <div className="bg-white rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] flex flex-col overflow-hidden print:max-w-none print:w-full print:max-h-none print:shadow-none print:rounded-none print:border-none print:overflow-visible print:block">
         {/* Top bar (hidden in print) */}
-        <div className="p-4 bg-slate-900 text-white flex items-center justify-between">
+        <div className="p-4 bg-slate-900 text-white flex items-center justify-between no-print">
           <div className="flex items-center gap-3">
             <span className="font-bold text-lg">BISE Punjab MCQ Response Sheet (OMR Bubble Sheet)</span>
             <span className="text-xs bg-emerald-500/20 text-emerald-300 px-2.5 py-0.5 rounded font-mono">
@@ -67,7 +67,7 @@ export const BubbleSheetView: React.FC<BubbleSheetViewProps> = ({ paper, onClose
             </button>
             <button
               onClick={onClose}
-              className="p-1.5 hover:bg-slate-800 text-slate-400 hover:text-white rounded-lg transition-colors"
+              className="p-1.5 hover:bg-slate-800 text-slate-400 hover:text-white rounded-lg transition-colors cursor-pointer"
             >
               <X className="w-5 h-5" />
             </button>
@@ -78,10 +78,39 @@ export const BubbleSheetView: React.FC<BubbleSheetViewProps> = ({ paper, onClose
         <div id="bubble-sheet-printable-area" className="p-6 md:p-10 overflow-y-auto bg-white print-container font-sans text-slate-900">
           <div className="border-2 border-slate-900 p-6 rounded-sm bg-white relative">
             {/* Header */}
-            <div className="text-center border-b-2 border-slate-900 pb-3 mb-4">
-              <h2 className="text-xl font-bold uppercase tracking-wider">{paper.header.instituteName}</h2>
-              <p className="text-sm font-semibold text-slate-700">{paper.header.campusName}</p>
-              <div className="flex justify-between items-center text-xs mt-2 font-medium border-t border-slate-300 pt-2 px-2">
+            <div className="paper-header border-b-2 border-slate-900 pb-3 mb-4 text-center">
+              <div className="header-row flex items-center justify-between gap-3 mb-2">
+                <div className="school-monogram-container shrink-0">
+                  <div className="w-14 h-14 border-2 border-slate-900 rounded-full p-1 bg-white flex items-center justify-center overflow-hidden shrink-0 shadow-2xs">
+                    {paper.header.customLogoUrl ? (
+                      <img
+                        src={paper.header.customLogoUrl}
+                        alt="School Monogram"
+                        className="w-full h-full object-contain"
+                      />
+                    ) : (
+                      <div className="w-full h-full rounded-full bg-slate-900 text-white flex flex-col items-center justify-center p-1 text-center">
+                        <span className="text-[8px] font-black uppercase tracking-tighter">OMR SEAL</span>
+                      </div>
+                    )}
+                  </div>
+                </div>
+                <div className="school-name-col flex-1 text-center min-w-0 px-2">
+                  <h1 className="school-name-title text-xl sm:text-2xl font-black uppercase tracking-tight text-slate-950 font-serif leading-tight">
+                    {paper.header.instituteName}
+                  </h1>
+                  <p className="text-xs sm:text-sm font-bold text-slate-700 mt-0.5">
+                    {paper.header.campusName ? `${paper.header.campusName} • ` : ''}
+                    {paper.header.boardPattern || 'BISE PUNJAB BOARD EXAMINATION'}
+                  </p>
+                </div>
+                <div className="shrink-0 text-right font-mono text-[10px] font-bold border border-slate-900 px-2.5 py-1 rounded bg-slate-50">
+                  <div className="text-slate-700">RESPONSE SHEET</div>
+                  <div className="text-blue-900 font-black">{paper.header.classLevel.toUpperCase()} CLASS</div>
+                </div>
+              </div>
+
+              <div className="flex justify-between items-center text-xs mt-2 font-medium border-t border-slate-300 pt-2 px-2 bg-slate-50/60 p-1.5">
                 <span>Class: <strong>{paper.header.classLevel}</strong></span>
                 <span>Subject: <strong>{paper.header.subjectName}</strong></span>
                 <span>Date: <strong>{paper.header.dateStr}</strong></span>
@@ -150,7 +179,7 @@ export const BubbleSheetView: React.FC<BubbleSheetViewProps> = ({ paper, onClose
               <h3 className="text-xs font-bold uppercase tracking-wider text-center bg-slate-800 text-white py-1 mb-3">
                 Question Response Bubbles (Fill One Circle per Question completely)
               </h3>
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-2">
+              <div className="bubble-grid-print grid grid-cols-2 sm:grid-cols-3 gap-x-6 gap-y-2">
                 {Array.from({ length: Math.max(mcqCount, 15) }).map((_, idx) => {
                   const qNum = idx + 1;
                   return (

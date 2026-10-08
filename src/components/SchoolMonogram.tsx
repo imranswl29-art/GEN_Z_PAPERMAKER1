@@ -36,7 +36,7 @@ export const SchoolMonogram: React.FC<SchoolMonogramProps> = ({
   if (logoUrl && !hasError) {
     return (
       <div
-        className={`relative inline-flex items-center justify-center shrink-0 ${className}`}
+        className={`school-monogram-container school-monogram-box relative inline-flex items-center justify-center shrink-0 ${className}`}
         style={{
           width: `${size}px`,
           height: `${size}px`,
@@ -63,7 +63,7 @@ export const SchoolMonogram: React.FC<SchoolMonogramProps> = ({
   // Pure SVG Vector Fallback Seal (Razor-sharp on 1080p, 2K, 4K Retina)
   return (
     <div
-      className={`relative inline-flex items-center justify-center shrink-0 select-none ${className}`}
+      className={`school-monogram-container school-monogram-box relative inline-flex items-center justify-center shrink-0 select-none ${className}`}
       style={{
         width: `${size}px`,
         height: `${size}px`,

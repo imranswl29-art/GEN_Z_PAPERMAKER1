@@ -61,10 +61,10 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black/70 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto no-print font-sans">
-      <div className="bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-300">
+    <div className="fixed inset-0 z-50 bg-black/70 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto print:static print:p-0 print:m-0 print:bg-white print:overflow-visible print:block print:w-full print:h-auto font-sans">
+      <div className="bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-300 print:max-w-none print:w-full print:max-h-none print:shadow-none print:rounded-none print:border-none print:overflow-visible print:block">
         {/* Modal Header */}
-        <div className="p-4 bg-slate-900 text-white flex flex-wrap items-center justify-between gap-3">
+        <div className="p-4 bg-slate-900 text-white flex flex-wrap items-center justify-between gap-3 no-print">
           <div className="flex items-center gap-2.5">
             <div className="w-9 h-9 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center border border-emerald-500/30">
               <CheckCircle2 className="w-5 h-5 text-emerald-400" />
@@ -140,12 +140,12 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
         </div>
 
         {/* Content Body */}
-        <div id="answer-key-print-content" className="p-4 sm:p-7 overflow-y-auto space-y-6 text-slate-900 bg-white">
+        <div id="answer-key-print-content" className="p-4 sm:p-7 overflow-y-auto space-y-6 text-slate-900 bg-white print-container">
           {/* Institutional Header */}
-          <div className="border-2 border-slate-900 p-4 rounded-xs text-center space-y-1 bg-slate-50/60">
-            <h2 className="text-xl sm:text-2xl font-black uppercase tracking-tight text-slate-950 font-serif">
+          <div className="paper-header border-2 border-slate-900 p-4 rounded-xs text-center space-y-1 bg-slate-50/60">
+            <h1 className="school-name-title text-xl sm:text-2xl font-black uppercase tracking-tight text-slate-950 font-serif">
               {paper.header.instituteName}
-            </h2>
+            </h1>
             <div className="text-xs sm:text-sm font-black text-indigo-900 uppercase tracking-wide">
               Official Solved Answer Key & Solution Guidelines
             </div>
@@ -161,7 +161,7 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
               <span>{paper.objectiveSection.totalMarks} Marks</span>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5">
+            <div className="answer-key-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5">
               {paper.objectiveSection.questions.map((q) => {
                 const correctOpt = q.options.find((o) => o.key === q.correctOption) || q.options[0];
                 return (
@@ -169,7 +169,7 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
                     key={q.id}
                     className="border border-slate-300 rounded-lg p-2.5 bg-slate-50 flex items-start gap-2 shadow-2xs hover:bg-slate-100 transition-colors"
                   >
-                    <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white font-black text-sm flex items-center justify-center shrink-0 shadow-xs">
+                    <div className="answer-key-solved-badge w-8 h-8 rounded-lg bg-emerald-600 text-white font-black text-sm flex items-center justify-center shrink-0 shadow-xs">
                       {q.correctOption}
                     </div>
                     <div className="min-w-0 flex-1">
