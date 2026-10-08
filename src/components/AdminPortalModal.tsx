@@ -33,8 +33,9 @@ interface AdminPortalModalProps {
   accounts: UserAccount[];
   onUpdateAccounts: (updated: UserAccount[]) => void;
   onLoginAsUser: (account: UserAccount) => void;
-  onClose: () => void;
+  onClose?: () => void;
   onOpenShareModal?: () => void;
+  isEmbedded?: boolean;
 }
 
 export const AdminPortalModal: React.FC<AdminPortalModalProps> = ({
@@ -44,6 +45,7 @@ export const AdminPortalModal: React.FC<AdminPortalModalProps> = ({
   onLoginAsUser,
   onClose,
   onOpenShareModal,
+  isEmbedded = false,
 }) => {
   const [activeTab, setActiveTab] = useState<'principals' | 'create' | 'guide' | 'security'>('principals');
   const [copiedId, setCopiedId] = useState<string | null>(null);
@@ -242,8 +244,20 @@ Software Engineering & Operations: MUHAMMAD IMRAN KHAN (MSc Computer Science)
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black/60 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto no-print">
-      <div className="bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-200">
+    <div
+      className={
+        isEmbedded
+          ? 'w-full max-w-6xl mx-auto space-y-4 no-print font-sans pb-12'
+          : 'fixed inset-0 z-50 bg-black/60 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto no-print'
+      }
+    >
+      <div
+        className={
+          isEmbedded
+            ? 'bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden'
+            : 'bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-200'
+        }
+      >
         {/* Top Header */}
         <div className="p-4 sm:p-5 bg-slate-900 text-white flex items-center justify-between">
           <div className="flex items-center gap-3">
@@ -267,12 +281,15 @@ Software Engineering & Operations: MUHAMMAD IMRAN KHAN (MSc Computer Science)
               </p>
             </div>
           </div>
-          <button
-            onClick={onClose}
-            className="text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800 transition-colors"
-          >
-            <X className="w-5 h-5" />
-          </button>
+          {onClose && (
+            <button
+              onClick={onClose}
+              className="text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800 transition-colors flex items-center gap-1 text-xs cursor-pointer"
+              title={isEmbedded ? 'Back to Dashboard' : 'Close'}
+            >
+              {isEmbedded ? <span>Back</span> : <X className="w-5 h-5" />}
+            </button>
+          )}
         </div>
 
         {/* Tab Bar */}

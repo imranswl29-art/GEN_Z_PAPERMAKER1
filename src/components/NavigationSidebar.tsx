@@ -179,12 +179,12 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
 
       {/* User Status Card */}
       {!isCollapsed ? (
-        <div className="p-3 mx-3 my-2.5 bg-slate-50 rounded-xl border border-slate-200">
+        <div className="p-2.5 mx-2.5 my-1.5 bg-slate-50 rounded-xl border border-slate-200 shrink-0">
           {currentUser ? (
             <div>
-              <div className="flex items-center justify-between mb-1">
+              <div className="flex items-center justify-between mb-0.5">
                 <span
-                  className={`text-[9px] font-black px-2 py-0.5 rounded uppercase tracking-wider ${
+                  className={`text-[9px] font-black px-1.5 py-0.5 rounded uppercase tracking-wider ${
                     isAdmin ? 'bg-amber-100 text-amber-900 border border-amber-300' : 'bg-blue-100 text-blue-900 border border-blue-300'
                   }`}
                 >
@@ -210,18 +210,19 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
           )}
         </div>
       ) : (
-        <div className="p-2 text-center border-b border-slate-200">
+        <div className="p-2 text-center border-b border-slate-200 shrink-0">
           {currentUser ? (
             <div
-              className="w-8 h-8 mx-auto rounded-full bg-blue-700 text-white flex items-center justify-center font-bold text-xs uppercase shadow-xs"
+              className="w-8 h-8 mx-auto rounded-full bg-blue-700 text-white flex items-center justify-center font-bold text-xs uppercase shadow-xs cursor-pointer"
               title={`${currentUser.name} (${currentUser.schoolName})`}
+              onClick={() => onSelectTab('school_profile')}
             >
               {currentUser.username.slice(0, 2)}
             </div>
           ) : (
             <button
               onClick={onOpenLogin}
-              className="w-8 h-8 mx-auto rounded-full bg-slate-200 hover:bg-slate-300 text-slate-800 flex items-center justify-center text-xs font-bold"
+              className="w-8 h-8 mx-auto rounded-full bg-slate-200 hover:bg-slate-300 text-slate-800 flex items-center justify-center text-xs font-bold cursor-pointer"
               title="Login"
             >
               IN
@@ -230,25 +231,26 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
         </div>
       )}
 
-      {/* Navigation Links */}
-      <nav className="flex-1 px-2 space-y-1 overflow-y-auto">
+      {/* Navigation Links - Scrollable on Laptops */}
+      <nav className="flex-1 px-2 py-1 space-y-1 overflow-y-auto min-h-0">
         {menuItems.map((item) => {
           const isActive = activeTab === item.id;
           const Icon = item.icon;
           return (
             <button
               key={item.id}
+              type="button"
               onClick={() => onSelectTab(item.id as ActiveNavTab)}
-              title={isCollapsed ? item.label : undefined}
+              title={item.label}
               className={`w-full flex items-center ${
-                isCollapsed ? 'justify-center p-2.5' : 'justify-between px-3 py-2'
+                isCollapsed ? 'justify-center p-2' : 'justify-between px-2.5 py-1.5'
               } rounded-xl text-xs transition-all cursor-pointer ${
                 isActive
                   ? 'btn-3d btn-3d-blue text-white font-black shadow-md'
                   : 'text-slate-800 hover:text-slate-950 hover:bg-slate-100 font-bold border border-transparent hover:border-slate-200'
               }`}
             >
-              <div className="flex items-center gap-2.5 min-w-0">
+              <div className="flex items-center gap-2 min-w-0">
                 <div
                   className={`w-7 h-7 rounded-lg flex items-center justify-center shrink-0 shadow-xs transition-all ${
                     isActive
@@ -258,11 +260,11 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
                 >
                   <Icon className="w-4 h-4 shrink-0 text-current" strokeWidth={2.4} />
                 </div>
-                {!isCollapsed && <span className="truncate font-bold">{item.label}</span>}
+                {!isCollapsed && <span className="truncate font-bold text-left">{item.label}</span>}
               </div>
               {!isCollapsed && item.badge && (
                 <span
-                  className={`text-[9px] px-1.5 py-0.5 rounded font-mono font-bold ${
+                  className={`text-[9px] px-1.5 py-0.5 rounded font-mono font-bold shrink-0 ${
                     isActive
                       ? 'bg-white text-blue-900 shadow-xs font-black'
                       : item.badge === 'New'
@@ -284,28 +286,23 @@ export const NavigationSidebar: React.FC<NavigationSidebarProps> = ({
 
       {/* Developer Card (Web & Desktop ONLY - tagged with no-print so it NEVER prints on exam papers) */}
       {!isCollapsed && (
-        <div className="p-2.5 mx-2.5 mb-2.5 bg-slate-50 rounded-xl border border-slate-200 text-slate-800 text-xs space-y-1 no-print shadow-2xs">
-          <div className="flex items-center gap-1.5 text-[9px] font-black uppercase tracking-wider text-blue-700">
-            <Code2 className="w-3 h-3 text-blue-700" />
-            <span>Software Developer</span>
+        <div className="p-2 mx-2 mb-1.5 bg-slate-50 rounded-xl border border-slate-200 text-slate-800 text-[10px] space-y-0.5 no-print shadow-2xs shrink-0">
+          <div className="flex items-center justify-between text-[9px] font-black uppercase tracking-wider text-blue-700">
+            <span className="flex items-center gap-1">
+              <Code2 className="w-3 h-3 text-blue-700" />
+              <span>Developer</span>
+            </span>
+            <span className="font-extrabold text-slate-900">M. IMRAN KHAN</span>
           </div>
-          <div>
-            <div className="font-extrabold text-slate-950 text-[11px] tracking-wide">
-              MUHAMMAD IMRAN KHAN
-            </div>
-            <div className="text-[10px] text-slate-600 font-semibold">
-              MSc Computer Science
-            </div>
-          </div>
-          <div className="pt-1 border-t border-slate-200 flex flex-col gap-0.5 text-[10px] font-mono text-slate-800">
-            <div className="flex items-center gap-1">
-              <Phone className="w-2.5 h-2.5 text-emerald-600 shrink-0" />
-              <a href="tel:03007603964" className="hover:text-blue-700 transition-colors font-bold">03007603964</a>
-            </div>
-            <div className="flex items-center gap-1">
-              <Phone className="w-2.5 h-2.5 text-emerald-600 shrink-0" />
-              <a href="tel:03147603964" className="hover:text-blue-700 transition-colors font-bold">03147603964</a>
-            </div>
+          <div className="pt-0.5 border-t border-slate-200 flex items-center justify-between text-[10px] font-mono text-slate-800">
+            <a href="tel:03007603964" className="hover:text-blue-700 font-bold flex items-center gap-0.5">
+              <Phone className="w-2.5 h-2.5 text-emerald-600" />
+              03007603964
+            </a>
+            <a href="tel:03147603964" className="hover:text-blue-700 font-bold flex items-center gap-0.5">
+              <Phone className="w-2.5 h-2.5 text-emerald-600" />
+              03147603964
+            </a>
           </div>
         </div>
       )}

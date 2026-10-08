@@ -9,7 +9,8 @@ interface SchoolProfileModalProps {
   header: PaperHeaderInfo;
   onSaveHeader: (updated: PaperHeaderInfo) => void;
   onUpdateCurrentUser: (updated: UserAccount) => void;
-  onClose: () => void;
+  onClose?: () => void;
+  isEmbedded?: boolean;
 }
 
 export const SchoolProfileModal: React.FC<SchoolProfileModalProps> = ({
@@ -18,6 +19,7 @@ export const SchoolProfileModal: React.FC<SchoolProfileModalProps> = ({
   onSaveHeader,
   onUpdateCurrentUser,
   onClose,
+  isEmbedded = false,
 }) => {
   const [instituteName, setInstituteName] = useState(header.instituteName);
   const [campusName, setCampusName] = useState(header.campusName);
@@ -123,23 +125,38 @@ export const SchoolProfileModal: React.FC<SchoolProfileModalProps> = ({
       onUpdateCurrentUser(updatedUser);
     }
 
-    onClose();
+    if (onClose) onClose();
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black/60 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto no-print">
-      <div className="bg-white rounded-2xl shadow-2xl max-w-xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-200">
+    <div
+      className={
+        isEmbedded
+          ? 'w-full max-w-4xl mx-auto space-y-4 no-print font-sans pb-12'
+          : 'fixed inset-0 z-50 bg-black/60 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto no-print'
+      }
+    >
+      <div
+        className={
+          isEmbedded
+            ? 'bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden'
+            : 'bg-white rounded-2xl shadow-2xl max-w-xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-200'
+        }
+      >
         <div className="p-4 sm:p-5 bg-slate-900 text-white flex items-center justify-between">
           <div className="flex items-center gap-2.5">
             <Building2 className="w-5 h-5 text-emerald-400" />
-            <h3 className="font-bold text-base">School Profile & Monogram</h3>
+            <h3 className="font-bold text-base">School Profile & Institutional Branding</h3>
           </div>
-          <button
-            onClick={onClose}
-            className="text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800 transition-colors"
-          >
-            <X className="w-5 h-5" />
-          </button>
+          {onClose && (
+            <button
+              onClick={onClose}
+              className="text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800 transition-colors flex items-center gap-1 text-xs cursor-pointer"
+              title={isEmbedded ? 'Back to Dashboard' : 'Close'}
+            >
+              {isEmbedded ? <span>Back</span> : <X className="w-5 h-5" />}
+            </button>
+          )}
         </div>
 
         <form onSubmit={handleSave} className="p-5 sm:p-6 overflow-y-auto space-y-4 text-xs text-slate-700">

@@ -6,10 +6,19 @@ import { exportAnswerKeyToWord } from '../utils/exportWord';
 
 interface AnswerKeyModalProps {
   paper: GeneratedExamPaper;
-  onClose: () => void;
+  onClose?: () => void;
+  isEmbedded?: boolean;
+  savedPapers?: GeneratedExamPaper[];
+  onSelectPaper?: (paper: GeneratedExamPaper) => void;
 }
 
-export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }) => {
+export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({
+  paper,
+  onClose,
+  isEmbedded = false,
+  savedPapers,
+  onSelectPaper,
+}) => {
   const [copied, setCopied] = useState(false);
   const [isExportingPdf, setIsExportingPdf] = useState(false);
   const [pdfStatus, setPdfStatus] = useState('');
@@ -61,9 +70,21 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black/70 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto print:static print:p-0 print:m-0 print:bg-white print:overflow-visible print:block print:w-full print:h-auto font-sans">
-      <div className="bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-300 print:max-w-none print:w-full print:max-h-none print:shadow-none print:rounded-none print:border-none print:overflow-visible print:block">
-        {/* Modal Header */}
+    <div
+      className={
+        isEmbedded
+          ? 'w-full max-w-5xl mx-auto space-y-4 print:static print:p-0 print:m-0 print:bg-white print:overflow-visible print:block print:w-full print:h-auto font-sans pb-12'
+          : 'fixed inset-0 z-50 bg-black/70 backdrop-blur-xs flex items-center justify-center p-3 sm:p-5 overflow-y-auto print:static print:p-0 print:m-0 print:bg-white print:overflow-visible print:block print:w-full print:h-auto font-sans'
+      }
+    >
+      <div
+        className={
+          isEmbedded
+            ? 'bg-white rounded-2xl shadow-xl border border-slate-300 flex flex-col overflow-hidden print:max-w-none print:w-full print:max-h-none print:shadow-none print:rounded-none print:border-none print:overflow-visible print:block'
+            : 'bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[92vh] flex flex-col overflow-hidden border border-slate-300 print:max-w-none print:w-full print:max-h-none print:shadow-none print:rounded-none print:border-none print:overflow-visible print:block'
+        }
+      >
+        {/* Header Bar */}
         <div className="p-4 bg-slate-900 text-white flex flex-wrap items-center justify-between gap-3 no-print">
           <div className="flex items-center gap-2.5">
             <div className="w-9 h-9 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center border border-emerald-500/30">
@@ -81,6 +102,27 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
               </p>
             </div>
           </div>
+
+          {/* Quick Paper Switcher for Saved Papers if in full view */}
+          {savedPapers && savedPapers.length > 0 && onSelectPaper && (
+            <div className="flex items-center gap-2">
+              <span className="text-xs text-slate-400 font-bold hidden md:inline">Select Paper:</span>
+              <select
+                value={paper.id}
+                onChange={(e) => {
+                  const found = savedPapers.find((p) => p.id === e.target.value);
+                  if (found) onSelectPaper(found);
+                }}
+                className="bg-slate-800 text-white border border-slate-700 text-xs rounded-lg px-2.5 py-1.5 font-bold cursor-pointer"
+              >
+                {savedPapers.map((sp) => (
+                  <option key={sp.id} value={sp.id}>
+                    {sp.header.classLevel} {sp.header.subjectName} ({sp.header.examTitle})
+                  </option>
+                ))}
+              </select>
+            </div>
+          )}
 
           <div className="flex flex-wrap items-center gap-2">
             <button
@@ -129,13 +171,15 @@ export const AnswerKeyModal: React.FC<AnswerKeyModalProps> = ({ paper, onClose }
               <span>Print & Preview</span>
             </button>
 
-            <button
-              onClick={onClose}
-              className="p-1.5 hover:bg-slate-800 text-slate-400 hover:text-white rounded-lg transition-colors cursor-pointer"
-              title="Close"
-            >
-              <X className="w-5 h-5" />
-            </button>
+            {onClose && (
+              <button
+                onClick={onClose}
+                className="p-1.5 hover:bg-slate-800 text-slate-400 hover:text-white rounded-lg transition-colors cursor-pointer flex items-center gap-1 text-xs"
+                title={isEmbedded ? 'Back to Dashboard' : 'Close'}
+              >
+                {isEmbedded ? <span>Back</span> : <X className="w-5 h-5" />}
+              </button>
+            )}
           </div>
         </div>
 

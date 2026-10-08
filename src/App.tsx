@@ -581,18 +581,8 @@ export default function App() {
       <NavigationSidebar
         activeTab={activeTab}
         onSelectTab={(tab) => {
-          if (tab === 'school_profile') {
-            setIsProfileModalOpen(true);
-          } else if (tab === 'answer_key') {
-            setIsAnswerKeyModalOpen(true);
-          } else if (tab === 'bubble_sheet') {
-            setIsBubbleSheetModalOpen(true);
-          } else if (tab === 'admin_portal') {
-            setIsAdminPortalOpen(true);
-          } else {
-            setActiveTab(tab);
-            setViewingPaperDetail(false);
-          }
+          setActiveTab(tab);
+          setViewingPaperDetail(false);
         }}
         currentUser={currentUser}
         onOpenLogin={() => setIsLoginModalOpen(true)}
@@ -840,6 +830,10 @@ export default function App() {
                     setIsAnswerKeyModalOpen(true);
                   }}
                   onDeletePaper={handleDeleteSavedPaper}
+                  onSelectTab={(tab) => {
+                    setActiveTab(tab);
+                    setViewingPaperDetail(false);
+                  }}
                 />
               )}
 
@@ -973,6 +967,45 @@ export default function App() {
                 </div>
               )}
 
+              {/* TAB 5: ANSWER KEYS & SOLUTIONS */}
+              {activeTab === 'answer_key' && (
+                <AnswerKeyModal
+                  isEmbedded={true}
+                  paper={activePaper}
+                  savedPapers={savedPapers}
+                  onSelectPaper={(p) => setActivePaper(p)}
+                  onClose={() => setActiveTab('dashboard')}
+                />
+              )}
+
+              {/* TAB 6: OMR BUBBLE SHEETS */}
+              {activeTab === 'bubble_sheet' && (
+                <BubbleSheetView
+                  isEmbedded={true}
+                  paper={activePaper}
+                  savedPapers={savedPapers}
+                  onSelectPaper={(p) => setActivePaper(p)}
+                  onClose={() => setActiveTab('dashboard')}
+                />
+              )}
+
+              {/* TAB 7: SCHOOL BRANDING & MONOGRAM STUDIO */}
+              {activeTab === 'school_profile' && (
+                <SchoolProfileModal
+                  isEmbedded={true}
+                  currentUser={currentUser}
+                  header={activePaper.header}
+                  onSaveHeader={(updated) => {
+                    handleUpdateActivePaper({ ...activePaper, header: updated });
+                    if (currentUser) {
+                      localStorage.setItem(`ptbb_header_settings_${currentUser.id}`, JSON.stringify(updated));
+                    }
+                  }}
+                  onUpdateCurrentUser={handleUpdateCurrentUser}
+                  onClose={() => setActiveTab('dashboard')}
+                />
+              )}
+
               {/* TAB 8: DATE SHEET GENERATOR (Item #8) */}
               {activeTab === 'date_sheet' && (
                 <DateSheetView
@@ -995,6 +1028,22 @@ export default function App() {
               {activeTab === 'support_bug' && (
                 <SupportBugView
                   currentUser={currentUser}
+                />
+              )}
+
+              {/* TAB 11: SUPER ADMIN MANAGEMENT PORTAL */}
+              {activeTab === 'admin_portal' && (
+                <AdminPortalModal
+                  isEmbedded={true}
+                  currentUser={currentUser}
+                  accounts={accounts}
+                  onUpdateAccounts={syncAccounts}
+                  onLoginAsUser={(user) => {
+                    setCurrentUser(user);
+                    showToast(`Switched account to ${user.schoolName}`);
+                  }}
+                  onClose={() => setActiveTab('dashboard')}
+                  onOpenShareModal={() => setIsShareModalOpen(true)}
                 />
               )}
             </>

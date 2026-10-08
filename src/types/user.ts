@@ -26,7 +26,7 @@ export interface UserAccount {
   city?: string;
   targetBoard: string; // e.g. "lahore", "sahiwal", "faisalabad", etc.
   allowedClasses: ClassLevel[];
-  status: 'active' | 'suspended';
+  status: 'active' | 'suspended' | 'freeze' | 'frozen';
   expiryDate: string; // e.g. "2027-12-31"
   paperLimit: number; // e.g. 500 or 9999 (unlimited)
   papersCreated: number;

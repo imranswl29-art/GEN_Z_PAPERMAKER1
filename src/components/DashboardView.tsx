@@ -20,10 +20,12 @@ import {
   FolderArchive,
   Award,
   ShieldCheck,
+  LifeBuoy,
 } from 'lucide-react';
 import { UserAccount } from '../types/user';
 import { GeneratedExamPaper, ClassLevel } from '../types/paper';
 import { exportPaperToWord } from '../utils/exportWord';
+import { ActiveNavTab } from './NavigationSidebar';
 
 interface DashboardViewProps {
   currentUser: UserAccount | null;
@@ -37,6 +39,7 @@ interface DashboardViewProps {
   onOpenBubbleSheet: (paper: GeneratedExamPaper) => void;
   onOpenAnswerKey: (paper: GeneratedExamPaper) => void;
   onDeletePaper?: (paperId: string) => void;
+  onSelectTab?: (tab: ActiveNavTab) => void;
 }
 
 export const DashboardView: React.FC<DashboardViewProps> = ({
@@ -51,6 +54,7 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
   onOpenBubbleSheet,
   onOpenAnswerKey,
   onDeletePaper,
+  onSelectTab,
 }) => {
   return (
     <div className="space-y-6 max-w-7xl mx-auto font-sans text-slate-800">
@@ -132,6 +136,43 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
               <Building2 className="w-4 h-4 text-slate-950" />
               <span>School Monogram & Profile</span>
             </button>
+
+            {onSelectTab && (
+              <>
+                <button
+                  type="button"
+                  onClick={() => onSelectTab('date_sheet')}
+                  className="btn-3d flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-black text-white cursor-pointer shadow-md"
+                  style={{ backgroundColor: '#7e22ce', border: '1px solid #6b21a8' }}
+                  title="Generate Official Date Sheet"
+                >
+                  <Calendar className="w-4 h-4 text-purple-200" />
+                  <span>📅 Date Sheet</span>
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => onSelectTab('result_card')}
+                  className="btn-3d flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-black text-white cursor-pointer shadow-md"
+                  style={{ backgroundColor: '#1d4ed8', border: '1px solid #1e40af' }}
+                  title="Generate Student Marksheet & Result Cards"
+                >
+                  <Award className="w-4 h-4 text-blue-200" />
+                  <span>🏆 Result Cards</span>
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => onSelectTab('bubble_sheet')}
+                  className="btn-3d flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-black text-white cursor-pointer shadow-md"
+                  style={{ backgroundColor: '#0891b2', border: '1px solid #0e7490' }}
+                  title="Generate OMR Bubble Sheets"
+                >
+                  <CircleDot className="w-4 h-4 text-cyan-200" />
+                  <span>⭕ OMR Bubble Sheets</span>
+                </button>
+              </>
+            )}
           </div>
         </div>
 
@@ -141,55 +182,77 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
         </div>
       </div>
 
-      {/* Metrics Row */}
+      {/* Metrics Row (Interactive 1-Click Cards) */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-        <div className="card-3d p-4 flex flex-col justify-between">
+        <div
+          onClick={() => onSelectTab && onSelectTab('saved_papers')}
+          className="card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-blue-400 hover:shadow-md transition-all group"
+          title="Click to open Saved Papers Archive"
+        >
           <div className="flex items-center justify-between mb-1">
-            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-blue-700 transition-colors">
               Total Papers Created
             </span>
-            <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center shadow-xs shrink-0">
+            <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center shadow-xs shrink-0 group-hover:scale-110 transition-transform">
               <FolderArchive className="w-4 h-4 text-white" />
             </div>
           </div>
           <div className="text-2xl font-black text-slate-950 mt-1">{savedPapers.length}</div>
-          <span className="text-[11px] text-blue-700 font-bold mt-0.5">Ready to print & export</span>
+          <span className="text-[11px] text-blue-700 font-bold mt-0.5 group-hover:underline">Click to view archive &rarr;</span>
         </div>
 
-        <div className="card-3d p-4 flex flex-col justify-between">
+        <div
+          onClick={onOpenSchoolProfile}
+          className="card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-indigo-400 hover:shadow-md transition-all group"
+          title="Click to view Board Pattern and School Profile"
+        >
           <div className="flex items-center justify-between mb-1">
-            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-indigo-700 transition-colors">
               Target Board Pattern
             </span>
-            <div className="w-8 h-8 rounded-lg bg-indigo-600 text-white flex items-center justify-center shadow-xs shrink-0">
+            <div className="w-8 h-8 rounded-lg bg-indigo-600 text-white flex items-center justify-center shadow-xs shrink-0 group-hover:scale-110 transition-transform">
               <Award className="w-4 h-4 text-white" />
             </div>
           </div>
           <div className="text-base font-bold text-slate-950 truncate mt-1">
             {currentUser?.targetBoard ? currentUser.targetBoard.toUpperCase() + ' Board' : 'BISE Punjab'}
           </div>
-          <span className="text-[11px] text-slate-700 font-semibold mt-0.5">PTBB Pairing Scheme</span>
+          <span className="text-[11px] text-slate-700 font-semibold mt-0.5 group-hover:text-indigo-600">PTBB Scheme &bull; Edit branding &rarr;</span>
         </div>
 
-        <div className="card-3d p-4 flex flex-col justify-between">
+        <div
+          onClick={() => onOpenCreatePaper('9th')}
+          className="card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-emerald-400 hover:shadow-md transition-all group"
+          title="Click to create a new paper"
+        >
           <div className="flex items-center justify-between mb-1">
-            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-emerald-700 transition-colors">
               Active Classes
             </span>
-            <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center shadow-xs shrink-0">
+            <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center shadow-xs shrink-0 group-hover:scale-110 transition-transform">
               <GraduationCap className="w-4 h-4 text-white" />
             </div>
           </div>
           <div className="text-base font-bold text-slate-950 mt-1">9th & 10th Class</div>
-          <span className="text-[11px] text-blue-700 font-bold mt-0.5">Matric Science Group</span>
+          <span className="text-[11px] text-emerald-700 font-bold mt-0.5 group-hover:underline">Launch builder &rarr;</span>
         </div>
 
-        <div className="card-3d p-4 flex flex-col justify-between">
+        <div
+          onClick={() => {
+            if (currentUser?.role === 'admin' && onSelectTab) {
+              onSelectTab('admin_portal');
+            } else {
+              onOpenSchoolProfile();
+            }
+          }}
+          className="card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-amber-400 hover:shadow-md transition-all group"
+          title="Click to view subscription & license details"
+        >
           <div className="flex items-center justify-between mb-1">
-            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700">
+            <span className="text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-amber-800 transition-colors">
               System License
             </span>
-            <div className="w-8 h-8 rounded-lg bg-amber-600 text-white flex items-center justify-center shadow-xs shrink-0">
+            <div className="w-8 h-8 rounded-lg bg-amber-600 text-white flex items-center justify-center shadow-xs shrink-0 group-hover:scale-110 transition-transform">
               <ShieldCheck className="w-4 h-4 text-white" />
             </div>
           </div>
@@ -200,6 +263,146 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
           <span className="text-[11px] text-slate-700 font-semibold mt-0.5">
             Valid till {currentUser?.expiryDate || '2027-12-31'}
           </span>
+        </div>
+      </div>
+
+      {/* Full Examination Modules Hub (All Icons Clickable on Laptops & Desktops) */}
+      <div className="card-3d p-5 space-y-3">
+        <div className="flex items-center justify-between border-b border-slate-200 pb-2.5">
+          <div>
+            <h2 className="text-sm font-extrabold uppercase tracking-wider text-slate-900 flex items-center gap-2">
+              <Sparkles className="w-4 h-4 text-blue-600" />
+              <span>Examination System Modules & Tools Hub</span>
+            </h2>
+            <p className="text-xs text-slate-500">1-click direct access to all paper generator tools, archives, and official document generators</p>
+          </div>
+        </div>
+
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-3 pt-1">
+          {[
+            {
+              id: 'create_paper' as ActiveNavTab,
+              label: 'Paper Builder',
+              desc: '8-step paper wizard',
+              icon: FilePlus2,
+              color: 'from-emerald-600 to-teal-700',
+              badge: 'Wizard',
+            },
+            {
+              id: 'question_bank' as ActiveNavTab,
+              label: 'Question Bank',
+              desc: '9th & 10th verified pool',
+              icon: BookOpen,
+              color: 'from-indigo-600 to-blue-700',
+              badge: 'Matric',
+            },
+            {
+              id: 'date_sheet' as ActiveNavTab,
+              label: 'Date Sheet',
+              desc: 'Print official schedules',
+              icon: Calendar,
+              color: 'from-purple-600 to-indigo-700',
+              badge: 'New',
+            },
+            {
+              id: 'result_card' as ActiveNavTab,
+              label: 'Result Cards',
+              desc: 'Marksheets & grades',
+              icon: Award,
+              color: 'from-blue-700 to-cyan-700',
+              badge: 'New',
+            },
+            {
+              id: 'answer_key' as ActiveNavTab,
+              label: 'Answer Keys',
+              desc: 'Solved keys & solutions',
+              icon: FileCheck2,
+              color: 'from-teal-600 to-emerald-700',
+              badge: 'Solved',
+            },
+            {
+              id: 'bubble_sheet' as ActiveNavTab,
+              label: 'Bubble Sheets',
+              desc: 'OMR MCQ sheets',
+              icon: CircleDot,
+              color: 'from-cyan-600 to-blue-600',
+              badge: 'OMR',
+            },
+            {
+              id: 'school_profile' as ActiveNavTab,
+              label: 'School Branding',
+              desc: 'Logo, monogram & seals',
+              icon: Building2,
+              color: 'from-rose-600 to-pink-700',
+              badge: 'Branding',
+            },
+            {
+              id: 'saved_papers' as ActiveNavTab,
+              label: 'Saved Archive',
+              desc: 'Past examination papers',
+              icon: FolderArchive,
+              color: 'from-amber-600 to-orange-700',
+              badge: `${savedPapers.length} Papers`,
+            },
+            {
+              id: 'support_bug' as ActiveNavTab,
+              label: 'Help & Support',
+              desc: 'WhatsApp & bug report',
+              icon: LifeBuoy,
+              color: 'from-emerald-700 to-teal-800',
+              badge: '24/7',
+            },
+            ...(currentUser?.role === 'admin'
+              ? [
+                  {
+                    id: 'admin_portal' as ActiveNavTab,
+                    label: 'Admin Portal',
+                    desc: 'Manage school accounts',
+                    icon: ShieldCheck,
+                    color: 'from-amber-700 to-yellow-800',
+                    badge: 'Master',
+                  },
+                ]
+              : []),
+          ].map((mod) => {
+            const ModIcon = mod.icon;
+            return (
+              <button
+                key={mod.id}
+                type="button"
+                onClick={() => {
+                  if (onSelectTab) {
+                    onSelectTab(mod.id);
+                  } else if (mod.id === 'create_paper') {
+                    onOpenCreatePaper();
+                  } else if (mod.id === 'question_bank') {
+                    onOpenQuestionBank();
+                  } else if (mod.id === 'school_profile') {
+                    onOpenSchoolProfile();
+                  }
+                }}
+                className="btn-3d p-3 rounded-xl bg-white border border-slate-200 hover:border-blue-400 hover:shadow-md transition-all text-left flex flex-col justify-between space-y-2 cursor-pointer group"
+                title={`Open ${mod.label}`}
+              >
+                <div className="flex items-center justify-between">
+                  <div className={`w-8 h-8 rounded-lg bg-gradient-to-tr ${mod.color} text-white flex items-center justify-center shadow-xs group-hover:scale-110 transition-transform`}>
+                    <ModIcon className="w-4 h-4 text-white" />
+                  </div>
+                  <span className="text-[9px] font-black font-mono px-1.5 py-0.5 rounded bg-slate-100 text-slate-700 border border-slate-200">
+                    {mod.badge}
+                  </span>
+                </div>
+                <div>
+                  <div className="font-extrabold text-xs text-slate-900 group-hover:text-blue-700 transition-colors">
+                    {mod.label}
+                  </div>
+                  <div className="text-[10px] text-slate-500 font-medium truncate">
+                    {mod.desc}
+                  </div>
+                </div>
+              </button>
+            );
+          })}
         </div>
       </div>
 
