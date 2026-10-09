@@ -175,3 +175,93 @@ h1, h2, h3, h4, h5, h6 {
     word-spacing: 2px !important;
   }
 }
+
+/* ==========================================================================
+   PERFECT OMR BUBBLE SHEET & ZERO-OVERLAP PRINT SYSTEM
+   ========================================================================== */
+.omr-bubble-grid-container {
+  display: block !important;
+  clear: both !important;
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+  margin: 10px 0 !important;
+  padding: 10px 12px !important;
+  background-color: #f8fafc !important;
+  border: 2px solid #0f172a !important;
+  border-radius: 8px !important;
+}
+
+.omr-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 8px !important;
+}
+
+.omr-cell {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 4px 6px !important;
+  background-color: #ffffff !important;
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 6px !important;
+}
+
+.omr-bubble {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 20px !important;
+  height: 20px !important;
+  min-width: 20px !important;
+  min-height: 20px !important;
+  max-width: 20px !important;
+  max-height: 20px !important;
+  border-radius: 50% !important;
+  border: 1.5px solid #0f172a !important;
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  font-size: 9.5px !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
+  text-align: center !important;
+  box-sizing: border-box !important;
+  margin: 0 1.5px !important;
+  flex-shrink: 0 !important;
+}
+
+@media print {
+  .omr-bubble-grid-container {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    margin: 8px 0 !important;
+    padding: 6px 8px !important;
+    border: 1.5pt solid #000000 !important;
+    background-color: #ffffff !important;
+  }
+  .omr-bubble {
+    width: 19px !important;
+    height: 19px !important;
+    min-width: 19px !important;
+    min-height: 19px !important;
+    border: 1.2pt solid #000000 !important;
+    color: #000000 !important;
+    font-size: 9px !important;
+    font-weight: 900 !important;
+    line-height: 1 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  /* Eliminate random empty trailing whitespace on A4 */
+  #exam-paper-container {
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+  }
+  .exam-sheet {
+    height: auto !important;
+    min-height: 0 !important;
+    page-break-after: auto !important;
+    break-after: auto !important;
+  }
+}
