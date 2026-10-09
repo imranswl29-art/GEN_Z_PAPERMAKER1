@@ -128,3 +128,50 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 4px 14px -2px rgba(15, 23, 42, 0.08), 0 2px 6px -1px rgba(15, 23, 42, 0.04), inset 0 1px 0 rgba(255, 255, 255, 0.95) !important;
   border-radius: 16px !important;
 }
+
+/* ==========================================================================
+   PERFECT A4 PRINT & PDF EXPORT: ZERO OVERLAP & ZERO BLANK TRAILING PAGES
+   ========================================================================== */
+@media print {
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    overflow: visible !important;
+    background: #ffffff !important;
+  }
+  #exam-paper-container,
+  #exam-paper-objective-sheet,
+  #exam-paper-subjective-sheet {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    height: auto !important;
+    overflow: visible !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+  /* Avoid blank trailing page after the last sheet */
+  #exam-paper-container > *:last-child,
+  #exam-paper-subjective-sheet,
+  .exam-sheet:last-child {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+  /* Prevent questions and bubble grids from splitting across pages */
+  .question-item,
+  .omr-bubble-grid-container,
+  tr,
+  table {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+  /* Prevent overlapping text in Urdu and English */
+  p, span, div, td {
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+  .font-urdu, [lang="ur"] {
+    line-height: 2 !important;
+    word-spacing: 2px !important;
+  }
+}
