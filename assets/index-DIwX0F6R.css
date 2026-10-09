@@ -12,9 +12,16 @@ html, body {
 
 /* Crystal clear high-contrast text on laptop screens */
 h1, h2, h3, h4, h5, h6 {
-  color: #020617 !important;
   letter-spacing: -0.015em;
   text-rendering: optimizeLegibility;
+}
+/* Ensure white headings on colored headers stay pure crisp white */
+h1.text-white, h2.text-white, h3.text-white, h4.text-white, h5.text-white, h6.text-white,
+[class*="text-white"] h1, [class*="text-white"] h2, [class*="text-white"] h3,
+.bg-blue-600 h3, .bg-blue-700 h3, .bg-blue-900 h3, .bg-slate-900 h3,
+.login-header-title {
+  color: #ffffff !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6) !important;
 }
 
 /* Urdu Nastaliq high-contrast clarity */
