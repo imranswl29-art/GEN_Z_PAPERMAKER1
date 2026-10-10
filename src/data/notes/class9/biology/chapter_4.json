@@ -132,25 +132,25 @@
       "options_en": {
         "A": "Out-of-syllabus literature",
         "B": "Core Science Curriculum 2026",
-        "C": "General Arts stream",
+        "C": "Applied Science stream",
         "D": "Non-compulsory elective"
       },
       "options_ur": {
         "A": "غیر نصابی ادب",
         "B": "بنیادی سائنس نصاب 2026",
-        "C": "جنرل آرٹس گروپ",
+        "C": "اطلاقی سائنس گروپ",
         "D": "غیر اختیاری مضمون"
       },
       "optionsEn": [
         "Out-of-syllabus literature",
         "Core Science Curriculum 2026",
-        "General Arts stream",
+        "Applied Science stream",
         "Non-compulsory elective"
       ],
       "optionsUr": [
         "غیر نصابی ادب",
         "بنیادی سائنس نصاب 2026",
-        "جنرل آرٹس گروپ",
+        "اطلاقی سائنس گروپ",
         "غیر اختیاری مضمون"
       ],
       "correct_answer": "B",

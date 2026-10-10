@@ -130,25 +130,25 @@
       "questionEn": "In standard Punjab Board examinations, Hissa Nasar: Namdeo Maali is classified under:",
       "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق حصہ نثر: نام دیو مالی کا تعلق کس سے ہے؟",
       "options_en": {
-        "A": "General Arts stream",
+        "A": "Applied Science stream",
         "B": "Non-compulsory elective",
         "C": "Out-of-syllabus literature",
         "D": "Core Science Curriculum 2026"
       },
       "options_ur": {
-        "A": "جنرل آرٹس گروپ",
+        "A": "اطلاقی سائنس گروپ",
         "B": "غیر اختیاری مضمون",
         "C": "غیر نصابی ادب",
         "D": "بنیادی سائنس نصاب 2026"
       },
       "optionsEn": [
-        "General Arts stream",
+        "Applied Science stream",
         "Non-compulsory elective",
         "Out-of-syllabus literature",
         "Core Science Curriculum 2026"
       ],
       "optionsUr": [
-        "جنرل آرٹس گروپ",
+        "اطلاقی سائنس گروپ",
         "غیر اختیاری مضمون",
         "غیر نصابی ادب",
         "بنیادی سائنس نصاب 2026"

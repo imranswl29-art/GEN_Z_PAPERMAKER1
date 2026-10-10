@@ -131,25 +131,25 @@
       "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق دو درجی مساواتیں کا تعلق کس سے ہے؟",
       "options_en": {
         "A": "Core Science Curriculum 2026",
-        "B": "General Arts stream",
+        "B": "Applied Science stream",
         "C": "Non-compulsory elective",
         "D": "Out-of-syllabus literature"
       },
       "options_ur": {
         "A": "بنیادی سائنس نصاب 2026",
-        "B": "جنرل آرٹس گروپ",
+        "B": "اطلاقی سائنس گروپ",
         "C": "غیر اختیاری مضمون",
         "D": "غیر نصابی ادب"
       },
       "optionsEn": [
         "Core Science Curriculum 2026",
-        "General Arts stream",
+        "Applied Science stream",
         "Non-compulsory elective",
         "Out-of-syllabus literature"
       ],
       "optionsUr": [
         "بنیادی سائنس نصاب 2026",
-        "جنرل آرٹس گروپ",
+        "اطلاقی سائنس گروپ",
         "غیر اختیاری مضمون",
         "غیر نصابی ادب"
       ],
