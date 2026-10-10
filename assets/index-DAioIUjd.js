@@ -4429,7 +4429,7 @@ function getNotesForSubjectAndChapter(subjectId, chapterNo, subjectObj, chapterO
 function exportNotesToWordDoc(notesData, selectedClass, subjectNameEn, subjectNameUr, effectiveLangMode, schoolBrand) {
   const brandTitle = (schoolBrand && schoolBrand.name) || "SUPERIOR MODEL HIGH SCHOOL";
   const brandSub = (schoolBrand && schoolBrand.address) || "BISE Lahore / Punjab Board - Quality Education System";
-  const docTitle = `${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${notesData.chapterNo}_Solved_Notes.docx`;
+  const docTitle = `${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${notesData.chapterNo}_Solved_Notes_${effectiveLangMode}.docx`;
 
   let html = `<!DOCTYPE html>
 <html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
@@ -4465,7 +4465,7 @@ function exportNotesToWordDoc(notesData, selectedClass, subjectNameEn, subjectNa
   <div class="header-box">
     <div class="school-title">${brandTitle}</div>
     <div class="school-subtitle">${brandSub}</div>
-    <div class="notes-badge">CLASS ${selectedClass.toUpperCase()} - SOLVED CHAPTER NOTES</div>
+    <div class="notes-badge">CLASS ${selectedClass.toUpperCase()} - SOLVED CHAPTER NOTES (${effectiveLangMode.toUpperCase()})</div>
   </div>
 
   <table class="meta-table">
@@ -4477,18 +4477,18 @@ function exportNotesToWordDoc(notesData, selectedClass, subjectNameEn, subjectNa
     </tr>
     <tr>
       <td style="background-color: #f8fafc;">Chapter Name:</td>
-      <td colspan="3">${notesData.titleEn} ${notesData.titleUr ? `&nbsp; (${notesData.titleUr})` : ''}</td>
+      <td colspan="3">${notesData.titleEn} ${notesData.titleUr ? `&nbsp; (${notesData.titleUr})` : ''} [${effectiveLangMode.toUpperCase()}]</td>
     </tr>
   </table>`;
 
   if (notesData.vocab && notesData.vocab.length > 0) {
     html += `
-  <div class="section-heading">Key Vocabulary & Urdu Translation (اہم الفاظ معنی و سلیس ترجمہ)</div>
+  <div class="section-heading">Key Vocabulary & Urdu Translation (Glossary)</div>
   <table class="vocab-table">
     <thead>
       <tr>
         <th style="width: 25%;">Word / Phrase</th>
-        <th style="width: 35%; text-align: right;">اردو معنی (Urdu Meaning)</th>
+        <th style="width: 35%; text-align: right;">Urdu Meaning</th>
         <th style="width: 40%;">Contextual Sentence</th>
       </tr>
     </thead>
@@ -4584,7 +4584,7 @@ function exportNotesToWordDoc(notesData, selectedClass, subjectNameEn, subjectNa
   URL.revokeObjectURL(url);
 }
 
-async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapterNo) {
+async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapterNo, effectiveLangMode) {
   const element = document.getElementById(elementId);
   if (!element) {
     window.print();
@@ -4612,7 +4612,7 @@ async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapter
 
   try {
     await Oh(element, pdf, printW, printH, margin, true);
-    pdf.save(`${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${chapterNo}_Solved_Notes.pdf`);
+    pdf.save(`${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${chapterNo}_Solved_Notes_${effectiveLangMode}.pdf`);
   } catch (err) {
     console.error("PDF generation failed, falling back to window.print():", err);
     window.print();
@@ -4668,7 +4668,7 @@ function ClassNotesView({ currentUser, onBack }) {
     if (!currentSubject || !notesData) return;
     try {
       setIsExportingPdf(true);
-      await exportNotesToPDF("notes-print-sheet", selectedClass, currentSubject.nameEn, notesData.chapterNo);
+      await exportNotesToPDF("notes-print-sheet", selectedClass, currentSubject.nameEn, notesData.chapterNo, effectiveLangMode);
     } finally {
       setIsExportingPdf(false);
     }
@@ -4688,7 +4688,7 @@ function ClassNotesView({ currentUser, onBack }) {
       l.jsxs("div", {
         className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs space-y-4 no-print",
         children: [
-          // Main Header Row
+          // Main Header Row (Single Back to Dashboard Button)
           l.jsxs("div", {
             className: "flex flex-wrap items-center justify-between gap-3",
             children: [
@@ -4698,9 +4698,9 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: onBack,
-                    className: "btn-3d flex items-center gap-1.5 px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border border-slate-300 shadow-xs",
+                    className: "btn-3d flex items-center gap-2 px-4 py-2.5 bg-gradient-to-r from-blue-700 to-indigo-800 hover:from-blue-800 hover:to-indigo-900 text-white rounded-xl font-black text-xs cursor-pointer shadow-md transition-all active:scale-95",
                     title: "Return to Dashboard",
-                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "Dashboard" })]
+                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-white" }), l.jsx("span", { children: "Back to Dashboard" })]
                   }),
                   l.jsxs("div", {
                     children: [
@@ -4711,7 +4711,7 @@ function ClassNotesView({ currentUser, onBack }) {
                           "CLASS 9th & 10th (Notes)"
                         ]
                       }),
-                      l.jsx("p", { className: "text-xs text-slate-500 font-semibold", children: "Step-by-Step Guided Wizard: Punjab Textbook Board (PTBB) Solved Revision Notes" })
+                      l.jsx("p", { className: "text-xs text-slate-500 font-semibold", children: "Punjab Textbook Board (PTBB) Solved Revision Notes" })
                     ]
                   })
                 ]
@@ -4726,7 +4726,8 @@ function ClassNotesView({ currentUser, onBack }) {
                     children: selectedClass ? (selectedClass + " Class") : "No Class Selected"
                   }),
                   selectedSubjectId && currentSubject && l.jsx("span", { className: "px-2 py-0.5 rounded-md bg-emerald-100 text-emerald-800 font-black", children: currentSubject.nameEn }),
-                  selectedSubjectId && notesData && l.jsx("span", { className: "px-2 py-0.5 rounded-md bg-purple-100 text-purple-800 font-black", children: "Unit " + notesData.chapterNo })
+                  selectedSubjectId && notesData && l.jsx("span", { className: "px-2 py-0.5 rounded-md bg-purple-100 text-purple-800 font-black", children: "Unit " + notesData.chapterNo }),
+                  selectedSubjectId && l.jsx("span", { className: "px-2 py-0.5 rounded-md bg-indigo-100 text-indigo-800 font-black uppercase text-[10px]", children: effectiveLangMode })
                 ]
               })
             ]
@@ -4886,19 +4887,23 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Next Step Button
+          // Prominent & High-Visibility Next Button for Step 1
           l.jsx("div", {
-            className: "text-center pt-4",
+            className: "text-center pt-6 max-w-xl mx-auto",
             children: l.jsx("button", {
               type: "button",
               disabled: !selectedClass,
               onClick: () => {
                 if (selectedClass) setCurrentStep(2);
               },
-              className: "btn-3d px-8 py-3.5 rounded-xl font-black text-sm uppercase tracking-wider transition-all " + (
-                selectedClass ? "bg-blue-600 hover:bg-blue-700 text-white shadow-lg cursor-pointer" : "bg-slate-200 text-slate-400 cursor-not-allowed"
+              className: "w-full py-4 px-8 rounded-2xl font-black text-base uppercase tracking-wider transition-all duration-200 border-2 " + (
+                selectedClass
+                  ? "bg-gradient-to-r from-blue-700 via-indigo-700 to-blue-800 hover:from-blue-800 hover:to-indigo-900 text-white border-blue-900 shadow-xl hover:shadow-2xl hover:scale-[1.02] active:scale-98 cursor-pointer ring-4 ring-blue-300/50"
+                  : "bg-slate-100 text-slate-400 border-slate-300 shadow-none cursor-not-allowed opacity-75"
               ),
-              children: selectedClass ? `Continue to Step 2: Select Subject (${selectedClass} Class) →` : "Please Select Class (9th or 10th) to Continue"
+              children: selectedClass
+                ? `Continue to Step 2: Select Subject (${selectedClass} Class) →`
+                : "Please Select Class (9th or 10th) Above to Continue"
             })
           })
         ]
@@ -4965,14 +4970,14 @@ function ClassNotesView({ currentUser, onBack }) {
             })
           }),
 
-          // Navigation Buttons for Step 2
+          // Prominent Navigation Bar for Step 2
           l.jsxs("div", {
-            className: "flex flex-wrap items-center justify-between gap-3 max-w-5xl mx-auto pt-4 border-t border-slate-200",
+            className: "flex flex-col sm:flex-row items-center justify-between gap-4 max-w-5xl mx-auto pt-6 border-t-2 border-slate-200",
             children: [
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(1),
-                className: "btn-3d px-5 py-2.5 rounded-xl border border-slate-300 text-slate-700 bg-slate-100 hover:bg-slate-200 font-bold text-xs cursor-pointer",
+                className: "btn-3d w-full sm:w-auto px-6 py-3.5 rounded-xl border-2 border-slate-300 text-slate-800 bg-slate-100 hover:bg-slate-200 font-black text-xs cursor-pointer shadow-sm active:scale-95",
                 children: "← Back to Step 1 (Change Class)"
               }),
               l.jsx("button", {
@@ -4981,10 +4986,14 @@ function ClassNotesView({ currentUser, onBack }) {
                 onClick: () => {
                   if (selectedSubjectId) setCurrentStep(3);
                 },
-                className: "btn-3d px-7 py-3 rounded-xl font-black text-xs uppercase tracking-wider transition-all " + (
-                  selectedSubjectId ? "bg-emerald-600 hover:bg-emerald-700 text-white shadow-md cursor-pointer" : "bg-slate-200 text-slate-400 cursor-not-allowed"
+                className: "btn-3d w-full sm:w-auto px-8 py-4 rounded-2xl font-black text-sm uppercase tracking-wider transition-all duration-200 border-2 " + (
+                  selectedSubjectId
+                    ? "bg-gradient-to-r from-emerald-600 via-teal-700 to-emerald-800 hover:from-emerald-700 hover:to-teal-900 text-white border-emerald-900 shadow-xl hover:shadow-2xl hover:scale-[1.02] active:scale-98 cursor-pointer ring-4 ring-emerald-300/50"
+                    : "bg-slate-100 text-slate-400 border-slate-300 shadow-none cursor-not-allowed opacity-75"
                 ),
-                children: selectedSubjectId && currentSubject ? `Continue to Step 3: Unit & Medium (${currentSubject.nameEn}) →` : "Please Select a Subject to Continue"
+                children: selectedSubjectId && currentSubject
+                  ? `Continue to Step 3: Unit & Medium (${currentSubject.nameEn}) →`
+                  : "Please Select a Subject Above to Continue"
               })
             ]
           })
@@ -5125,20 +5134,20 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Navigation Buttons for Step 3
+          // Prominent Navigation Bar for Step 3
           l.jsxs("div", {
-            className: "flex flex-wrap items-center justify-between gap-3 max-w-4xl mx-auto pt-4 border-t border-slate-200",
+            className: "flex flex-col sm:flex-row items-center justify-between gap-4 max-w-4xl mx-auto pt-6 border-t-2 border-slate-200",
             children: [
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(2),
-                className: "btn-3d px-5 py-2.5 rounded-xl border border-slate-300 text-slate-700 bg-slate-100 hover:bg-slate-200 font-bold text-xs cursor-pointer",
+                className: "btn-3d w-full sm:w-auto px-6 py-3.5 rounded-xl border-2 border-slate-300 text-slate-800 bg-slate-100 hover:bg-slate-200 font-black text-xs cursor-pointer shadow-sm active:scale-95",
                 children: "← Back to Step 2 (Change Subject)"
               }),
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(4),
-                className: "btn-3d px-8 py-3 bg-purple-600 hover:bg-purple-700 text-white rounded-xl font-black text-xs uppercase tracking-wider shadow-md cursor-pointer",
+                className: "btn-3d w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-purple-700 via-indigo-700 to-purple-800 hover:from-purple-800 hover:to-indigo-900 text-white rounded-2xl font-black text-sm uppercase tracking-wider border-2 border-purple-900 shadow-xl hover:shadow-2xl hover:scale-[1.02] active:scale-98 cursor-pointer ring-4 ring-purple-300/50",
                 children: "View Solved Notes (Step 4) →"
               })
             ]
@@ -5152,22 +5161,23 @@ function ClassNotesView({ currentUser, onBack }) {
       currentStep === 4 && currentSubject && notesData && l.jsxs("div", {
         className: "space-y-4",
         children: [
-          // Step 4 Toolbar: Navigation & 3 Export Buttons
+          // Step 4 Toolbar: Navigation & 3 Export Buttons + Language Medium Selector for Export
           l.jsxs("div", {
             className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-3 no-print",
             children: [
+              // Left: Back to Step 3 & Chapter Tag
               l.jsxs("div", {
                 className: "flex items-center gap-2",
                 children: [
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => setCurrentStep(3),
-                    className: "btn-3d px-3.5 py-2 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border border-slate-300 shadow-xs flex items-center gap-1.5",
+                    className: "btn-3d px-4 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border-2 border-slate-300 shadow-xs flex items-center gap-1.5 active:scale-95",
                     title: "Back to Unit Selection",
                     children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "Back to Step 3" })]
                   }),
                   l.jsxs("div", {
-                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3 py-1.5 rounded-lg border border-slate-200",
+                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3 py-2 rounded-xl border border-slate-200",
                     children: [
                       selectedClass, " Class • ", currentSubject.nameEn, " • Unit ", notesData.chapterNo
                     ]
@@ -5175,7 +5185,39 @@ function ClassNotesView({ currentUser, onBack }) {
                 ]
               }),
 
-              // Three Export Buttons: PDF (.pdf), Word (.docx), Direct Print
+              // Center: Immediate Language Medium Selector (Urdu / English / Bilingual) for Export & View
+              !isUrduSubject && !isEnglishSubject && l.jsxs("div", {
+                className: "flex items-center gap-1 bg-slate-100 p-1.5 rounded-xl border border-slate-300 shadow-2xs",
+                children: [
+                  l.jsx("span", { className: "text-[11px] font-black uppercase tracking-wider text-slate-600 px-2", children: "Language:" }),
+                  l.jsx("button", {
+                    type: "button",
+                    onClick: () => setLanguageMode("english"),
+                    className: "btn-3d px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer " + (
+                      languageMode === "english" ? "bg-blue-600 text-white shadow-xs" : "bg-white text-slate-700 font-bold hover:bg-slate-50 border border-slate-200"
+                    ),
+                    children: "English"
+                  }),
+                  l.jsx("button", {
+                    type: "button",
+                    onClick: () => setLanguageMode("urdu"),
+                    className: "btn-3d px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer " + (
+                      languageMode === "urdu" ? "bg-emerald-600 text-white shadow-xs" : "bg-white text-slate-700 font-bold hover:bg-slate-50 border border-slate-200"
+                    ),
+                    children: "Urdu"
+                  }),
+                  l.jsx("button", {
+                    type: "button",
+                    onClick: () => setLanguageMode("bilingual"),
+                    className: "btn-3d px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer " + (
+                      languageMode === "bilingual" ? "bg-purple-600 text-white shadow-xs" : "bg-white text-slate-700 font-bold hover:bg-slate-50 border border-slate-200"
+                    ),
+                    children: "Bilingual"
+                  })
+                ]
+              }),
+
+              // Right: Three Export Buttons: PDF (.pdf), Word (.docx), Direct Print
               l.jsxs("div", {
                 className: "flex flex-wrap items-center gap-2",
                 children: [
@@ -5184,8 +5226,8 @@ function ClassNotesView({ currentUser, onBack }) {
                     type: "button",
                     disabled: isExportingPdf,
                     onClick: handleDownloadPDF,
-                    className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-rose-600 hover:bg-rose-700 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs disabled:opacity-60 transition-all",
-                    title: "Download Solved Notes as PDF Document",
+                    className: "btn-3d flex items-center gap-1.5 px-4 py-2.5 bg-rose-600 hover:bg-rose-700 text-white rounded-xl text-xs font-black cursor-pointer shadow-md disabled:opacity-60 transition-all",
+                    title: `Download Solved Notes as PDF Document (${effectiveLangMode.toUpperCase()})`,
                     children: [
                       isExportingPdf ? l.jsx(Sc, { className: "w-4 h-4 animate-spin text-white" }) : l.jsx(SAFE_ad, { className: "w-4 h-4 text-rose-100" }),
                       l.jsx("span", { children: isExportingPdf ? "Generating PDF..." : "Download PDF (.pdf)" })
@@ -5196,8 +5238,8 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => exportNotesToWordDoc(notesData, selectedClass, currentSubject.nameEn, currentSubject.nameUr, effectiveLangMode, currentUser && currentUser.branding),
-                    className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-blue-700 hover:bg-blue-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs transition-all",
-                    title: "Download Solved Notes as Editable MS Word Document (.docx)",
+                    className: "btn-3d flex items-center gap-1.5 px-4 py-2.5 bg-blue-700 hover:bg-blue-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-md transition-all",
+                    title: `Download Solved Notes as Editable MS Word Document (${effectiveLangMode.toUpperCase()})`,
                     children: [
                       l.jsx(Xu, { className: "w-4 h-4 text-blue-200" }),
                       l.jsx("span", { children: "Download Word (.docx)" })
@@ -5208,7 +5250,7 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => window.print(),
-                    className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-emerald-700 hover:bg-emerald-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs transition-all",
+                    className: "btn-3d flex items-center gap-1.5 px-4 py-2.5 bg-emerald-700 hover:bg-emerald-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-md transition-all",
                     title: "Open Browser Print Dialog",
                     children: [
                       l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-200" }),
@@ -5280,9 +5322,9 @@ function ClassNotesView({ currentUser, onBack }) {
                     children: (currentUser && currentUser.branding && currentUser.branding.address) || "Affiliated with Punjab Examination Commission & Board of Intermediate and Secondary Education"
                   }),
                   // Notes Header Banner
-                  l.jsx("div", {
+                  l.jsxs("div", {
                     className: "inline-block bg-blue-900 text-white px-6 py-1.5 rounded-md font-black text-xs sm:text-sm uppercase tracking-wider mt-3 shadow-xs",
-                    children: "CLASS " + selectedClass.toUpperCase() + " • CHAPTER SOLVED REVISION NOTES"
+                    children: ["CLASS ", selectedClass.toUpperCase(), " • CHAPTER SOLVED REVISION NOTES (", effectiveLangMode.toUpperCase(), ")"]
                   })
                 ]
               }),
