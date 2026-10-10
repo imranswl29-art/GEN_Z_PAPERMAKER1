@@ -4394,9 +4394,9 @@ function getSubjectVisualTheme(nameEn = "") {
   if (n.includes("pak") || n.includes("mutalia")) {
     return {
       icon: "🇵🇰",
-      badgeColor: "bg-green-700 text-white shadow-green-400",
-      activeBg: "bg-green-50/80 border-green-700 shadow-md ring-2 ring-green-400",
-      tagColor: "bg-green-100 text-green-950 border-green-300"
+      badgeColor: "bg-emerald-600 text-white shadow-emerald-300 ring-2 ring-emerald-300/50",
+      activeBg: "bg-emerald-50/80 border-emerald-600 shadow-md ring-2 ring-emerald-300",
+      tagColor: "bg-emerald-100 text-emerald-950 border-emerald-300"
     };
   }
   return {
@@ -4405,6 +4405,31 @@ function getSubjectVisualTheme(nameEn = "") {
     activeBg: "bg-purple-50/80 border-purple-600 shadow-md ring-2 ring-purple-300",
     tagColor: "bg-purple-100 text-purple-900 border-purple-200"
   };
+}
+
+function renderSubjectIconGraphic(subName = "") {
+  const n = (subName || "").toLowerCase();
+  if (n.includes("pak") || n.includes("mutalia")) {
+    return l.jsxs("svg", {
+      className: "w-8 h-6 rounded drop-shadow",
+      viewBox: "0 0 36 26",
+      fill: "none",
+      children: [
+        l.jsx("rect", { width: "36", height: "26", rx: "3", fill: "#006629", stroke: "#ffffff", strokeWidth: "1.5" }),
+        l.jsx("rect", { x: "0.75", y: "0.75", width: "9", height: "24.5", rx: "1.5", fill: "#ffffff" }),
+        l.jsx("path", {
+          d: "M24.5 8.5 C20.5 10 18.5 14.5 20.2 18.5 C21.8 22.2 26 23.5 28.5 21.8 C25 23 21 20.5 20.2 17 C19.2 13 21.8 9.5 24.5 8.5 Z",
+          fill: "#ffffff"
+        }),
+        l.jsx("polygon", {
+          points: "25.5,9.5 26.5,11.8 29,12 27,13.5 27.5,16 25.5,14.5 23.5,16 24,13.5 22,12 24.5,11.8",
+          fill: "#ffffff"
+        })
+      ]
+    });
+  }
+  const theme = getSubjectVisualTheme(subName);
+  return l.jsx("span", { children: theme.icon });
 }
 
 function getNotesForSubjectAndChapter(subjectId, chapterNo, subjectObj, chapterObj) {
@@ -4777,28 +4802,19 @@ function ClassNotesView({ currentUser, onBack }) {
       l.jsxs("div", {
         className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs space-y-4 no-print",
         children: [
-          // Main Header Row (Single Back to Dashboard Button)
+          // Main Header Row (Clean Title & Active Status, without redundant Back to Dashboard button)
           l.jsxs("div", {
             className: "flex flex-wrap items-center justify-between gap-3",
             children: [
               l.jsxs("div", {
                 className: "flex items-center gap-3",
                 children: [
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: onBack,
-                    className: "btn-3d flex items-center gap-2 px-4 py-2.5 bg-gradient-to-r from-blue-700 to-indigo-800 hover:from-blue-800 hover:to-indigo-900 text-white rounded-xl font-black text-xs cursor-pointer shadow-md transition-all active:scale-95",
-                    title: "Return to Dashboard",
-                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-white" }), l.jsx("span", { children: "Back to Dashboard" })]
-                  }),
+                  l.jsx("span", { className: "w-9 h-9 rounded-xl icon-3d-badge jewel-purple text-white shrink-0 flex items-center justify-center text-lg shadow-sm", children: "📖" }),
                   l.jsxs("div", {
                     children: [
-                      l.jsxs("h1", {
-                        className: "text-lg sm:text-xl font-black text-slate-900 flex items-center gap-2",
-                        children: [
-                          l.jsx("span", { className: "w-8 h-8 icon-3d-badge jewel-purple text-white shrink-0 flex items-center justify-center", children: "📖" }),
-                          "CLASS 9th & 10th (Notes)"
-                        ]
+                      l.jsx("h1", {
+                        className: "text-lg sm:text-xl font-black text-slate-900 tracking-tight",
+                        children: "CLASS 9th & 10th (Notes)"
                       }),
                       l.jsx("p", { className: "text-xs text-slate-500 font-semibold", children: "Punjab Textbook Board (PTBB) Solved Revision Notes" })
                     ]
@@ -4807,7 +4823,7 @@ function ClassNotesView({ currentUser, onBack }) {
               }),
               // Active Selection Indicator Chip
               l.jsxs("div", {
-                className: "hidden md:flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-xl border border-slate-200 text-xs font-bold text-slate-700",
+                className: "hidden md:flex items-center gap-2 bg-slate-50 px-3.5 py-1.5 rounded-xl border border-slate-200 text-xs font-bold text-slate-700 shadow-2xs",
                 children: [
                   l.jsx("span", { className: "text-slate-400 font-normal", children: "Status:" }),
                   l.jsx("span", {
@@ -4976,24 +4992,21 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Prominent & High-Visibility Next Button for Step 1 (Short and Clear text)
+          // Standard Sized & Proportioned Next Button for Step 1 (Height 44-48px, min-width 140px, rounded-lg)
           l.jsx("div", {
-            className: "text-center pt-6 max-w-sm mx-auto",
-            children: l.jsxs("button", {
+            className: "flex justify-center pt-5",
+            children: l.jsx("button", {
               type: "button",
               disabled: !selectedClass,
               onClick: () => {
                 if (selectedClass) setCurrentStep(2);
               },
-              className: "w-full py-3.5 px-8 rounded-xl font-black text-sm tracking-wide transition-all duration-200 border-2 flex items-center justify-center gap-2 " + (
+              className: "min-h-[44px] max-h-[48px] px-8 py-2.5 rounded-lg font-semibold text-sm min-w-[140px] inline-flex items-center justify-center gap-2 transition-all cursor-pointer shadow-sm active:scale-95 " + (
                 selectedClass
-                  ? "bg-blue-600 hover:bg-blue-700 text-white border-blue-800 shadow-lg hover:shadow-xl hover:scale-102 active:scale-98 cursor-pointer ring-4 ring-blue-300/40"
-                  : "bg-slate-100 text-slate-400 border-slate-300 shadow-none cursor-not-allowed opacity-75"
+                  ? "bg-blue-600 hover:bg-blue-700 text-white shadow-blue-200"
+                  : "bg-slate-200 text-slate-400 cursor-not-allowed shadow-none"
               ),
-              children: [
-                l.jsx("span", { children: selectedClass ? `Next: Select Subject (${selectedClass})` : "Next: Select Subject" }),
-                l.jsx("span", { className: "text-base font-bold", children: "→" })
-              ]
+              children: "Next →"
             })
           })
         ]
@@ -5020,7 +5033,7 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Subjects Grid with Colorful & Distinct Subject Icons
+          // Subjects Grid with Modern, Colorful, and High-Contrast Visual Icons
           l.jsx("div", {
             className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 max-w-5xl mx-auto pt-2",
             children: classSubjects.map(sub => {
@@ -5040,7 +5053,7 @@ function ClassNotesView({ currentUser, onBack }) {
                     children: [
                       l.jsx("div", {
                         className: `w-12 h-12 rounded-xl flex items-center justify-center text-2xl font-bold shrink-0 shadow-md ${theme.badgeColor}`,
-                        children: theme.icon
+                        children: renderSubjectIconGraphic(sub.nameEn)
                       }),
                       l.jsxs("div", {
                         className: "min-w-0",
@@ -5068,31 +5081,28 @@ function ClassNotesView({ currentUser, onBack }) {
             })
           }),
 
-          // Prominent Navigation Bar for Step 2 (Short and Clear text)
+          // Standardized Navigation Bar for Step 2 (Height 44-48px, min-width 130px, gap-4)
           l.jsxs("div", {
-            className: "flex flex-col sm:flex-row items-center justify-between gap-4 max-w-5xl mx-auto pt-6 border-t-2 border-slate-200",
+            className: "flex items-center justify-between gap-4 max-w-5xl mx-auto pt-6 border-t border-slate-200",
             children: [
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(1),
-                className: "btn-3d w-full sm:w-auto px-5 py-3 rounded-xl border-2 border-slate-300 text-slate-800 bg-slate-100 hover:bg-slate-200 font-black text-xs cursor-pointer shadow-sm active:scale-95",
+                className: "min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-lg border border-slate-300 text-slate-700 bg-white hover:bg-slate-50 font-bold text-sm min-w-[130px] inline-flex items-center justify-center transition-all cursor-pointer shadow-xs active:scale-95",
                 children: "← Back"
               }),
-              l.jsxs("button", {
+              l.jsx("button", {
                 type: "button",
                 disabled: !selectedSubjectId,
                 onClick: () => {
                   if (selectedSubjectId) setCurrentStep(3);
                 },
-                className: "btn-3d w-full sm:w-auto px-8 py-3.5 rounded-xl font-black text-sm tracking-wide transition-all duration-200 border-2 flex items-center justify-center gap-2 " + (
+                className: "min-h-[44px] max-h-[48px] px-8 py-2.5 rounded-lg font-bold text-sm min-w-[140px] inline-flex items-center justify-center transition-all cursor-pointer shadow-sm active:scale-95 " + (
                   selectedSubjectId
-                    ? "bg-emerald-600 hover:bg-emerald-700 text-white border-emerald-800 shadow-lg hover:shadow-xl hover:scale-102 active:scale-98 cursor-pointer ring-4 ring-emerald-300/40"
-                    : "bg-slate-100 text-slate-400 border-slate-300 shadow-none cursor-not-allowed opacity-75"
+                    ? "bg-emerald-600 hover:bg-emerald-700 text-white shadow-emerald-200"
+                    : "bg-slate-200 text-slate-400 cursor-not-allowed shadow-none"
                 ),
-                children: [
-                  l.jsx("span", { children: selectedSubjectId ? "Next: Select Chapter" : "Next: Select Chapter" }),
-                  l.jsx("span", { className: "text-base font-bold", children: "→" })
-                ]
+                children: "Next →"
               })
             ]
           })
@@ -5233,24 +5243,21 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Prominent Navigation Bar for Step 3 (Short and Clear text)
+          // Standardized Navigation Bar for Step 3 (Height 44-48px, min-width 130px, gap-4)
           l.jsxs("div", {
-            className: "flex flex-col sm:flex-row items-center justify-between gap-4 max-w-4xl mx-auto pt-6 border-t-2 border-slate-200",
+            className: "flex items-center justify-between gap-4 max-w-4xl mx-auto pt-6 border-t border-slate-200",
             children: [
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(2),
-                className: "btn-3d w-full sm:w-auto px-5 py-3 rounded-xl border-2 border-slate-300 text-slate-800 bg-slate-100 hover:bg-slate-200 font-black text-xs cursor-pointer shadow-sm active:scale-95",
+                className: "min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-lg border border-slate-300 text-slate-700 bg-white hover:bg-slate-50 font-bold text-sm min-w-[130px] inline-flex items-center justify-center transition-all cursor-pointer shadow-xs active:scale-95",
                 children: "← Back"
               }),
-              l.jsxs("button", {
+              l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(4),
-                className: "btn-3d w-full sm:w-auto px-8 py-3.5 bg-purple-600 hover:bg-purple-700 text-white rounded-xl font-black text-sm tracking-wide border-2 border-purple-800 shadow-lg hover:shadow-xl hover:scale-102 active:scale-98 cursor-pointer ring-4 ring-purple-300/40 flex items-center justify-center gap-2",
-                children: [
-                  l.jsx("span", { children: "View Notes" }),
-                  l.jsx("span", { className: "text-base font-bold", children: "→" })
-                ]
+                className: "min-h-[44px] max-h-[48px] px-8 py-2.5 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-bold text-sm min-w-[140px] inline-flex items-center justify-center transition-all cursor-pointer shadow-sm active:scale-95",
+                children: "Next →"
               })
             ]
           })
@@ -5274,12 +5281,12 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => setCurrentStep(3),
-                    className: "btn-3d px-4 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border-2 border-slate-300 shadow-xs flex items-center gap-1.5 active:scale-95",
+                    className: "min-h-[44px] max-h-[48px] px-5 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-sm cursor-pointer border border-slate-300 shadow-xs inline-flex items-center gap-1.5 active:scale-95",
                     title: "Back to Unit Selection",
-                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "Back" })]
+                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "← Back" })]
                   }),
                   l.jsxs("div", {
-                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3 py-2 rounded-xl border border-slate-200",
+                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3.5 py-2.5 rounded-lg border border-slate-200",
                     children: [
                       selectedClass, " Class • ", currentSubject.nameEn, " • Unit ", notesData.chapterNo
                     ]
@@ -5328,7 +5335,7 @@ function ClassNotesView({ currentUser, onBack }) {
                     type: "button",
                     disabled: isExportingPdf,
                     onClick: handleDownloadPDF,
-                    className: "btn-3d flex items-center gap-1.5 px-4 py-2.5 bg-rose-600 hover:bg-rose-700 text-white rounded-xl text-xs font-black cursor-pointer shadow-md disabled:opacity-60 transition-all",
+                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-1.5 px-5 py-2.5 bg-rose-600 hover:bg-rose-700 text-white rounded-lg text-xs font-bold cursor-pointer shadow-md disabled:opacity-60 transition-all",
                     title: `Download Solved Notes as PDF Document (${effectiveLangMode.toUpperCase()})`,
                     children: [
                       isExportingPdf ? l.jsx(Sc, { className: "w-4 h-4 animate-spin text-white" }) : l.jsx(SAFE_ad, { className: "w-4 h-4 text-rose-100" }),
@@ -5340,7 +5347,7 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => exportNotesToWordDoc(notesData, selectedClass, currentSubject.nameEn, currentSubject.nameUr, effectiveLangMode, currentUser && currentUser.branding),
-                    className: "btn-3d flex items-center gap-1.5 px-4 py-2.5 bg-blue-700 hover:bg-blue-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-md transition-all",
+                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-1.5 px-5 py-2.5 bg-blue-700 hover:bg-blue-800 text-white rounded-lg text-xs font-bold cursor-pointer shadow-md transition-all",
                     title: `Download Solved Notes as Editable MS Word Document (${effectiveLangMode.toUpperCase()})`,
                     children: [
                       l.jsx(Xu, { className: "w-4 h-4 text-blue-200" }),
@@ -5352,7 +5359,7 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => window.print(),
-                    className: "btn-3d flex items-center gap-1.5 px-4 py-2.5 bg-emerald-700 hover:bg-emerald-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-md transition-all",
+                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-1.5 px-5 py-2.5 bg-emerald-700 hover:bg-emerald-800 text-white rounded-lg text-xs font-bold cursor-pointer shadow-md transition-all",
                     title: "Open Browser Print Dialog",
                     children: [
                       l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-200" }),
