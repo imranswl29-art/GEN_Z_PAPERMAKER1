@@ -1,0 +1,913 @@
+{
+  "class": "Class 9th",
+  "group": "Science Group",
+  "subject": "Biology",
+  "chapter_no": 4,
+  "chapterNo": 4,
+  "chapter_title": {
+    "en": "Cells and Tissues",
+    "ur": "سیلز اور ٹشوز"
+  },
+  "titleEn": "Cells and Tissues",
+  "titleUr": "سیلز اور ٹشوز",
+  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 9th Biology, Unit 4: Cells and Tissues. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 9th حیاتیات، یونٹ 4: سیلز اور ٹشوز کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
+  "curriculum": "PTBB Curriculum 2026",
+  "slos": [
+    {
+      "code": "SLO-01",
+      "domain": "Knowledge",
+      "text_en": "Define and identify fundamental terms, principles, and concepts related to Cells and Tissues.",
+      "text_ur": "سیلز اور ٹشوز کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
+    },
+    {
+      "code": "SLO-02",
+      "domain": "Knowledge",
+      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Cells and Tissues.",
+      "text_ur": "سیلز اور ٹشوز کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
+    },
+    {
+      "code": "SLO-03",
+      "domain": "Understanding",
+      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Cells and Tissues.",
+      "text_ur": "سیلز اور ٹشوز کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
+    },
+    {
+      "code": "SLO-04",
+      "domain": "Understanding",
+      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Cells and Tissues.",
+      "text_ur": "سیلز اور ٹشوز کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
+    },
+    {
+      "code": "SLO-05",
+      "domain": "Application",
+      "text_en": "Apply theoretical principles of Cells and Tissues to solve standard board exam analytical questions and practical problems.",
+      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے سیلز اور ٹشوز کے اصولوں کا اطلاق کریں۔"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "The primary scientific concept or definition established in Unit 4 is:",
+      "question_ur": "یونٹ نمبر 4 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "questionEn": "The primary scientific concept or definition established in Unit 4 is:",
+      "questionUr": "یونٹ نمبر 4 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "options_en": {
+        "A": "Hypothetical auxiliary factor",
+        "B": "Secondary random observation",
+        "C": "Unrelated physical magnitude",
+        "D": "Fundamental principle of Cells and Tissues"
+      },
+      "options_ur": {
+        "A": "فرضی اضافی عنصر",
+        "B": "ثانوی غیر متعلقہ مشاہدہ",
+        "C": "غیر متعلقہ طبعی مقدار",
+        "D": "سیلز اور ٹشوز کا بنیادی سائنسی اصول"
+      },
+      "optionsEn": [
+        "Hypothetical auxiliary factor",
+        "Secondary random observation",
+        "Unrelated physical magnitude",
+        "Fundamental principle of Cells and Tissues"
+      ],
+      "optionsUr": [
+        "فرضی اضافی عنصر",
+        "ثانوی غیر متعلقہ مشاہدہ",
+        "غیر متعلقہ طبعی مقدار",
+        "سیلز اور ٹشوز کا بنیادی سائنسی اصول"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Cells and Tissues.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو سیلز اور ٹشوز کے لیے بنیادی قرار دیا گیا ہے۔",
+      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Cells and Tissues.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو سیلز اور ٹشوز کے لیے بنیادی قرار دیا گیا ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-02",
+      "question_en": "Which one of the following is the key characteristic feature of Cells and Tissues?",
+      "question_ur": "مندرجہ ذیل میں سے کون سی سیلز اور ٹشوز کی کلیدی خصوصیت ہے؟",
+      "questionEn": "Which one of the following is the key characteristic feature of Cells and Tissues?",
+      "questionUr": "مندرجہ ذیل میں سے کون سی سیلز اور ٹشوز کی کلیدی خصوصیت ہے؟",
+      "options_en": {
+        "A": "Total absence of governing law",
+        "B": "Unverifiable speculation",
+        "C": "High precision and universal validity",
+        "D": "Random non-repeatable outcome"
+      },
+      "options_ur": {
+        "A": "بنیادی قانون کی مکمل عدم موجودگی",
+        "B": "غیر تصدیق شدہ قیاس آرائی",
+        "C": "اعلیٰ درستگی اور آفاقی اطلاق",
+        "D": "بے ترتیب اور غیر اعادہ پذیر نتیجہ"
+      },
+      "optionsEn": [
+        "Total absence of governing law",
+        "Unverifiable speculation",
+        "High precision and universal validity",
+        "Random non-repeatable outcome"
+      ],
+      "optionsUr": [
+        "بنیادی قانون کی مکمل عدم موجودگی",
+        "غیر تصدیق شدہ قیاس آرائی",
+        "اعلیٰ درستگی اور آفاقی اطلاق",
+        "بے ترتیب اور غیر اعادہ پذیر نتیجہ"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "According to board examination standards, Cells and Tissues exhibits rigorous scientific consistency and validity.",
+      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، سیلز اور ٹشوز سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
+      "explanationEn": "According to board examination standards, Cells and Tissues exhibits rigorous scientific consistency and validity.",
+      "explanationUr": "بورڈ امتحانی معیار کے مطابق، سیلز اور ٹشوز سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-03",
+      "question_en": "In standard Punjab Board examinations, Cells and Tissues is classified under:",
+      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق سیلز اور ٹشوز کا تعلق کس سے ہے؟",
+      "questionEn": "In standard Punjab Board examinations, Cells and Tissues is classified under:",
+      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق سیلز اور ٹشوز کا تعلق کس سے ہے؟",
+      "options_en": {
+        "A": "Out-of-syllabus literature",
+        "B": "Core Science Curriculum 2026",
+        "C": "General Arts stream",
+        "D": "Non-compulsory elective"
+      },
+      "options_ur": {
+        "A": "غیر نصابی ادب",
+        "B": "بنیادی سائنس نصاب 2026",
+        "C": "جنرل آرٹس گروپ",
+        "D": "غیر اختیاری مضمون"
+      },
+      "optionsEn": [
+        "Out-of-syllabus literature",
+        "Core Science Curriculum 2026",
+        "General Arts stream",
+        "Non-compulsory elective"
+      ],
+      "optionsUr": [
+        "غیر نصابی ادب",
+        "بنیادی سائنس نصاب 2026",
+        "جنرل آرٹس گروپ",
+        "غیر اختیاری مضمون"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
+      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
+      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
+      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-04",
+      "question_en": "What happens when the controlling parameters of Cells and Tissues are optimized?",
+      "question_ur": "جب سیلز اور ٹشوز کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "questionEn": "What happens when the controlling parameters of Cells and Tissues are optimized?",
+      "questionUr": "جب سیلز اور ٹشوز کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "The process achieves optimal efficiency and stability",
+        "B": "The mechanism completely ceases",
+        "C": "Spontaneous chaotic degradation occurs",
+        "D": "Output drops to zero"
+      },
+      "options_ur": {
+        "A": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
+        "B": "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
+        "C": "بے ترتیبی کا عمل شروع ہوتا ہے",
+        "D": "حاصل شدہ نتیجہ صفر ہو جاتا ہے"
+      },
+      "optionsEn": [
+        "The process achieves optimal efficiency and stability",
+        "The mechanism completely ceases",
+        "Spontaneous chaotic degradation occurs",
+        "Output drops to zero"
+      ],
+      "optionsUr": [
+        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
+        "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
+        "بے ترتیبی کا عمل شروع ہوتا ہے",
+        "حاصل شدہ نتیجہ صفر ہو جاتا ہے"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
+      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-05",
+      "question_en": "The mathematical or logical relationship established in Cells and Tissues indicates that:",
+      "question_ur": "سیلز اور ٹشوز میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "questionEn": "The mathematical or logical relationship established in Cells and Tissues indicates that:",
+      "questionUr": "سیلز اور ٹشوز میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "options_en": {
+        "A": "Inverse random unpredictability",
+        "B": "Complete independence with zero correlation",
+        "C": "Undefined asymptotic discontinuity",
+        "D": "Direct functional interdependence between variables"
+      },
+      "options_ur": {
+        "A": "غیر متوقع معکوس بے ترتیبی",
+        "B": "بغیر تعلق کے مکمل آزادی",
+        "C": "غیر واضح عدم تسلسل",
+        "D": "متغیرات کے درمیان براہِ راست فنکشنل انحصار"
+      },
+      "optionsEn": [
+        "Inverse random unpredictability",
+        "Complete independence with zero correlation",
+        "Undefined asymptotic discontinuity",
+        "Direct functional interdependence between variables"
+      ],
+      "optionsUr": [
+        "غیر متوقع معکوس بے ترتیبی",
+        "بغیر تعلق کے مکمل آزادی",
+        "غیر واضح عدم تسلسل",
+        "متغیرات کے درمیان براہِ راست فنکشنل انحصار"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
+      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-01",
+      "question_en": "Which instrument or standard methodology is used for accurate analysis in Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "options_en": {
+        "A": "Uncontrolled subjective guesswork",
+        "B": "Arbitrary non-standard scale",
+        "C": "Standard calibrated laboratory technique",
+        "D": "Rough visual estimation only"
+      },
+      "options_ur": {
+        "A": "غیر تصدیق شدہ ذاتی رائے",
+        "B": "غیر معیاری پیمانہ",
+        "C": "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
+        "D": "صرف سرسری بصری اندازہ"
+      },
+      "optionsEn": [
+        "Uncontrolled subjective guesswork",
+        "Arbitrary non-standard scale",
+        "Standard calibrated laboratory technique",
+        "Rough visual estimation only"
+      ],
+      "optionsUr": [
+        "غیر تصدیق شدہ ذاتی رائے",
+        "غیر معیاری پیمانہ",
+        "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
+        "صرف سرسری بصری اندازہ"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
+      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-02",
+      "question_en": "Under standard conditions, the expected response in Cells and Tissues is:",
+      "question_ur": "معیاری شرائط کے تحت سیلز اور ٹشوز کا متوقع ردعمل کیا ہوتا ہے؟",
+      "questionEn": "Under standard conditions, the expected response in Cells and Tissues is:",
+      "questionUr": "معیاری شرائط کے تحت سیلز اور ٹشوز کا متوقع ردعمل کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "Inverse to natural principles",
+        "B": "Reproducible and consistent with theoretical SLOs",
+        "C": "Erratic and unpredictable",
+        "D": "Zero under all environments"
+      },
+      "options_ur": {
+        "A": "قدرتی قوانین کے متضاد",
+        "B": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
+        "C": "غیر متوازن اور غیر متوقع",
+        "D": "ہر ماحول میں صفر"
+      },
+      "optionsEn": [
+        "Inverse to natural principles",
+        "Reproducible and consistent with theoretical SLOs",
+        "Erratic and unpredictable",
+        "Zero under all environments"
+      ],
+      "optionsUr": [
+        "قدرتی قوانین کے متضاد",
+        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
+        "غیر متوازن اور غیر متوقع",
+        "ہر ماحول میں صفر"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
+      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-03",
+      "question_en": "In board past papers, a frequently tested conceptual query on Cells and Tissues addresses:",
+      "question_ur": "بورڈ کے سابقہ پرچوں میں سیلز اور ٹشوز سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "questionEn": "In board past papers, a frequently tested conceptual query on Cells and Tissues addresses:",
+      "questionUr": "بورڈ کے سابقہ پرچوں میں سیلز اور ٹشوز سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "options_en": {
+        "A": "The exact governing definition and limiting conditions",
+        "B": "Historical publication date only",
+        "C": "Author's biographical footnotes",
+        "D": "Superficial general knowledge"
+      },
+      "options_ur": {
+        "A": "بنیادی تعریف اور شرائط و حدود",
+        "B": "صرف تاریخی اشاعت کی تاریخ",
+        "C": "مصنف کے سوانحی حواشی",
+        "D": "غیر متعلقہ عمومی معلومات"
+      },
+      "optionsEn": [
+        "The exact governing definition and limiting conditions",
+        "Historical publication date only",
+        "Author's biographical footnotes",
+        "Superficial general knowledge"
+      ],
+      "optionsUr": [
+        "بنیادی تعریف اور شرائط و حدود",
+        "صرف تاریخی اشاعت کی تاریخ",
+        "مصنف کے سوانحی حواشی",
+        "غیر متعلقہ عمومی معلومات"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
+      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-04",
+      "question_en": "What is the significant advantage of understanding Cells and Tissues in modern science?",
+      "question_ur": "جدید سائنس میں سیلز اور ٹشوز کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "questionEn": "What is the significant advantage of understanding Cells and Tissues in modern science?",
+      "questionUr": "جدید سائنس میں سیلز اور ٹشوز کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "options_en": {
+        "A": "Only rote memorization for single exam",
+        "B": "Has no application outside classroom",
+        "C": "Limited to theoretical speculation",
+        "D": "Enables critical analytical thinking and technological application"
+      },
+      "options_ur": {
+        "A": "صرف وقتی رٹہ بازی تک محدود",
+        "B": "کلاس روم سے باہر کوئی اطلاق نہیں",
+        "C": "صرف فرضی نظریات تک محدود",
+        "D": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے"
+      },
+      "optionsEn": [
+        "Only rote memorization for single exam",
+        "Has no application outside classroom",
+        "Limited to theoretical speculation",
+        "Enables critical analytical thinking and technological application"
+      ],
+      "optionsUr": [
+        "صرف وقتی رٹہ بازی تک محدود",
+        "کلاس روم سے باہر کوئی اطلاق نہیں",
+        "صرف فرضی نظریات تک محدود",
+        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
+      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "Which of the following statements is 100% correct regarding Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "questionEn": "Which of the following statements is 100% correct regarding Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "options_en": {
+        "A": "It has been excluded from recent syllabus",
+        "B": "It contains only subjective narratives",
+        "C": "It complies strictly with Punjab Board Curriculum 2026 guidelines",
+        "D": "It is only valid for non-science students"
+      },
+      "options_ur": {
+        "A": "اسے حالیہ نصاب سے نکال دیا گیا ہے",
+        "B": "اس میں صرف غیر سائنسی بیانات ہیں",
+        "C": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
+        "D": "یہ صرف غیر سائنسی طلبہ کے لیے ہے"
+      },
+      "optionsEn": [
+        "It has been excluded from recent syllabus",
+        "It contains only subjective narratives",
+        "It complies strictly with Punjab Board Curriculum 2026 guidelines",
+        "It is only valid for non-science students"
+      ],
+      "optionsUr": [
+        "اسے حالیہ نصاب سے نکال دیا گیا ہے",
+        "اس میں صرف غیر سائنسی بیانات ہیں",
+        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
+        "یہ صرف غیر سائنسی طلبہ کے لیے ہے"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
+      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-01",
+      "question_en": "The standard unit, formula, or fundamental rule applied in Cells and Tissues ensures:",
+      "question_ur": "سیلز اور ٹشوز میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "questionEn": "The standard unit, formula, or fundamental rule applied in Cells and Tissues ensures:",
+      "questionUr": "سیلز اور ٹشوز میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "options_en": {
+        "A": "Uncalibrated relative indices",
+        "B": "International standardization and measurement consistency",
+        "C": "Localized non-comparable values",
+        "D": "Ambiguity in scientific computation"
+      },
+      "options_ur": {
+        "A": "غیر معیاری پیمائشی نظام",
+        "B": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
+        "C": "غیر موازنہ مقامی اقدار",
+        "D": "حسابی عمل میں ابہام"
+      },
+      "optionsEn": [
+        "Uncalibrated relative indices",
+        "International standardization and measurement consistency",
+        "Localized non-comparable values",
+        "Ambiguity in scientific computation"
+      ],
+      "optionsUr": [
+        "غیر معیاری پیمائشی نظام",
+        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
+        "غیر موازنہ مقامی اقدار",
+        "حسابی عمل میں ابہام"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
+      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-02",
+      "question_en": "When comparing Cells and Tissues with analogous systems, its primary distinction is:",
+      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت سیلز اور ٹشوز کی بنیادی امتیازی خصوصیت ہے:",
+      "questionEn": "When comparing Cells and Tissues with analogous systems, its primary distinction is:",
+      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت سیلز اور ٹشوز کی بنیادی امتیازی خصوصیت ہے:",
+      "options_en": {
+        "A": "Specific textbook parameters and unique behavioral properties",
+        "B": "Total lack of measurable traits",
+        "C": "Random erratic variations",
+        "D": "Complete identity without difference"
+      },
+      "options_ur": {
+        "A": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
+        "B": "ناپنے کے قابل خصوصیات کا فقدان",
+        "C": "غیر مستحکم بے قاعدہ تبدیلیاں",
+        "D": "بغیر فرق کے مکمل مشابہت"
+      },
+      "optionsEn": [
+        "Specific textbook parameters and unique behavioral properties",
+        "Total lack of measurable traits",
+        "Random erratic variations",
+        "Complete identity without difference"
+      ],
+      "optionsUr": [
+        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
+        "ناپنے کے قابل خصوصیات کا فقدان",
+        "غیر مستحکم بے قاعدہ تبدیلیاں",
+        "بغیر فرق کے مکمل مشابہت"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
+      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔"
+    },
+    {
+      "id": 13,
+      "slo_ref": "SLO-03",
+      "question_en": "A student observing an experimental setup for Cells and Tissues must ensure:",
+      "question_ur": "سیلز اور ٹشوز کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "questionEn": "A student observing an experimental setup for Cells and Tissues must ensure:",
+      "questionUr": "سیلز اور ٹشوز کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "options_en": {
+        "A": "Ignoring zero errors completely",
+        "B": "Using unverified rough measurements",
+        "C": "Omitting observation records",
+        "D": "Minimization of systematic and personal errors"
+      },
+      "options_ur": {
+        "A": "زیرو ایرر کو مکمل نظر انداز کرنا",
+        "B": "غیر تصدیق شدہ اندازوں کا استعمال",
+        "C": "مشاہداتی ریکارڈ کو چھوڑ دینا",
+        "D": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ"
+      },
+      "optionsEn": [
+        "Ignoring zero errors completely",
+        "Using unverified rough measurements",
+        "Omitting observation records",
+        "Minimization of systematic and personal errors"
+      ],
+      "optionsUr": [
+        "زیرو ایرر کو مکمل نظر انداز کرنا",
+        "غیر تصدیق شدہ اندازوں کا استعمال",
+        "مشاہداتی ریکارڈ کو چھوڑ دینا",
+        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
+      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔"
+    },
+    {
+      "id": 14,
+      "slo_ref": "SLO-04",
+      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "options_en": {
+        "A": "Passive non-analytical reading",
+        "B": "Unstructured speculation",
+        "C": "Application and Higher Order Thinking",
+        "D": "Basic rote recall only"
+      },
+      "options_ur": {
+        "A": "غیر تجزیاتی مطالعہ",
+        "B": "غیر منظم قیاس آرائی",
+        "C": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
+        "D": "صرف سادہ رٹہ بازی"
+      },
+      "optionsEn": [
+        "Passive non-analytical reading",
+        "Unstructured speculation",
+        "Application and Higher Order Thinking",
+        "Basic rote recall only"
+      ],
+      "optionsUr": [
+        "غیر تجزیاتی مطالعہ",
+        "غیر منظم قیاس آرائی",
+        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
+        "صرف سادہ رٹہ بازی"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
+      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔"
+    },
+    {
+      "id": 15,
+      "slo_ref": "SLO-05",
+      "question_en": "Final examination questions from Cells and Tissues are framed strictly according to:",
+      "question_ur": "سیلز اور ٹشوز سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "questionEn": "Final examination questions from Cells and Tissues are framed strictly according to:",
+      "questionUr": "سیلز اور ٹشوز سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "options_en": {
+        "A": "Informal social media guides",
+        "B": "Official PTBB 2026 Student Learning Outcomes (SLOs)",
+        "C": "Random internet questionnaires",
+        "D": "Outdated foreign curriculum"
+      },
+      "options_ur": {
+        "A": "سوشل میڈیا کے غیر مصدقہ نوٹس",
+        "B": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
+        "C": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
+        "D": "پرانا متروکہ غیر ملکی نصاب"
+      },
+      "optionsEn": [
+        "Informal social media guides",
+        "Official PTBB 2026 Student Learning Outcomes (SLOs)",
+        "Random internet questionnaires",
+        "Outdated foreign curriculum"
+      ],
+      "optionsUr": [
+        "سوشل میڈیا کے غیر مصدقہ نوٹس",
+        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
+        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
+        "پرانا متروکہ غیر ملکی نصاب"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
+      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔"
+    }
+  ],
+  "short_questions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Cells and Tissues according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سیلز اور ٹشوز کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Cells and Tissues represents a foundational unit of the Class 9th Biology syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "سیلز اور ٹشوز Class 9th حیاتیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Cells and Tissues according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سیلز اور ٹشوز کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Cells and Tissues represents a foundational unit of the Class 9th Biology syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "سیلز اور ٹشوز Class 9th حیاتیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Cells and Tissues.",
+      "question_ur": "سیلز اور ٹشوز میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Cells and Tissues.",
+      "questionUr": "سیلز اور ٹشوز میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Cells and Tissues along with its standard units or notation.",
+      "question_ur": "سیلز اور ٹشوز کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Cells and Tissues along with its standard units or notation.",
+      "questionUr": "سیلز اور ٹشوز کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Cells and Tissues.",
+      "question_ur": "سیلز اور ٹشوز میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Cells and Tissues.",
+      "questionUr": "سیلز اور ٹشوز میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Cells and Tissues considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں سیلز اور ٹشوز کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Cells and Tissues considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں سیلز اور ٹشوز کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Cells and Tissues.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سیلز اور ٹشوز کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Cells and Tissues, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سیلز اور ٹشوز کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Cells and Tissues.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سیلز اور ٹشوز کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Cells and Tissues, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سیلز اور ٹشوز کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Cells and Tissues.",
+      "question_ur": "بورڈ کے پرچوں میں سیلز اور ٹشوز سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Cells and Tissues.",
+      "questionUr": "بورڈ کے پرچوں میں سیلز اور ٹشوز سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Cells and Tissues?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو سیلز اور ٹشوز پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Cells and Tissues?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو سیلز اور ٹشوز پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Cells and Tissues for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے سیلز اور ٹشوز کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Cells and Tissues requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "سیلز اور ٹشوز پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Cells and Tissues for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے سیلز اور ٹشوز کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Cells and Tissues requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "سیلز اور ٹشوز پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Cells and Tissues according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سیلز اور ٹشوز کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Cells and Tissues represents a foundational unit of the Class 9th Biology syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "سیلز اور ٹشوز Class 9th حیاتیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Cells and Tissues according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سیلز اور ٹشوز کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Cells and Tissues represents a foundational unit of the Class 9th Biology syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "سیلز اور ٹشوز Class 9th حیاتیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Cells and Tissues.",
+      "question_ur": "سیلز اور ٹشوز میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Cells and Tissues.",
+      "questionUr": "سیلز اور ٹشوز میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Cells and Tissues along with its standard units or notation.",
+      "question_ur": "سیلز اور ٹشوز کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Cells and Tissues along with its standard units or notation.",
+      "questionUr": "سیلز اور ٹشوز کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Cells and Tissues.",
+      "question_ur": "سیلز اور ٹشوز میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Cells and Tissues.",
+      "questionUr": "سیلز اور ٹشوز میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Cells and Tissues considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں سیلز اور ٹشوز کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Cells and Tissues considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں سیلز اور ٹشوز کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Cells and Tissues.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سیلز اور ٹشوز کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Cells and Tissues, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سیلز اور ٹشوز کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Cells and Tissues.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سیلز اور ٹشوز کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Cells and Tissues, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سیلز اور ٹشوز کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Cells and Tissues.",
+      "question_ur": "بورڈ کے پرچوں میں سیلز اور ٹشوز سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Cells and Tissues.",
+      "questionUr": "بورڈ کے پرچوں میں سیلز اور ٹشوز سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Cells and Tissues?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو سیلز اور ٹشوز پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Cells and Tissues?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو سیلز اور ٹشوز پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Cells and Tissues?",
+      "question_ur": "سیلز اور ٹشوز کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Cells and Tissues?",
+      "questionUr": "سیلز اور ٹشوز کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Cells and Tissues for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے سیلز اور ٹشوز کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Cells and Tissues requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "سیلز اور ٹشوز پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Cells and Tissues for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے سیلز اور ٹشوز کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Cells and Tissues requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "سیلز اور ٹشوز پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "vocab": []
+}

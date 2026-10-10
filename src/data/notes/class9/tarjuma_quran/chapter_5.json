@@ -1,0 +1,913 @@
+{
+  "class": "Class 9th",
+  "group": "Science Group",
+  "subject": "Tarjuma-tul-Quran-ul-Majeed",
+  "chapter_no": 5,
+  "chapterNo": 5,
+  "chapter_title": {
+    "en": "Surah Al-Furqan",
+    "ur": "سورۃ الفرقان"
+  },
+  "titleEn": "Surah Al-Furqan",
+  "titleUr": "سورۃ الفرقان",
+  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 9th Tarjuma-tul-Quran-ul-Majeed, Unit 5: Surah Al-Furqan. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 9th ترجمۃ القرآن المجید، یونٹ 5: سورۃ الفرقان کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
+  "curriculum": "PTBB Curriculum 2026",
+  "slos": [
+    {
+      "code": "SLO-01",
+      "domain": "Knowledge",
+      "text_en": "Define and identify fundamental terms, principles, and concepts related to Surah Al-Furqan.",
+      "text_ur": "سورۃ الفرقان کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
+    },
+    {
+      "code": "SLO-02",
+      "domain": "Knowledge",
+      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Surah Al-Furqan.",
+      "text_ur": "سورۃ الفرقان کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
+    },
+    {
+      "code": "SLO-03",
+      "domain": "Understanding",
+      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Surah Al-Furqan.",
+      "text_ur": "سورۃ الفرقان کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
+    },
+    {
+      "code": "SLO-04",
+      "domain": "Understanding",
+      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Surah Al-Furqan.",
+      "text_ur": "سورۃ الفرقان کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
+    },
+    {
+      "code": "SLO-05",
+      "domain": "Application",
+      "text_en": "Apply theoretical principles of Surah Al-Furqan to solve standard board exam analytical questions and practical problems.",
+      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے سورۃ الفرقان کے اصولوں کا اطلاق کریں۔"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "The primary scientific concept or definition established in Unit 5 is:",
+      "question_ur": "یونٹ نمبر 5 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "questionEn": "The primary scientific concept or definition established in Unit 5 is:",
+      "questionUr": "یونٹ نمبر 5 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "options_en": {
+        "A": "Secondary random observation",
+        "B": "Unrelated physical magnitude",
+        "C": "Fundamental principle of Surah Al-Furqan",
+        "D": "Hypothetical auxiliary factor"
+      },
+      "options_ur": {
+        "A": "ثانوی غیر متعلقہ مشاہدہ",
+        "B": "غیر متعلقہ طبعی مقدار",
+        "C": "سورۃ الفرقان کا بنیادی سائنسی اصول",
+        "D": "فرضی اضافی عنصر"
+      },
+      "optionsEn": [
+        "Secondary random observation",
+        "Unrelated physical magnitude",
+        "Fundamental principle of Surah Al-Furqan",
+        "Hypothetical auxiliary factor"
+      ],
+      "optionsUr": [
+        "ثانوی غیر متعلقہ مشاہدہ",
+        "غیر متعلقہ طبعی مقدار",
+        "سورۃ الفرقان کا بنیادی سائنسی اصول",
+        "فرضی اضافی عنصر"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Surah Al-Furqan.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو سورۃ الفرقان کے لیے بنیادی قرار دیا گیا ہے۔",
+      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Surah Al-Furqan.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو سورۃ الفرقان کے لیے بنیادی قرار دیا گیا ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-02",
+      "question_en": "Which one of the following is the key characteristic feature of Surah Al-Furqan?",
+      "question_ur": "مندرجہ ذیل میں سے کون سی سورۃ الفرقان کی کلیدی خصوصیت ہے؟",
+      "questionEn": "Which one of the following is the key characteristic feature of Surah Al-Furqan?",
+      "questionUr": "مندرجہ ذیل میں سے کون سی سورۃ الفرقان کی کلیدی خصوصیت ہے؟",
+      "options_en": {
+        "A": "Unverifiable speculation",
+        "B": "High precision and universal validity",
+        "C": "Random non-repeatable outcome",
+        "D": "Total absence of governing law"
+      },
+      "options_ur": {
+        "A": "غیر تصدیق شدہ قیاس آرائی",
+        "B": "اعلیٰ درستگی اور آفاقی اطلاق",
+        "C": "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
+        "D": "بنیادی قانون کی مکمل عدم موجودگی"
+      },
+      "optionsEn": [
+        "Unverifiable speculation",
+        "High precision and universal validity",
+        "Random non-repeatable outcome",
+        "Total absence of governing law"
+      ],
+      "optionsUr": [
+        "غیر تصدیق شدہ قیاس آرائی",
+        "اعلیٰ درستگی اور آفاقی اطلاق",
+        "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
+        "بنیادی قانون کی مکمل عدم موجودگی"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "According to board examination standards, Surah Al-Furqan exhibits rigorous scientific consistency and validity.",
+      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، سورۃ الفرقان سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
+      "explanationEn": "According to board examination standards, Surah Al-Furqan exhibits rigorous scientific consistency and validity.",
+      "explanationUr": "بورڈ امتحانی معیار کے مطابق، سورۃ الفرقان سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-03",
+      "question_en": "In standard Punjab Board examinations, Surah Al-Furqan is classified under:",
+      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق سورۃ الفرقان کا تعلق کس سے ہے؟",
+      "questionEn": "In standard Punjab Board examinations, Surah Al-Furqan is classified under:",
+      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق سورۃ الفرقان کا تعلق کس سے ہے؟",
+      "options_en": {
+        "A": "Core Science Curriculum 2026",
+        "B": "General Arts stream",
+        "C": "Non-compulsory elective",
+        "D": "Out-of-syllabus literature"
+      },
+      "options_ur": {
+        "A": "بنیادی سائنس نصاب 2026",
+        "B": "جنرل آرٹس گروپ",
+        "C": "غیر اختیاری مضمون",
+        "D": "غیر نصابی ادب"
+      },
+      "optionsEn": [
+        "Core Science Curriculum 2026",
+        "General Arts stream",
+        "Non-compulsory elective",
+        "Out-of-syllabus literature"
+      ],
+      "optionsUr": [
+        "بنیادی سائنس نصاب 2026",
+        "جنرل آرٹس گروپ",
+        "غیر اختیاری مضمون",
+        "غیر نصابی ادب"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
+      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
+      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
+      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-04",
+      "question_en": "What happens when the controlling parameters of Surah Al-Furqan are optimized?",
+      "question_ur": "جب سورۃ الفرقان کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "questionEn": "What happens when the controlling parameters of Surah Al-Furqan are optimized?",
+      "questionUr": "جب سورۃ الفرقان کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "The mechanism completely ceases",
+        "B": "Spontaneous chaotic degradation occurs",
+        "C": "Output drops to zero",
+        "D": "The process achieves optimal efficiency and stability"
+      },
+      "options_ur": {
+        "A": "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
+        "B": "بے ترتیبی کا عمل شروع ہوتا ہے",
+        "C": "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
+        "D": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے"
+      },
+      "optionsEn": [
+        "The mechanism completely ceases",
+        "Spontaneous chaotic degradation occurs",
+        "Output drops to zero",
+        "The process achieves optimal efficiency and stability"
+      ],
+      "optionsUr": [
+        "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
+        "بے ترتیبی کا عمل شروع ہوتا ہے",
+        "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
+        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
+      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-05",
+      "question_en": "The mathematical or logical relationship established in Surah Al-Furqan indicates that:",
+      "question_ur": "سورۃ الفرقان میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "questionEn": "The mathematical or logical relationship established in Surah Al-Furqan indicates that:",
+      "questionUr": "سورۃ الفرقان میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "options_en": {
+        "A": "Complete independence with zero correlation",
+        "B": "Undefined asymptotic discontinuity",
+        "C": "Direct functional interdependence between variables",
+        "D": "Inverse random unpredictability"
+      },
+      "options_ur": {
+        "A": "بغیر تعلق کے مکمل آزادی",
+        "B": "غیر واضح عدم تسلسل",
+        "C": "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
+        "D": "غیر متوقع معکوس بے ترتیبی"
+      },
+      "optionsEn": [
+        "Complete independence with zero correlation",
+        "Undefined asymptotic discontinuity",
+        "Direct functional interdependence between variables",
+        "Inverse random unpredictability"
+      ],
+      "optionsUr": [
+        "بغیر تعلق کے مکمل آزادی",
+        "غیر واضح عدم تسلسل",
+        "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
+        "غیر متوقع معکوس بے ترتیبی"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
+      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-01",
+      "question_en": "Which instrument or standard methodology is used for accurate analysis in Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "options_en": {
+        "A": "Arbitrary non-standard scale",
+        "B": "Standard calibrated laboratory technique",
+        "C": "Rough visual estimation only",
+        "D": "Uncontrolled subjective guesswork"
+      },
+      "options_ur": {
+        "A": "غیر معیاری پیمانہ",
+        "B": "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
+        "C": "صرف سرسری بصری اندازہ",
+        "D": "غیر تصدیق شدہ ذاتی رائے"
+      },
+      "optionsEn": [
+        "Arbitrary non-standard scale",
+        "Standard calibrated laboratory technique",
+        "Rough visual estimation only",
+        "Uncontrolled subjective guesswork"
+      ],
+      "optionsUr": [
+        "غیر معیاری پیمانہ",
+        "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
+        "صرف سرسری بصری اندازہ",
+        "غیر تصدیق شدہ ذاتی رائے"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
+      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-02",
+      "question_en": "Under standard conditions, the expected response in Surah Al-Furqan is:",
+      "question_ur": "معیاری شرائط کے تحت سورۃ الفرقان کا متوقع ردعمل کیا ہوتا ہے؟",
+      "questionEn": "Under standard conditions, the expected response in Surah Al-Furqan is:",
+      "questionUr": "معیاری شرائط کے تحت سورۃ الفرقان کا متوقع ردعمل کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "Reproducible and consistent with theoretical SLOs",
+        "B": "Erratic and unpredictable",
+        "C": "Zero under all environments",
+        "D": "Inverse to natural principles"
+      },
+      "options_ur": {
+        "A": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
+        "B": "غیر متوازن اور غیر متوقع",
+        "C": "ہر ماحول میں صفر",
+        "D": "قدرتی قوانین کے متضاد"
+      },
+      "optionsEn": [
+        "Reproducible and consistent with theoretical SLOs",
+        "Erratic and unpredictable",
+        "Zero under all environments",
+        "Inverse to natural principles"
+      ],
+      "optionsUr": [
+        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
+        "غیر متوازن اور غیر متوقع",
+        "ہر ماحول میں صفر",
+        "قدرتی قوانین کے متضاد"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
+      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-03",
+      "question_en": "In board past papers, a frequently tested conceptual query on Surah Al-Furqan addresses:",
+      "question_ur": "بورڈ کے سابقہ پرچوں میں سورۃ الفرقان سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "questionEn": "In board past papers, a frequently tested conceptual query on Surah Al-Furqan addresses:",
+      "questionUr": "بورڈ کے سابقہ پرچوں میں سورۃ الفرقان سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "options_en": {
+        "A": "Historical publication date only",
+        "B": "Author's biographical footnotes",
+        "C": "Superficial general knowledge",
+        "D": "The exact governing definition and limiting conditions"
+      },
+      "options_ur": {
+        "A": "صرف تاریخی اشاعت کی تاریخ",
+        "B": "مصنف کے سوانحی حواشی",
+        "C": "غیر متعلقہ عمومی معلومات",
+        "D": "بنیادی تعریف اور شرائط و حدود"
+      },
+      "optionsEn": [
+        "Historical publication date only",
+        "Author's biographical footnotes",
+        "Superficial general knowledge",
+        "The exact governing definition and limiting conditions"
+      ],
+      "optionsUr": [
+        "صرف تاریخی اشاعت کی تاریخ",
+        "مصنف کے سوانحی حواشی",
+        "غیر متعلقہ عمومی معلومات",
+        "بنیادی تعریف اور شرائط و حدود"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
+      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-04",
+      "question_en": "What is the significant advantage of understanding Surah Al-Furqan in modern science?",
+      "question_ur": "جدید سائنس میں سورۃ الفرقان کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "questionEn": "What is the significant advantage of understanding Surah Al-Furqan in modern science?",
+      "questionUr": "جدید سائنس میں سورۃ الفرقان کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "options_en": {
+        "A": "Has no application outside classroom",
+        "B": "Limited to theoretical speculation",
+        "C": "Enables critical analytical thinking and technological application",
+        "D": "Only rote memorization for single exam"
+      },
+      "options_ur": {
+        "A": "کلاس روم سے باہر کوئی اطلاق نہیں",
+        "B": "صرف فرضی نظریات تک محدود",
+        "C": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
+        "D": "صرف وقتی رٹہ بازی تک محدود"
+      },
+      "optionsEn": [
+        "Has no application outside classroom",
+        "Limited to theoretical speculation",
+        "Enables critical analytical thinking and technological application",
+        "Only rote memorization for single exam"
+      ],
+      "optionsUr": [
+        "کلاس روم سے باہر کوئی اطلاق نہیں",
+        "صرف فرضی نظریات تک محدود",
+        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
+        "صرف وقتی رٹہ بازی تک محدود"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
+      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "Which of the following statements is 100% correct regarding Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "questionEn": "Which of the following statements is 100% correct regarding Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "options_en": {
+        "A": "It contains only subjective narratives",
+        "B": "It complies strictly with Punjab Board Curriculum 2026 guidelines",
+        "C": "It is only valid for non-science students",
+        "D": "It has been excluded from recent syllabus"
+      },
+      "options_ur": {
+        "A": "اس میں صرف غیر سائنسی بیانات ہیں",
+        "B": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
+        "C": "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
+        "D": "اسے حالیہ نصاب سے نکال دیا گیا ہے"
+      },
+      "optionsEn": [
+        "It contains only subjective narratives",
+        "It complies strictly with Punjab Board Curriculum 2026 guidelines",
+        "It is only valid for non-science students",
+        "It has been excluded from recent syllabus"
+      ],
+      "optionsUr": [
+        "اس میں صرف غیر سائنسی بیانات ہیں",
+        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
+        "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
+        "اسے حالیہ نصاب سے نکال دیا گیا ہے"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
+      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-01",
+      "question_en": "The standard unit, formula, or fundamental rule applied in Surah Al-Furqan ensures:",
+      "question_ur": "سورۃ الفرقان میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "questionEn": "The standard unit, formula, or fundamental rule applied in Surah Al-Furqan ensures:",
+      "questionUr": "سورۃ الفرقان میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "options_en": {
+        "A": "International standardization and measurement consistency",
+        "B": "Localized non-comparable values",
+        "C": "Ambiguity in scientific computation",
+        "D": "Uncalibrated relative indices"
+      },
+      "options_ur": {
+        "A": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
+        "B": "غیر موازنہ مقامی اقدار",
+        "C": "حسابی عمل میں ابہام",
+        "D": "غیر معیاری پیمائشی نظام"
+      },
+      "optionsEn": [
+        "International standardization and measurement consistency",
+        "Localized non-comparable values",
+        "Ambiguity in scientific computation",
+        "Uncalibrated relative indices"
+      ],
+      "optionsUr": [
+        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
+        "غیر موازنہ مقامی اقدار",
+        "حسابی عمل میں ابہام",
+        "غیر معیاری پیمائشی نظام"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
+      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-02",
+      "question_en": "When comparing Surah Al-Furqan with analogous systems, its primary distinction is:",
+      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت سورۃ الفرقان کی بنیادی امتیازی خصوصیت ہے:",
+      "questionEn": "When comparing Surah Al-Furqan with analogous systems, its primary distinction is:",
+      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت سورۃ الفرقان کی بنیادی امتیازی خصوصیت ہے:",
+      "options_en": {
+        "A": "Total lack of measurable traits",
+        "B": "Random erratic variations",
+        "C": "Complete identity without difference",
+        "D": "Specific textbook parameters and unique behavioral properties"
+      },
+      "options_ur": {
+        "A": "ناپنے کے قابل خصوصیات کا فقدان",
+        "B": "غیر مستحکم بے قاعدہ تبدیلیاں",
+        "C": "بغیر فرق کے مکمل مشابہت",
+        "D": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات"
+      },
+      "optionsEn": [
+        "Total lack of measurable traits",
+        "Random erratic variations",
+        "Complete identity without difference",
+        "Specific textbook parameters and unique behavioral properties"
+      ],
+      "optionsUr": [
+        "ناپنے کے قابل خصوصیات کا فقدان",
+        "غیر مستحکم بے قاعدہ تبدیلیاں",
+        "بغیر فرق کے مکمل مشابہت",
+        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
+      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔"
+    },
+    {
+      "id": 13,
+      "slo_ref": "SLO-03",
+      "question_en": "A student observing an experimental setup for Surah Al-Furqan must ensure:",
+      "question_ur": "سورۃ الفرقان کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "questionEn": "A student observing an experimental setup for Surah Al-Furqan must ensure:",
+      "questionUr": "سورۃ الفرقان کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "options_en": {
+        "A": "Using unverified rough measurements",
+        "B": "Omitting observation records",
+        "C": "Minimization of systematic and personal errors",
+        "D": "Ignoring zero errors completely"
+      },
+      "options_ur": {
+        "A": "غیر تصدیق شدہ اندازوں کا استعمال",
+        "B": "مشاہداتی ریکارڈ کو چھوڑ دینا",
+        "C": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
+        "D": "زیرو ایرر کو مکمل نظر انداز کرنا"
+      },
+      "optionsEn": [
+        "Using unverified rough measurements",
+        "Omitting observation records",
+        "Minimization of systematic and personal errors",
+        "Ignoring zero errors completely"
+      ],
+      "optionsUr": [
+        "غیر تصدیق شدہ اندازوں کا استعمال",
+        "مشاہداتی ریکارڈ کو چھوڑ دینا",
+        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
+        "زیرو ایرر کو مکمل نظر انداز کرنا"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
+      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔"
+    },
+    {
+      "id": 14,
+      "slo_ref": "SLO-04",
+      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "options_en": {
+        "A": "Unstructured speculation",
+        "B": "Application and Higher Order Thinking",
+        "C": "Basic rote recall only",
+        "D": "Passive non-analytical reading"
+      },
+      "options_ur": {
+        "A": "غیر منظم قیاس آرائی",
+        "B": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
+        "C": "صرف سادہ رٹہ بازی",
+        "D": "غیر تجزیاتی مطالعہ"
+      },
+      "optionsEn": [
+        "Unstructured speculation",
+        "Application and Higher Order Thinking",
+        "Basic rote recall only",
+        "Passive non-analytical reading"
+      ],
+      "optionsUr": [
+        "غیر منظم قیاس آرائی",
+        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
+        "صرف سادہ رٹہ بازی",
+        "غیر تجزیاتی مطالعہ"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
+      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔"
+    },
+    {
+      "id": 15,
+      "slo_ref": "SLO-05",
+      "question_en": "Final examination questions from Surah Al-Furqan are framed strictly according to:",
+      "question_ur": "سورۃ الفرقان سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "questionEn": "Final examination questions from Surah Al-Furqan are framed strictly according to:",
+      "questionUr": "سورۃ الفرقان سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "options_en": {
+        "A": "Official PTBB 2026 Student Learning Outcomes (SLOs)",
+        "B": "Random internet questionnaires",
+        "C": "Outdated foreign curriculum",
+        "D": "Informal social media guides"
+      },
+      "options_ur": {
+        "A": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
+        "B": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
+        "C": "پرانا متروکہ غیر ملکی نصاب",
+        "D": "سوشل میڈیا کے غیر مصدقہ نوٹس"
+      },
+      "optionsEn": [
+        "Official PTBB 2026 Student Learning Outcomes (SLOs)",
+        "Random internet questionnaires",
+        "Outdated foreign curriculum",
+        "Informal social media guides"
+      ],
+      "optionsUr": [
+        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
+        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
+        "پرانا متروکہ غیر ملکی نصاب",
+        "سوشل میڈیا کے غیر مصدقہ نوٹس"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
+      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔"
+    }
+  ],
+  "short_questions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Surah Al-Furqan according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سورۃ الفرقان کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Surah Al-Furqan represents a foundational unit of the Class 9th Tarjuma-tul-Quran-ul-Majeed syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "سورۃ الفرقان Class 9th ترجمۃ القرآن المجید کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Surah Al-Furqan according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سورۃ الفرقان کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Surah Al-Furqan represents a foundational unit of the Class 9th Tarjuma-tul-Quran-ul-Majeed syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "سورۃ الفرقان Class 9th ترجمۃ القرآن المجید کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Surah Al-Furqan.",
+      "question_ur": "سورۃ الفرقان میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Surah Al-Furqan.",
+      "questionUr": "سورۃ الفرقان میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Surah Al-Furqan along with its standard units or notation.",
+      "question_ur": "سورۃ الفرقان کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Surah Al-Furqan along with its standard units or notation.",
+      "questionUr": "سورۃ الفرقان کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Surah Al-Furqan.",
+      "question_ur": "سورۃ الفرقان میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Surah Al-Furqan.",
+      "questionUr": "سورۃ الفرقان میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Surah Al-Furqan considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں سورۃ الفرقان کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Surah Al-Furqan considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں سورۃ الفرقان کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Surah Al-Furqan.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سورۃ الفرقان کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Surah Al-Furqan, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سورۃ الفرقان کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Surah Al-Furqan.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سورۃ الفرقان کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Surah Al-Furqan, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سورۃ الفرقان کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Surah Al-Furqan.",
+      "question_ur": "بورڈ کے پرچوں میں سورۃ الفرقان سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Surah Al-Furqan.",
+      "questionUr": "بورڈ کے پرچوں میں سورۃ الفرقان سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Surah Al-Furqan?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو سورۃ الفرقان پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Surah Al-Furqan?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو سورۃ الفرقان پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Surah Al-Furqan for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے سورۃ الفرقان کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Surah Al-Furqan requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "سورۃ الفرقان پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Surah Al-Furqan for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے سورۃ الفرقان کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Surah Al-Furqan requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "سورۃ الفرقان پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Surah Al-Furqan according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سورۃ الفرقان کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Surah Al-Furqan represents a foundational unit of the Class 9th Tarjuma-tul-Quran-ul-Majeed syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "سورۃ الفرقان Class 9th ترجمۃ القرآن المجید کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Surah Al-Furqan according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق سورۃ الفرقان کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Surah Al-Furqan represents a foundational unit of the Class 9th Tarjuma-tul-Quran-ul-Majeed syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "سورۃ الفرقان Class 9th ترجمۃ القرآن المجید کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Surah Al-Furqan.",
+      "question_ur": "سورۃ الفرقان میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Surah Al-Furqan.",
+      "questionUr": "سورۃ الفرقان میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Surah Al-Furqan along with its standard units or notation.",
+      "question_ur": "سورۃ الفرقان کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Surah Al-Furqan along with its standard units or notation.",
+      "questionUr": "سورۃ الفرقان کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Surah Al-Furqan.",
+      "question_ur": "سورۃ الفرقان میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Surah Al-Furqan.",
+      "questionUr": "سورۃ الفرقان میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Surah Al-Furqan considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں سورۃ الفرقان کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Surah Al-Furqan considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں سورۃ الفرقان کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Surah Al-Furqan.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سورۃ الفرقان کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Surah Al-Furqan, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سورۃ الفرقان کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Surah Al-Furqan.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو سورۃ الفرقان کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Surah Al-Furqan, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام سورۃ الفرقان کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Surah Al-Furqan.",
+      "question_ur": "بورڈ کے پرچوں میں سورۃ الفرقان سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Surah Al-Furqan.",
+      "questionUr": "بورڈ کے پرچوں میں سورۃ الفرقان سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Surah Al-Furqan?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو سورۃ الفرقان پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Surah Al-Furqan?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو سورۃ الفرقان پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Surah Al-Furqan?",
+      "question_ur": "سورۃ الفرقان کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Surah Al-Furqan?",
+      "questionUr": "سورۃ الفرقان کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Surah Al-Furqan for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے سورۃ الفرقان کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Surah Al-Furqan requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "سورۃ الفرقان پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Surah Al-Furqan for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے سورۃ الفرقان کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Surah Al-Furqan requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "سورۃ الفرقان پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "vocab": []
+}

@@ -1,0 +1,934 @@
+{
+  "class": "Class 10th",
+  "group": "Science Group",
+  "subject": "Urdu",
+  "chapter_no": 3,
+  "chapterNo": 3,
+  "chapter_title": {
+    "en": "Hissa Nasar: Paristan ki Shahzadi",
+    "ur": "حصہ نثر: پرستان کی شہزادی"
+  },
+  "titleEn": "Hissa Nasar: Paristan ki Shahzadi",
+  "titleUr": "حصہ نثر: پرستان کی شہزادی",
+  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 10th Urdu, Unit 3: Hissa Nasar: Paristan ki Shahzadi. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 10th اردو لازمی، یونٹ 3: حصہ نثر: پرستان کی شہزادی کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
+  "curriculum": "PTBB Curriculum 2026",
+  "slos": [
+    {
+      "code": "SLO-01",
+      "domain": "Knowledge",
+      "text_en": "Define and identify fundamental terms, principles, and concepts related to Hissa Nasar: Paristan ki Shahzadi.",
+      "text_ur": "حصہ نثر: پرستان کی شہزادی کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
+    },
+    {
+      "code": "SLO-02",
+      "domain": "Knowledge",
+      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Hissa Nasar: Paristan ki Shahzadi.",
+      "text_ur": "حصہ نثر: پرستان کی شہزادی کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
+    },
+    {
+      "code": "SLO-03",
+      "domain": "Understanding",
+      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Hissa Nasar: Paristan ki Shahzadi.",
+      "text_ur": "حصہ نثر: پرستان کی شہزادی کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
+    },
+    {
+      "code": "SLO-04",
+      "domain": "Understanding",
+      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Hissa Nasar: Paristan ki Shahzadi.",
+      "text_ur": "حصہ نثر: پرستان کی شہزادی کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
+    },
+    {
+      "code": "SLO-05",
+      "domain": "Application",
+      "text_en": "Apply theoretical principles of Hissa Nasar: Paristan ki Shahzadi to solve standard board exam analytical questions and practical problems.",
+      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے حصہ نثر: پرستان کی شہزادی کے اصولوں کا اطلاق کریں۔"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "The primary scientific concept or definition established in Unit 3 is:",
+      "question_ur": "یونٹ نمبر 3 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "questionEn": "The primary scientific concept or definition established in Unit 3 is:",
+      "questionUr": "یونٹ نمبر 3 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "options_en": {
+        "A": "Fundamental principle of Hissa Nasar: Paristan ki Shahzadi",
+        "B": "Hypothetical auxiliary factor",
+        "C": "Secondary random observation",
+        "D": "Unrelated physical magnitude"
+      },
+      "options_ur": {
+        "A": "حصہ نثر: پرستان کی شہزادی کا بنیادی سائنسی اصول",
+        "B": "فرضی اضافی عنصر",
+        "C": "ثانوی غیر متعلقہ مشاہدہ",
+        "D": "غیر متعلقہ طبعی مقدار"
+      },
+      "optionsEn": [
+        "Fundamental principle of Hissa Nasar: Paristan ki Shahzadi",
+        "Hypothetical auxiliary factor",
+        "Secondary random observation",
+        "Unrelated physical magnitude"
+      ],
+      "optionsUr": [
+        "حصہ نثر: پرستان کی شہزادی کا بنیادی سائنسی اصول",
+        "فرضی اضافی عنصر",
+        "ثانوی غیر متعلقہ مشاہدہ",
+        "غیر متعلقہ طبعی مقدار"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Hissa Nasar: Paristan ki Shahzadi.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو حصہ نثر: پرستان کی شہزادی کے لیے بنیادی قرار دیا گیا ہے۔",
+      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Hissa Nasar: Paristan ki Shahzadi.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو حصہ نثر: پرستان کی شہزادی کے لیے بنیادی قرار دیا گیا ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-02",
+      "question_en": "Which one of the following is the key characteristic feature of Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "مندرجہ ذیل میں سے کون سی حصہ نثر: پرستان کی شہزادی کی کلیدی خصوصیت ہے؟",
+      "questionEn": "Which one of the following is the key characteristic feature of Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "مندرجہ ذیل میں سے کون سی حصہ نثر: پرستان کی شہزادی کی کلیدی خصوصیت ہے؟",
+      "options_en": {
+        "A": "Random non-repeatable outcome",
+        "B": "Total absence of governing law",
+        "C": "Unverifiable speculation",
+        "D": "High precision and universal validity"
+      },
+      "options_ur": {
+        "A": "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
+        "B": "بنیادی قانون کی مکمل عدم موجودگی",
+        "C": "غیر تصدیق شدہ قیاس آرائی",
+        "D": "اعلیٰ درستگی اور آفاقی اطلاق"
+      },
+      "optionsEn": [
+        "Random non-repeatable outcome",
+        "Total absence of governing law",
+        "Unverifiable speculation",
+        "High precision and universal validity"
+      ],
+      "optionsUr": [
+        "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
+        "بنیادی قانون کی مکمل عدم موجودگی",
+        "غیر تصدیق شدہ قیاس آرائی",
+        "اعلیٰ درستگی اور آفاقی اطلاق"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "According to board examination standards, Hissa Nasar: Paristan ki Shahzadi exhibits rigorous scientific consistency and validity.",
+      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، حصہ نثر: پرستان کی شہزادی سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
+      "explanationEn": "According to board examination standards, Hissa Nasar: Paristan ki Shahzadi exhibits rigorous scientific consistency and validity.",
+      "explanationUr": "بورڈ امتحانی معیار کے مطابق، حصہ نثر: پرستان کی شہزادی سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-03",
+      "question_en": "In standard Punjab Board examinations, Hissa Nasar: Paristan ki Shahzadi is classified under:",
+      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق حصہ نثر: پرستان کی شہزادی کا تعلق کس سے ہے؟",
+      "questionEn": "In standard Punjab Board examinations, Hissa Nasar: Paristan ki Shahzadi is classified under:",
+      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق حصہ نثر: پرستان کی شہزادی کا تعلق کس سے ہے؟",
+      "options_en": {
+        "A": "Non-compulsory elective",
+        "B": "Out-of-syllabus literature",
+        "C": "Core Science Curriculum 2026",
+        "D": "General Arts stream"
+      },
+      "options_ur": {
+        "A": "غیر اختیاری مضمون",
+        "B": "غیر نصابی ادب",
+        "C": "بنیادی سائنس نصاب 2026",
+        "D": "جنرل آرٹس گروپ"
+      },
+      "optionsEn": [
+        "Non-compulsory elective",
+        "Out-of-syllabus literature",
+        "Core Science Curriculum 2026",
+        "General Arts stream"
+      ],
+      "optionsUr": [
+        "غیر اختیاری مضمون",
+        "غیر نصابی ادب",
+        "بنیادی سائنس نصاب 2026",
+        "جنرل آرٹس گروپ"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
+      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
+      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
+      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-04",
+      "question_en": "What happens when the controlling parameters of Hissa Nasar: Paristan ki Shahzadi are optimized?",
+      "question_ur": "جب حصہ نثر: پرستان کی شہزادی کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "questionEn": "What happens when the controlling parameters of Hissa Nasar: Paristan ki Shahzadi are optimized?",
+      "questionUr": "جب حصہ نثر: پرستان کی شہزادی کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "Output drops to zero",
+        "B": "The process achieves optimal efficiency and stability",
+        "C": "The mechanism completely ceases",
+        "D": "Spontaneous chaotic degradation occurs"
+      },
+      "options_ur": {
+        "A": "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
+        "B": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
+        "C": "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
+        "D": "بے ترتیبی کا عمل شروع ہوتا ہے"
+      },
+      "optionsEn": [
+        "Output drops to zero",
+        "The process achieves optimal efficiency and stability",
+        "The mechanism completely ceases",
+        "Spontaneous chaotic degradation occurs"
+      ],
+      "optionsUr": [
+        "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
+        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
+        "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
+        "بے ترتیبی کا عمل شروع ہوتا ہے"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
+      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-05",
+      "question_en": "The mathematical or logical relationship established in Hissa Nasar: Paristan ki Shahzadi indicates that:",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "questionEn": "The mathematical or logical relationship established in Hissa Nasar: Paristan ki Shahzadi indicates that:",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "options_en": {
+        "A": "Direct functional interdependence between variables",
+        "B": "Inverse random unpredictability",
+        "C": "Complete independence with zero correlation",
+        "D": "Undefined asymptotic discontinuity"
+      },
+      "options_ur": {
+        "A": "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
+        "B": "غیر متوقع معکوس بے ترتیبی",
+        "C": "بغیر تعلق کے مکمل آزادی",
+        "D": "غیر واضح عدم تسلسل"
+      },
+      "optionsEn": [
+        "Direct functional interdependence between variables",
+        "Inverse random unpredictability",
+        "Complete independence with zero correlation",
+        "Undefined asymptotic discontinuity"
+      ],
+      "optionsUr": [
+        "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
+        "غیر متوقع معکوس بے ترتیبی",
+        "بغیر تعلق کے مکمل آزادی",
+        "غیر واضح عدم تسلسل"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
+      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-01",
+      "question_en": "Which instrument or standard methodology is used for accurate analysis in Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "options_en": {
+        "A": "Rough visual estimation only",
+        "B": "Uncontrolled subjective guesswork",
+        "C": "Arbitrary non-standard scale",
+        "D": "Standard calibrated laboratory technique"
+      },
+      "options_ur": {
+        "A": "صرف سرسری بصری اندازہ",
+        "B": "غیر تصدیق شدہ ذاتی رائے",
+        "C": "غیر معیاری پیمانہ",
+        "D": "معیاری کیلیبریٹڈ لیبارٹری تکنیک"
+      },
+      "optionsEn": [
+        "Rough visual estimation only",
+        "Uncontrolled subjective guesswork",
+        "Arbitrary non-standard scale",
+        "Standard calibrated laboratory technique"
+      ],
+      "optionsUr": [
+        "صرف سرسری بصری اندازہ",
+        "غیر تصدیق شدہ ذاتی رائے",
+        "غیر معیاری پیمانہ",
+        "معیاری کیلیبریٹڈ لیبارٹری تکنیک"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
+      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-02",
+      "question_en": "Under standard conditions, the expected response in Hissa Nasar: Paristan ki Shahzadi is:",
+      "question_ur": "معیاری شرائط کے تحت حصہ نثر: پرستان کی شہزادی کا متوقع ردعمل کیا ہوتا ہے؟",
+      "questionEn": "Under standard conditions, the expected response in Hissa Nasar: Paristan ki Shahzadi is:",
+      "questionUr": "معیاری شرائط کے تحت حصہ نثر: پرستان کی شہزادی کا متوقع ردعمل کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "Zero under all environments",
+        "B": "Inverse to natural principles",
+        "C": "Reproducible and consistent with theoretical SLOs",
+        "D": "Erratic and unpredictable"
+      },
+      "options_ur": {
+        "A": "ہر ماحول میں صفر",
+        "B": "قدرتی قوانین کے متضاد",
+        "C": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
+        "D": "غیر متوازن اور غیر متوقع"
+      },
+      "optionsEn": [
+        "Zero under all environments",
+        "Inverse to natural principles",
+        "Reproducible and consistent with theoretical SLOs",
+        "Erratic and unpredictable"
+      ],
+      "optionsUr": [
+        "ہر ماحول میں صفر",
+        "قدرتی قوانین کے متضاد",
+        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
+        "غیر متوازن اور غیر متوقع"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
+      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-03",
+      "question_en": "In board past papers, a frequently tested conceptual query on Hissa Nasar: Paristan ki Shahzadi addresses:",
+      "question_ur": "بورڈ کے سابقہ پرچوں میں حصہ نثر: پرستان کی شہزادی سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "questionEn": "In board past papers, a frequently tested conceptual query on Hissa Nasar: Paristan ki Shahzadi addresses:",
+      "questionUr": "بورڈ کے سابقہ پرچوں میں حصہ نثر: پرستان کی شہزادی سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "options_en": {
+        "A": "Superficial general knowledge",
+        "B": "The exact governing definition and limiting conditions",
+        "C": "Historical publication date only",
+        "D": "Author's biographical footnotes"
+      },
+      "options_ur": {
+        "A": "غیر متعلقہ عمومی معلومات",
+        "B": "بنیادی تعریف اور شرائط و حدود",
+        "C": "صرف تاریخی اشاعت کی تاریخ",
+        "D": "مصنف کے سوانحی حواشی"
+      },
+      "optionsEn": [
+        "Superficial general knowledge",
+        "The exact governing definition and limiting conditions",
+        "Historical publication date only",
+        "Author's biographical footnotes"
+      ],
+      "optionsUr": [
+        "غیر متعلقہ عمومی معلومات",
+        "بنیادی تعریف اور شرائط و حدود",
+        "صرف تاریخی اشاعت کی تاریخ",
+        "مصنف کے سوانحی حواشی"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
+      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-04",
+      "question_en": "What is the significant advantage of understanding Hissa Nasar: Paristan ki Shahzadi in modern science?",
+      "question_ur": "جدید سائنس میں حصہ نثر: پرستان کی شہزادی کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "questionEn": "What is the significant advantage of understanding Hissa Nasar: Paristan ki Shahzadi in modern science?",
+      "questionUr": "جدید سائنس میں حصہ نثر: پرستان کی شہزادی کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "options_en": {
+        "A": "Enables critical analytical thinking and technological application",
+        "B": "Only rote memorization for single exam",
+        "C": "Has no application outside classroom",
+        "D": "Limited to theoretical speculation"
+      },
+      "options_ur": {
+        "A": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
+        "B": "صرف وقتی رٹہ بازی تک محدود",
+        "C": "کلاس روم سے باہر کوئی اطلاق نہیں",
+        "D": "صرف فرضی نظریات تک محدود"
+      },
+      "optionsEn": [
+        "Enables critical analytical thinking and technological application",
+        "Only rote memorization for single exam",
+        "Has no application outside classroom",
+        "Limited to theoretical speculation"
+      ],
+      "optionsUr": [
+        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
+        "صرف وقتی رٹہ بازی تک محدود",
+        "کلاس روم سے باہر کوئی اطلاق نہیں",
+        "صرف فرضی نظریات تک محدود"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
+      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "Which of the following statements is 100% correct regarding Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "questionEn": "Which of the following statements is 100% correct regarding Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "options_en": {
+        "A": "It is only valid for non-science students",
+        "B": "It has been excluded from recent syllabus",
+        "C": "It contains only subjective narratives",
+        "D": "It complies strictly with Punjab Board Curriculum 2026 guidelines"
+      },
+      "options_ur": {
+        "A": "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
+        "B": "اسے حالیہ نصاب سے نکال دیا گیا ہے",
+        "C": "اس میں صرف غیر سائنسی بیانات ہیں",
+        "D": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے"
+      },
+      "optionsEn": [
+        "It is only valid for non-science students",
+        "It has been excluded from recent syllabus",
+        "It contains only subjective narratives",
+        "It complies strictly with Punjab Board Curriculum 2026 guidelines"
+      ],
+      "optionsUr": [
+        "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
+        "اسے حالیہ نصاب سے نکال دیا گیا ہے",
+        "اس میں صرف غیر سائنسی بیانات ہیں",
+        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
+      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-01",
+      "question_en": "The standard unit, formula, or fundamental rule applied in Hissa Nasar: Paristan ki Shahzadi ensures:",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "questionEn": "The standard unit, formula, or fundamental rule applied in Hissa Nasar: Paristan ki Shahzadi ensures:",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "options_en": {
+        "A": "Ambiguity in scientific computation",
+        "B": "Uncalibrated relative indices",
+        "C": "International standardization and measurement consistency",
+        "D": "Localized non-comparable values"
+      },
+      "options_ur": {
+        "A": "حسابی عمل میں ابہام",
+        "B": "غیر معیاری پیمائشی نظام",
+        "C": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
+        "D": "غیر موازنہ مقامی اقدار"
+      },
+      "optionsEn": [
+        "Ambiguity in scientific computation",
+        "Uncalibrated relative indices",
+        "International standardization and measurement consistency",
+        "Localized non-comparable values"
+      ],
+      "optionsUr": [
+        "حسابی عمل میں ابہام",
+        "غیر معیاری پیمائشی نظام",
+        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
+        "غیر موازنہ مقامی اقدار"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
+      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-02",
+      "question_en": "When comparing Hissa Nasar: Paristan ki Shahzadi with analogous systems, its primary distinction is:",
+      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت حصہ نثر: پرستان کی شہزادی کی بنیادی امتیازی خصوصیت ہے:",
+      "questionEn": "When comparing Hissa Nasar: Paristan ki Shahzadi with analogous systems, its primary distinction is:",
+      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت حصہ نثر: پرستان کی شہزادی کی بنیادی امتیازی خصوصیت ہے:",
+      "options_en": {
+        "A": "Complete identity without difference",
+        "B": "Specific textbook parameters and unique behavioral properties",
+        "C": "Total lack of measurable traits",
+        "D": "Random erratic variations"
+      },
+      "options_ur": {
+        "A": "بغیر فرق کے مکمل مشابہت",
+        "B": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
+        "C": "ناپنے کے قابل خصوصیات کا فقدان",
+        "D": "غیر مستحکم بے قاعدہ تبدیلیاں"
+      },
+      "optionsEn": [
+        "Complete identity without difference",
+        "Specific textbook parameters and unique behavioral properties",
+        "Total lack of measurable traits",
+        "Random erratic variations"
+      ],
+      "optionsUr": [
+        "بغیر فرق کے مکمل مشابہت",
+        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
+        "ناپنے کے قابل خصوصیات کا فقدان",
+        "غیر مستحکم بے قاعدہ تبدیلیاں"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
+      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔"
+    },
+    {
+      "id": 13,
+      "slo_ref": "SLO-03",
+      "question_en": "A student observing an experimental setup for Hissa Nasar: Paristan ki Shahzadi must ensure:",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "questionEn": "A student observing an experimental setup for Hissa Nasar: Paristan ki Shahzadi must ensure:",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "options_en": {
+        "A": "Minimization of systematic and personal errors",
+        "B": "Ignoring zero errors completely",
+        "C": "Using unverified rough measurements",
+        "D": "Omitting observation records"
+      },
+      "options_ur": {
+        "A": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
+        "B": "زیرو ایرر کو مکمل نظر انداز کرنا",
+        "C": "غیر تصدیق شدہ اندازوں کا استعمال",
+        "D": "مشاہداتی ریکارڈ کو چھوڑ دینا"
+      },
+      "optionsEn": [
+        "Minimization of systematic and personal errors",
+        "Ignoring zero errors completely",
+        "Using unverified rough measurements",
+        "Omitting observation records"
+      ],
+      "optionsUr": [
+        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
+        "زیرو ایرر کو مکمل نظر انداز کرنا",
+        "غیر تصدیق شدہ اندازوں کا استعمال",
+        "مشاہداتی ریکارڈ کو چھوڑ دینا"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
+      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔"
+    },
+    {
+      "id": 14,
+      "slo_ref": "SLO-04",
+      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "options_en": {
+        "A": "Basic rote recall only",
+        "B": "Passive non-analytical reading",
+        "C": "Unstructured speculation",
+        "D": "Application and Higher Order Thinking"
+      },
+      "options_ur": {
+        "A": "صرف سادہ رٹہ بازی",
+        "B": "غیر تجزیاتی مطالعہ",
+        "C": "غیر منظم قیاس آرائی",
+        "D": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں"
+      },
+      "optionsEn": [
+        "Basic rote recall only",
+        "Passive non-analytical reading",
+        "Unstructured speculation",
+        "Application and Higher Order Thinking"
+      ],
+      "optionsUr": [
+        "صرف سادہ رٹہ بازی",
+        "غیر تجزیاتی مطالعہ",
+        "غیر منظم قیاس آرائی",
+        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
+      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔"
+    },
+    {
+      "id": 15,
+      "slo_ref": "SLO-05",
+      "question_en": "Final examination questions from Hissa Nasar: Paristan ki Shahzadi are framed strictly according to:",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "questionEn": "Final examination questions from Hissa Nasar: Paristan ki Shahzadi are framed strictly according to:",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "options_en": {
+        "A": "Outdated foreign curriculum",
+        "B": "Informal social media guides",
+        "C": "Official PTBB 2026 Student Learning Outcomes (SLOs)",
+        "D": "Random internet questionnaires"
+      },
+      "options_ur": {
+        "A": "پرانا متروکہ غیر ملکی نصاب",
+        "B": "سوشل میڈیا کے غیر مصدقہ نوٹس",
+        "C": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
+        "D": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے"
+      },
+      "optionsEn": [
+        "Outdated foreign curriculum",
+        "Informal social media guides",
+        "Official PTBB 2026 Student Learning Outcomes (SLOs)",
+        "Random internet questionnaires"
+      ],
+      "optionsUr": [
+        "پرانا متروکہ غیر ملکی نصاب",
+        "سوشل میڈیا کے غیر مصدقہ نوٹس",
+        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
+        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
+      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔"
+    }
+  ],
+  "short_questions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Hissa Nasar: Paristan ki Shahzadi according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق حصہ نثر: پرستان کی شہزادی کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Hissa Nasar: Paristan ki Shahzadi represents a foundational unit of the Class 10th Urdu syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "حصہ نثر: پرستان کی شہزادی Class 10th اردو لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Hissa Nasar: Paristan ki Shahzadi according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق حصہ نثر: پرستان کی شہزادی کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Hissa Nasar: Paristan ki Shahzadi represents a foundational unit of the Class 10th Urdu syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "حصہ نثر: پرستان کی شہزادی Class 10th اردو لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Hissa Nasar: Paristan ki Shahzadi along with its standard units or notation.",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Hissa Nasar: Paristan ki Shahzadi along with its standard units or notation.",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Hissa Nasar: Paristan ki Shahzadi considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں حصہ نثر: پرستان کی شہزادی کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Hissa Nasar: Paristan ki Shahzadi considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں حصہ نثر: پرستان کی شہزادی کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو حصہ نثر: پرستان کی شہزادی کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Hissa Nasar: Paristan ki Shahzadi, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام حصہ نثر: پرستان کی شہزادی کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو حصہ نثر: پرستان کی شہزادی کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Hissa Nasar: Paristan ki Shahzadi, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام حصہ نثر: پرستان کی شہزادی کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "بورڈ کے پرچوں میں حصہ نثر: پرستان کی شہزادی سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "بورڈ کے پرچوں میں حصہ نثر: پرستان کی شہزادی سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو حصہ نثر: پرستان کی شہزادی پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو حصہ نثر: پرستان کی شہزادی پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Hissa Nasar: Paristan ki Shahzadi for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے حصہ نثر: پرستان کی شہزادی کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Hissa Nasar: Paristan ki Shahzadi requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "حصہ نثر: پرستان کی شہزادی پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Hissa Nasar: Paristan ki Shahzadi for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے حصہ نثر: پرستان کی شہزادی کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Hissa Nasar: Paristan ki Shahzadi requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "حصہ نثر: پرستان کی شہزادی پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Hissa Nasar: Paristan ki Shahzadi according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق حصہ نثر: پرستان کی شہزادی کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Hissa Nasar: Paristan ki Shahzadi represents a foundational unit of the Class 10th Urdu syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "حصہ نثر: پرستان کی شہزادی Class 10th اردو لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Hissa Nasar: Paristan ki Shahzadi according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق حصہ نثر: پرستان کی شہزادی کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Hissa Nasar: Paristan ki Shahzadi represents a foundational unit of the Class 10th Urdu syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "حصہ نثر: پرستان کی شہزادی Class 10th اردو لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Hissa Nasar: Paristan ki Shahzadi along with its standard units or notation.",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Hissa Nasar: Paristan ki Shahzadi along with its standard units or notation.",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Hissa Nasar: Paristan ki Shahzadi considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں حصہ نثر: پرستان کی شہزادی کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Hissa Nasar: Paristan ki Shahzadi considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں حصہ نثر: پرستان کی شہزادی کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو حصہ نثر: پرستان کی شہزادی کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Hissa Nasar: Paristan ki Shahzadi, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام حصہ نثر: پرستان کی شہزادی کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو حصہ نثر: پرستان کی شہزادی کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Hissa Nasar: Paristan ki Shahzadi, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام حصہ نثر: پرستان کی شہزادی کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Hissa Nasar: Paristan ki Shahzadi.",
+      "question_ur": "بورڈ کے پرچوں میں حصہ نثر: پرستان کی شہزادی سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Hissa Nasar: Paristan ki Shahzadi.",
+      "questionUr": "بورڈ کے پرچوں میں حصہ نثر: پرستان کی شہزادی سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو حصہ نثر: پرستان کی شہزادی پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو حصہ نثر: پرستان کی شہزادی پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Hissa Nasar: Paristan ki Shahzadi?",
+      "question_ur": "حصہ نثر: پرستان کی شہزادی کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Hissa Nasar: Paristan ki Shahzadi?",
+      "questionUr": "حصہ نثر: پرستان کی شہزادی کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Hissa Nasar: Paristan ki Shahzadi for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے حصہ نثر: پرستان کی شہزادی کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Hissa Nasar: Paristan ki Shahzadi requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "حصہ نثر: پرستان کی شہزادی پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Hissa Nasar: Paristan ki Shahzadi for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے حصہ نثر: پرستان کی شہزادی کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Hissa Nasar: Paristan ki Shahzadi requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "حصہ نثر: پرستان کی شہزادی پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Significance",
+      "meaningUr": "اہمیت / افادیت",
+      "context": "The significance of Hissa Nasar: Paristan ki Shahzadi is pivotal in PTBB board exams."
+    },
+    {
+      "word": "Comprehend",
+      "meaningUr": "سمجھنا / ادراک کرنا",
+      "context": "Students must comprehend core curriculum principles."
+    },
+    {
+      "word": "Demonstrate",
+      "meaningUr": "ظاہر کرنا / ثبوت دینا",
+      "context": "Demonstrate understanding through structured model answers."
+    },
+    {
+      "word": "Rigorous",
+      "meaningUr": "جامع / سخت معیاری",
+      "context": "Strict adherence to rigorous PTBB 2026 guidelines."
+    }
+  ]
+}

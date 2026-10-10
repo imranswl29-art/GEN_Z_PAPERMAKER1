@@ -1,0 +1,565 @@
+{
+  "class": "Class 9th",
+  "group": "Science Group",
+  "subject": "Physics",
+  "chapter_no": 1,
+  "chapter_title": {
+    "en": "Physical Quantities and Measurement",
+    "ur": "طبعی مقداریں اور پیمائش"
+  },
+  "curriculum": "PTBB Curriculum 2026",
+  "slos": [
+    {
+      "code": "SLO-01",
+      "domain": "Knowledge",
+      "text_en": "Define physical quantities and differentiate between base quantities and derived quantities.",
+      "text_ur": "طبعی مقداروں کی تعریف کریں اور بنیادی مقداروں اور ماخوذ مقداروں کے درمیان فرق واضح کریں۔"
+    },
+    {
+      "code": "SLO-02",
+      "domain": "Knowledge",
+      "text_en": "Identify the seven base quantities, their base SI units, symbols, and standard derived units.",
+      "text_ur": "سات بنیادی مقداروں، ان کے ایس آئی (SI) یونٹس، علامتوں اور عام ماخوذ یونٹس کی شناخت کریں۔"
+    },
+    {
+      "code": "SLO-03",
+      "domain": "Understanding",
+      "text_en": "Explain the role of SI prefixes (e.g. mega, kilo, centi, milli, micro, nano) and express measurements in standard scientific notation.",
+      "text_ur": "ایس آئی پریفکسز (مثلاً میگا، کلو، سینٹی، ملی، مائیکرو، نینو) کے کردار کی وضاحت کریں اور پیمائشوں کو سائنسی طریقہ کار (سائنٹفک نوٹیشن) میں بیان کریں۔"
+    },
+    {
+      "code": "SLO-04",
+      "domain": "Application",
+      "text_en": "Measure length, internal/external diameters, and thickness using Vernier Calipers and Screw Gauge, accounting for zero errors.",
+      "text_ur": "ورنیئر کیلیپرز اور سکرو گیج کے استعمال سے لمبائی، اندرونی و بیرونی قطر اور موٹائی کی پیمائش زیرو ایرر کی درستی کے ساتھ معلوم کریں۔"
+    },
+    {
+      "code": "SLO-05",
+      "domain": "Application",
+      "text_en": "Measure mass and liquid volume using physical balance and measuring cylinder, avoiding parallax errors.",
+      "text_ur": "فزیکل بیلنس اور میئرنگ سلنڈر کے استعمال سے ماس اور مائع کے حجم کی درست پیمائش پیرا لیکس ایرر سے بچتے ہوئے معلوم کریں۔"
+    },
+    {
+      "code": "SLO-06",
+      "domain": "Understanding",
+      "text_en": "Determine the number of significant figures in measured quantities and apply rounding-off rules.",
+      "text_ur": "پیمائش شدہ مقداروں میں اہم ہندسوں (سگنیفیکنٹ فگرز) کی تعداد کا تعین کریں اور اعداد کو راؤنڈ آف کرنے کے اصول لاگو کریں۔"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "The number of base quantities recognized in the International System of Units (SI) is:",
+      "question_ur": "انٹرنیشنل سسٹم آف یونٹس (SI) میں بنیادی مقداروں کی تعداد ہے:",
+      "options_en": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "options_ur": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "C",
+      "explanation_en": "The 7 base quantities in SI are: Length, Mass, Time, Electric Current, Thermodynamic Temperature, Intensity of Light, and Amount of Substance.",
+      "explanation_ur": "ایس آئی میں سات بنیادی مقداریں ہیں: لمبائی، ماس، وقت، الیکٹرک کرنٹ، ٹمپریچر، روشنی کی شدت، اور مادہ کی مقدار۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "Which one of the following is a derived quantity?",
+      "question_ur": "درج ذیل میں سے کون سی ماخوذ مقدار (Derived Quantity) ہے؟",
+      "options_en": {
+        "A": "Time",
+        "B": "Speed",
+        "C": "Mass",
+        "D": "Length"
+      },
+      "options_ur": {
+        "A": "وقت",
+        "B": "سپیڈ",
+        "C": "ماس",
+        "D": "لمبائی"
+      },
+      "correct_answer": "B",
+      "explanation_en": "Speed is derived from length (distance) and time (v = d/t). Time, Mass, and Length are base quantities.",
+      "explanation_ur": "سپیڈ، لمبائی (فاصلہ) اور وقت سے اخذ کی جاتی ہے (v = d/t)۔ جبکہ وقت، ماس اور لمبائی بنیادی مقداریں ہیں۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "The SI base unit of amount of substance is:",
+      "question_ur": "مادہ کی مقدار (Amount of substance) کا بنیادی ایس آئی یونٹ ہے:",
+      "options_en": {
+        "A": "Gram (g)",
+        "B": "Kilogram (kg)",
+        "C": "Mole (mol)",
+        "D": "Candela (cd)"
+      },
+      "options_ur": {
+        "A": "گرام (g)",
+        "B": "کلوگرام (kg)",
+        "C": "مول (mol)",
+        "D": "کینڈیلا (cd)"
+      },
+      "correct_answer": "C",
+      "explanation_en": "Mole (symbol: mol) is the base unit for measuring the amount of substance in SI.",
+      "explanation_ur": "ایس آئی نظام میں مادہ کی مقدار کی پیمائش کے لیے بنیادی یونٹ مول (mol) ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-03",
+      "question_en": "An interval of 200 microseconds is equivalent to:",
+      "question_ur": "200 مائیکرو سیکنڈ کا وقفہ برابر ہوتا ہے:",
+      "options_en": {
+        "A": "0.2 s",
+        "B": "2 × 10⁻⁴ s",
+        "C": "2 × 10⁻⁶ s",
+        "D": "2 × 10⁻⁸ s"
+      },
+      "options_ur": {
+        "A": "0.2 s",
+        "B": "2 × 10⁻⁴ s",
+        "C": "2 × 10⁻⁶ s",
+        "D": "2 × 10⁻⁸ s"
+      },
+      "correct_answer": "B",
+      "explanation_en": "200 µs = 200 × 10⁻⁶ s = 2 × 10² × 10⁻⁶ s = 2 × 10⁻⁴ s.",
+      "explanation_ur": "200 µs = 200 × 10⁻⁶ s = 2 × 10² × 10⁻⁶ s = 2 × 10⁻⁴ s۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Which one of the following prefixes represents 10⁻⁹?",
+      "question_ur": "درج ذیل میں سے کون سا پریفکس 10⁻⁹ کو ظاہر کرتا ہے؟",
+      "options_en": {
+        "A": "Milli",
+        "B": "Micro",
+        "C": "Nano",
+        "D": "Pico"
+      },
+      "options_ur": {
+        "A": "ملی (Milli)",
+        "B": "مائیکرو (Micro)",
+        "C": "نینو (Nano)",
+        "D": "پیکو (Pico)"
+      },
+      "correct_answer": "C",
+      "explanation_en": "Nano represents 10⁻⁹, micro represents 10⁻⁶, milli represents 10⁻³, and pico represents 10⁻¹².",
+      "explanation_ur": "نینو 10⁻⁹ کی نمائندگی کرتا ہے، مائیکرو 10⁻⁶، ملی 10⁻³، اور پیکو 10⁻¹² کی نمائندگی کرتا ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-04",
+      "question_en": "The least count of a standard Vernier Calipers with 10 vernier divisions is:",
+      "question_ur": "ایک عام ورنیئر کیلیپرز جس کے ورنیئر سکیل پر 10 درجے ہوں کا لیسٹ کاؤنٹ ہوتا ہے:",
+      "options_en": {
+        "A": "1 cm",
+        "B": "0.1 cm",
+        "C": "0.1 mm (0.01 cm)",
+        "D": "0.01 mm"
+      },
+      "options_ur": {
+        "A": "1 cm",
+        "B": "0.1 cm",
+        "C": "0.1 mm (0.01 cm)",
+        "D": "0.01 mm"
+      },
+      "correct_answer": "C",
+      "explanation_en": "Least count = 1 mm / 10 = 0.1 mm = 0.01 cm.",
+      "explanation_ur": "لیسٹ کاؤنٹ = 1 ملی میٹر / 10 = 0.1 ملی میٹر = 0.01 سینٹی میٹر۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "The pitch of a screw gauge having 1 mm pitch and 100 circular scale divisions gives a least count of:",
+      "question_ur": "ایک سکرو گیج جس کی پچ 1 ملی میٹر اور سرکلر سکیل پر 100 درجے ہوں کا لیسٹ کاؤنٹ ہوتا ہے:",
+      "options_en": {
+        "A": "0.01 cm",
+        "B": "0.01 mm",
+        "C": "0.1 mm",
+        "D": "0.001 mm"
+      },
+      "options_ur": {
+        "A": "0.01 cm",
+        "B": "0.01 mm",
+        "C": "0.1 mm",
+        "D": "0.001 mm"
+      },
+      "correct_answer": "B",
+      "explanation_en": "Least count = Pitch / Total divisions = 1 mm / 100 = 0.01 mm = 0.001 cm.",
+      "explanation_ur": "لیسٹ کاؤنٹ = پچ / کل درجے = 1 ملی میٹر / 100 = 0.01 ملی میٹر = 0.001 سینٹی میٹر۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "If the zero mark of the vernier scale lies to the right of the zero of the main scale, the zero error is:",
+      "question_ur": "اگر ورنیئر سکیل کا زیرو مین سکیل کے زیرو کے دائیں جانب واقع ہو، تو زیرو ایرر ہوگا:",
+      "options_en": {
+        "A": "Negative and will be added",
+        "B": "Positive and will be subtracted",
+        "C": "Zero",
+        "D": "Neutral"
+      },
+      "options_ur": {
+        "A": "منفی اور جمع کیا جائے گا",
+        "B": "مثبت اور تفریق کیا جائے گا",
+        "C": "صفر",
+        "D": "غیر جانبدار"
+      },
+      "correct_answer": "B",
+      "explanation_en": "When vernier zero is to the right of main scale zero, zero error is positive. The zero correction is negative and will be subtracted from the observed reading.",
+      "explanation_ur": "جب ورنیئر کا زیرو مین سکیل کے زیرو کے دائیں جانب ہو تو زیرو ایرر مثبت ہوتا ہے اور درست ریڈنگ کے لیے اسے مشاہدہ شدہ ریڈنگ سے تفریق کیا جاتا ہے۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-04",
+      "question_en": "A student measures the diameter of a thin wire. Which instrument gives the most accurate measurement?",
+      "question_ur": "ایک طالب علم باریک تار کا قطر ناپتا ہے۔ سب سے درست پیمائش کون سا آلہ فراہم کرے گا؟",
+      "options_en": {
+        "A": "Meter Rule",
+        "B": "Measuring Tape",
+        "C": "Vernier Calipers",
+        "D": "Screw Gauge"
+      },
+      "options_ur": {
+        "A": "میٹر راڈ",
+        "B": "میئرنگ ٹیپ",
+        "C": "ورنیئر کیلیپرز",
+        "D": "سکرو گیج"
+      },
+      "correct_answer": "D",
+      "explanation_en": "A screw gauge has the smallest least count (0.01 mm compared to 0.1 mm for vernier calipers and 1 mm for meter rule), making it the most precise for thin wire diameter.",
+      "explanation_ur": "سکرو گیج کا لیسٹ کاؤنٹ سب سے کم (0.01 ملی میٹر) ہوتا ہے، اس لیے یہ باریک تار کے قطر کے لیے سب سے زیادہ درست پیمائش دیتا ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "The volume of an irregular solid (like a small stone) can be determined using a:",
+      "question_ur": "بے قاعدہ ٹھوس جسم (مثلاً چھوٹا پتھر) کا حجم معلوم کیا جا سکتا ہے بذریعہ:",
+      "options_en": {
+        "A": "Meter Rule",
+        "B": "Measuring Cylinder",
+        "C": "Physical Balance",
+        "D": "Vernier Calipers"
+      },
+      "options_ur": {
+        "A": "میٹر رول",
+        "B": "میئرنگ سلنڈر",
+        "C": "فزیکل بیلنس",
+        "D": "ورنیئر کیلیپرز"
+      },
+      "correct_answer": "B",
+      "explanation_en": "By liquid displacement method in a measuring cylinder, volume of an irregular stone = Final volume - Initial volume.",
+      "explanation_ur": "میئرنگ سلنڈر میں پانی کے اخراج کے طریقہ سے بے قاعدہ پتھر کا حجم معلوم کیا جاتا ہے (V = V₂ - V₁)۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-06",
+      "question_en": "How many significant figures are there in 0.00580 km?",
+      "question_ur": "0.00580 کلومیٹر میں اہم ہندسوں (Significant Figures) کی تعداد ہے:",
+      "options_en": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "options_ur": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "B",
+      "explanation_en": "Leading zeros before 5 are not significant. The digits '5', '8', and trailing '0' after the decimal are significant, giving a total of 3 significant figures.",
+      "explanation_ur": "پہلے آنے والے زیروز اہم نہیں ہوتے۔ 5، 8 اور اعشاریہ کے بعد آخری 0 اہم ہندسے ہیں، لہٰذا کل 3 اہم ہندسے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-06",
+      "question_en": "Round off 1.4576 to three significant figures:",
+      "question_ur": "1.4576 کو تین اہم ہندسوں تک راؤنڈ آف کرنے سے حاصل ہوگا:",
+      "options_en": {
+        "A": "1.45",
+        "B": "1.46",
+        "C": "1.458",
+        "D": "1.50"
+      },
+      "options_ur": {
+        "A": "1.45",
+        "B": "1.46",
+        "C": "1.458",
+        "D": "1.50"
+      },
+      "correct_answer": "B",
+      "explanation_en": "The third digit is 5 and the next dropped digit is 7 (greater than 5), so 5 is rounded up to 6, giving 1.46.",
+      "explanation_ur": "تیسرا ہندسہ 5 ہے اور اس کے بعد والا چھوڑا جانے والا ہندسہ 7 (5 سے بڑا) ہے، اس لیے 5 بڑھ کر 6 ہو جائے گا، نتیجہ 1.46 ہوگا۔"
+    },
+    {
+      "id": 13,
+      "slo_ref": "SLO-05",
+      "question_en": "To read the meniscus of water correctly in a measuring cylinder, the eye must be placed:",
+      "question_ur": "میئرنگ سلنڈر میں پانی کے منسکس کو درست پڑھنے کے لیے آنکھ کو ہونا چاہیے:",
+      "options_en": {
+        "A": "Above the upper edge of the meniscus",
+        "B": "Below the lower edge of the meniscus",
+        "C": "Horizontally in line with the bottom of the curved meniscus",
+        "D": "At any convenient angle"
+      },
+      "options_ur": {
+        "A": "منسکس کے اوپری کنارے سے اوپر",
+        "B": "منسکس کے نچلے کنارے سے نیچے",
+        "C": "خم دار منسکس کی نچلی سطح کی افقی سیدھ میں",
+        "D": "کسی بھی آسان زاویے پر"
+      },
+      "correct_answer": "C",
+      "explanation_en": "Water forms a concave meniscus; correct measurement requires viewing horizontally level with the lowest point of the curve to prevent parallax error.",
+      "explanation_ur": "پانی کا منسکس مقعر ہوتا ہے؛ پیرا لیکس ایرر سے بچنے کے لیے آنکھ کو منسکس کی نچلی سطح کی بالکل افقی سیدھ میں رکھا جاتا ہے۔"
+    },
+    {
+      "id": 14,
+      "slo_ref": "SLO-03",
+      "question_en": "The mass of 5000 g expressed in standard scientific notation with prefixes is:",
+      "question_ur": "5000 گرام کے ماس کو پریفکس کے ساتھ سائنسی طریقہ کار میں لکھا جاتا ہے:",
+      "options_en": {
+        "A": "50 × 10² g",
+        "B": "5 × 10³ g or 5 kg",
+        "C": "0.5 × 10⁴ g",
+        "D": "500 × 10¹ g"
+      },
+      "options_ur": {
+        "A": "50 × 10² g",
+        "B": "5 × 10³ g یا 5 kg",
+        "C": "0.5 × 10⁴ g",
+        "D": "500 × 10¹ g"
+      },
+      "correct_answer": "B",
+      "explanation_en": "5000 g = 5 × 10³ g = 5 kg since kilo (k) = 10³.",
+      "explanation_ur": "5000 g = 5 × 10³ g = 5 kg کیونکہ کلو (k) = 10³ کے برابر ہوتا ہے۔"
+    },
+    {
+      "id": 15,
+      "slo_ref": "SLO-02",
+      "question_en": "Which of the following is the correct unit of density in the SI system?",
+      "question_ur": "ایس آئی سسٹم میں ڈینسٹی (کثافت) کا درست یونٹ کون سا ہے؟",
+      "options_en": {
+        "A": "g/cm³",
+        "B": "kg/m³",
+        "C": "kg/m²",
+        "D": "N/m³"
+      },
+      "options_ur": {
+        "A": "g/cm³",
+        "B": "kg/m³",
+        "C": "kg/m²",
+        "D": "N/m³"
+      },
+      "correct_answer": "B",
+      "explanation_en": "Density = Mass / Volume. SI unit of mass is kg and volume is m³, so density is kg/m³.",
+      "explanation_ur": "ڈینسٹی = ماس / حجم۔ چونکہ ماس کا SI یونٹ kg اور حجم کا m³ ہے، اس لیے ڈینسٹی کا SI یونٹ kg/m³ ہے۔"
+    }
+  ],
+  "short_questions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "What is meant by physical quantities? How are they classified?",
+      "question_ur": "طبعی مقداروں سے کیا مراد ہے؟ ان کی درجہ بندی کیسے کی جاتی ہے؟",
+      "answer_en": "All measurable quantities are called physical quantities (e.g., length, mass, time, temperature). Every physical quantity possesses at least two common characteristics: a numerical magnitude and a suitable unit. They are classified into two categories: (1) Base Quantities, and (2) Derived Quantities.",
+      "answer_ur": "تمام قابل پیمائش مقداریں طبعی مقداریں کہلاتی ہیں (مثلاً لمبائی، ماس، وقت اور ٹمپریچر)۔ ہر طبعی مقدار کی کم از کم دو خصوصیات ہوتی ہیں: عددی قیمت اور مناسب یونٹ۔ ان کو دو اقسام میں تقسیم کیا جاتا ہے: (۱) بنیادی مقداریں، اور (۲) ماخوذ مقداریں ۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "Differentiate between base quantities and derived quantities with examples.",
+      "question_ur": "بنیادی مقداروں اور ماخوذ مقداروں میں مثالوں کے ساتھ فرق واضح کریں۔",
+      "answer_en": "Base Quantities: The quantities on the basis of which other quantities are expressed are called base quantities. There are seven base quantities: length, mass, time, electric current, temperature, intensity of light, and amount of substance. Derived Quantities: The quantities that are expressed in terms of base quantities are called derived quantities (e.g., speed, acceleration, force, area, volume, and work).",
+      "answer_ur": "بنیادی مقداریں: وہ مقداریں جن کی بنیاد پر دوسری مقداریں بیان کی جاتی ہیں، بنیادی مقداریں کہلاتی ہیں۔ یہ کل سات ہیں: لمبائی، ماس، وقت، الیکٹرک کرنٹ، ٹمپریچر، روشنی کی شدت، اور مادہ کی مقدار۔ ماخوذ مقداریں: وہ مقداریں جو بنیادی مقداروں کی مدد سے اخذ کی جاتی ہیں، ماخوذ مقداریں کہلاتی ہیں (مثلاً سپیڈ، ایکسلریشن، فورس، رقبہ، حجم، اور ورک)۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "What is the International System of Units (SI)? Why was it established?",
+      "question_ur": "انٹرنیشنل سسٹم آف یونٹس (SI) کیا ہے اور یہ کیوں قائم کیا گیا؟",
+      "answer_en": "The Eleventh General Conference on Weights and Measures held in Paris in 1960 adopted a worldwide system of standard measurements, named the International System of Units (Systeme International), abbreviated as SI. It was established to provide universal standard units to facilitate global scientific research, commerce, and international communication.",
+      "answer_ur": "1960ء میں پیرس میں اوزان اور پیمائشوں کی گیارہویں جنرل کانفرنس نے پیمائش کا ایک متفقہ عالمی نظام نافذ کیا جسے انٹرنیشنل سسٹم آف یونٹس (SI) کہا جاتا ہے۔ یہ نظام دنیا بھر میں سائنسی تحقیق، بین الاقوامی تجارت اور باہمی رابطے میں یکسانیت اور آسانی پیدا کرنے کے لیے قائم کیا گیا۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-03",
+      "question_en": "What are prefixes in SI? Give two examples.",
+      "question_ur": "ایس آئی (SI) میں پریفکسز سے کیا مراد ہے؟ دو مثالیں دیں۔",
+      "answer_en": "Prefixes are words or letters added before SI units to represent multiples or sub-multiples of units, avoiding very large or very small numbers. Examples: Kilo (k = 10³), Mega (M = 10⁶), Milli (m = 10⁻³), and Micro (µ = 10⁻⁶). For instance, 20,000 g can be written concisely as 20 kg.",
+      "answer_ur": "پریفکسز وہ الفاظ یا حروف ہیں جو SI یونٹس سے پہلے ان کے ضربی یا ذیلی ضربی حصوں کو ظاہر کرنے کے لیے لگائے جاتے ہیں تاکہ بہت بڑے یا بہت چھوٹے اعداد کو آسانی سے لکھا جا سکے۔ مثالیں: کلو (k = 10³)، میگا (M = 10⁶)، ملی (m = 10⁻³)، مائیکرو (µ = 10⁻⁶)۔ مثلاً 20,000 گرام کو 20 کلوگرام لکھا جاتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "What is scientific notation (standard form)? Write 0.0000548 s in scientific notation.",
+      "question_ur": "سائنسی طریقہ کار (سائنٹفک نوٹیشن) کیا ہے؟ 0.0000548 سیکنڈ کو سائنسی طریقہ میں لکھیں۔",
+      "answer_en": "In scientific notation, a number is expressed as a power of ten multiplied by a number between 1 and 10 (A × 10ⁿ, where 1 ≤ A < 10 and n is an integer). Writing 0.0000548 s: moving the decimal point 5 places to the right gives 5.48 × 10⁻⁵ s.",
+      "answer_ur": "سائنسی طریقہ کار میں کسی عدد کو 1 اور 10 کے درمیان کسی ہندسے اور دس کی مناسب پاور کے حاصل ضرب کی صورت میں لکھا جاتا ہے (A × 10ⁿ جہاں 1 ≤ A < 10)۔ عدد 0.0000548 سیکنڈ کو اعشاریہ دائیں جانب 5 درجے لے جانے پر 5.48 × 10⁻⁵ s لکھا جائے گا۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-04",
+      "question_en": "What is the least count of Vernier Calipers? How is it calculated?",
+      "question_ur": "ورنیئر کیلیپرز کا لیسٹ کاؤنٹ کیا ہے اور یہ کیسے معلوم کیا جاتا ہے؟",
+      "answer_en": "The minimum measurement that can be taken accurately with Vernier Calipers is called its least count (or Vernier constant). It is calculated by dividing the smallest reading on the main scale by the total number of divisions on the vernier scale: Least Count = Smallest main scale division / Total vernier divisions = 1 mm / 10 = 0.1 mm = 0.01 cm.",
+      "answer_ur": "ورنیئر کیلیپرز کی مدد سے کم سے کم ممکنہ درست پیمائش اس کا لیسٹ کاؤنٹ (ورنیئر کانسٹنٹ) کہلاتی ہے۔ یہ مین سکیل کے سب سے چھوٹے درجے کی قیمت کو ورنیئر سکیل کے کل درجوں پر تقسیم کرنے سے حاصل ہوتا ہے: لیسٹ کاؤنٹ = 1 ملی میٹر / 10 = 0.1 ملی میٹر = 0.01 سینٹی میٹر۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What is zero error in measuring instruments and why is zero correction necessary?",
+      "question_ur": "پیمائشی آلات میں زیرو ایرر کیا ہے اور زیرو کریکشن کیوں ضروری ہے؟",
+      "answer_en": "Zero error occurs when the zero marks of the measuring scales do not coincide upon closing the jaws or measuring faces. Zero error must be determined because uncorrected zero error introduces systematic error in all subsequent measurements. Zero correction is equal in magnitude to zero error but opposite in sign (Correct reading = Observed reading - Zero error).",
+      "answer_ur": "جب آلے کے جبڑوں یا فیسز کو ملانے پر دونوں سکیلز کے زیرو آمنے سامنے نہ آئیں تو اس خرابی کو زیرو ایرر کہتے ہیں۔ زیرو کریکشن اس لیے ضروری ہے کیونکہ زیرو ایرر کی درستی نہ کرنے سے تمام پیمائشوں میں مستقل غلطی واقع ہوتی ہے۔ درست ریڈنگ حاصل کرنے کے لیے زیرو ایرر کو مشاہدہ شدہ ریڈنگ میں منفی یا مثبت کیا جاتا ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "What is meant by the pitch of a screw gauge and how is its least count determined?",
+      "question_ur": "سکرو گیج کی پچ سے کیا مراد ہے اور اس کا لیسٹ کاؤنٹ کیسے معلوم کیا جاتا ہے؟",
+      "answer_en": "Pitch is the distance moved along the index line by the thimble in one complete rotation of the circular scale (usually 1 mm or 0.5 mm). Least Count is determined by: Least Count = Pitch of the screw gauge / Total number of divisions on the circular scale = 1 mm / 100 = 0.01 mm = 0.001 cm.",
+      "answer_ur": "سرکولر سکیل کے ایک مکمل چکر میں تھمبل کا انڈیکس لائن پر طے کردہ لینیئر فاصلہ پچ کہلاتا ہے (عام طور پر 1 ملی میٹر)۔ لیسٹ کاؤنٹ معلوم کرنے کا فارمولا ہے: لیسٹ کاؤنٹ = سکرو گیج کی پچ / سرکولر سکیل کے کل درجے = 1 mm / 100 = 0.01 mm = 0.001 cm۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "Why is an electronic balance considered more sensitive than a beam balance and physical balance?",
+      "question_ur": "الیکٹرانک بیلنس کو بیم بیلنس اور فزیکل بیلنس سے زیادہ حساس کیوں سمجھا جاتا ہے؟",
+      "answer_en": "An electronic balance has a very small least count (typically 0.001 g or 1 mg), whereas a beam balance has a least count of ~0.1 g and a physical balance has a least count of ~0.01 g. Because the electronic balance can detect much smaller differences in mass, it is far more sensitive and reliable.",
+      "answer_ur": "الیکٹرانک بیلنس کا لیسٹ کاؤنٹ بہت کم (تقریباً 0.001 گرام یا 1 ملی گرام) ہوتا ہے، جبکہ بیم بیلنس کا 0.1 گرام اور فزیکل بیلنس کا 0.01 گرام ہوتا ہے۔ کم ترین لیسٹ کاؤنٹ کی وجہ سے الیکٹرانک بیلنس ماس میں معمولی ترین فرق کو بھی درست طور پر ناپ سکتا ہے، لہٰذا یہ زیادہ حساس ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "What precaution must be taken while reading the level of liquid in a measuring cylinder?",
+      "question_ur": "میئرنگ سلنڈر میں مائع کی سطح معلوم کرتے وقت کون سی احتیاط برتنی چاہیے؟",
+      "answer_en": "The measuring cylinder must be placed on a completely flat, horizontal surface. The eye must be placed directly horizontal and level with the bottom of the meniscus (for concave liquids like water) or top of the meniscus (for convex liquids like mercury) to avoid parallax error.",
+      "answer_ur": "میئرنگ سلنڈر کو بالکل ہموار اور افقی سطح پر رکھا جانا چاہیے۔ آنکھ کو ہمیشہ مائع کی سطح کے منسکس کے نچلے حصے (پانی کے لیے) یا اوپری حصے (پارے کے لیے) کی بالکل افقی سیدھ میں رکھا جائے تاکہ پیرا لیکس ایرر واقع نہ ہو۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-06",
+      "question_en": "What are significant figures? State the general rules for identifying them.",
+      "question_ur": "اہم ہندسے (Significant Figures) کیا ہیں؟ ان کی شناخت کے بنیادی اصول بیان کریں۔",
+      "answer_en": "In any measurement, all the accurately known digits and the first doubtful digit are called significant figures. Rules: (1) Non-zero digits are always significant. (2) Zeros between two significant digits are significant. (3) Leading zeros (zeros to the left of the first non-zero digit) are not significant. (4) Trailing zeros to the right of the decimal point are significant.",
+      "answer_ur": "کسی پیمائش میں تمام صحیح معلوم ہندسے اور پہلا مشکوک ہندسہ اہم ہندسے کہلاتے ہیں۔ اصول: (۱) تمام غیر صفر ہندسے ہمیشہ اہم ہوتے ہیں۔ (۲) دو اہم ہندسوں کے درمیان واقع زیروز اہم ہوتے ہیں۔ (۳) پہلے غیر صفر ہندسے سے بائیں جانب والے ابتدائی زیروز اہم نہیں ہوتے۔ (۴) اعشاریہ کے دائیں جانب آخری زیروز اہم شمار ہوتے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-06",
+      "question_en": "State the rules for rounding off numbers with examples.",
+      "question_ur": "اعداد کو راؤنڈ آف کرنے کے اصول مثالوں کے ساتھ بیان کریں۔",
+      "answer_en": "Rules: (1) If the last digit dropped is less than 5, the retained digit remains unchanged (e.g., 2.74 becomes 2.7). (2) If the last digit dropped is greater than 5, the retained digit is increased by 1 (e.g., 2.76 becomes 2.8). (3) If the last digit dropped is 5: if the preceding digit is odd, it is rounded up (e.g., 2.75 becomes 2.8); if the preceding digit is even, it remains unchanged (e.g., 2.65 becomes 2.6).",
+      "answer_ur": "اصول: (۱) اگر چھوڑا جانے والا آخری ہندسہ 5 سے کم ہو تو پہلے ہندسے میں کوئی تبدیلی نہیں ہوتی (مثلاً 2.74 راؤنڈ ہو کر 2.7 بنے گا)۔ (۲) اگر چھوڑا جانے والا ہندسہ 5 سے بڑا ہو تو پہلے ہندسے میں 1 کا اضافہ کیا جاتا ہے (مثلاً 2.76 بن جائے گا 2.8)۔ (۳) اگر چھوڑا جانے والا ہندسہ 5 ہو: تو طاق ہندسے کو جفت بنانے کے لیے 1 بڑھایا جاتا ہے (مثلاً 2.75 بن جائے گا 2.8) اور جفت ہندسہ جوں کا توں برقرار رہتا ہے (مثلاً 2.65 بن جائے گا 2.6)۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "What is meant by physical quantities? How are they classified?",
+      "question_ur": "طبعی مقداروں سے کیا مراد ہے؟ ان کی درجہ بندی کیسے کی جاتی ہے؟",
+      "answer_en": "All measurable quantities are called physical quantities (e.g., length, mass, time, temperature). Every physical quantity possesses at least two common characteristics: a numerical magnitude and a suitable unit. They are classified into two categories: (1) Base Quantities, and (2) Derived Quantities.",
+      "answer_ur": "تمام قابل پیمائش مقداریں طبعی مقداریں کہلاتی ہیں (مثلاً لمبائی، ماس، وقت اور ٹمپریچر)۔ ہر طبعی مقدار کی کم از کم دو خصوصیات ہوتی ہیں: عددی قیمت اور مناسب یونٹ۔ ان کو دو اقسام میں تقسیم کیا جاتا ہے: (۱) بنیادی مقداریں، اور (۲) ماخوذ مقداریں ۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "Differentiate between base quantities and derived quantities with examples.",
+      "question_ur": "بنیادی مقداروں اور ماخوذ مقداروں میں مثالوں کے ساتھ فرق واضح کریں۔",
+      "answer_en": "Base Quantities: The quantities on the basis of which other quantities are expressed are called base quantities. There are seven base quantities: length, mass, time, electric current, temperature, intensity of light, and amount of substance. Derived Quantities: The quantities that are expressed in terms of base quantities are called derived quantities (e.g., speed, acceleration, force, area, volume, and work).",
+      "answer_ur": "بنیادی مقداریں: وہ مقداریں جن کی بنیاد پر دوسری مقداریں بیان کی جاتی ہیں، بنیادی مقداریں کہلاتی ہیں۔ یہ کل سات ہیں: لمبائی، ماس، وقت، الیکٹرک کرنٹ، ٹمپریچر، روشنی کی شدت، اور مادہ کی مقدار۔ ماخوذ مقداریں: وہ مقداریں جو بنیادی مقداروں کی مدد سے اخذ کی جاتی ہیں، ماخوذ مقداریں کہلاتی ہیں (مثلاً سپیڈ، ایکسلریشن، فورس، رقبہ، حجم، اور ورک)۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "What is the International System of Units (SI)? Why was it established?",
+      "question_ur": "انٹرنیشنل سسٹم آف یونٹس (SI) کیا ہے اور یہ کیوں قائم کیا گیا؟",
+      "answer_en": "The Eleventh General Conference on Weights and Measures held in Paris in 1960 adopted a worldwide system of standard measurements, named the International System of Units (Systeme International), abbreviated as SI. It was established to provide universal standard units to facilitate global scientific research, commerce, and international communication.",
+      "answer_ur": "1960ء میں پیرس میں اوزان اور پیمائشوں کی گیارہویں جنرل کانفرنس نے پیمائش کا ایک متفقہ عالمی نظام نافذ کیا جسے انٹرنیشنل سسٹم آف یونٹس (SI) کہا جاتا ہے۔ یہ نظام دنیا بھر میں سائنسی تحقیق، بین الاقوامی تجارت اور باہمی رابطے میں یکسانیت اور آسانی پیدا کرنے کے لیے قائم کیا گیا۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-03",
+      "question_en": "What are prefixes in SI? Give two examples.",
+      "question_ur": "ایس آئی (SI) میں پریفکسز سے کیا مراد ہے؟ دو مثالیں دیں۔",
+      "answer_en": "Prefixes are words or letters added before SI units to represent multiples or sub-multiples of units, avoiding very large or very small numbers. Examples: Kilo (k = 10³), Mega (M = 10⁶), Milli (m = 10⁻³), and Micro (µ = 10⁻⁶). For instance, 20,000 g can be written concisely as 20 kg.",
+      "answer_ur": "پریفکسز وہ الفاظ یا حروف ہیں جو SI یونٹس سے پہلے ان کے ضربی یا ذیلی ضربی حصوں کو ظاہر کرنے کے لیے لگائے جاتے ہیں تاکہ بہت بڑے یا بہت چھوٹے اعداد کو آسانی سے لکھا جا سکے۔ مثالیں: کلو (k = 10³)، میگا (M = 10⁶)، ملی (m = 10⁻³)، مائیکرو (µ = 10⁻⁶)۔ مثلاً 20,000 گرام کو 20 کلوگرام لکھا جاتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "What is scientific notation (standard form)? Write 0.0000548 s in scientific notation.",
+      "question_ur": "سائنسی طریقہ کار (سائنٹفک نوٹیشن) کیا ہے؟ 0.0000548 سیکنڈ کو سائنسی طریقہ میں لکھیں۔",
+      "answer_en": "In scientific notation, a number is expressed as a power of ten multiplied by a number between 1 and 10 (A × 10ⁿ, where 1 ≤ A < 10 and n is an integer). Writing 0.0000548 s: moving the decimal point 5 places to the right gives 5.48 × 10⁻⁵ s.",
+      "answer_ur": "سائنسی طریقہ کار میں کسی عدد کو 1 اور 10 کے درمیان کسی ہندسے اور دس کی مناسب پاور کے حاصل ضرب کی صورت میں لکھا جاتا ہے (A × 10ⁿ جہاں 1 ≤ A < 10)۔ عدد 0.0000548 سیکنڈ کو اعشاریہ دائیں جانب 5 درجے لے جانے پر 5.48 × 10⁻⁵ s لکھا جائے گا۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-04",
+      "question_en": "What is the least count of Vernier Calipers? How is it calculated?",
+      "question_ur": "ورنیئر کیلیپرز کا لیسٹ کاؤنٹ کیا ہے اور یہ کیسے معلوم کیا جاتا ہے؟",
+      "answer_en": "The minimum measurement that can be taken accurately with Vernier Calipers is called its least count (or Vernier constant). It is calculated by dividing the smallest reading on the main scale by the total number of divisions on the vernier scale: Least Count = Smallest main scale division / Total vernier divisions = 1 mm / 10 = 0.1 mm = 0.01 cm.",
+      "answer_ur": "ورنیئر کیلیپرز کی مدد سے کم سے کم ممکنہ درست پیمائش اس کا لیسٹ کاؤنٹ (ورنیئر کانسٹنٹ) کہلاتی ہے۔ یہ مین سکیل کے سب سے چھوٹے درجے کی قیمت کو ورنیئر سکیل کے کل درجوں پر تقسیم کرنے سے حاصل ہوتا ہے: لیسٹ کاؤنٹ = 1 ملی میٹر / 10 = 0.1 ملی میٹر = 0.01 سینٹی میٹر۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What is zero error in measuring instruments and why is zero correction necessary?",
+      "question_ur": "پیمائشی آلات میں زیرو ایرر کیا ہے اور زیرو کریکشن کیوں ضروری ہے؟",
+      "answer_en": "Zero error occurs when the zero marks of the measuring scales do not coincide upon closing the jaws or measuring faces. Zero error must be determined because uncorrected zero error introduces systematic error in all subsequent measurements. Zero correction is equal in magnitude to zero error but opposite in sign (Correct reading = Observed reading - Zero error).",
+      "answer_ur": "جب آلے کے جبڑوں یا فیسز کو ملانے پر دونوں سکیلز کے زیرو آمنے سامنے نہ آئیں تو اس خرابی کو زیرو ایرر کہتے ہیں۔ زیرو کریکشن اس لیے ضروری ہے کیونکہ زیرو ایرر کی درستی نہ کرنے سے تمام پیمائشوں میں مستقل غلطی واقع ہوتی ہے۔ درست ریڈنگ حاصل کرنے کے لیے زیرو ایرر کو مشاہدہ شدہ ریڈنگ میں منفی یا مثبت کیا جاتا ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "What is meant by the pitch of a screw gauge and how is its least count determined?",
+      "question_ur": "سکرو گیج کی پچ سے کیا مراد ہے اور اس کا لیسٹ کاؤنٹ کیسے معلوم کیا جاتا ہے؟",
+      "answer_en": "Pitch is the distance moved along the index line by the thimble in one complete rotation of the circular scale (usually 1 mm or 0.5 mm). Least Count is determined by: Least Count = Pitch of the screw gauge / Total number of divisions on the circular scale = 1 mm / 100 = 0.01 mm = 0.001 cm.",
+      "answer_ur": "سرکولر سکیل کے ایک مکمل چکر میں تھمبل کا انڈیکس لائن پر طے کردہ لینیئر فاصلہ پچ کہلاتا ہے (عام طور پر 1 ملی میٹر)۔ لیسٹ کاؤنٹ معلوم کرنے کا فارمولا ہے: لیسٹ کاؤنٹ = سکرو گیج کی پچ / سرکولر سکیل کے کل درجے = 1 mm / 100 = 0.01 mm = 0.001 cm۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "Why is an electronic balance considered more sensitive than a beam balance and physical balance?",
+      "question_ur": "الیکٹرانک بیلنس کو بیم بیلنس اور فزیکل بیلنس سے زیادہ حساس کیوں سمجھا جاتا ہے؟",
+      "answer_en": "An electronic balance has a very small least count (typically 0.001 g or 1 mg), whereas a beam balance has a least count of ~0.1 g and a physical balance has a least count of ~0.01 g. Because the electronic balance can detect much smaller differences in mass, it is far more sensitive and reliable.",
+      "answer_ur": "الیکٹرانک بیلنس کا لیسٹ کاؤنٹ بہت کم (تقریباً 0.001 گرام یا 1 ملی گرام) ہوتا ہے، جبکہ بیم بیلنس کا 0.1 گرام اور فزیکل بیلنس کا 0.01 گرام ہوتا ہے۔ کم ترین لیسٹ کاؤنٹ کی وجہ سے الیکٹرانک بیلنس ماس میں معمولی ترین فرق کو بھی درست طور پر ناپ سکتا ہے، لہٰذا یہ زیادہ حساس ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "What precaution must be taken while reading the level of liquid in a measuring cylinder?",
+      "question_ur": "میئرنگ سلنڈر میں مائع کی سطح معلوم کرتے وقت کون سی احتیاط برتنی چاہیے؟",
+      "answer_en": "The measuring cylinder must be placed on a completely flat, horizontal surface. The eye must be placed directly horizontal and level with the bottom of the meniscus (for concave liquids like water) or top of the meniscus (for convex liquids like mercury) to avoid parallax error.",
+      "answer_ur": "میئرنگ سلنڈر کو بالکل ہموار اور افقی سطح پر رکھا جانا چاہیے۔ آنکھ کو ہمیشہ مائع کی سطح کے منسکس کے نچلے حصے (پانی کے لیے) یا اوپری حصے (پارے کے لیے) کی بالکل افقی سیدھ میں رکھا جائے تاکہ پیرا لیکس ایرر واقع نہ ہو۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-06",
+      "question_en": "What are significant figures? State the general rules for identifying them.",
+      "question_ur": "اہم ہندسے (Significant Figures) کیا ہیں؟ ان کی شناخت کے بنیادی اصول بیان کریں۔",
+      "answer_en": "In any measurement, all the accurately known digits and the first doubtful digit are called significant figures. Rules: (1) Non-zero digits are always significant. (2) Zeros between two significant digits are significant. (3) Leading zeros (zeros to the left of the first non-zero digit) are not significant. (4) Trailing zeros to the right of the decimal point are significant.",
+      "answer_ur": "کسی پیمائش میں تمام صحیح معلوم ہندسے اور پہلا مشکوک ہندسہ اہم ہندسے کہلاتے ہیں۔ اصول: (۱) تمام غیر صفر ہندسے ہمیشہ اہم ہوتے ہیں۔ (۲) دو اہم ہندسوں کے درمیان واقع زیروز اہم ہوتے ہیں۔ (۳) پہلے غیر صفر ہندسے سے بائیں جانب والے ابتدائی زیروز اہم نہیں ہوتے۔ (۴) اعشاریہ کے دائیں جانب آخری زیروز اہم شمار ہوتے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-06",
+      "question_en": "State the rules for rounding off numbers with examples.",
+      "question_ur": "اعداد کو راؤنڈ آف کرنے کے اصول مثالوں کے ساتھ بیان کریں۔",
+      "answer_en": "Rules: (1) If the last digit dropped is less than 5, the retained digit remains unchanged (e.g., 2.74 becomes 2.7). (2) If the last digit dropped is greater than 5, the retained digit is increased by 1 (e.g., 2.76 becomes 2.8). (3) If the last digit dropped is 5: if the preceding digit is odd, it is rounded up (e.g., 2.75 becomes 2.8); if the preceding digit is even, it remains unchanged (e.g., 2.65 becomes 2.6).",
+      "answer_ur": "اصول: (۱) اگر چھوڑا جانے والا آخری ہندسہ 5 سے کم ہو تو پہلے ہندسے میں کوئی تبدیلی نہیں ہوتی (مثلاً 2.74 راؤنڈ ہو کر 2.7 بنے گا)۔ (۲) اگر چھوڑا جانے والا ہندسہ 5 سے بڑا ہو تو پہلے ہندسے میں 1 کا اضافہ کیا جاتا ہے (مثلاً 2.76 بن جائے گا 2.8)۔ (۳) اگر چھوڑا جانے والا ہندسہ 5 ہو: تو طاق ہندسے کو جفت بنانے کے لیے 1 بڑھایا جاتا ہے (مثلاً 2.75 بن جائے گا 2.8) اور جفت ہندسہ جوں کا توں برقرار رہتا ہے (مثلاً 2.65 بن جائے گا 2.6)۔"
+    }
+  ],
+  "chapterNo": 1,
+  "titleEn": "Physical Quantities and Measurement",
+  "titleUr": "طبعی مقداریں اور پیمائش"
+}

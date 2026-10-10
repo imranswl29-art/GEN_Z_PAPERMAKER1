@@ -1,0 +1,934 @@
+{
+  "class": "Class 9th",
+  "group": "Science Group",
+  "subject": "English",
+  "chapter_no": 10,
+  "chapterNo": 10,
+  "chapter_title": {
+    "en": "Drug Addiction",
+    "ur": "منشیات کی لعنت"
+  },
+  "titleEn": "Drug Addiction",
+  "titleUr": "منشیات کی لعنت",
+  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 9th English, Unit 10: Drug Addiction. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 9th انگریزی لازمی، یونٹ 10: منشیات کی لعنت کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
+  "curriculum": "PTBB Curriculum 2026",
+  "slos": [
+    {
+      "code": "SLO-01",
+      "domain": "Knowledge",
+      "text_en": "Define and identify fundamental terms, principles, and concepts related to Drug Addiction.",
+      "text_ur": "منشیات کی لعنت کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
+    },
+    {
+      "code": "SLO-02",
+      "domain": "Knowledge",
+      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Drug Addiction.",
+      "text_ur": "منشیات کی لعنت کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
+    },
+    {
+      "code": "SLO-03",
+      "domain": "Understanding",
+      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Drug Addiction.",
+      "text_ur": "منشیات کی لعنت کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
+    },
+    {
+      "code": "SLO-04",
+      "domain": "Understanding",
+      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Drug Addiction.",
+      "text_ur": "منشیات کی لعنت کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
+    },
+    {
+      "code": "SLO-05",
+      "domain": "Application",
+      "text_en": "Apply theoretical principles of Drug Addiction to solve standard board exam analytical questions and practical problems.",
+      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے منشیات کی لعنت کے اصولوں کا اطلاق کریں۔"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "The primary scientific concept or definition established in Unit 10 is:",
+      "question_ur": "یونٹ نمبر 10 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "questionEn": "The primary scientific concept or definition established in Unit 10 is:",
+      "questionUr": "یونٹ نمبر 10 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
+      "options_en": {
+        "A": "Unrelated physical magnitude",
+        "B": "Fundamental principle of Drug Addiction",
+        "C": "Hypothetical auxiliary factor",
+        "D": "Secondary random observation"
+      },
+      "options_ur": {
+        "A": "غیر متعلقہ طبعی مقدار",
+        "B": "منشیات کی لعنت کا بنیادی سائنسی اصول",
+        "C": "فرضی اضافی عنصر",
+        "D": "ثانوی غیر متعلقہ مشاہدہ"
+      },
+      "optionsEn": [
+        "Unrelated physical magnitude",
+        "Fundamental principle of Drug Addiction",
+        "Hypothetical auxiliary factor",
+        "Secondary random observation"
+      ],
+      "optionsUr": [
+        "غیر متعلقہ طبعی مقدار",
+        "منشیات کی لعنت کا بنیادی سائنسی اصول",
+        "فرضی اضافی عنصر",
+        "ثانوی غیر متعلقہ مشاہدہ"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Drug Addiction.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو منشیات کی لعنت کے لیے بنیادی قرار دیا گیا ہے۔",
+      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Drug Addiction.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو منشیات کی لعنت کے لیے بنیادی قرار دیا گیا ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-02",
+      "question_en": "Which one of the following is the key characteristic feature of Drug Addiction?",
+      "question_ur": "مندرجہ ذیل میں سے کون سی منشیات کی لعنت کی کلیدی خصوصیت ہے؟",
+      "questionEn": "Which one of the following is the key characteristic feature of Drug Addiction?",
+      "questionUr": "مندرجہ ذیل میں سے کون سی منشیات کی لعنت کی کلیدی خصوصیت ہے؟",
+      "options_en": {
+        "A": "High precision and universal validity",
+        "B": "Random non-repeatable outcome",
+        "C": "Total absence of governing law",
+        "D": "Unverifiable speculation"
+      },
+      "options_ur": {
+        "A": "اعلیٰ درستگی اور آفاقی اطلاق",
+        "B": "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
+        "C": "بنیادی قانون کی مکمل عدم موجودگی",
+        "D": "غیر تصدیق شدہ قیاس آرائی"
+      },
+      "optionsEn": [
+        "High precision and universal validity",
+        "Random non-repeatable outcome",
+        "Total absence of governing law",
+        "Unverifiable speculation"
+      ],
+      "optionsUr": [
+        "اعلیٰ درستگی اور آفاقی اطلاق",
+        "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
+        "بنیادی قانون کی مکمل عدم موجودگی",
+        "غیر تصدیق شدہ قیاس آرائی"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "According to board examination standards, Drug Addiction exhibits rigorous scientific consistency and validity.",
+      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، منشیات کی لعنت سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
+      "explanationEn": "According to board examination standards, Drug Addiction exhibits rigorous scientific consistency and validity.",
+      "explanationUr": "بورڈ امتحانی معیار کے مطابق، منشیات کی لعنت سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-03",
+      "question_en": "In standard Punjab Board examinations, Drug Addiction is classified under:",
+      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق منشیات کی لعنت کا تعلق کس سے ہے؟",
+      "questionEn": "In standard Punjab Board examinations, Drug Addiction is classified under:",
+      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق منشیات کی لعنت کا تعلق کس سے ہے؟",
+      "options_en": {
+        "A": "General Arts stream",
+        "B": "Non-compulsory elective",
+        "C": "Out-of-syllabus literature",
+        "D": "Core Science Curriculum 2026"
+      },
+      "options_ur": {
+        "A": "جنرل آرٹس گروپ",
+        "B": "غیر اختیاری مضمون",
+        "C": "غیر نصابی ادب",
+        "D": "بنیادی سائنس نصاب 2026"
+      },
+      "optionsEn": [
+        "General Arts stream",
+        "Non-compulsory elective",
+        "Out-of-syllabus literature",
+        "Core Science Curriculum 2026"
+      ],
+      "optionsUr": [
+        "جنرل آرٹس گروپ",
+        "غیر اختیاری مضمون",
+        "غیر نصابی ادب",
+        "بنیادی سائنس نصاب 2026"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
+      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
+      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
+      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-04",
+      "question_en": "What happens when the controlling parameters of Drug Addiction are optimized?",
+      "question_ur": "جب منشیات کی لعنت کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "questionEn": "What happens when the controlling parameters of Drug Addiction are optimized?",
+      "questionUr": "جب منشیات کی لعنت کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "Spontaneous chaotic degradation occurs",
+        "B": "Output drops to zero",
+        "C": "The process achieves optimal efficiency and stability",
+        "D": "The mechanism completely ceases"
+      },
+      "options_ur": {
+        "A": "بے ترتیبی کا عمل شروع ہوتا ہے",
+        "B": "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
+        "C": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
+        "D": "سسٹم کا عمل مکمل طور پر رک جاتا ہے"
+      },
+      "optionsEn": [
+        "Spontaneous chaotic degradation occurs",
+        "Output drops to zero",
+        "The process achieves optimal efficiency and stability",
+        "The mechanism completely ceases"
+      ],
+      "optionsUr": [
+        "بے ترتیبی کا عمل شروع ہوتا ہے",
+        "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
+        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
+        "سسٹم کا عمل مکمل طور پر رک جاتا ہے"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
+      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
+      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-05",
+      "question_en": "The mathematical or logical relationship established in Drug Addiction indicates that:",
+      "question_ur": "منشیات کی لعنت میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "questionEn": "The mathematical or logical relationship established in Drug Addiction indicates that:",
+      "questionUr": "منشیات کی لعنت میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
+      "options_en": {
+        "A": "Undefined asymptotic discontinuity",
+        "B": "Direct functional interdependence between variables",
+        "C": "Inverse random unpredictability",
+        "D": "Complete independence with zero correlation"
+      },
+      "options_ur": {
+        "A": "غیر واضح عدم تسلسل",
+        "B": "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
+        "C": "غیر متوقع معکوس بے ترتیبی",
+        "D": "بغیر تعلق کے مکمل آزادی"
+      },
+      "optionsEn": [
+        "Undefined asymptotic discontinuity",
+        "Direct functional interdependence between variables",
+        "Inverse random unpredictability",
+        "Complete independence with zero correlation"
+      ],
+      "optionsUr": [
+        "غیر واضح عدم تسلسل",
+        "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
+        "غیر متوقع معکوس بے ترتیبی",
+        "بغیر تعلق کے مکمل آزادی"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
+      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
+      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-01",
+      "question_en": "Which instrument or standard methodology is used for accurate analysis in Drug Addiction?",
+      "question_ur": "منشیات کی لعنت میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Drug Addiction?",
+      "questionUr": "منشیات کی لعنت میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
+      "options_en": {
+        "A": "Standard calibrated laboratory technique",
+        "B": "Rough visual estimation only",
+        "C": "Uncontrolled subjective guesswork",
+        "D": "Arbitrary non-standard scale"
+      },
+      "options_ur": {
+        "A": "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
+        "B": "صرف سرسری بصری اندازہ",
+        "C": "غیر تصدیق شدہ ذاتی رائے",
+        "D": "غیر معیاری پیمانہ"
+      },
+      "optionsEn": [
+        "Standard calibrated laboratory technique",
+        "Rough visual estimation only",
+        "Uncontrolled subjective guesswork",
+        "Arbitrary non-standard scale"
+      ],
+      "optionsUr": [
+        "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
+        "صرف سرسری بصری اندازہ",
+        "غیر تصدیق شدہ ذاتی رائے",
+        "غیر معیاری پیمانہ"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
+      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
+      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-02",
+      "question_en": "Under standard conditions, the expected response in Drug Addiction is:",
+      "question_ur": "معیاری شرائط کے تحت منشیات کی لعنت کا متوقع ردعمل کیا ہوتا ہے؟",
+      "questionEn": "Under standard conditions, the expected response in Drug Addiction is:",
+      "questionUr": "معیاری شرائط کے تحت منشیات کی لعنت کا متوقع ردعمل کیا ہوتا ہے؟",
+      "options_en": {
+        "A": "Erratic and unpredictable",
+        "B": "Zero under all environments",
+        "C": "Inverse to natural principles",
+        "D": "Reproducible and consistent with theoretical SLOs"
+      },
+      "options_ur": {
+        "A": "غیر متوازن اور غیر متوقع",
+        "B": "ہر ماحول میں صفر",
+        "C": "قدرتی قوانین کے متضاد",
+        "D": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ"
+      },
+      "optionsEn": [
+        "Erratic and unpredictable",
+        "Zero under all environments",
+        "Inverse to natural principles",
+        "Reproducible and consistent with theoretical SLOs"
+      ],
+      "optionsUr": [
+        "غیر متوازن اور غیر متوقع",
+        "ہر ماحول میں صفر",
+        "قدرتی قوانین کے متضاد",
+        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
+      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
+      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-03",
+      "question_en": "In board past papers, a frequently tested conceptual query on Drug Addiction addresses:",
+      "question_ur": "بورڈ کے سابقہ پرچوں میں منشیات کی لعنت سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "questionEn": "In board past papers, a frequently tested conceptual query on Drug Addiction addresses:",
+      "questionUr": "بورڈ کے سابقہ پرچوں میں منشیات کی لعنت سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
+      "options_en": {
+        "A": "Author's biographical footnotes",
+        "B": "Superficial general knowledge",
+        "C": "The exact governing definition and limiting conditions",
+        "D": "Historical publication date only"
+      },
+      "options_ur": {
+        "A": "مصنف کے سوانحی حواشی",
+        "B": "غیر متعلقہ عمومی معلومات",
+        "C": "بنیادی تعریف اور شرائط و حدود",
+        "D": "صرف تاریخی اشاعت کی تاریخ"
+      },
+      "optionsEn": [
+        "Author's biographical footnotes",
+        "Superficial general knowledge",
+        "The exact governing definition and limiting conditions",
+        "Historical publication date only"
+      ],
+      "optionsUr": [
+        "مصنف کے سوانحی حواشی",
+        "غیر متعلقہ عمومی معلومات",
+        "بنیادی تعریف اور شرائط و حدود",
+        "صرف تاریخی اشاعت کی تاریخ"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
+      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
+      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-04",
+      "question_en": "What is the significant advantage of understanding Drug Addiction in modern science?",
+      "question_ur": "جدید سائنس میں منشیات کی لعنت کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "questionEn": "What is the significant advantage of understanding Drug Addiction in modern science?",
+      "questionUr": "جدید سائنس میں منشیات کی لعنت کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
+      "options_en": {
+        "A": "Limited to theoretical speculation",
+        "B": "Enables critical analytical thinking and technological application",
+        "C": "Only rote memorization for single exam",
+        "D": "Has no application outside classroom"
+      },
+      "options_ur": {
+        "A": "صرف فرضی نظریات تک محدود",
+        "B": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
+        "C": "صرف وقتی رٹہ بازی تک محدود",
+        "D": "کلاس روم سے باہر کوئی اطلاق نہیں"
+      },
+      "optionsEn": [
+        "Limited to theoretical speculation",
+        "Enables critical analytical thinking and technological application",
+        "Only rote memorization for single exam",
+        "Has no application outside classroom"
+      ],
+      "optionsUr": [
+        "صرف فرضی نظریات تک محدود",
+        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
+        "صرف وقتی رٹہ بازی تک محدود",
+        "کلاس روم سے باہر کوئی اطلاق نہیں"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
+      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
+      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "Which of the following statements is 100% correct regarding Drug Addiction?",
+      "question_ur": "منشیات کی لعنت کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "questionEn": "Which of the following statements is 100% correct regarding Drug Addiction?",
+      "questionUr": "منشیات کی لعنت کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
+      "options_en": {
+        "A": "It complies strictly with Punjab Board Curriculum 2026 guidelines",
+        "B": "It is only valid for non-science students",
+        "C": "It has been excluded from recent syllabus",
+        "D": "It contains only subjective narratives"
+      },
+      "options_ur": {
+        "A": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
+        "B": "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
+        "C": "اسے حالیہ نصاب سے نکال دیا گیا ہے",
+        "D": "اس میں صرف غیر سائنسی بیانات ہیں"
+      },
+      "optionsEn": [
+        "It complies strictly with Punjab Board Curriculum 2026 guidelines",
+        "It is only valid for non-science students",
+        "It has been excluded from recent syllabus",
+        "It contains only subjective narratives"
+      ],
+      "optionsUr": [
+        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
+        "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
+        "اسے حالیہ نصاب سے نکال دیا گیا ہے",
+        "اس میں صرف غیر سائنسی بیانات ہیں"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
+      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-01",
+      "question_en": "The standard unit, formula, or fundamental rule applied in Drug Addiction ensures:",
+      "question_ur": "منشیات کی لعنت میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "questionEn": "The standard unit, formula, or fundamental rule applied in Drug Addiction ensures:",
+      "questionUr": "منشیات کی لعنت میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
+      "options_en": {
+        "A": "Localized non-comparable values",
+        "B": "Ambiguity in scientific computation",
+        "C": "Uncalibrated relative indices",
+        "D": "International standardization and measurement consistency"
+      },
+      "options_ur": {
+        "A": "غیر موازنہ مقامی اقدار",
+        "B": "حسابی عمل میں ابہام",
+        "C": "غیر معیاری پیمائشی نظام",
+        "D": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل"
+      },
+      "optionsEn": [
+        "Localized non-comparable values",
+        "Ambiguity in scientific computation",
+        "Uncalibrated relative indices",
+        "International standardization and measurement consistency"
+      ],
+      "optionsUr": [
+        "غیر موازنہ مقامی اقدار",
+        "حسابی عمل میں ابہام",
+        "غیر معیاری پیمائشی نظام",
+        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
+      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
+      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-02",
+      "question_en": "When comparing Drug Addiction with analogous systems, its primary distinction is:",
+      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت منشیات کی لعنت کی بنیادی امتیازی خصوصیت ہے:",
+      "questionEn": "When comparing Drug Addiction with analogous systems, its primary distinction is:",
+      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت منشیات کی لعنت کی بنیادی امتیازی خصوصیت ہے:",
+      "options_en": {
+        "A": "Random erratic variations",
+        "B": "Complete identity without difference",
+        "C": "Specific textbook parameters and unique behavioral properties",
+        "D": "Total lack of measurable traits"
+      },
+      "options_ur": {
+        "A": "غیر مستحکم بے قاعدہ تبدیلیاں",
+        "B": "بغیر فرق کے مکمل مشابہت",
+        "C": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
+        "D": "ناپنے کے قابل خصوصیات کا فقدان"
+      },
+      "optionsEn": [
+        "Random erratic variations",
+        "Complete identity without difference",
+        "Specific textbook parameters and unique behavioral properties",
+        "Total lack of measurable traits"
+      ],
+      "optionsUr": [
+        "غیر مستحکم بے قاعدہ تبدیلیاں",
+        "بغیر فرق کے مکمل مشابہت",
+        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
+        "ناپنے کے قابل خصوصیات کا فقدان"
+      ],
+      "correct_answer": "C",
+      "correctIndex": 2,
+      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
+      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
+      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔"
+    },
+    {
+      "id": 13,
+      "slo_ref": "SLO-03",
+      "question_en": "A student observing an experimental setup for Drug Addiction must ensure:",
+      "question_ur": "منشیات کی لعنت کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "questionEn": "A student observing an experimental setup for Drug Addiction must ensure:",
+      "questionUr": "منشیات کی لعنت کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
+      "options_en": {
+        "A": "Omitting observation records",
+        "B": "Minimization of systematic and personal errors",
+        "C": "Ignoring zero errors completely",
+        "D": "Using unverified rough measurements"
+      },
+      "options_ur": {
+        "A": "مشاہداتی ریکارڈ کو چھوڑ دینا",
+        "B": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
+        "C": "زیرو ایرر کو مکمل نظر انداز کرنا",
+        "D": "غیر تصدیق شدہ اندازوں کا استعمال"
+      },
+      "optionsEn": [
+        "Omitting observation records",
+        "Minimization of systematic and personal errors",
+        "Ignoring zero errors completely",
+        "Using unverified rough measurements"
+      ],
+      "optionsUr": [
+        "مشاہداتی ریکارڈ کو چھوڑ دینا",
+        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
+        "زیرو ایرر کو مکمل نظر انداز کرنا",
+        "غیر تصدیق شدہ اندازوں کا استعمال"
+      ],
+      "correct_answer": "B",
+      "correctIndex": 1,
+      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
+      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
+      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔"
+    },
+    {
+      "id": 14,
+      "slo_ref": "SLO-04",
+      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Drug Addiction?",
+      "question_ur": "منشیات کی لعنت میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Drug Addiction?",
+      "questionUr": "منشیات کی لعنت میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
+      "options_en": {
+        "A": "Application and Higher Order Thinking",
+        "B": "Basic rote recall only",
+        "C": "Passive non-analytical reading",
+        "D": "Unstructured speculation"
+      },
+      "options_ur": {
+        "A": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
+        "B": "صرف سادہ رٹہ بازی",
+        "C": "غیر تجزیاتی مطالعہ",
+        "D": "غیر منظم قیاس آرائی"
+      },
+      "optionsEn": [
+        "Application and Higher Order Thinking",
+        "Basic rote recall only",
+        "Passive non-analytical reading",
+        "Unstructured speculation"
+      ],
+      "optionsUr": [
+        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
+        "صرف سادہ رٹہ بازی",
+        "غیر تجزیاتی مطالعہ",
+        "غیر منظم قیاس آرائی"
+      ],
+      "correct_answer": "A",
+      "correctIndex": 0,
+      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
+      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
+      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔"
+    },
+    {
+      "id": 15,
+      "slo_ref": "SLO-05",
+      "question_en": "Final examination questions from Drug Addiction are framed strictly according to:",
+      "question_ur": "منشیات کی لعنت سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "questionEn": "Final examination questions from Drug Addiction are framed strictly according to:",
+      "questionUr": "منشیات کی لعنت سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
+      "options_en": {
+        "A": "Random internet questionnaires",
+        "B": "Outdated foreign curriculum",
+        "C": "Informal social media guides",
+        "D": "Official PTBB 2026 Student Learning Outcomes (SLOs)"
+      },
+      "options_ur": {
+        "A": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
+        "B": "پرانا متروکہ غیر ملکی نصاب",
+        "C": "سوشل میڈیا کے غیر مصدقہ نوٹس",
+        "D": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)"
+      },
+      "optionsEn": [
+        "Random internet questionnaires",
+        "Outdated foreign curriculum",
+        "Informal social media guides",
+        "Official PTBB 2026 Student Learning Outcomes (SLOs)"
+      ],
+      "optionsUr": [
+        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
+        "پرانا متروکہ غیر ملکی نصاب",
+        "سوشل میڈیا کے غیر مصدقہ نوٹس",
+        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)"
+      ],
+      "correct_answer": "D",
+      "correctIndex": 3,
+      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
+      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
+      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔"
+    }
+  ],
+  "short_questions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Drug Addiction according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق منشیات کی لعنت کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Drug Addiction represents a foundational unit of the Class 9th English syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "منشیات کی لعنت Class 9th انگریزی لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Drug Addiction according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق منشیات کی لعنت کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Drug Addiction represents a foundational unit of the Class 9th English syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "منشیات کی لعنت Class 9th انگریزی لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Drug Addiction.",
+      "question_ur": "منشیات کی لعنت میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Drug Addiction.",
+      "questionUr": "منشیات کی لعنت میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Drug Addiction along with its standard units or notation.",
+      "question_ur": "منشیات کی لعنت کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Drug Addiction along with its standard units or notation.",
+      "questionUr": "منشیات کی لعنت کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Drug Addiction.",
+      "question_ur": "منشیات کی لعنت میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Drug Addiction.",
+      "questionUr": "منشیات کی لعنت میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Drug Addiction considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں منشیات کی لعنت کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Drug Addiction considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں منشیات کی لعنت کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Drug Addiction.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو منشیات کی لعنت کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Drug Addiction, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام منشیات کی لعنت کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Drug Addiction.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو منشیات کی لعنت کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Drug Addiction, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام منشیات کی لعنت کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Drug Addiction?",
+      "question_ur": "منشیات کی لعنت کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Drug Addiction?",
+      "questionUr": "منشیات کی لعنت کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Drug Addiction?",
+      "question_ur": "منشیات کی لعنت میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Drug Addiction?",
+      "questionUr": "منشیات کی لعنت میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Drug Addiction.",
+      "question_ur": "بورڈ کے پرچوں میں منشیات کی لعنت سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Drug Addiction.",
+      "questionUr": "بورڈ کے پرچوں میں منشیات کی لعنت سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Drug Addiction?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو منشیات کی لعنت پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Drug Addiction?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو منشیات کی لعنت پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Drug Addiction?",
+      "question_ur": "منشیات کی لعنت کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Drug Addiction?",
+      "questionUr": "منشیات کی لعنت کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Drug Addiction for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے منشیات کی لعنت کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Drug Addiction requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "منشیات کی لعنت پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Drug Addiction for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے منشیات کی لعنت کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Drug Addiction requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "منشیات کی لعنت پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": 1,
+      "slo_ref": "SLO-01",
+      "question_en": "Define Drug Addiction according to Punjab Textbook Board syllabus and state its core principle.",
+      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق منشیات کی لعنت کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answer_en": "Drug Addiction represents a foundational unit of the Class 9th English syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answer_ur": "منشیات کی لعنت Class 9th انگریزی لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
+      "questionEn": "Define Drug Addiction according to Punjab Textbook Board syllabus and state its core principle.",
+      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق منشیات کی لعنت کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
+      "answerEn": "Drug Addiction represents a foundational unit of the Class 9th English syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
+      "answerUr": "منشیات کی لعنت Class 9th انگریزی لازمی کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+    },
+    {
+      "id": 2,
+      "slo_ref": "SLO-01",
+      "question_en": "State two primary textbook terms or classifications introduced in Drug Addiction.",
+      "question_ur": "منشیات کی لعنت میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
+      "questionEn": "State two primary textbook terms or classifications introduced in Drug Addiction.",
+      "questionUr": "منشیات کی لعنت میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
+      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
+      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+    },
+    {
+      "id": 3,
+      "slo_ref": "SLO-02",
+      "question_en": "Write down the governing formula or rule of Drug Addiction along with its standard units or notation.",
+      "question_ur": "منشیات کی لعنت کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
+      "questionEn": "Write down the governing formula or rule of Drug Addiction along with its standard units or notation.",
+      "questionUr": "منشیات کی لعنت کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
+      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
+      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+    },
+    {
+      "id": 4,
+      "slo_ref": "SLO-02",
+      "question_en": "Differentiate between two contrasting aspects or categories studied in Drug Addiction.",
+      "question_ur": "منشیات کی لعنت میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
+      "questionEn": "Differentiate between two contrasting aspects or categories studied in Drug Addiction.",
+      "questionUr": "منشیات کی لعنت میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
+      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
+      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+    },
+    {
+      "id": 5,
+      "slo_ref": "SLO-03",
+      "question_en": "Why is Drug Addiction considered essential in practical science and board examinations?",
+      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں منشیات کی لعنت کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
+      "questionEn": "Why is Drug Addiction considered essential in practical science and board examinations?",
+      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں منشیات کی لعنت کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
+      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
+      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+    },
+    {
+      "id": 6,
+      "slo_ref": "SLO-03",
+      "question_en": "Give one practical or daily life example that illustrates the concept of Drug Addiction.",
+      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو منشیات کی لعنت کے تصور کو واضح کرتی ہو۔",
+      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Drug Addiction, confirming experimental reproducibility.",
+      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام منشیات کی لعنت کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
+      "questionEn": "Give one practical or daily life example that illustrates the concept of Drug Addiction.",
+      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو منشیات کی لعنت کے تصور کو واضح کرتی ہو۔",
+      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Drug Addiction, confirming experimental reproducibility.",
+      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام منشیات کی لعنت کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+    },
+    {
+      "id": 7,
+      "slo_ref": "SLO-04",
+      "question_en": "What precautions or boundary conditions must be maintained when evaluating Drug Addiction?",
+      "question_ur": "منشیات کی لعنت کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
+      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Drug Addiction?",
+      "questionUr": "منشیات کی لعنت کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
+      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
+      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+    },
+    {
+      "id": 8,
+      "slo_ref": "SLO-04",
+      "question_en": "How does a change in primary variables affect the outcome in Drug Addiction?",
+      "question_ur": "منشیات کی لعنت میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
+      "questionEn": "How does a change in primary variables affect the outcome in Drug Addiction?",
+      "questionUr": "منشیات کی لعنت میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
+      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
+      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+    },
+    {
+      "id": 9,
+      "slo_ref": "SLO-05",
+      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Drug Addiction.",
+      "question_ur": "بورڈ کے پرچوں میں منشیات کی لعنت سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
+      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Drug Addiction.",
+      "questionUr": "بورڈ کے پرچوں میں منشیات کی لعنت سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
+      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
+      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+    },
+    {
+      "id": 10,
+      "slo_ref": "SLO-05",
+      "question_en": "How should a matric science student structure a 2-mark board short question on Drug Addiction?",
+      "question_ur": "ایک میٹرک سائنس کے طالب علم کو منشیات کی لعنت پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
+      "questionEn": "How should a matric science student structure a 2-mark board short question on Drug Addiction?",
+      "questionUr": "ایک میٹرک سائنس کے طالب علم کو منشیات کی لعنت پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
+      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
+      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+    },
+    {
+      "id": 11,
+      "slo_ref": "SLO-05",
+      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Drug Addiction?",
+      "question_ur": "منشیات کی لعنت کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
+      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Drug Addiction?",
+      "questionUr": "منشیات کی لعنت کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
+      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
+      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+    },
+    {
+      "id": 12,
+      "slo_ref": "SLO-05",
+      "question_en": "Summarize the final takeaway of Drug Addiction for revision before board exams.",
+      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے منشیات کی لعنت کا حتمی خلاصہ بیان کریں۔",
+      "answer_en": "Mastery of Drug Addiction requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answer_ur": "منشیات کی لعنت پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
+      "questionEn": "Summarize the final takeaway of Drug Addiction for revision before board exams.",
+      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے منشیات کی لعنت کا حتمی خلاصہ بیان کریں۔",
+      "answerEn": "Mastery of Drug Addiction requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
+      "answerUr": "منشیات کی لعنت پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "Significance",
+      "meaningUr": "اہمیت / افادیت",
+      "context": "The significance of Drug Addiction is pivotal in PTBB board exams."
+    },
+    {
+      "word": "Comprehend",
+      "meaningUr": "سمجھنا / ادراک کرنا",
+      "context": "Students must comprehend core curriculum principles."
+    },
+    {
+      "word": "Demonstrate",
+      "meaningUr": "ظاہر کرنا / ثبوت دینا",
+      "context": "Demonstrate understanding through structured model answers."
+    },
+    {
+      "word": "Rigorous",
+      "meaningUr": "جامع / سخت معیاری",
+      "context": "Strict adherence to rigorous PTBB 2026 guidelines."
+    }
+  ]
+}
