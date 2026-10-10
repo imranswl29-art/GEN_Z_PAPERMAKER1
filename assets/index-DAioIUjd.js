@@ -4146,296 +4146,475 @@ const SAMPLE_NOTES_DATA = {
       chapterNo: 1,
       titleEn: "Physical Quantities and Measurement",
       titleUr: "طبیعی مقداریں اور پیمائش",
+      summaryEn: "This chapter covers the introduction to physics, physical quantities (base and derived), International System of Units (SI), scientific notation, prefixes, and measuring instruments (Vernier calliper, Screw gauge, Physical balance, Stop watch, and Measuring cylinder).",
+      summaryUr: "اس باب میں طبیعیات کا تعارف، طبعی مقداریں (بنیادی اور ماخوذ)، بین الاقوامی نظام یونٹس (SI)، سائنسی علامات، پریفکسز اور پیمائشی آلات شامل ہیں۔",
       mcqs: [
         {
           id: "m1",
-          qNo: 1,
-          statementEn: "The number of base units in System International (SI) is:",
-          statementUr: "سسٹم انٹرنیشنل (SI) میں بنیادی یونٹس کی تعداد ہے:",
-          options: [
-            { key: "A", textEn: "3", textUr: "3" },
-            { key: "B", textEn: "6", textUr: "6" },
-            { key: "C", textEn: "7", textUr: "7" },
-            { key: "D", textEn: "9", textUr: "9" }
-          ],
-          correctOption: "C",
-          explanationEn: "According to SI, there are exactly 7 base quantities: Length (m), Mass (kg), Time (s), Electric Current (A), Temperature (K), Amount of Substance (mol), and Luminous Intensity (cd).",
-          explanationUr: "سسٹم انٹرنیشنل (SI) میں کل 7 بنیادی مقداریں ہیں: لمبائی (میٹر)، کمیت (کلوگرام)، وقت (سیکنڈ)، کرنٹ (ایمپئر)، درجہ حرارت (کیلون)، مادے کی مقدار (مول) اور روشنی کی شدت (کینڈیلا)۔"
+          questionEn: "The number of base units in SI is:",
+          questionUr: "انٹرنیشنل سسٹم آف یونٹس (SI) میں بنیادی یونٹس کی تعداد ہے:",
+          optionsEn: ["3", "5", "7", "9"],
+          optionsUr: ["3", "5", "7", "9"],
+          correctIndex: 2,
+          explanationEn: "In SI system, there are seven base units: meter (m), kilogram (kg), second (s), ampere (A), kelvin (K), mole (mol), and candela (cd).",
+          explanationUr: "ایس آئی سسٹم میں سات بنیادی یونٹس ہیں: میٹر، کلوگرام، سیکنڈ، ایمپئر، کیلون، مول اور کینڈیلا۔"
         },
         {
           id: "m2",
-          qNo: 2,
-          statementEn: "Which one of the following is a derived unit?",
-          statementUr: "مندرجہ ذیل میں سے ماخوذ یونٹ کون سا ہے؟",
-          options: [
-            { key: "A", textEn: "Pascal (Pa)", textUr: "پاسکل (Pa)" },
-            { key: "B", textEn: "Kilogram (kg)", textUr: "کلوگرام (kg)" },
-            { key: "C", textEn: "Second (s)", textUr: "سیکنڈ (s)" },
-            { key: "D", textEn: "Kelvin (K)", textUr: "کیلون (K)" }
-          ],
-          correctOption: "A",
-          explanationEn: "Pascal (Pa) is the unit of pressure (N/m²), which is derived from fundamental base units, whereas kilogram, second, and kelvin are fundamental base units.",
-          explanationUr: "پاسکل (Pa) پریشر کا یونٹ ہے جو بنیادی یونٹس (نیوٹن فی مربع میٹر) سے اخذ کیا گیا ہے، جبکہ کلوگرام، سیکنڈ اور کیلون بنیادی یونٹس ہیں۔"
+          questionEn: "Which one of the following unit is not a derived unit?",
+          questionUr: "مندرجہ ذیل میں سے کون سا یونٹ ماخوذ یونٹ نہیں ہے؟",
+          optionsEn: ["Pascal", "Kilogram", "Newton", "Watt"],
+          optionsUr: ["پاسکل", "کلوگرام", "نیوٹن", "واٹ"],
+          correctIndex: 1,
+          explanationEn: "Kilogram is a base unit of mass in SI. Pascal, Newton, and Watt are derived units.",
+          explanationUr: "کلوگرام ماس کا بنیادی یونٹ ہے جبکہ پاسکل، نیوٹن اور واٹ ماخوذ یونٹس ہیں۔"
         },
         {
           id: "m3",
-          qNo: 3,
-          statementEn: "The least count of a standard Vernier Callipers is:",
-          statementUr: "عام ورنیئر کیلیپرز کا لیسٹ کاؤنٹ کتنا ہوتا ہے؟",
-          options: [
-            { key: "A", textEn: "1 cm", textUr: "1 سینٹی میٹر" },
-            { key: "B", textEn: "0.1 mm (0.01 cm)", textUr: "0.1 ملی میٹر (0.01 سینٹی میٹر)" },
-            { key: "C", textEn: "0.01 mm", textUr: "0.01 ملی میٹر" },
-            { key: "D", textEn: "0.001 cm", textUr: "0.001 سینٹی میٹر" }
-          ],
-          correctOption: "B",
-          explanationEn: "Least count of Vernier Callipers = smallest division on main scale / total vernier divisions = 1 mm / 10 = 0.1 mm or 0.01 cm.",
-          explanationUr: "ورنیئر کیلیپرز کا لیسٹ کاؤنٹ = مین اسکیل کی ایک چھوٹی تقسیم / ورنیئر اسکیل کی کل تقسیمیں = 1 ملی میٹر / 10 = 0.1 ملی میٹر (0.01 سینٹی میٹر)۔"
+          questionEn: "The least count of a standard Vernier Callipers is:",
+          questionUr: "عام ورنیر کیلیپرز کا لیسٹ کاؤنٹ کتنا ہوتا ہے؟",
+          optionsEn: ["0.1 cm", "0.01 cm", "0.001 cm", "1 mm"],
+          optionsUr: ["0.1 سینٹی میٹر", "0.01 سینٹی میٹر", "0.001 سینٹی میٹر", "1 ملی میٹر"],
+          correctIndex: 1,
+          explanationEn: "Least count of Vernier Callipers is 0.1 mm or 0.01 cm.",
+          explanationUr: "ورنیر کیلیپرز کا لیسٹ کاؤنٹ 0.1 ملی میٹر یا 0.01 سینٹی میٹر ہوتا ہے۔"
         },
         {
           id: "m4",
-          qNo: 4,
-          statementEn: "An interval of 200 microseconds (200 μs) is equivalent to:",
-          statementUr: "200 مائیکرو سیکنڈز (200 μs) کا وقفہ کس کے برابر ہے؟",
-          options: [
-            { key: "A", textEn: "0.2 × 10⁻⁴ s", textUr: "0.2 × 10⁻⁴ سیکنڈ" },
-            { key: "B", textEn: "2 × 10⁻⁴ s", textUr: "2 × 10⁻⁴ سیکنڈ" },
-            { key: "C", textEn: "2 × 10⁻⁶ s", textUr: "2 × 10⁻⁶ سیکنڈ" },
-            { key: "D", textEn: "2 × 10⁻⁸ s", textUr: "2 × 10⁻⁸ سیکنڈ" }
-          ],
-          correctOption: "B",
-          explanationEn: "200 μs = 200 × 10⁻⁶ s = 2 × 10² × 10⁻⁶ s = 2 × 10⁻⁴ s in standard scientific notation.",
-          explanationUr: "200 مائیکرو سیکنڈ = 200 × 10⁻⁶ سیکنڈ = 2 × 10² × 10⁻⁶ سیکنڈ = 2 × 10⁻⁴ سیکنڈ۔"
+          questionEn: "An interval of 200 microseconds is equivalent to:",
+          questionUr: "200 مائیکرو سیکنڈ کا وقفہ برابر ہوتا ہے:",
+          optionsEn: ["0.2 s", "2 x 10^-4 s", "2 x 10^-6 s", "2 x 10^-8 s"],
+          optionsUr: ["0.2 سیکنڈ", "2 x 10^-4 سیکنڈ", "2 x 10^-6 سیکنڈ", "2 x 10^-8 سیکنڈ"],
+          correctIndex: 1,
+          explanationEn: "200 μs = 200 x 10^-6 s = 2 x 10^-4 s.",
+          explanationUr: "200 مائیکرو سیکنڈ = 200 ضرب 10 کی پاور منفی 6 = 2 ضرب 10 کی پاور منفی 4 سیکنڈ۔"
         },
         {
           id: "m5",
-          qNo: 5,
-          statementEn: "The number of significant figures in 0.00580 is:",
-          statementUr: "0.00580 میں اہم ہندسوں (Significant Figures) کی تعداد ہے:",
-          options: [
-            { key: "A", textEn: "1", textUr: "1" },
-            { key: "B", textEn: "2", textUr: "2" },
-            { key: "C", textEn: "3", textUr: "3" },
-            { key: "D", textEn: "5", textUr: "5" }
-          ],
-          correctOption: "C",
-          explanationEn: "Zeros used for spacing the decimal point are not significant. Trailing zeros after decimal are significant. Digits 5, 8, 0 are significant (3 figures).",
-          explanationUr: "پہلے غیر صفر ہندسے سے بائیں طرف والے صفر اہم نہیں ہوتے، جبکہ اعشاریہ کے بعد والے آخری صفر اہم ہوتے ہیں۔ لہٰذا 5، 8 اور 0 اہم ہندسے ہیں (کل 3)۔"
+          questionEn: "Which of the following is the smallest quantity?",
+          questionUr: "مندرجہ ذیل میں سے سب سے چھوٹی مقدار کون سی ہے؟",
+          optionsEn: ["0.01 g", "2 mg", "100 μg", "5000 ng"],
+          optionsUr: ["0.01 گرام", "2 ملی گرام", "100 مائیکرو گرام", "5000 نینو گرام"],
+          correctIndex: 3,
+          explanationEn: "5000 ng = 5000 x 10^-9 g = 5 x 10^-6 g, which is the smallest among all given options.",
+          explanationUr: "5000 نینو گرام = 5 ضرب 10 کی پاور منفی 6 گرام، جو کہ سب سے چھوٹی مقدار ہے۔"
         }
       ],
       shortQuestions: [
         {
-          id: "s1",
-          subNo: 1,
-          statementEn: "Differentiate between Base Quantities and Derived Quantities with two examples each.",
-          statementUr: "بنیادی مقداروں اور ماخوذ مقداروں میں فرق واضح کریں اور ہر ایک کی دو مثالیں دیں۔",
+          id: "sq1",
+          questionEn: "Define physics and name any four main branches of physics.",
+          questionUr: "طبیعیات (Physics) کی تعریف کریں اور اس کی کوئی سی چار اہم شاخوں کے نام لکھیں۔",
           marks: 2,
-          answerEn: "Base Quantities: Physical quantities on the basis of which other quantities are expressed (e.g., Length, Mass, Time).\nDerived Quantities: Quantities that are expressed in terms of base quantities (e.g., Velocity, Acceleration, Force, Area).",
-          answerUr: "بنیادی مقداریں: وہ طبعی مقداریں جن کی بنیاد پر دوسری مقداریں بیان کی جاتی ہیں (مثلاً لمبائی، کمیت، وقت)۔\nماخوذ مقداریں: وہ مقداریں جو بنیادی مقداروں کی مدد سے اخذ کی جاتی ہیں (مثلاً ولاسٹی، ایکسلریشن، فورس، رقبہ)۔"
+          answerEn: "Physics is the branch of science that deals with matter, energy, and the mutual relationship between them.\n\nFour main branches of physics:\n1. Mechanics - Study of motion of objects, its causes and effects.\n2. Thermodynamics - Study of nature of heat, modes of transfer and effects.\n3. Electromagnetism - Study of charges at rest and in motion, effects and relations with magnetism.\n4. Nuclear Physics - Study of properties and behavior of nuclei and elementary particles.",
+          answerUr: "تعریف: سائنس کی وہ شاخ جس میں مادے، انرجی اور ان کے باہمی تعلق کا مطالعہ کیا جاتا ہے، طبیعیات کہلاتی ہے۔\n\nطبیعیات کی چار اہم شاخیں:\n1۔ مکینکس: اجسام کی حرکت، وجوہات اور اثرات کا مطالعہ۔\n2۔ حرارت (تھرموڈائنامکس): حرارت کی ماہیت، منتقلی اور اثرات کا مطالعہ۔\n3۔ الیکٹرو میگنیٹزم: ساکن اور متحرک چارجز اور مقناطیسیت سے تعلق کا مطالعہ۔\n4۔ نیوکلیئر فزکس: ایٹم کے نیوکلیائی اور ذرات کی خصوصیات کا مطالعہ۔"
         },
         {
-          id: "s2",
-          subNo: 2,
-          statementEn: "What is meant by Zero Error and Zero Correction in measuring instruments?",
-          statementUr: "پیمائشی آلات میں زیرو ایرر اور زیرو کریکشن سے کیا مراد ہے؟",
+          id: "sq2",
+          questionEn: "Differentiate between Base Quantities and Derived Quantities with two examples each.",
+          questionUr: "بنیادی مقداروں اور ماخوذ مقداروں میں فرق واضح کریں اور ہر ایک کی دو دو مثالیں دیں۔",
           marks: 2,
-          answerEn: "Zero Error: If the zero of vernier scale does not coincide with zero of main scale when jaws are closed, the instrument has a zero error.\nZero Correction: It is the negative of zero error. It is algebraically added to observed reading to get the correct measurement.",
-          answerUr: "زیرو ایرر: جبڑوں کو بند کرنے پر اگر ورنیئر اسکیل کی زیرو لائن مین اسکیل کی زیرو لائن کے آمنے سامنے نہ آئے تو اس نقص کو زیرو ایرر کہتے ہیں۔\nزیرو کریکشن: زیرو ایرر کا الٹ (منفی) ہوتا ہے اور درست پیمائش کے لیے اسے ریڈنگ میں الجبرائی طور پر جمع کیا جاتا ہے۔"
+          answerEn: "Base Quantities: Base quantities are the quantities on the basis of which other quantities are expressed. Examples: Length (meter), Mass (kilogram), Time (second).\n\nDerived Quantities: The quantities that are expressed in terms of base quantities are called derived quantities. Examples: Speed (m/s), Force (Newton), Work (Joule).",
+          answerUr: "بنیادی مقداریں: بنیادی مقداریں وہ مقداریں ہیں جن کی بنیاد پر دوسری مقداریں بیان کی جاتی ہیں۔\nمثالیں: لمبائی (میٹر)، کمیت (کلوگرام)، وقت (سیکنڈ)۔\n\nماخوذ مقداریں: وہ مقداریں جو بنیادی مقداروں کی بنیاد پر اخذ کی جائیں، ماخوذ مقداریں کہلاتی ہیں۔\nمثالیں: رفتار (سپیڈ)، فورس (نیوٹن)، ورک (جول)۔"
         },
         {
-          id: "s3",
-          subNo: 3,
-          statementEn: "State the primary rules for determining Significant Figures in any measurement.",
-          statementUr: "کسی پیمائش میں اہم ہندسوں (Significant Figures) کے تعین کے بنیادی اصول تحریر کریں۔",
+          id: "sq3",
+          questionEn: "What is meant by scientific notation (standard form)? Give one example.",
+          questionUr: "سائنسی علامات (سٹینڈرڈ فارم) سے کیا مراد ہے؟ ایک مثال دیں۔",
           marks: 2,
-          answerEn: "1. All non-zero digits are always significant (e.g., 27 has two).\n2. Zeros between two significant digits are significant (e.g., 205 has three).\n3. Leading zeros before the first non-zero digit are NOT significant (e.g., 0.02 has one).\n4. Trailing zeros after a decimal point are significant (e.g., 8.00 has three).",
-          answerUr: "1۔ تمام غیر صفر ہندسے ہمیشہ اہم ہوتے ہیں (مثلاً 27 میں 2 ہیں)۔\n2۔ دو اہم ہندسوں کے درمیان آنے والے تمام صفر اہم ہوتے ہیں (مثلاً 205 میں 3 ہیں)۔\n3۔ پہلے غیر صفر ہندسے سے پہلے آنے والے صفر اہم نہیں ہوتے (مثلاً 0.02 میں 1 ہے)۔\n4۔ اعشاریہ کے بعد آنے والے آخری صفر اہم ہوتے ہیں (مثلاً 8.00 میں 3 ہیں)۔"
+          answerEn: "Scientific notation is a method in which a number is expressed as a power of ten multiplied by a number between 1 and 10.\nFormula form: N = M x 10^n (where 1 <= M < 10 and n is an integer).\n\nExample: The distance from the Earth to the Sun is approximately 150,000,000 km, which in scientific notation is written as 1.5 x 10^8 km.",
+          answerUr: "تعریف: ایسا طریقہ جس میں کسی عدد کو 1 اور 10 کے درمیان کسی عدد اور 10 کی مناسب پاور میں ظاہر کیا جائے سائنسی علامات کہلاتا ہے۔\n\nمثال: زمین کا سورج سے فاصلہ تقریباً 150,000,000 کلومیٹر ہے، جسے سائنسی انداز میں 1.5 ضرب 10 کی طاقت 8 کلومیٹر لکھا جاتا ہے۔"
+        }
+      ]
+    }
+  },
+  "9th-english": {
+    1: {
+      chapterNo: 1,
+      titleEn: "The Saviour of Mankind",
+      titleUr: "نوع انسانی کا نجات دہندہ (صلی اللہ علیہ وآلہ وسلم)",
+      summaryEn: "This chapter highlights the Arabia of ancient times, the condition of humanity before Islam, the birth, proclamation of prophethood, and the divine message of Holy Prophet Hazrat Muhammad (PBUH) which transformed ignorant society into a beacon of justice and knowledge.",
+      summaryUr: "یہ سبق جزیرہ نمائے عرب، اسلام سے پہلے انسانیت کی زبوں حالی اور خاتم النبیین حضرت محمد رسول اللہ ﷺ کے پیغامِ حق اور عظیم الشان انقلاب پر مبنی ہے۔",
+      vocab: [
+        { word: "Unparalleled", meaningUr: "بے مثال / لاثانی", context: "Arabia is a land of unparalleled charm and beauty." },
+        { word: "Trackless", meaningUr: "بے نشان / گم راہ کن", context: "Trackless deserts of sand dunes in dazzling rays." },
+        { word: "Dazzling", meaningUr: "خیرہ کن / چکا چوند کرنے والی", context: "Under the dazzling rays of a tropical sun." },
+        { word: "Bestowed with", meaningUr: "عطا کیا گیا / نوازا گیا", context: "The Arabs were bestowed with a remarkable memory." },
+        { word: "Eloquence", meaningUr: "فصاحت و بلاغت", context: "Their eloquence found expression in their poetry." },
+        { word: "Solitude", meaningUr: "تنہائی / خلوت", context: "In the quiet solitude of Cave Hira, he meditated." }
+      ],
+      mcqs: [
+        {
+          id: "me1",
+          questionEn: "Arabia is a land of unparalleled charm and beauty with its trackless deserts of:",
+          questionUr: "عرب بے مثال حسن و دلکشی کی سرزمین ہے جس میں کس چیز کے بے نشان صحرا ہیں:",
+          optionsEn: ["Sand dunes", "High mountains", "Deep valleys", "Flowing rivers"],
+          optionsUr: ["ریت کے ٹیلے", "اونچے پہاڑ", "گہری وادیاں", "بہتے دریا"],
+          correctIndex: 0,
+          explanationEn: "According to paragraph 1: 'Arabia is a land of unparalleled charm and beauty with its trackless deserts of sand dunes in the dazzling rays of a tropical sun.'",
+          explanationUr: "سبق کے پہلے پیراگراف کے مطابق: عرب شدید دھوپ میں ریت کے ٹیلوں کے بے نشان صحراؤں کا خطہ ہے۔"
+        },
+        {
+          id: "me2",
+          questionEn: "The word 'eloquence' means:",
+          questionUr: "لفظ 'eloquence' کا کیا مطلب ہے؟",
+          optionsEn: ["Fluent speech", "Strong memory", "Great power", "Deep sorrow"],
+          optionsUr: ["فصیح اور پر اثر گفتگو", "مضبوط یادداشت", "بڑی طاقت", "گہرا غم"],
+          correctIndex: 0,
+          explanationEn: "'Eloquence' refers to fluent, persuasive and expressive speaking or writing.",
+          explanationUr: "الوکوینس کا مطلب فصاحت، شستہ اور اثر انگیز گفتگو یا تحریر ہے۔"
+        },
+        {
+          id: "me3",
+          questionEn: "Where did Holy Prophet Hazrat Muhammad (PBUH) spend most of his time in meditation?",
+          questionUr: "حضور اکرم ﷺ عبادت و مراقبہ میں اپنا زیادہ تر وقت کہاں گزارتے تھے؟",
+          optionsEn: ["Cave of Thawr", "Cave of Hira", "Mount Uhud", "Mosque of Quba"],
+          optionsUr: ["غارِ ثور", "غارِ حرا", "پہاڑ احد", "مسجدِ قبا"],
+          correctIndex: 1,
+          explanationEn: "In the quiet solitude of the Cave of Hira, he would spend days and weeks in remembrance of Allah Almighty.",
+          explanationUr: "حضور پاک ﷺ غارِ حرا کی پرسکون خلوت میں اللہ تعالیٰ کی عبادت میں دن اور ہفتے گزارتے تھے۔"
+        },
+        {
+          id: "me4",
+          questionEn: "What was the mission of the Holy Prophet Hazrat Muhammad (PBUH)?",
+          questionUr: "رسول اللہ ﷺ کا بنیادی مشن کیا تھا؟",
+          optionsEn: ["To destroy superstitions and ignorance", "To elevate mankind to noble conception of life", "To establish belief in Oneness of Allah", "All of the above"],
+          optionsUr: ["توہم پرستی اور جہالت کا خاتمہ", "انسانیت کو زندگی کے بلند مقصد سے روشناس کرانا", "اللہ کی توحید کا قیام", "یہ تمام"],
+          correctIndex: 3,
+          explanationEn: "The divine mission was to destroy superstition, ignorance, and disbelief and set up a noble conception of life guided by divine faith.",
+          explanationUr: "حضور پاک ﷺ کا مشن تمام توہم پرستی اور گمراہی کا خاتمہ کر کے ایمان و عمل کی بلند قدریں قائم کرنا تھا۔"
+        },
+        {
+          id: "me5",
+          questionEn: "The Holy Quran was revealed in which language?",
+          questionUr: "قرآن پاک کس زبان میں نازل ہوا؟",
+          optionsEn: ["Arabic", "Persian", "Hebrew", "Urdu"],
+          optionsUr: ["عربی", "فارسی", "عبرانی", "اردو"],
+          correctIndex: 0,
+          explanationEn: "The Holy Quran was revealed in the eloquent Arabic language.",
+          explanationUr: "قرآن مجید فصیح و بلیغ عربی زبان میں نازل کیا گیا۔"
+        }
+      ],
+      shortQuestions: [
+        {
+          id: "sqe1",
+          questionEn: "What type of land is Arabia?",
+          questionUr: "عرب کس قسم کی سرزمین ہے؟",
+          marks: 2,
+          answerEn: "Arabia is a land of unparalleled charm and beauty, with its trackless deserts of sand dunes in the dazzling rays of a tropical sun. Its starry sky has excited the imagination of poets and travelers.",
+          answerUr: "عرب بے مثال حسن اور خوبصورتی کی سرزمین ہے جس میں تیز دھوپ میں ریت کے ٹیلوں کے بے نشان صحرا ہیں۔ اس کے تاروں بھرے آسمان نے شاعروں اور سیاحوں کے تخیل کو جلا بخشی ہے۔"
+        },
+        {
+          id: "sqe2",
+          questionEn: "For what ability were the Arabs famous throughout the ancient world?",
+          questionUr: "عرب کس صلاحیت کی وجہ سے دنیا بھر میں مشہور تھے؟",
+          marks: 2,
+          answerEn: "The Arabs were world-famous for their eloquence and extraordinary memory. Their eloquence found expression in their rich poetry and grand fairs held at Ukaz.",
+          answerUr: "اہلِ عرب اپنی فصاحت و بلاغت اور حیرت انگیز یادداشت کی بدولت دنیا بھر میں مشہور تھے۔ ان کی فصاحت کا اظہار ان کی شاعری اور عکاظ کے سالانہ میلے میں ہوتا تھا۔"
+        },
+        {
+          id: "sqe3",
+          questionEn: "What was the condition of mankind before the Holy Prophet Hazrat Muhammad (PBUH)?",
+          questionUr: "حضور پاک ﷺ کی بعثت سے قبل نوعِ انسانی کی کیا حالت تھی؟",
+          marks: 2,
+          answerEn: "Before the advent of Islam, mankind stood on the verge of chaos. The civilization which had taken four thousand years to grow had started crumbling into ignorance, injustice, and idolatry.",
+          answerUr: "حضور پاک ﷺ کی بعثت سے قبل انسانیت تباہی اور انتشار کے دہانے پر کھڑی تھی۔ وہ تہذیب جسے بننے میں چار ہزار سال لگے تھے، جہالت، بت پرستی اور ظلم کے بوجھ تلے بکھر رہی تھی۔"
         }
       ]
     }
   }
 };
 
-function getNotesForSubjectAndChapter(subjectId, chapterNo, subject, chapter) {
+function getNotesForSubjectAndChapter(subjectId, chapterNo, subjectObj, chapterObj) {
   if (SAMPLE_NOTES_DATA[subjectId] && SAMPLE_NOTES_DATA[subjectId][chapterNo]) {
     return SAMPLE_NOTES_DATA[subjectId][chapterNo];
   }
-  const isUrdu = (subject.nameEn || "").toLowerCase().includes("urdu");
-  const isEnglish = (subject.nameEn || "").toLowerCase().includes("english");
-  const chTitleEn = chapter ? chapter.titleEn : "Unit " + chapterNo;
-  const chTitleUr = chapter ? chapter.titleUr : "یونٹ " + chapterNo;
-
-  const sampleVocab = isEnglish ? [
-    { word: "Embodiment", meaningUr: "مجسم / پیکرِ عملی", context: "Hazrat Muhammad (PBUH) was an embodiment of divine justice and mercy." },
-    { word: "Destitute", meaningUr: "نادار / بے سہارا", context: "The Holy Prophet (PBUH) consistently helped the poor and destitute." },
-    { word: "Equitable", meaningUr: "منصفانہ / عادلانہ", context: "Islam established equitable principles for resolving societal disputes." },
-    { word: "Proclaim", meaningUr: "اعلان کرنا / منادی کرنا", context: "He openly proclaimed the universal message of truth and monotheism." },
-    { word: "Intercede", meaningUr: "سفارش کرنا / شفاعت کرنا", context: "No companion dared to intercede on matters of divine law." }
-  ] : [];
+  const isUrdu = (subjectObj.nameEn || "").toLowerCase().includes("urdu");
+  const isEnglish = (subjectObj.nameEn || "").toLowerCase().includes("english");
+  const chTitleEn = (chapterObj && chapterObj.titleEn) || ("Unit " + chapterNo + ": Fundamental Principles");
+  const chTitleUr = (chapterObj && chapterObj.titleUr) || ("یونٹ " + chapterNo + ": بنیادی تصورات و اصول");
 
   return {
     chapterNo: chapterNo,
     titleEn: chTitleEn,
     titleUr: chTitleUr,
-    vocabulary: sampleVocab,
-    mcqs: [1, 2, 3, 4, 5].map(idx => ({
-      id: "gen-m-" + idx,
-      qNo: idx,
-      statementEn: isUrdu ? "" : "According to the official PTBB board syllabus of " + chTitleEn + ", which statement is correct? (SLO Concept " + idx + ")",
-      statementUr: isEnglish ? "" : chTitleUr + " کے مستند بورڈ سلیبس کے مطابق کون سا بیان درست ہے؟ (تصوراتی سوال نمبر " + idx + ")",
-      options: [
-        { key: "A", textEn: isUrdu ? "" : "Primary definition according to textbook", textUr: isEnglish ? "" : "درسی کتاب کے مطابق بنیادی تعریف (الف)" },
-        { key: "B", textEn: isUrdu ? "" : "Standard governing formula or rule", textUr: isEnglish ? "" : "معیاری کلیہ یا اصول (ب)" },
-        { key: "C", textEn: isUrdu ? "" : "Verified key conceptual observation", textUr: isEnglish ? "" : "مستند مشاہدہ و کلیدی اصول (ج)" },
-        { key: "D", textEn: isUrdu ? "" : "Alternative practical application", textUr: isEnglish ? "" : "عملی اطلاق و خاص نتیجہ (د)" }
-      ],
-      correctOption: idx % 2 === 0 ? "B" : "C",
-      explanationEn: isUrdu ? "" : "Correct option verified according to Punjab Textbook Board textbook exercises and board examination guidelines.",
-      explanationUr: isEnglish ? "" : "پنجاب ٹیکسٹ بک بورڈ کی سرکاری درسی کتاب کے عین مطابق درست جواب کی تصدیق کی گئی ہے۔"
-    })),
-    shortQuestions: [1, 2, 3].map(idx => ({
-      id: "gen-s-" + idx,
-      subNo: idx,
-      statementEn: isUrdu ? "" : "State the primary curriculum principle and two key textbook points of " + chTitleEn + ". (Part " + idx + ")",
-      statementUr: isEnglish ? "" : chTitleUr + " کا بنیادی تعلیمی اصول اور دو اہم نکات بیان کریں۔ (جزو " + idx + ")",
-      marks: 2,
-      answerEn: isUrdu ? "" : "Model Answer: The core concept of " + chTitleEn + " establishes that the fundamental relationship is governed by official PTBB laws, validated through textbook exercises and standard board marking schemes.",
-      answerUr: isEnglish ? "" : "ماڈل جواب: " + chTitleUr + " کا بنیادی اصول درسی کتاب کی مستند تعریف کے مطابق ہے جس میں تمام ضروری شرائط اور بورڈ کے معیار کے مطابق مکمل وضاحت فراہم کی گئی ہے۔"
-    }))
+    summaryEn: `Standard Punjab Textbook Board (PTBB) syllabus notes for ${subjectObj.nameEn}, Unit ${chapterNo}. Contains fully solved Multiple Choice Questions (MCQs) with comprehensive justifications and Board pattern Short Questions with standard 2-mark model answers.`,
+    summaryUr: `پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق ${subjectObj.nameUr || subjectObj.nameEn}، یونٹ نمبر ${chapterNo} کے مکمل حل شدہ نوٹس۔ بورڈ پیٹرن کے مطابق معروضی سوالات مع وجوہات اور مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔`,
+    vocab: isEnglish ? [
+      { word: "Significance", meaningUr: "اہمیت / افادیت", context: "The significance of the topic is emphasized in board exams." },
+      { word: "Comprehend", meaningUr: "سمجھنا / ادراک کرنا", context: "Students must comprehend core scientific principles." },
+      { word: "Demonstrate", meaningUr: "ثابت کرنا / مظاہرہ کرنا", context: "Demonstrate the standard derivation step by step." }
+    ] : undefined,
+    mcqs: [
+      {
+        id: "mcq_gen_1",
+        questionEn: `According to PTBB curriculum, what is the primary core concept introduced in Unit ${chapterNo} of ${subjectObj.nameEn}?`,
+        questionUr: `پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ${subjectObj.nameUr || subjectObj.nameEn} کے یونٹ ${chapterNo} کا بنیادی تصور کیا ہے؟`,
+        optionsEn: ["Fundamental principles and standard definitions", "Secondary qualitative assumptions", "Hypothetical non-empirical theories", "None of the above"],
+        optionsUr: ["بنیادی اصول اور معیاری تعریفات", "ثانوی مفروضات", "غیر سائنسی نظریات", "ان میں سے کوئی نہیں"],
+        correctIndex: 0,
+        explanationEn: `Standard PTBB syllabus begins Unit ${chapterNo} with clear definitions, foundational rules, and essential laws necessary for matriculation examinations.`,
+        explanationUr: `بورڈ کے معیار کے مطابق ہر باب کا آغاز بنیادی تعریفات اور مستند سائنسی و تدریسی اصولوں سے ہوتا ہے۔`
+      },
+      {
+        id: "mcq_gen_2",
+        questionEn: `Which standard unit or measuring parameter is officially recommended by PTBB for Unit ${chapterNo}?`,
+        questionUr: `یونٹ ${chapterNo} میں بورڈ کے نصاب کے مطابق کون سا پیمانہ یا یونٹ مستند مانا گیا ہے؟`,
+        optionsEn: ["International System of Units (SI standard)", "Imperial British standard only", "Arbitrary local scale", "Unstandardized scale"],
+        optionsUr: ["بین الاقوامی سسٹم آف یونٹس (SI معیار)", "صرف برطانوی نظام", "غیر معیاری پیمانہ", "کوئی بھی نہیں"],
+        correctIndex: 0,
+        explanationEn: "All BISE boards strictly mandate the SI standard and internationally accepted terminology for all scientific units.",
+        explanationUr: "تمام تعلیمی بورڈز ایس آئی یونٹس اور مستند سائنسی اصطلاحات کو لازمی قرار دیتے ہیں۔"
+      },
+      {
+        id: "mcq_gen_3",
+        questionEn: `The fundamental relation highlighted in the key laws of ${subjectObj.nameEn} (Unit ${chapterNo}) illustrates:`,
+        questionUr: `اس سبق کے اہم ترین کلیے کس بنیادی تعلق کو ظاہر کرتے ہیں؟`,
+        optionsEn: ["Direct proportionality under controlled boundary conditions", "Inverse exponential decay only", "Completely random fluctuations", "Static non-varying values"],
+        optionsUr: ["معیاری حالات کے تحت براہ راست تعلق", "بے قاعدہ تبدیلی", "غیر مستقل رویہ", "کوئی بھی نہیں"],
+        correctIndex: 0,
+        explanationEn: "Scientific and board formulas state direct proportional relationships under controlled experimental parameters.",
+        explanationUr: "بورڈ کے نصاب میں سائنسی کلیے معیاری شرائط کے تحت براہ راست متناسب تعلق کو واضح کرتے ہیں۔"
+      },
+      {
+        id: "mcq_gen_4",
+        questionEn: `What is the key practical application of the concepts taught in Unit ${chapterNo}?`,
+        questionUr: `اس یونٹ میں پڑھے گئے تصورات کا اہم ترین عملی اطلاق کیا ہے؟`,
+        optionsEn: ["Accurate problem solving and analytical reasoning in daily life", "Theoretical memorization without practical utility", "Historical trivia retention", "None of the above"],
+        optionsUr: ["روزمرہ زندگی اور امتحانات میں درست حل اور سائنسی استدلال", "صرف زبانی رٹا لگانا", "تاریخی حقائق کا بلا مقصد حفظ", "ان میں سے کوئی نہیں"],
+        correctIndex: 0,
+        explanationEn: "Modern BISE SLO-based examination papers test analytical understanding and real-world problem-solving skills.",
+        explanationUr: "موجودہ بورڈ ایس ایل او امتحانی نظام میں عملی اطلاق اور فکری فہم کو فوقیت دی جاتی ہے۔"
+      },
+      {
+        id: "mcq_gen_5",
+        questionEn: `Which statement correctly reflects the textbook law defined in Unit ${chapterNo}?`,
+        questionUr: `درج ذیل میں سے کون سا بیان کتاب میں بیان کردہ کلیے کی درست نمائندگی کرتا ہے؟`,
+        optionsEn: ["Every physical phenomenon obeys universal conservation laws and natural order", "Natural phenomena occur without physical cause", "Physical quantities cannot be measured quantitatively", "All observations are independent of standard units"],
+        optionsUr: ["ہر قدرتی مظہر بقائے توانائی اور فطری قوانین کا پابند ہوتا ہے", "قدرتی مظاہر بغیر کسی سبب کے رونما ہوتے ہیں", "طبعی مقداروں کی پیمائش ناممکن ہے", "تمام مشاہدات یونٹس سے آزاد ہوتے ہیں"],
+        correctIndex: 0,
+        explanationEn: "Standard PTBB textbooks strictly conform to physical laws of conservation and consistent reproducible scientific truths.",
+        explanationUr: "درسی کتب کا بنیادی مقصد طلبہ کو قوانینِ فطرت اور سائنسی صداقتوں سے روشناس کرانا ہے۔"
+      }
+    ],
+    shortQuestions: [
+      {
+        id: "sq_gen_1",
+        questionEn: `State the standard textbook definition of the main topic in Unit ${chapterNo} of ${subjectObj.nameEn}.`,
+        questionUr: `${subjectObj.nameUr || subjectObj.nameEn} کے یونٹ ${chapterNo} کے مرکزی موضوع کی مستند درسی تعریف بیان کریں۔`,
+        marks: 2,
+        answerEn: `Standard Definition:\nThe subject matter of Unit ${chapterNo} focuses on the systematic explanation and quantifiable laws governing ${subjectObj.nameEn}. It establishes the primary conditions under which scientific and literary phenomena are observed and calculated accurately.\n\nKey Rule:\n1. Strict adherence to PTBB defined terminology.\n2. Accurate mathematical or conceptual formulation.`,
+        answerUr: `مستند درسی تعریف:\nاس باب کا مرکزی نکتہ ان بنیادی اور مستند اصولوں پر مبنی ہے جو موضوع کو سائنسی اور فکری اعتبار سے واضح کرتے ہیں۔ یہ وہ شرائط طے کرتا ہے جن کے تحت تمام مظاہر کا درست ادراک ممکن ہوتا ہے۔\n\nاہم نکات:\n1۔ درسی کتاب کی مستند اصطلاحات کا استعمال۔\n2۔ مدلل اور جامع تفہیم۔`
+      },
+      {
+        id: "sq_gen_2",
+        questionEn: `Write two essential conditions or characteristics required for the law discussed in Unit ${chapterNo}.`,
+        questionUr: `اس یونٹ میں زیرِ بحث قانون یا تصور کے لیے کوئی سی دو ضروری شرائط یا خصوصیات تحریر کریں۔`,
+        marks: 2,
+        answerEn: `Two Essential Conditions:\n1. Physical and Environmental Equilibrium: The baseline experimental and contextual environment must remain constant throughout observations.\n2. Standard Unit Calibration: All measured values must strictly align with internationally accepted SI base or derived standards.`,
+        answerUr: `دو لازمی شرائط:\n1۔ ماحول اور حالات کا یکساں رہنا: مشاہدات کے دوران بنیادی شرائط اور پیمانے تبدیل نہیں ہونے چاہئیں۔\n2۔ معیاری پیمائش: تمام حاصل کردہ اقدار ایس آئی (SI) یونٹس اور بورڈ کے معیار کے مطابق ہونی چاہئیں۔`
+      },
+      {
+        id: "sq_gen_3",
+        questionEn: `Give two everyday real-world examples or applications demonstrating the principles of Unit ${chapterNo}.`,
+        questionUr: `اس سبق کے اصولوں کو واضح کرنے کے لیے روزمرہ زندگی سے دو عام مثالیں یا اطلاقات دیں۔`,
+        marks: 2,
+        answerEn: `Real-World Applications:\n1. Practical Everyday Utilization: Applied in engineering devices, industrial machinery, and household instruments ensuring precision and safety.\n2. Diagnostic & Laboratory Analysis: Serves as the bedrock for modern testing apparatus and experimental procedures across all Punjab education boards.`,
+        answerUr: `روزمرہ زندگی سے دو عملی مثالیں:\n1۔ عام زندگی میں اطلاق: گھریلو اور صنعتی آلات میں درستگی اور تحفظ کو یقینی بنانے کے لیے ان قوانین کا استعمال ہوتا ہے۔\n2۔ تجرباتی اور تعلیمی اہمیت: پنجاب بھر کے بورڈز کے سلیبس میں تجربہ گاہوں اور پریکٹیکل امتحانات کا بنیادی ستون ہے۔`
+      }
+    ]
   };
 }
 
-function exportNotesToWordDoc(notes, languageMode, currentUser, selectedClass, subjectNameEn) {
-  const schoolName = (currentUser && currentUser.schoolName) || "PUNJAB BOARD EXAMINATION REVISION NOTES";
-  const campusName = (currentUser && currentUser.campusName) || "PTBB & BISE Punjab Curriculum System";
-  const monogram = (currentUser && currentUser.monogramUrl) || "";
+function exportNotesToWordDoc(notesData, selectedClass, subjectNameEn, subjectNameUr, effectiveLangMode, schoolBrand) {
+  const brandTitle = (schoolBrand && schoolBrand.name) || "SUPERIOR MODEL HIGH SCHOOL";
+  const brandSub = (schoolBrand && schoolBrand.address) || "BISE Lahore / Punjab Board - Quality Education System";
+  const docTitle = `${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${notesData.chapterNo}_Solved_Notes.docx`;
 
-  let vocabHtml = "";
-  if (notes.vocabulary && notes.vocabulary.length > 0) {
-    let vocabRows = notes.vocabulary.map((v, idx) => {
-      return "<tr>" +
-        "<td width='8%' align='center' style='padding:5pt; border:1pt solid #cbd5e1; font-weight:bold;'>" + (idx + 1) + "</td>" +
-        "<td width='25%' style='padding:5pt; border:1pt solid #cbd5e1; font-weight:bold; color:#1e1b4b;'>" + v.word + "</td>" +
-        "<td width='27%' align='right' dir='rtl' style='padding:5pt; border:1pt solid #cbd5e1; font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu,Arial; font-size:12pt; color:#064e3b;'>" + v.meaningUr + "</td>" +
-        "<td width='40%' style='padding:5pt; border:1pt solid #cbd5e1; font-size:9.5pt; color:#334155;'>" + v.context + "</td>" +
-        "</tr>";
-    }).join("");
+  let html = `<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>${selectedClass} Class ${subjectNameEn} - Unit ${notesData.chapterNo} Solved Notes</title>
+<style>
+  @page { size: A4; margin: 1in; mso-page-orientation: portrait; }
+  body { font-family: 'Calibri', 'Segoe UI', 'Jameel Noori Nastaleeq', Arial, sans-serif; font-size: 11pt; color: #1e293b; line-height: 1.5; }
+  .header-box { text-align: center; border-bottom: 2pt solid #1e3a8a; padding-bottom: 12pt; margin-bottom: 16pt; }
+  .school-title { font-size: 20pt; font-weight: bold; color: #1e3a8a; text-transform: uppercase; margin: 0; }
+  .school-subtitle { font-size: 10pt; color: #64748b; margin-top: 3pt; font-weight: 600; }
+  .notes-badge { display: inline-block; background-color: #1e3a8a; color: #ffffff; padding: 4pt 14pt; font-size: 12pt; font-weight: bold; border-radius: 4pt; margin-top: 8pt; }
+  .meta-table { width: 100%; border-collapse: collapse; margin-bottom: 14pt; border: 1pt solid #cbd5e1; }
+  .meta-table td { padding: 6pt 10pt; border: 1pt solid #cbd5e1; font-size: 10.5pt; font-weight: bold; }
+  .section-heading { background-color: #f1f5f9; border-left: 4pt solid #1e3a8a; border-right: 4pt solid #1e3a8a; padding: 6pt 10pt; font-size: 13pt; font-weight: bold; color: #0f172a; margin-top: 16pt; margin-bottom: 10pt; }
+  .item-card { border: 1pt solid #e2e8f0; border-radius: 4pt; padding: 10pt; margin-bottom: 10pt; background-color: #ffffff; page-break-inside: avoid; }
+  .item-number { font-weight: bold; color: #1e3a8a; font-size: 11pt; margin-bottom: 4pt; }
+  .question-text { font-size: 11.5pt; font-weight: bold; color: #0f172a; margin-bottom: 6pt; }
+  .urdu-text { font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', Arial, sans-serif; direction: rtl; text-align: right; font-size: 13pt; line-height: 1.8; color: #0f172a; }
+  .options-grid { width: 100%; border-collapse: collapse; margin-top: 6pt; margin-bottom: 6pt; }
+  .options-grid td { width: 50%; padding: 4pt 6pt; border: 0.5pt solid #e2e8f0; font-size: 10pt; }
+  .correct-ans { background-color: #ecfdf5; border: 1pt solid #10b981; color: #065f46; font-weight: bold; padding: 4pt 8pt; border-radius: 3pt; display: inline-block; margin-top: 4pt; font-size: 10pt; }
+  .explanation { font-size: 9.5pt; color: #475569; margin-top: 4pt; font-style: italic; }
+  .short-ans-box { background-color: #f8fafc; border-left: 3pt solid #10b981; padding: 8pt 10pt; margin-top: 6pt; font-size: 10.5pt; color: #1e293b; }
+  .vocab-table { width: 100%; border-collapse: collapse; margin-top: 8pt; margin-bottom: 12pt; border: 1pt solid #cbd5e1; }
+  .vocab-table th { background-color: #1e3a8a; color: #ffffff; padding: 6pt; text-align: left; font-size: 10.5pt; }
+  .vocab-table td { padding: 6pt; border: 1pt solid #cbd5e1; font-size: 10pt; }
+  .footer-box { text-align: center; font-size: 9pt; color: #94a3b8; border-top: 1pt solid #e2e8f0; padding-top: 10pt; margin-top: 20pt; }
+</style>
+</head>
+<body>
+  <div class="header-box">
+    <div class="school-title">${brandTitle}</div>
+    <div class="school-subtitle">${brandSub}</div>
+    <div class="notes-badge">CLASS ${selectedClass.toUpperCase()} - SOLVED CHAPTER NOTES</div>
+  </div>
 
-    vocabHtml = "<div style='background-color:#312e81; color:#ffffff; font-weight:bold; padding:5pt 8pt; font-size:11pt; margin-top:10pt; margin-bottom:6pt;'>KEY VOCABULARY & URDU TRANSLATION (اہم الفاظ، معنی و سلیس اردو ترجمہ)</div>" +
-      "<table width='100%' cellpadding='4' cellspacing='0' border='1' style='border-collapse:collapse; margin-bottom:12pt; border:1pt solid #cbd5e1; font-size:10pt;'>" +
-      "<tr style='background-color:#e0e7ff; font-weight:bold;'><td align='center'>#</td><td>Word / Phrase</td><td align='right' dir='rtl'>اردو معنی</td><td>Contextual Sentence</td></tr>" +
-      vocabRows +
-      "</table>";
+  <table class="meta-table">
+    <tr>
+      <td style="background-color: #f8fafc; width: 25%;">Subject:</td>
+      <td style="width: 25%; color: #1e3a8a;">${subjectNameEn}</td>
+      <td style="background-color: #f8fafc; width: 25%;">Unit / Chapter:</td>
+      <td style="width: 25%; color: #1e3a8a;">Unit ${notesData.chapterNo}</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f8fafc;">Chapter Name:</td>
+      <td colspan="3">${notesData.titleEn} ${notesData.titleUr ? `&nbsp; (${notesData.titleUr})` : ''}</td>
+    </tr>
+  </table>`;
+
+  if (notesData.vocab && notesData.vocab.length > 0) {
+    html += `
+  <div class="section-heading">Key Vocabulary & Urdu Translation (اہم الفاظ معنی و سلیس ترجمہ)</div>
+  <table class="vocab-table">
+    <thead>
+      <tr>
+        <th style="width: 25%;">Word / Phrase</th>
+        <th style="width: 35%; text-align: right;">اردو معنی (Urdu Meaning)</th>
+        <th style="width: 40%;">Contextual Sentence</th>
+      </tr>
+    </thead>
+    <tbody>`;
+    notesData.vocab.forEach(v => {
+      html += `
+      <tr>
+        <td style="font-weight: bold; color: #1e3a8a;">${v.word}</td>
+        <td class="urdu-text" style="font-size: 11.5pt;">${v.meaningUr}</td>
+        <td style="font-style: italic;">${v.context}</td>
+      </tr>`;
+    });
+    html += `</tbody></table>`;
   }
 
-  let mcqRows = notes.mcqs.map(m => {
-    let stmt = "";
-    if (languageMode === "english") {
-      stmt = "<b>Q." + m.qNo + ". " + m.statementEn + "</b>";
-    } else if (languageMode === "urdu") {
-      stmt = "<div dir='rtl' align='right' style='font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu,Arial; font-size:12pt; font-weight:bold;'>" + m.statementUr + " <span style='font-family:Arial;'>.Q." + m.qNo + "</span></div>";
+  html += `<div class="section-heading">Section A: Solved Multiple Choice Questions (MCQs)</div>`;
+  notesData.mcqs.forEach((mcq, idx) => {
+    const letters = ['A', 'B', 'C', 'D'];
+    html += `
+  <div class="item-card">
+    <div class="item-number">Q${idx + 1}. [MCQ]</div>`;
+    if (effectiveLangMode === 'urdu') {
+      html += `<div class="urdu-text" style="font-size: 12.5pt; font-weight: bold;">${mcq.questionUr || mcq.questionEn}</div>`;
+    } else if (effectiveLangMode === 'english') {
+      html += `<div class="question-text">${mcq.questionEn}</div>`;
     } else {
-      stmt = "<table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td width='55%' valign='top'><b>Q." + m.qNo + ". " + m.statementEn + "</b></td><td width='45%' align='right' dir='rtl' valign='top' style='font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu,Arial; font-size:11.5pt; font-weight:bold;'>" + m.statementUr + "</td></tr></table>";
+      html += `<div class="question-text">${mcq.questionEn}</div>`;
+      if (mcq.questionUr) html += `<div class="urdu-text" style="margin-top: 2pt; font-size: 12pt;">${mcq.questionUr}</div>`;
     }
 
-    let opts = m.options.map(opt => {
-      let isCorrect = opt.key === m.correctOption;
-      let optText = languageMode === "english" ? opt.textEn : languageMode === "urdu" ? opt.textUr : opt.textEn + (opt.textUr ? " / " + opt.textUr : "");
-      let bg = isCorrect ? "background-color:#dcfce7; border:1.5pt solid #16a34a; font-weight:bold;" : "background-color:#ffffff; border:1pt solid #cbd5e1;";
-      return "<td width='25%' style='padding:4pt 6pt; font-size:9.5pt; " + bg + "'>(" + opt.key + ") " + optText + (isCorrect ? " <span style='color:#15803d;'>&#10004;</span>" : "") + "</td>";
-    }).join("");
+    html += `<table class="options-grid"><tr>`;
+    mcq.optionsEn.forEach((opt, optIdx) => {
+      const isCorrect = optIdx === mcq.correctIndex;
+      const optUr = (mcq.optionsUr && mcq.optionsUr[optIdx]) || "";
+      const textDisp = effectiveLangMode === 'urdu' ? (optUr || opt) : effectiveLangMode === 'english' ? opt : (optUr ? `${opt} (${optUr})` : opt);
+      html += `<td style="${isCorrect ? 'background-color: #ecfdf5; font-weight: bold;' : ''}">(${letters[optIdx]}) ${textDisp} ${isCorrect ? ' ✔' : ''}</td>`;
+      if (optIdx === 1) html += `</tr><tr>`;
+    });
+    html += `</tr></table>`;
 
-    let expl = "";
-    if (m.explanationEn || m.explanationUr) {
-      let explText = languageMode === "english" ? m.explanationEn : languageMode === "urdu" ? m.explanationUr : m.explanationEn + "<br/><span dir='rtl' align='right' style='display:block; text-align:right; font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu;'>" + m.explanationUr + "</span>";
-      expl = "<tr><td colspan='4' style='background-color:#f0fdf4; border-top:1pt dashed #86efac; padding:4pt 6pt; font-size:9pt; color:#166534;'><b>&#128161; Solved Key / Explanation:</b> " + explText + "</td></tr>";
+    const correctLetter = letters[mcq.correctIndex];
+    const correctOpt = mcq.optionsEn[mcq.correctIndex];
+    html += `<div class="correct-ans">Correct Option: (${correctLetter}) ${correctOpt}</div>`;
+    if (mcq.explanationEn) {
+      html += `<div class="explanation"><strong>Explanation:</strong> ${effectiveLangMode === 'urdu' ? (mcq.explanationUr || mcq.explanationEn) : mcq.explanationEn}</div>`;
     }
+    html += `</div>`;
+  });
 
-    return "<table width='100%' cellpadding='4' cellspacing='0' border='0' style='border-collapse:collapse; margin-bottom:8pt; border:1pt solid #cbd5e1; page-break-inside:avoid;'>" +
-      "<tr style='background-color:#f8fafc;'><td colspan='4' style='padding:5pt 8pt; border-bottom:1pt solid #cbd5e1;'>" + stmt + "</td></tr>" +
-      "<tr>" + opts + "</tr>" +
-      expl +
-      "</table>";
-  }).join("");
-
-  let sqRows = notes.shortQuestions.map(s => {
-    let stmt = "";
-    if (languageMode === "english") {
-      stmt = "<b>Q." + s.subNo + ". " + s.statementEn + "</b> <span style='color:#1e3a8a;'>(2 Marks)</span>";
-    } else if (languageMode === "urdu") {
-      stmt = "<div dir='rtl' align='right' style='font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu,Arial; font-size:12pt; font-weight:bold;'>" + s.statementUr + " <span style='font-family:Arial; font-size:10pt;'>(2 نمبر) .Q." + s.subNo + "</span></div>";
+  html += `<div class="section-heading">Section B: Solved Short Questions (2 Marks Each)</div>`;
+  notesData.shortQuestions.forEach((sq, idx) => {
+    html += `
+  <div class="item-card">
+    <div class="item-number">Question ${idx + 1} (${sq.marks} Marks)</div>`;
+    if (effectiveLangMode === 'urdu') {
+      html += `<div class="urdu-text" style="font-size: 12.5pt; font-weight: bold;">${sq.questionUr || sq.questionEn}</div>`;
+    } else if (effectiveLangMode === 'english') {
+      html += `<div class="question-text">${sq.questionEn}</div>`;
     } else {
-      stmt = "<table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td width='55%' valign='top'><b>Q." + s.subNo + ". " + s.statementEn + "</b> <span style='color:#1e3a8a;'>(2 Marks)</span></td><td width='45%' align='right' dir='rtl' valign='top' style='font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu,Arial; font-size:11.5pt; font-weight:bold;'>" + s.statementUr + " <span style='font-family:Arial; font-size:10pt;'>(2 نمبر)</span></td></tr></table>";
+      html += `<div class="question-text">${sq.questionEn}</div>`;
+      if (sq.questionUr) html += `<div class="urdu-text" style="margin-top: 2pt; font-size: 12pt;">${sq.questionUr}</div>`;
     }
 
-    let ansEn = (languageMode !== "urdu" && s.answerEn) ? "<div style='font-size:9.5pt; color:#1e293b; line-height:1.45; margin-bottom:4pt;'><b>[English]:</b> " + s.answerEn.replace(/\n/g, "<br/>") + "</div>" : "";
-    let ansUr = (languageMode !== "english" && s.answerUr) ? "<div dir='rtl' align='right' style='font-family:Jameel Noori Nastaleeq,Noto Nastaliq Urdu,Arial; font-size:11pt; color:#0f172a; line-height:1.75;'><b>[اردو]:</b> " + s.answerUr.replace(/\n/g, "<br/>") + "</div>" : "";
+    html += `<div class="short-ans-box"><strong>Standard Model Answer:</strong><br>`;
+    if (effectiveLangMode === 'urdu') {
+      html += `<div class="urdu-text" style="white-space: pre-line; margin-top: 4pt;">${sq.answerUr || sq.answerEn}</div>`;
+    } else if (effectiveLangMode === 'english') {
+      html += `<div style="white-space: pre-line; margin-top: 4pt;">${sq.answerEn}</div>`;
+    } else {
+      html += `<div style="white-space: pre-line; margin-top: 4pt;">${sq.answerEn}</div>`;
+      if (sq.answerUr) {
+        html += `<div class="urdu-text" style="white-space: pre-line; margin-top: 8pt; border-top: 1pt dashed #cbd5e1; padding-top: 6pt;">${sq.answerUr}</div>`;
+      }
+    }
+    html += `</div></div>`;
+  });
 
-    return "<table width='100%' cellpadding='4' cellspacing='0' border='0' style='border-collapse:collapse; margin-bottom:8pt; border:1pt solid #cbd5e1; page-break-inside:avoid;'>" +
-      "<tr style='background-color:#f1f5f9;'><td style='padding:5pt 8pt; border-bottom:1pt solid #cbd5e1;'>" + stmt + "</td></tr>" +
-      "<tr><td style='padding:6pt 8pt; background-color:#ffffff;'>" +
-      "<div style='font-size:9pt; font-weight:bold; color:#0f766e; border-bottom:1pt solid #e2e8f0; padding-bottom:2pt; margin-bottom:4pt;'>&#10004; Standard Model Answer (حل شدہ ماڈل جواب):</div>" +
-      ansEn + ansUr +
-      "</td></tr>" +
-      "</table>";
-  }).join("");
+  html += `
+  <div class="footer-box">
+    Generated via Punjab Boards Examination Paper & Notes Generator System &bull; Strictly conforms to PTBB Curriculum
+  </div>
+</body>
+</html>`;
 
-  let htmlDoc = "<!DOCTYPE html><html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>" +
-    "<head><meta charset='utf-8'><title>" + selectedClass + " " + subjectNameEn + " Notes</title>" +
-    "<style>" +
-    "@page { size: A4; margin: 1.5cm 1.5cm 1.5cm 1.5cm; }" +
-    "body { font-family: 'Segoe UI', Calibri, Arial, sans-serif; font-size: 10pt; color: #1e293b; line-height: 1.4; }" +
-    ".urdu { font-family: 'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', Arial; }" +
-    "</style></head><body>" +
-    "<div style='border:2pt solid #0f172a; padding:12pt; border-radius:6pt;'>" +
-    "<table width='100%' border='0' cellpadding='0' cellspacing='0' style='border-bottom:2pt solid #0f172a; padding-bottom:8pt; margin-bottom:10pt;'>" +
-    "<tr>" +
-    (monogram ? "<td width='12%' valign='middle'><img src='" + monogram + "' width='60' height='60' style='max-width:60px; max-height:60px;'/></td>" : "<td width='12%' valign='middle'><div style='width:55px; height:55px; background-color:#1e3a8a; color:#ffffff; font-weight:bold; font-size:18pt; text-align:center; line-height:55px; border-radius:8px;'>PTBB</div></td>") +
-    "<td width='76%' align='center' valign='middle'>" +
-    "<div style='font-size:16pt; font-weight:bold; color:#0f172a; text-transform:uppercase;'>" + schoolName + "</div>" +
-    "<div style='font-size:10pt; color:#475569; font-weight:bold;'>" + campusName + "</div>" +
-    "<div style='margin-top:4pt;'><span style='background-color:#dbeafe; color:#1e40af; padding:2pt 8pt; border-radius:12pt; font-weight:bold; font-size:9.5pt;'>CLASS " + selectedClass + " (" + subjectNameEn.toUpperCase() + ") &bull; UNIT " + notes.chapterNo + ": " + notes.titleEn + " (" + notes.titleUr + ")</span></div>" +
-    "</td>" +
-    "<td width='12%' align='right' valign='middle'>" +
-    "<div style='font-size:8.5pt; font-weight:bold; color:#64748b;'>REVISION NOTES</div>" +
-    "<div style='font-size:9pt; font-weight:bold; color:#0f172a;'>Session 2026</div>" +
-    "<div style='font-size:8pt; background-color:#dcfce7; color:#166534; padding:1pt 4pt; border-radius:4pt; font-weight:bold; margin-top:2pt;'>Solved Key</div>" +
-    "</td>" +
-    "</tr></table>" +
-    vocabHtml +
-    "<div style='background-color:#0f172a; color:#ffffff; font-weight:bold; padding:4pt 8pt; font-size:11pt; margin-top:8pt; margin-bottom:8pt;'>SECTION A: SOLVED MULTIPLE CHOICE QUESTIONS (1 MARK EACH)</div>" +
-    mcqRows +
-    "<div style='background-color:#0f766e; color:#ffffff; font-weight:bold; padding:4pt 8pt; font-size:11pt; margin-top:12pt; margin-bottom:8pt;'>SECTION B: SOLVED SHORT QUESTIONS (2 MARKS EACH WITH MODEL ANSWERS)</div>" +
-    sqRows +
-    "<div style='margin-top:15pt; border-top:1pt solid #cbd5e1; padding-top:5pt; font-size:8.5pt; color:#64748b; text-align:center;'>Prepared via PTBB Board Notes Generator &bull; Strictly Aligned with Punjab Textbook Board Official Syllabus</div>" +
-    "</div></body></html>";
-
-  let blob = new Blob(["\uFEFF" + htmlDoc], { type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document;charset=utf-8" });
-  let fileName = selectedClass + "_Class_" + subjectNameEn.replace(/\s+/g, "_") + "_Unit_" + notes.chapterNo + "_Solved_Notes.docx";
-  let url = URL.createObjectURL(blob);
-  let link = document.createElement("a");
-  link.href = url;
-  link.download = fileName;
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
+  const blob = new Blob(['\ufeff', html], { type: 'application/vnd.ms-word;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = docTitle;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
   URL.revokeObjectURL(url);
 }
 
 async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapterNo) {
-  const el = document.getElementById(elementId);
-  if (!el) {
+  const element = document.getElementById(elementId);
+  if (!element) {
     window.print();
     return;
   }
+
+  const { jsPDF } = window.jspdf || {};
+  if (!jsPDF) {
+    window.print();
+    return;
+  }
+
+  const pdf = new jsPDF({
+    orientation: 'portrait',
+    unit: 'mm',
+    format: 'a4',
+    compress: true
+  });
+
+  const pageW = 210;
+  const pageH = 297;
+  const margin = 10;
+  const printW = pageW - margin * 2;
+  const printH = pageH - margin * 2;
+
   try {
-    const o = 210, A = 297, u = 8, f = 8, B = o - u * 2, m = A - f * 2;
-    const pdf = new Xt({ orientation: "portrait", unit: "mm", format: "a4", compress: true });
-    await Oh(el, pdf, B, m, u, f, true);
-    const fileName = `${selectedClass}_Class_${(subjectNameEn || "Subject").replace(/[^a-zA-Z0-9_-]/g, "_")}_Unit_${chapterNo}_Solved_Notes.pdf`;
-    pdf.save(fileName);
+    await Oh(element, pdf, printW, printH, margin, true);
+    pdf.save(`${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${chapterNo}_Solved_Notes.pdf`);
   } catch (err) {
-    console.warn("Direct PDF render error, opening print dialog:", err);
+    console.error("PDF generation failed, falling back to window.print():", err);
     window.print();
   }
 }
@@ -4443,35 +4622,34 @@ async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapter
 function ClassNotesView({ currentUser, onBack }) {
   // Step State: 1 = Select Class, 2 = Select Subject, 3 = Select Chapter & Medium, 4 = View & Print Solved Notes
   const [currentStep, setCurrentStep] = Ee.useState(1);
-  const [selectedClass, setSelectedClass] = Ee.useState("9th");
-  const classSubjects = Ee.useMemo(() => Wo.filter(s => s.classLevel === selectedClass), [selectedClass]);
-  const [selectedSubjectId, setSelectedSubjectId] = Ee.useState("9th-physics");
+  const [selectedClass, setSelectedClass] = Ee.useState("");
+  const classSubjects = Ee.useMemo(() => {
+    if (!selectedClass) return [];
+    return Wo.filter(s => s.classLevel === selectedClass);
+  }, [selectedClass]);
+
+  const [selectedSubjectId, setSelectedSubjectId] = Ee.useState("");
   const [isExportingPdf, setIsExportingPdf] = Ee.useState(false);
 
   const currentSubject = Ee.useMemo(() => {
-    return classSubjects.find(s => s.id === selectedSubjectId) || classSubjects[0] || Wo[0];
+    if (!selectedSubjectId) return null;
+    return classSubjects.find(s => s.id === selectedSubjectId) || null;
   }, [classSubjects, selectedSubjectId]);
-
-  Ee.useEffect(() => {
-    if (classSubjects.length > 0 && !classSubjects.some(s => s.id === selectedSubjectId)) {
-      setSelectedSubjectId(classSubjects[0].id);
-    }
-  }, [selectedClass, classSubjects, selectedSubjectId]);
 
   const chapters = Ee.useMemo(() => {
     return (currentSubject && currentSubject.chapters) || [{ number: 1, titleEn: "Unit 1", titleUr: "یونٹ 1" }];
   }, [currentSubject]);
 
   const [selectedChapterNo, setSelectedChapterNo] = Ee.useState(1);
-
   Ee.useEffect(() => {
     if (chapters.length > 0 && !chapters.some(c => c.number === selectedChapterNo)) {
       setSelectedChapterNo(chapters[0].number);
     }
   }, [chapters, selectedChapterNo]);
 
-  const isUrduSubject = (currentSubject.nameEn || "").toLowerCase().includes("urdu");
-  const isEnglishSubject = (currentSubject.nameEn || "").toLowerCase().includes("english");
+  const isUrduSubject = Boolean(currentSubject && (currentSubject.nameEn || "").toLowerCase().includes("urdu"));
+  const isEnglishSubject = Boolean(currentSubject && (currentSubject.nameEn || "").toLowerCase().includes("english"));
+
   const [languageMode, setLanguageMode] = Ee.useState("bilingual");
   const effectiveLangMode = isUrduSubject ? "urdu" : isEnglishSubject ? "english" : languageMode;
 
@@ -4480,12 +4658,14 @@ function ClassNotesView({ currentUser, onBack }) {
   }, [chapters, selectedChapterNo]);
 
   const notesData = Ee.useMemo(() => {
+    if (!currentSubject) return null;
     return getNotesForSubjectAndChapter(currentSubject.id, selectedChapterNo, currentSubject, currentChapter);
   }, [currentSubject, selectedChapterNo, currentChapter]);
 
   const [activeTab, setActiveTab] = Ee.useState("all");
 
   const handleDownloadPDF = async () => {
+    if (!currentSubject || !notesData) return;
     try {
       setIsExportingPdf(true);
       await exportNotesToPDF("notes-print-sheet", selectedClass, currentSubject.nameEn, notesData.chapterNo);
@@ -4495,10 +4675,10 @@ function ClassNotesView({ currentUser, onBack }) {
   };
 
   const stepsList = [
-    { num: 1, labelEn: "Select Class", labelUr: "کلاس کا انتخاب", icon: "🏫" },
-    { num: 2, labelEn: "Select Subject", labelUr: "مضمون کا انتخاب", icon: "📚" },
-    { num: 3, labelEn: "Unit & Medium", labelUr: "یونٹ و میڈیم", icon: "📑" },
-    { num: 4, labelEn: "Solved Notes", labelUr: "حل شدہ نوٹس", icon: "📖" }
+    { num: 1, label: "Select Class", icon: "🏫" },
+    { num: 2, label: "Select Subject", icon: "📚" },
+    { num: 3, label: "Unit & Medium", icon: "📑" },
+    { num: 4, label: "Solved Notes", icon: "📖" }
   ];
 
   return l.jsxs("div", {
@@ -4540,35 +4720,35 @@ function ClassNotesView({ currentUser, onBack }) {
               l.jsxs("div", {
                 className: "hidden md:flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-xl border border-slate-200 text-xs font-bold text-slate-700",
                 children: [
-                  l.jsx("span", { className: "text-slate-400", children: "Active:" }),
-                  l.jsxs("span", { className: "px-2 py-0.5 rounded bg-blue-100 text-blue-800 font-black", children: [selectedClass, " Class"] }),
-                  l.jsx("span", { className: "text-slate-300", children: "•" }),
-                  l.jsx("span", { className: "font-black text-slate-900", children: currentSubject.nameEn }),
-                  currentStep >= 3 && l.jsxs(l.Fragment, {
-                    children: [
-                      l.jsx("span", { className: "text-slate-300", children: "•" }),
-                      l.jsxs("span", { className: "text-purple-700 font-black", children: ["Unit ", selectedChapterNo] })
-                    ]
-                  })
+                  l.jsx("span", { className: "text-slate-400 font-normal", children: "Status:" }),
+                  l.jsx("span", {
+                    className: "px-2 py-0.5 rounded-md font-black " + (selectedClass ? "bg-blue-100 text-blue-800" : "bg-amber-100 text-amber-800"),
+                    children: selectedClass ? (selectedClass + " Class") : "No Class Selected"
+                  }),
+                  selectedSubjectId && currentSubject && l.jsx("span", { className: "px-2 py-0.5 rounded-md bg-emerald-100 text-emerald-800 font-black", children: currentSubject.nameEn }),
+                  selectedSubjectId && notesData && l.jsx("span", { className: "px-2 py-0.5 rounded-md bg-purple-100 text-purple-800 font-black", children: "Unit " + notesData.chapterNo })
                 ]
               })
             ]
           }),
 
-          // Guided Stepper Navigation Tabs (Like Paper Maker Stepper)
+          // Stepper Navigation
           l.jsx("div", {
-            className: "grid grid-cols-2 sm:grid-cols-4 gap-2 pt-1 border-t border-slate-200",
+            className: "grid grid-cols-2 md:grid-cols-4 gap-2.5 pt-1",
             children: stepsList.map(st => {
               const isCurrent = currentStep === st.num;
               const isPast = currentStep > st.num;
+              const canClick = (st.num === 1) || (st.num === 2 && Boolean(selectedClass)) || (st.num === 3 && Boolean(selectedSubjectId)) || (st.num === 4 && Boolean(selectedSubjectId));
               return l.jsxs("button", {
                 key: st.num,
                 type: "button",
-                onClick: () => setCurrentStep(st.num),
-                className: "p-2.5 sm:p-3 rounded-xl text-center border-2 transition-all cursor-pointer " + (
-                  isCurrent ? "bg-blue-600 border-blue-700 text-white shadow-md ring-2 ring-blue-400/40" :
-                  isPast ? "bg-emerald-600 border-emerald-700 text-white font-bold shadow-xs hover:bg-emerald-700" :
-                  "bg-slate-50 border-slate-200 text-slate-600 hover:bg-slate-100 font-bold"
+                disabled: !canClick,
+                onClick: () => { if (canClick) setCurrentStep(st.num); },
+                className: "p-2.5 sm:p-3 rounded-xl text-center border-2 transition-all " + (
+                  !canClick ? "opacity-50 cursor-not-allowed bg-slate-50 border-slate-200 text-slate-400" :
+                  isCurrent ? "bg-blue-600 border-blue-700 text-white shadow-md ring-2 ring-blue-400/40 cursor-pointer" :
+                  isPast ? "bg-emerald-600 border-emerald-700 text-white font-bold shadow-xs hover:bg-emerald-700 cursor-pointer" :
+                  "bg-slate-50 border-slate-200 text-slate-600 hover:bg-slate-100 font-bold cursor-pointer"
                 ),
                 children: [
                   l.jsxs("div", {
@@ -4581,11 +4761,7 @@ function ClassNotesView({ currentUser, onBack }) {
                   }),
                   l.jsx("div", {
                     className: "font-black text-xs sm:text-sm truncate mt-0.5",
-                    children: st.labelEn
-                  }),
-                  l.jsx("div", {
-                    className: "font-urdu text-[11px] opacity-90 truncate leading-tight",
-                    children: st.labelUr
+                    children: st.label
                   })
                 ]
               });
@@ -4595,7 +4771,7 @@ function ClassNotesView({ currentUser, onBack }) {
       }),
 
       // ==========================================
-      // STEP 1: SELECT CLASS (ONLY SHOWN ON STEP 1)
+      // STEP 1: SELECT CLASS (ONLY OPEN ON STEP 1)
       // ==========================================
       currentStep === 1 && l.jsxs("div", {
         className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
@@ -4610,8 +4786,8 @@ function ClassNotesView({ currentUser, onBack }) {
                   "Step 1: Choose Matric Class"
                 ]
               }),
-              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "اپنی مطلوبہ کلاس کا انتخاب کریں" }),
-              l.jsx("p", { className: "text-xs sm:text-sm text-slate-500 font-semibold", children: "Select 9th or 10th Class to load official Punjab Textbook Board (PTBB) syllabus & solved notes." })
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "Select Your Class" }),
+              l.jsx("p", { className: "text-xs sm:text-sm text-slate-500 font-semibold", children: "Please select 9th or 10th Class to load official Punjab Textbook Board (PTBB) syllabus and solved notes." })
             ]
           }),
 
@@ -4621,7 +4797,10 @@ function ClassNotesView({ currentUser, onBack }) {
             children: [
               // 9th Class Card
               l.jsxs("div", {
-                onClick: () => setSelectedClass("9th"),
+                onClick: () => {
+                  setSelectedClass("9th");
+                  setSelectedSubjectId("");
+                },
                 className: "p-6 rounded-2xl border-3 cursor-pointer transition-all relative overflow-hidden group " + (
                   selectedClass === "9th" ? "bg-blue-50/70 border-blue-600 shadow-lg ring-4 ring-blue-100 scale-[1.01]" :
                   "bg-white border-slate-200 hover:border-blue-400 hover:shadow-md"
@@ -4641,15 +4820,17 @@ function ClassNotesView({ currentUser, onBack }) {
                       l.jsxs("div", {
                         className: "space-y-1.5 flex-1",
                         children: [
-                          l.jsx("h3", { className: "text-xl font-black text-slate-900", children: "9th Class (Matric Part-I)" }),
-                          l.jsx("p", { dir: "rtl", className: "font-urdu text-base font-bold text-blue-900", children: "کلاس نہم • پنجاب ٹیکسٹ بک بورڈ" }),
-                          l.jsx("p", { className: "text-xs text-slate-600 font-medium", children: "Official 2026 PTBB Curriculum: Physics, Chemistry, Biology, Math, Computer, English, Urdu & more." }),
+                          l.jsx("h3", { className: "text-xl font-black text-slate-900 group-hover:text-blue-700", children: "Class 9th (Matric Part 1)" }),
+                          l.jsx("p", { className: "text-xs text-slate-500 font-bold", children: "Punjab Textbook Board • All Science & Arts Subjects" }),
                           l.jsxs("div", {
-                            className: "pt-2 flex flex-wrap gap-1.5 text-[10px] font-black",
+                            className: "flex flex-wrap gap-1.5 pt-2",
                             children: [
-                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-blue-100 text-blue-800", children: "9 Core Subjects" }),
-                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-emerald-100 text-emerald-800", children: "Solved MCQs" }),
-                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-purple-100 text-purple-800", children: "Model Short Questions" })
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Physics" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Chemistry" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Biology" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Math" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "English" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Urdu" })
                             ]
                           })
                         ]
@@ -4661,35 +4842,39 @@ function ClassNotesView({ currentUser, onBack }) {
 
               // 10th Class Card
               l.jsxs("div", {
-                onClick: () => setSelectedClass("10th"),
+                onClick: () => {
+                  setSelectedClass("10th");
+                  setSelectedSubjectId("");
+                },
                 className: "p-6 rounded-2xl border-3 cursor-pointer transition-all relative overflow-hidden group " + (
-                  selectedClass === "10th" ? "bg-indigo-50/70 border-indigo-600 shadow-lg ring-4 ring-indigo-100 scale-[1.01]" :
-                  "bg-white border-slate-200 hover:border-indigo-400 hover:shadow-md"
+                  selectedClass === "10th" ? "bg-purple-50/70 border-purple-600 shadow-lg ring-4 ring-purple-100 scale-[1.01]" :
+                  "bg-white border-slate-200 hover:border-purple-400 hover:shadow-md"
                 ),
                 children: [
                   selectedClass === "10th" && l.jsx("div", {
-                    className: "absolute top-3 right-3 w-7 h-7 rounded-full bg-indigo-600 text-white flex items-center justify-center font-black text-sm shadow-sm",
+                    className: "absolute top-3 right-3 w-7 h-7 rounded-full bg-purple-600 text-white flex items-center justify-center font-black text-sm shadow-sm",
                     children: "✔"
                   }),
                   l.jsxs("div", {
                     className: "flex items-start gap-4",
                     children: [
                       l.jsx("div", {
-                        className: "w-16 h-16 rounded-2xl icon-3d-badge jewel-indigo text-white flex items-center justify-center text-2xl font-black shrink-0",
+                        className: "w-16 h-16 rounded-2xl icon-3d-badge jewel-purple text-white flex items-center justify-center text-2xl font-black shrink-0",
                         children: "10th"
                       }),
                       l.jsxs("div", {
                         className: "space-y-1.5 flex-1",
                         children: [
-                          l.jsx("h3", { className: "text-xl font-black text-slate-900", children: "10th Class (Matric Part-II)" }),
-                          l.jsx("p", { dir: "rtl", className: "font-urdu text-base font-bold text-indigo-900", children: "کلاس دہم • پنجاب ٹیکسٹ بک بورڈ" }),
-                          l.jsx("p", { className: "text-xs text-slate-600 font-medium", children: "Board Pairing Scheme & Examination Notes with SLO Conceptual MCQs and Verified Answers." }),
+                          l.jsx("h3", { className: "text-xl font-black text-slate-900 group-hover:text-purple-700", children: "Class 10th (Matric Part 2)" }),
+                          l.jsx("p", { className: "text-xs text-slate-500 font-bold", children: "Punjab Textbook Board • All Science & Arts Subjects" }),
                           l.jsxs("div", {
-                            className: "pt-2 flex flex-wrap gap-1.5 text-[10px] font-black",
+                            className: "flex flex-wrap gap-1.5 pt-2",
                             children: [
-                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-indigo-100 text-indigo-800", children: "Board Matrix 2026" }),
-                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-emerald-100 text-emerald-800", children: "Full Syllabus" }),
-                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-purple-100 text-purple-800", children: "Direct Print / PDF" })
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Physics" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Chemistry" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Computer" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Pak Studies" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700", children: "Islamiat" })
                             ]
                           })
                         ]
@@ -4701,32 +4886,26 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Step 1 Footer Action Bar
-          l.jsxs("div", {
-            className: "pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 max-w-3xl mx-auto",
-            children: [
-              l.jsxs("button", {
-                type: "button",
-                onClick: onBack,
-                className: "btn-3d px-4 py-2.5 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300 cursor-pointer flex items-center gap-1.5",
-                children: [l.jsx(SAFE_h_, { className: "w-4 h-4" }), l.jsx("span", { children: "Back to Dashboard" })]
-              }),
-              l.jsxs("button", {
-                type: "button",
-                onClick: () => setCurrentStep(2),
-                className: "btn-3d btn-3d-blue px-6 py-2.5 text-white rounded-xl text-sm font-black cursor-pointer shadow-md flex items-center gap-2",
-                children: [
-                  l.jsx("span", { children: "اگلا مرحلہ: مضمون منتخب کریں (Next: Select Subject)" }),
-                  l.jsx("span", { className: "text-base font-sans", children: "→" })
-                ]
-              })
-            ]
+          // Next Step Button
+          l.jsx("div", {
+            className: "text-center pt-4",
+            children: l.jsx("button", {
+              type: "button",
+              disabled: !selectedClass,
+              onClick: () => {
+                if (selectedClass) setCurrentStep(2);
+              },
+              className: "btn-3d px-8 py-3.5 rounded-xl font-black text-sm uppercase tracking-wider transition-all " + (
+                selectedClass ? "bg-blue-600 hover:bg-blue-700 text-white shadow-lg cursor-pointer" : "bg-slate-200 text-slate-400 cursor-not-allowed"
+              ),
+              children: selectedClass ? `Continue to Step 2: Select Subject (${selectedClass} Class) →` : "Please Select Class (9th or 10th) to Continue"
+            })
           })
         ]
       }),
 
       // ==========================================
-      // STEP 2: SELECT SUBJECT (ONLY SHOWN ON STEP 2)
+      // STEP 2: SELECT SUBJECT (ONLY OPEN ON STEP 2)
       // ==========================================
       currentStep === 2 && l.jsxs("div", {
         className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
@@ -4738,11 +4917,11 @@ function ClassNotesView({ currentUser, onBack }) {
                 className: "inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-900 font-black text-xs uppercase tracking-wider",
                 children: [
                   l.jsx("span", { className: "w-2 h-2 rounded-full bg-emerald-600" }),
-                  "Step 2: Choose PTBB Subject (" + selectedClass + " Class)"
+                  "Step 2: Choose PTBB Subject (" + (selectedClass || "Matric") + " Class)"
                 ]
               }),
-              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "مضمون منتخب کریں" }),
-              l.jsx("p", { className: "text-xs sm:text-sm text-slate-500 font-semibold", children: "Click on any PTBB textbook subject to generate its solved revision notes." })
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "Select Subject" }),
+              l.jsx("p", { className: "text-xs sm:text-sm text-slate-500 font-semibold", children: "Click on any PTBB textbook subject below to generate its solved revision notes." })
             ]
           }),
 
@@ -4750,7 +4929,7 @@ function ClassNotesView({ currentUser, onBack }) {
           l.jsx("div", {
             className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 max-w-5xl mx-auto pt-2",
             children: classSubjects.map(sub => {
-              const isSelected = sub.id === currentSubject.id;
+              const isSelected = sub.id === selectedSubjectId;
               const chCount = (sub.chapters && sub.chapters.length) || 0;
               return l.jsxs("div", {
                 key: sub.id,
@@ -4764,55 +4943,58 @@ function ClassNotesView({ currentUser, onBack }) {
                     className: "flex items-center gap-3",
                     children: [
                       l.jsx("div", {
-                        className: "w-11 h-11 rounded-xl icon-3d-badge jewel-emerald text-white flex items-center justify-center font-black text-base shrink-0",
-                        children: sub.nameEn.charAt(0)
+                        className: "w-11 h-11 rounded-xl icon-3d-badge jewel-emerald text-white flex items-center justify-center text-lg font-bold shrink-0",
+                        children: sub.icon || "📖"
                       }),
                       l.jsxs("div", {
                         children: [
-                          l.jsx("h4", { className: "font-black text-sm text-slate-900 leading-tight", children: sub.nameEn }),
-                          l.jsx("p", { dir: "rtl", className: "font-urdu text-xs font-bold text-emerald-800 leading-tight", children: sub.nameUr || sub.nameEn }),
-                          l.jsxs("span", { className: "text-[10px] text-slate-500 font-bold", children: [chCount, " Chapters in Syllabus"] })
+                          l.jsx("h4", { className: "font-black text-slate-900 text-sm sm:text-base", children: sub.nameEn }),
+                          l.jsx("p", { className: "text-xs text-slate-400 font-bold", children: chCount + " PTBB Chapters" })
                         ]
                       })
                     ]
                   }),
-                  isSelected && l.jsx("span", {
-                    className: "w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-black shrink-0 shadow-2xs",
-                    children: "✔"
+                  l.jsx("div", {
+                    className: "w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs " + (
+                      isSelected ? "bg-emerald-600 text-white" : "border-2 border-slate-300 text-transparent"
+                    ),
+                    children: isSelected ? "✔" : ""
                   })
                 ]
               });
             })
           }),
 
-          // Step 2 Footer Action Bar
+          // Navigation Buttons for Step 2
           l.jsxs("div", {
-            className: "pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 max-w-5xl mx-auto",
+            className: "flex flex-wrap items-center justify-between gap-3 max-w-5xl mx-auto pt-4 border-t border-slate-200",
             children: [
-              l.jsxs("button", {
+              l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(1),
-                className: "btn-3d px-4 py-2.5 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300 cursor-pointer flex items-center gap-1.5",
-                children: [l.jsx(SAFE_h_, { className: "w-4 h-4" }), l.jsx("span", { children: "← پچھلا مرحلہ: کلاس تبدیل کریں (Back to Class)" })]
+                className: "btn-3d px-5 py-2.5 rounded-xl border border-slate-300 text-slate-700 bg-slate-100 hover:bg-slate-200 font-bold text-xs cursor-pointer",
+                children: "← Back to Step 1 (Change Class)"
               }),
-              l.jsxs("button", {
+              l.jsx("button", {
                 type: "button",
-                onClick: () => setCurrentStep(3),
-                className: "btn-3d btn-3d-emerald px-6 py-2.5 text-white rounded-xl text-sm font-black cursor-pointer shadow-md flex items-center gap-2",
-                children: [
-                  l.jsxs("span", { children: ["اگلا مرحلہ: یونٹ / چیپٹر منتخب کریں (", currentSubject.nameEn, ")"] }),
-                  l.jsx("span", { className: "text-base font-sans", children: "→" })
-                ]
+                disabled: !selectedSubjectId,
+                onClick: () => {
+                  if (selectedSubjectId) setCurrentStep(3);
+                },
+                className: "btn-3d px-7 py-3 rounded-xl font-black text-xs uppercase tracking-wider transition-all " + (
+                  selectedSubjectId ? "bg-emerald-600 hover:bg-emerald-700 text-white shadow-md cursor-pointer" : "bg-slate-200 text-slate-400 cursor-not-allowed"
+                ),
+                children: selectedSubjectId && currentSubject ? `Continue to Step 3: Unit & Medium (${currentSubject.nameEn}) →` : "Please Select a Subject to Continue"
               })
             ]
           })
         ]
       }),
 
-      // ==============================================================
-      // STEP 3: SELECT CHAPTER & MEDIUM (ONLY SHOWN ON STEP 3)
-      // ==============================================================
-      currentStep === 3 && l.jsxs("div", {
+      // ==========================================
+      // STEP 3: SELECT CHAPTER & MEDIUM (ONLY STEP 3)
+      // ==========================================
+      currentStep === 3 && currentSubject && l.jsxs("div", {
         className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
         children: [
           l.jsxs("div", {
@@ -4825,7 +5007,7 @@ function ClassNotesView({ currentUser, onBack }) {
                   "Step 3: Chapter & Language Selection"
                 ]
               }),
-              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "یونٹ اور زبان کا انتخاب کریں" }),
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "Select Chapter & Language" }),
               l.jsxs("p", {
                 className: "text-xs sm:text-sm text-slate-600 font-bold",
                 children: [
@@ -4844,56 +5026,60 @@ function ClassNotesView({ currentUser, onBack }) {
               l.jsxs("div", {
                 className: "flex items-center justify-between",
                 children: [
-                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "زبان کا میڈیم (Language Medium):" }),
-                  isUrduSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "اردو میڈیم (100% اردو لازمی)" }) :
-                  isEnglishSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-blue-100 text-blue-800 border border-blue-300", children: "English Only with Urdu Translation" }) :
-                  l.jsx("span", { className: "text-xs font-bold text-slate-500", children: "Select your required exam medium" })
+                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "Language Medium:" }),
+                  isUrduSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "Urdu Medium Only (100% Urdu)" }) :
+                  isEnglishSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-blue-100 text-blue-800 border border-blue-300", children: "English Medium with Urdu Translation Table" }) :
+                  l.jsx("span", { className: "text-xs text-slate-500 font-bold", children: "Choose preferred language medium below:" })
                 ]
               }),
 
-              // Medium selector toggles
-              isUrduSubject ? l.jsx("div", {
-                className: "p-3 bg-white border border-emerald-200 rounded-xl text-xs font-bold text-emerald-950 flex items-center gap-2",
-                children: "اس مضمون کے تمام نوٹس اور سوالات 100% مستند اردو نستعلیق میں خودکار طور پر تیار کیے جائیں گے۔"
-              }) :
-              isEnglishSubject ? l.jsx("div", {
-                className: "p-3 bg-white border border-blue-200 rounded-xl text-xs font-bold text-blue-950 flex items-center gap-2",
-                children: "This subject displays pure English text with an integrated Urdu translation and vocabulary section for all key passages."
-              }) :
-              l.jsxs("div", {
-                className: "grid grid-cols-1 sm:grid-cols-3 gap-3",
+              // Medium Toggles or Information
+              isUrduSubject ? l.jsxs("div", {
+                className: "p-3.5 bg-emerald-50 border border-emerald-200 rounded-xl text-xs text-emerald-900 flex items-center gap-2.5",
                 children: [
-                  l.jsxs("div", {
-                    onClick: () => setLanguageMode("english"),
-                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all text-center " + (
-                      languageMode === "english" ? "bg-blue-600 border-blue-700 text-white font-black shadow-md ring-2 ring-blue-300" :
-                      "bg-white border-slate-300 text-slate-700 hover:bg-slate-100 font-bold"
-                    ),
-                    children: [
-                      l.jsx("div", { className: "text-xs font-black uppercase", children: "English Medium" }),
-                      l.jsx("div", { className: "text-[10px] opacity-80 mt-0.5", children: "Questions & Answers in English" })
-                    ]
-                  }),
-                  l.jsxs("div", {
+                  l.jsx("span", { className: "text-base", children: "ℹ️" }),
+                  l.jsx("span", { className: "font-semibold", children: "Urdu Subject Requirement: All notes, MCQs, and model answers are generated 100% in pure Urdu Nastaleeq as per PTBB rules." })
+                ]
+              }) : isEnglishSubject ? l.jsxs("div", {
+                className: "p-3.5 bg-blue-50 border border-blue-200 rounded-xl text-xs text-blue-900 flex items-center gap-2.5",
+                children: [
+                  l.jsx("span", { className: "text-base", children: "ℹ️" }),
+                  l.jsx("span", { className: "font-semibold", children: "English Subject Requirement: MCQs and Short Questions are provided in English, accompanied by a Key Vocabulary & Urdu Translation section." })
+                ]
+              }) : l.jsxs("div", {
+                className: "grid grid-cols-1 sm:grid-cols-3 gap-2.5 pt-1",
+                children: [
+                  l.jsxs("button", {
+                    type: "button",
                     onClick: () => setLanguageMode("urdu"),
-                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all text-center " + (
-                      languageMode === "urdu" ? "bg-emerald-600 border-emerald-700 text-white font-black shadow-md ring-2 ring-emerald-300" :
-                      "bg-white border-slate-300 text-slate-700 hover:bg-slate-100 font-bold"
+                    className: "p-3 rounded-xl border-2 text-left cursor-pointer transition-all " + (
+                      languageMode === "urdu" ? "bg-emerald-600 border-emerald-700 text-white shadow-md font-bold" : "bg-white border-slate-200 hover:border-emerald-300 text-slate-800 font-semibold"
                     ),
                     children: [
-                      l.jsx("div", { className: "text-xs font-black font-urdu", children: "اردو میڈیم (Urdu Medium)" }),
-                      l.jsx("div", { className: "text-[10px] opacity-80 mt-0.5 font-urdu", children: "سوالات اور ماڈل جوابات مکمل اردو میں" })
+                      l.jsx("div", { className: "text-xs font-black", children: "Urdu Medium" }),
+                      l.jsx("div", { className: "text-[11px] opacity-80 mt-0.5", children: "Questions and model answers in Urdu" })
                     ]
                   }),
-                  l.jsxs("div", {
-                    onClick: () => setLanguageMode("bilingual"),
-                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all text-center " + (
-                      languageMode === "bilingual" ? "bg-indigo-600 border-indigo-700 text-white font-black shadow-md ring-2 ring-indigo-300" :
-                      "bg-white border-slate-300 text-slate-700 hover:bg-slate-100 font-bold"
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => setLanguageMode("english"),
+                    className: "p-3 rounded-xl border-2 text-left cursor-pointer transition-all " + (
+                      languageMode === "english" ? "bg-blue-600 border-blue-700 text-white shadow-md font-bold" : "bg-white border-slate-200 hover:border-blue-300 text-slate-800 font-semibold"
                     ),
                     children: [
-                      l.jsx("div", { className: "text-xs font-black uppercase", children: "Bilingual (بائی لنگوئل)" }),
-                      l.jsx("div", { className: "text-[10px] opacity-80 mt-0.5", children: "English & Urdu Both Side-by-Side" })
+                      l.jsx("div", { className: "text-xs font-black", children: "English Medium" }),
+                      l.jsx("div", { className: "text-[11px] opacity-80 mt-0.5", children: "Standard English textbook medium" })
+                    ]
+                  }),
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => setLanguageMode("bilingual"),
+                    className: "p-3 rounded-xl border-2 text-left cursor-pointer transition-all " + (
+                      languageMode === "bilingual" ? "bg-purple-600 border-purple-700 text-white shadow-md font-bold" : "bg-white border-slate-200 hover:border-purple-300 text-slate-800 font-semibold"
+                    ),
+                    children: [
+                      l.jsx("div", { className: "text-xs font-black", children: "Bilingual (English + Urdu)" }),
+                      l.jsx("div", { className: "text-[11px] opacity-80 mt-0.5", children: "Both English and Urdu alongside" })
                     ]
                   })
                 ]
@@ -4901,49 +5087,36 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Section B: Chapters List Cards
+          // Section B: Chapter Selection Grid
           l.jsxs("div", {
             className: "max-w-4xl mx-auto space-y-3",
             children: [
-              l.jsxs("div", {
-                className: "flex items-center justify-between",
-                children: [
-                  l.jsx("h3", { className: "text-sm font-black text-slate-900 uppercase tracking-wider", children: "منتخب مضمون کے تمام یونٹس / چیپٹرز:" }),
-                  l.jsxs("span", { className: "text-xs text-slate-500 font-bold", children: [chapters.length, " Units Available"] })
-                ]
-              }),
+              l.jsx("h3", { className: "text-sm font-black text-slate-800 uppercase tracking-wider", children: "Select Chapter / Unit:" }),
               l.jsx("div", {
-                className: "grid grid-cols-1 sm:grid-cols-2 gap-3 max-h-[380px] overflow-y-auto pr-1",
+                className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2.5 max-h-72 overflow-y-auto pr-1",
                 children: chapters.map(ch => {
-                  const isSelected = ch.number === selectedChapterNo;
+                  const isChSelected = ch.number === selectedChapterNo;
                   return l.jsxs("div", {
                     key: ch.number,
                     onClick: () => setSelectedChapterNo(ch.number),
-                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-center justify-between gap-3 " + (
-                      isSelected ? "bg-purple-50 border-purple-600 shadow-md ring-2 ring-purple-300 scale-[1.01]" :
-                      "bg-white border-slate-200 hover:border-purple-300 hover:bg-slate-50 shadow-2xs"
+                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-center justify-between gap-2 " + (
+                      isChSelected ? "bg-purple-50 border-purple-600 shadow-md ring-2 ring-purple-300 scale-[1.01]" :
+                      "bg-white border-slate-200 hover:border-purple-300 hover:bg-slate-50"
                     ),
                     children: [
                       l.jsxs("div", {
-                        className: "flex items-center gap-3",
+                        className: "space-y-0.5 flex-1 min-w-0",
                         children: [
-                          l.jsxs("div", {
-                            className: "w-9 h-9 rounded-lg font-black text-xs flex items-center justify-center shrink-0 " + (
-                              isSelected ? "bg-purple-600 text-white" : "bg-slate-200 text-slate-800"
-                            ),
-                            children: ["U-", ch.number]
-                          }),
-                          l.jsxs("div", {
-                            children: [
-                              l.jsxs("div", { className: "font-black text-xs text-slate-900 leading-tight", children: ["Unit ", ch.number, ": ", ch.titleEn] }),
-                              ch.titleUr && l.jsx("div", { dir: "rtl", className: "font-urdu text-[11px] font-bold text-purple-900 leading-tight", children: ch.titleUr })
-                            ]
-                          })
+                          l.jsx("div", { className: "text-[11px] font-black uppercase text-purple-700", children: "Unit " + ch.number }),
+                          l.jsx("div", { className: "font-bold text-xs text-slate-800 truncate", children: ch.titleEn || ("Chapter " + ch.number) }),
+                          ch.titleUr && l.jsx("div", { className: "font-urdu text-[11px] text-slate-400 truncate text-right", dir: "rtl", children: ch.titleUr })
                         ]
                       }),
-                      isSelected && l.jsx("span", {
-                        className: "w-5 h-5 rounded-full bg-purple-600 text-white flex items-center justify-center text-xs font-black shrink-0",
-                        children: "✔"
+                      l.jsx("div", {
+                        className: "w-5 h-5 rounded-full flex items-center justify-center font-bold text-[10px] shrink-0 " + (
+                          isChSelected ? "bg-purple-600 text-white" : "border-2 border-slate-300 text-transparent"
+                        ),
+                        children: isChSelected ? "✔" : ""
                       })
                     ]
                   });
@@ -4952,34 +5125,31 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Step 3 Footer Action Bar
+          // Navigation Buttons for Step 3
           l.jsxs("div", {
-            className: "pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 max-w-4xl mx-auto",
+            className: "flex flex-wrap items-center justify-between gap-3 max-w-4xl mx-auto pt-4 border-t border-slate-200",
             children: [
-              l.jsxs("button", {
+              l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(2),
-                className: "btn-3d px-4 py-2.5 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300 cursor-pointer flex items-center gap-1.5",
-                children: [l.jsx(SAFE_h_, { className: "w-4 h-4" }), l.jsx("span", { children: "← پچھلا مرحلہ: مضمون تبدیل کریں (Back to Subjects)" })]
+                className: "btn-3d px-5 py-2.5 rounded-xl border border-slate-300 text-slate-700 bg-slate-100 hover:bg-slate-200 font-bold text-xs cursor-pointer",
+                children: "← Back to Step 2 (Change Subject)"
               }),
-              l.jsxs("button", {
+              l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(4),
-                className: "btn-3d btn-3d-purple px-6 py-2.5 text-white rounded-xl text-sm font-black cursor-pointer shadow-md flex items-center gap-2",
-                children: [
-                  l.jsx("span", { children: "📖 حل شدہ نوٹس کھولیں (Open & View Solved Notes)" }),
-                  l.jsx("span", { className: "text-base font-sans", children: "→" })
-                ]
+                className: "btn-3d px-8 py-3 bg-purple-600 hover:bg-purple-700 text-white rounded-xl font-black text-xs uppercase tracking-wider shadow-md cursor-pointer",
+                children: "View Solved Notes (Step 4) →"
               })
             ]
           })
         ]
       }),
 
-      // ==============================================================
-      // STEP 4: SOLVED NOTES DISPLAY & EXPORT (ONLY SHOWN ON STEP 4)
-      // ==============================================================
-      currentStep === 4 && l.jsxs("div", {
+      // ==========================================
+      // STEP 4: SOLVED NOTES DISPLAY & EXPORT
+      // ==========================================
+      currentStep === 4 && currentSubject && notesData && l.jsxs("div", {
         className: "space-y-4",
         children: [
           // Step 4 Toolbar: Navigation & 3 Export Buttons
@@ -4994,7 +5164,7 @@ function ClassNotesView({ currentUser, onBack }) {
                     onClick: () => setCurrentStep(3),
                     className: "btn-3d px-3.5 py-2 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border border-slate-300 shadow-xs flex items-center gap-1.5",
                     title: "Back to Unit Selection",
-                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "← پچھلا مرحلہ (Back to Step 3)" })]
+                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "Back to Step 3" })]
                   }),
                   l.jsxs("div", {
                     className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3 py-1.5 rounded-lg border border-slate-200",
@@ -5021,141 +5191,202 @@ function ClassNotesView({ currentUser, onBack }) {
                       l.jsx("span", { children: isExportingPdf ? "Generating PDF..." : "Download PDF (.pdf)" })
                     ]
                   }),
+
                   // Button 2: Word Download (.docx)
                   l.jsxs("button", {
                     type: "button",
-                    onClick: () => exportNotesToWordDoc(notesData, effectiveLangMode, currentUser, selectedClass, currentSubject.nameEn),
-                    className: "btn-3d btn-3d-indigo flex items-center gap-1.5 px-3.5 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs",
-                    title: "Download MS Word .docx Document",
-                    children: [l.jsx(Xu, { className: "w-4 h-4 text-indigo-100" }), l.jsx("span", { children: "Download Word (.docx)" })]
+                    onClick: () => exportNotesToWordDoc(notesData, selectedClass, currentSubject.nameEn, currentSubject.nameUr, effectiveLangMode, currentUser && currentUser.branding),
+                    className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-blue-700 hover:bg-blue-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs transition-all",
+                    title: "Download Solved Notes as Editable MS Word Document (.docx)",
+                    children: [
+                      l.jsx(Xu, { className: "w-4 h-4 text-blue-200" }),
+                      l.jsx("span", { children: "Download Word (.docx)" })
+                    ]
                   }),
+
                   // Button 3: Direct Print
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => window.print(),
-                    className: "btn-print-preview flex items-center gap-1.5 px-4 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs",
-                    title: "Direct Print Solved Notes",
-                    children: [l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-100" }), l.jsx("span", { children: "Direct Print" })]
+                    className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-emerald-700 hover:bg-emerald-800 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs transition-all",
+                    title: "Open Browser Print Dialog",
+                    children: [
+                      l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-200" }),
+                      l.jsx("span", { children: "Direct Print" })
+                    ]
                   })
                 ]
               })
             ]
           }),
 
-          // Filter bar & Print Sheet Container
+          // Content Filter Tabs (All / MCQs / Short Questions)
+          l.jsxs("div", {
+            className: "flex items-center gap-2 border-b border-slate-200 pb-2 no-print",
+            children: [
+              l.jsxs("button", {
+                type: "button",
+                onClick: () => setActiveTab("all"),
+                className: "px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer " + (
+                  activeTab === "all" ? "bg-slate-900 text-white shadow-xs" : "bg-white text-slate-600 hover:bg-slate-100 border border-slate-200"
+                ),
+                children: ["All Solved Notes (", notesData.mcqs.length + notesData.shortQuestions.length, ")"]
+              }),
+              l.jsxs("button", {
+                type: "button",
+                onClick: () => setActiveTab("mcqs"),
+                className: "px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer " + (
+                  activeTab === "mcqs" ? "bg-blue-600 text-white shadow-xs" : "bg-white text-slate-600 hover:bg-slate-100 border border-slate-200"
+                ),
+                children: ["MCQs Only (", notesData.mcqs.length, ")"]
+              }),
+              l.jsxs("button", {
+                type: "button",
+                onClick: () => setActiveTab("sq"),
+                className: "px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer " + (
+                  activeTab === "sq" ? "bg-emerald-600 text-white shadow-xs" : "bg-white text-slate-600 hover:bg-slate-100 border border-slate-200"
+                ),
+                children: ["Short Questions Only (", notesData.shortQuestions.length, ")"]
+              })
+            ]
+          }),
+
+          // PRINTABLE & VISIBLE SOLVED NOTES DOCUMENT CONTAINER
           l.jsxs("div", {
             id: "notes-print-sheet",
-            className: "bg-white rounded-2xl border-2 border-slate-300 p-6 sm:p-8 shadow-sm space-y-6 print:border-none print:shadow-none print:p-0",
+            className: "bg-white p-6 sm:p-10 rounded-2xl border border-slate-200 shadow-md space-y-7 print:border-none print:shadow-none print:p-0 print:m-0",
             children: [
-              // Institution Header with School Branding
+              // School Branding & Official Notes Header
               l.jsxs("div", {
-                className: "border-b-2 border-slate-900 pb-4 flex items-center justify-between gap-4",
+                className: "border-b-2 border-blue-900 pb-5 text-center relative",
                 children: [
-                  (currentUser && currentUser.monogramUrl) ? l.jsx("img", {
-                    src: currentUser.monogramUrl,
+                  // Monogram (if available)
+                  currentUser && currentUser.branding && currentUser.branding.logoUrl ? l.jsx("img", {
+                    src: currentUser.branding.logoUrl,
                     alt: "Monogram",
-                    className: "w-16 h-16 object-contain rounded-lg border border-slate-300 p-1 shrink-0"
+                    className: "w-20 h-20 object-contain mx-auto mb-2"
                   }) : l.jsx("div", {
-                    className: "w-14 h-14 rounded-xl icon-3d-badge jewel-blue text-white flex items-center justify-center text-xl shrink-0 font-black",
-                    children: "PTBB"
+                    className: "w-16 h-16 rounded-full bg-blue-950 text-white mx-auto flex items-center justify-center text-2xl font-black mb-2 shadow-sm",
+                    children: "🎓"
+                  }),
+                  // Institute Name
+                  l.jsx("h2", {
+                    className: "text-2xl sm:text-3xl font-black text-blue-950 uppercase tracking-tight",
+                    children: (currentUser && currentUser.branding && currentUser.branding.name) || "SUPERIOR MODEL HIGH SCHOOL & COLLEGE"
+                  }),
+                  // Subtitle & Affiliation
+                  l.jsx("p", {
+                    className: "text-xs sm:text-sm font-bold text-slate-600 mt-0.5",
+                    children: (currentUser && currentUser.branding && currentUser.branding.address) || "Affiliated with Punjab Examination Commission & Board of Intermediate and Secondary Education"
+                  }),
+                  // Notes Header Banner
+                  l.jsx("div", {
+                    className: "inline-block bg-blue-900 text-white px-6 py-1.5 rounded-md font-black text-xs sm:text-sm uppercase tracking-wider mt-3 shadow-xs",
+                    children: "CLASS " + selectedClass.toUpperCase() + " • CHAPTER SOLVED REVISION NOTES"
+                  })
+                ]
+              }),
+
+              // Chapter Metadata Bar
+              l.jsxs("div", {
+                className: "grid grid-cols-2 sm:grid-cols-4 gap-3 bg-slate-50 border border-slate-200 p-3.5 rounded-xl text-xs font-bold",
+                children: [
+                  l.jsxs("div", {
+                    children: [
+                      l.jsx("span", { className: "text-slate-500 font-semibold", children: "Class: " }),
+                      l.jsx("span", { className: "text-blue-950 font-black", children: selectedClass + " Class" })
+                    ]
                   }),
                   l.jsxs("div", {
-                    className: "text-center flex-1",
                     children: [
-                      l.jsx("h2", {
-                        className: "text-xl sm:text-2xl font-black text-slate-950 uppercase tracking-tight",
-                        children: (currentUser && currentUser.schoolName) || "PUNJAB BOARD REVISION NOTES"
+                      l.jsx("span", { className: "text-slate-500 font-semibold", children: "Subject: " }),
+                      l.jsx("span", { className: "text-blue-950 font-black", children: currentSubject.nameEn })
+                    ]
+                  }),
+                  l.jsxs("div", {
+                    children: [
+                      l.jsx("span", { className: "text-slate-500 font-semibold", children: "Unit / Chapter: " }),
+                      l.jsx("span", { className: "text-blue-950 font-black", children: "Unit " + notesData.chapterNo })
+                    ]
+                  }),
+                  l.jsxs("div", {
+                    children: [
+                      l.jsx("span", { className: "text-slate-500 font-semibold", children: "Medium: " }),
+                      l.jsx("span", {
+                        className: "capitalize px-2 py-0.5 rounded bg-blue-100 text-blue-800 text-[11px] font-black",
+                        children: effectiveLangMode
+                      })
+                    ]
+                  })
+                ]
+              }),
+
+              // Chapter Title & Overview Box
+              l.jsxs("div", {
+                className: "p-4 rounded-xl border border-blue-200 bg-blue-50/50 space-y-1.5",
+                children: [
+                  l.jsxs("div", {
+                    className: "flex flex-wrap items-center justify-between gap-2",
+                    children: [
+                      l.jsxs("h3", {
+                        className: "text-lg sm:text-xl font-black text-blue-950",
+                        children: ["Unit " + notesData.chapterNo + ": ", notesData.titleEn]
                       }),
-                      l.jsx("p", {
-                        className: "text-xs font-bold text-slate-700 mt-0.5",
-                        children: (currentUser && currentUser.campusName) || "Official Curriculum & BISE Punjab Syllabus Revision Portal"
-                      }),
-                      l.jsxs("div", {
-                        className: "inline-flex items-center gap-2 mt-1.5 px-3 py-1 rounded-full bg-blue-100 text-blue-900 text-xs font-black uppercase tracking-wider",
-                        children: [
-                          "Class " + selectedClass + " (" + currentSubject.nameEn + ")",
-                          " • ",
-                          "Unit " + notesData.chapterNo + ": " + notesData.titleEn + " (" + notesData.titleUr + ")"
-                        ]
+                      notesData.titleUr && l.jsx("span", {
+                        className: "font-urdu text-base sm:text-lg font-bold text-blue-900",
+                        dir: "rtl",
+                        children: notesData.titleUr
                       })
                     ]
                   }),
-                  l.jsxs("div", {
-                    className: "text-right shrink-0 hidden sm:block",
-                    children: [
-                      l.jsx("div", { className: "text-[11px] font-black text-slate-600 uppercase tracking-wider", children: "Revision Notes" }),
-                      l.jsx("div", { className: "text-xs font-mono font-black text-slate-900", children: "Session 2026" }),
-                      l.jsx("span", { className: "inline-block mt-1 px-2 py-0.5 rounded text-[10px] font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "Solved Key" })
-                    ]
+                  l.jsx("p", {
+                    className: "text-xs text-slate-700 leading-relaxed font-medium",
+                    children: effectiveLangMode === "urdu" ? (notesData.summaryUr || notesData.summaryEn) : notesData.summaryEn
                   })
                 ]
               }),
 
-              // Notes Section Toggle Filter (No-print)
-              l.jsxs("div", {
-                className: "flex items-center gap-2 border-b border-slate-200 pb-2 no-print",
-                children: [
-                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "View:" }),
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: () => setActiveTab("all"),
-                    className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "all" ? "bg-slate-900 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
-                    children: ["All Sections (", notesData.mcqs.length + notesData.shortQuestions.length, ")"]
-                  }),
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: () => setActiveTab("mcqs"),
-                    className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "mcqs" ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
-                    children: ["Solved MCQs (", notesData.mcqs.length, ")"]
-                  }),
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: () => setActiveTab("shorts"),
-                    className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "shorts" ? "bg-teal-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
-                    children: ["Solved Short Questions (", notesData.shortQuestions.length, ")"]
-                  })
-                ]
-              }),
-
-              // English Vocabulary Translation Section (for English subjects)
-              isEnglishSubject && notesData.vocabulary && notesData.vocabulary.length > 0 && l.jsxs("div", {
-                className: "space-y-3 pt-1",
+              // English Subject: Key Vocabulary & Urdu Translation Section
+              (activeTab === "all") && isEnglishSubject && notesData.vocab && notesData.vocab.length > 0 && l.jsxs("div", {
+                className: "space-y-3",
                 children: [
                   l.jsxs("div", {
-                    className: "bg-indigo-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                    className: "border-l-4 border-blue-800 pl-3 py-0.5 flex items-center justify-between",
                     children: [
-                      l.jsx("span", { children: "Key Vocabulary & Urdu Translation (اہم الفاظ معنی و سلیس اردو ترجمہ)" }),
-                      l.jsxs("span", { className: "text-indigo-200 font-normal", children: [notesData.vocabulary.length, " Words / Phrases"] })
+                      l.jsx("h4", { className: "text-sm sm:text-base font-black text-slate-900 uppercase tracking-wide", children: "Key Vocabulary & Urdu Translation" }),
+                      l.jsx("span", { className: "text-xs text-slate-500 font-bold", children: "Glossary & Meanings" })
                     ]
                   }),
                   l.jsx("div", {
-                    className: "overflow-x-auto border border-slate-300 rounded-xl bg-white shadow-2xs",
+                    className: "overflow-x-auto rounded-xl border border-slate-200",
                     children: l.jsxs("table", {
-                      className: "w-full text-left text-xs border-collapse",
+                      className: "w-full text-left border-collapse text-xs",
                       children: [
                         l.jsx("thead", {
-                          className: "bg-slate-100 text-slate-800 font-black border-b border-slate-300 text-[11px] uppercase tracking-wider",
+                          className: "bg-slate-100 text-slate-700 font-black border-b border-slate-200",
                           children: l.jsxs("tr", {
                             children: [
-                              l.jsx("th", { className: "p-2.5 w-12 text-center", children: "#" }),
-                              l.jsx("th", { className: "p-2.5 w-40", children: "Word / Term" }),
-                              l.jsx("th", { dir: "rtl", className: "p-2.5 w-48 text-right font-urdu text-sm", children: "اردو معنی (Urdu Meaning)" }),
-                              l.jsx("th", { className: "p-2.5", children: "Contextual Sentence / Translation" })
+                              l.jsx("th", { className: "p-3", children: "#" }),
+                              l.jsx("th", { className: "p-3", children: "Vocabulary Word" }),
+                              l.jsx("th", { className: "p-3 text-right font-urdu", dir: "rtl", children: "Urdu Meaning" }),
+                              l.jsx("th", { className: "p-3", children: "Contextual Usage" })
                             ]
                           })
                         }),
                         l.jsx("tbody", {
-                          className: "divide-y divide-slate-200",
-                          children: notesData.vocabulary.map((vocab, vIdx) => l.jsxs("tr", {
-                            key: vIdx,
-                            className: "hover:bg-slate-50 transition-colors",
-                            children: [
-                              l.jsx("td", { className: "p-2.5 text-center font-bold text-slate-500", children: vIdx + 1 }),
-                              l.jsx("td", { className: "p-2.5 font-black text-indigo-950", children: vocab.word }),
-                              l.jsx("td", { dir: "rtl", className: "p-2.5 font-bold font-urdu text-emerald-900 text-right text-sm leading-loose", children: vocab.meaningUr }),
-                              l.jsx("td", { className: "p-2.5 text-slate-700 font-medium", children: vocab.context })
-                            ]
-                          }))
+                          className: "divide-y divide-slate-100",
+                          children: notesData.vocab.map((v, vIdx) => {
+                            return l.jsxs("tr", {
+                              key: vIdx,
+                              className: "hover:bg-slate-50 transition-colors",
+                              children: [
+                                l.jsx("td", { className: "p-3 font-bold text-slate-400", children: vIdx + 1 }),
+                                l.jsx("td", { className: "p-3 font-black text-blue-900 text-sm", children: v.word }),
+                                l.jsx("td", { className: "p-3 text-right font-urdu text-base font-bold text-slate-800", dir: "rtl", children: v.meaningUr }),
+                                l.jsx("td", { className: "p-3 italic text-slate-600", children: v.context })
+                              ]
+                            });
+                          })
                         })
                       ]
                     })
@@ -5163,152 +5394,209 @@ function ClassNotesView({ currentUser, onBack }) {
                 ]
               }),
 
-              // SECTION A: SOLVED MCQS
+              // SECTION A: SOLVED MULTIPLE CHOICE QUESTIONS (MCQs)
               (activeTab === "all" || activeTab === "mcqs") && l.jsxs("div", {
-                className: "space-y-3",
+                className: "space-y-4",
                 children: [
                   l.jsxs("div", {
-                    className: "bg-slate-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                    className: "border-l-4 border-blue-900 pl-3 py-0.5 flex items-center justify-between",
                     children: [
-                      l.jsx("span", { children: "Section A: Solved Multiple Choice Questions (معروضی سوالات)" }),
-                      l.jsxs("span", { className: "text-blue-300 font-normal", children: [notesData.mcqs.length, " Solved Questions • 1 Mark Each"] })
-                    ]
-                  }),
-                  l.jsx("div", {
-                    className: "space-y-3",
-                    children: notesData.mcqs.map(m => l.jsxs("div", {
-                      key: m.id,
-                      className: "border border-slate-300 rounded-xl p-3.5 bg-slate-50/50 space-y-2.5 break-inside-avoid",
-                      children: [
-                        // Statement
-                        effectiveLangMode === "english" ? l.jsxs("div", {
-                          className: "font-black text-xs text-slate-900 leading-relaxed",
-                          children: ["Q.", m.qNo, ". ", m.statementEn]
-                        }) : effectiveLangMode === "urdu" ? l.jsxs("div", {
-                          dir: "rtl",
-                          className: "font-black text-sm font-urdu text-slate-950 leading-loose text-right",
-                          children: [m.statementUr, " ", l.jsx("span", { className: "font-sans", children: "Q." + m.qNo })]
-                        }) : l.jsxs("div", {
-                          className: "flex flex-col sm:flex-row items-baseline justify-between gap-2 border-b border-slate-200 pb-2",
-                          children: [
-                            l.jsxs("div", { className: "font-black text-xs text-slate-900 leading-relaxed flex-1", children: ["Q.", m.qNo, ". ", m.statementEn] }),
-                            l.jsx("div", { dir: "rtl", className: "font-black text-xs font-urdu text-slate-900 text-right flex-1 leading-loose", children: m.statementUr })
-                          ]
-                        }),
-                        // Options Grid
-                        l.jsx("div", {
-                          className: "grid grid-cols-2 sm:grid-cols-4 gap-2",
-                          children: m.options.map(opt => {
-                            const isCorrect = opt.key === m.correctOption;
-                            return l.jsxs("div", {
-                              key: opt.key,
-                              className: "p-2 rounded-lg border text-xs flex items-center gap-1.5 transition-colors " + (isCorrect ? "bg-emerald-50 border-emerald-500 text-emerald-950 font-black ring-1 ring-emerald-400" : "bg-white border-slate-300 text-slate-800 font-semibold"),
-                              children: [
-                                l.jsxs("span", {
-                                  className: "w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black shrink-0 " + (isCorrect ? "bg-emerald-600 text-white" : "bg-slate-200 text-slate-800"),
-                                  children: [opt.key]
-                                }),
-                                l.jsxs("span", {
-                                  className: "flex-1 truncate",
-                                  children: [
-                                    effectiveLangMode === "english" ? opt.textEn : effectiveLangMode === "urdu" ? opt.textUr : opt.textEn + (opt.textUr ? " / " + opt.textUr : "")
-                                  ]
-                                }),
-                                isCorrect && l.jsx("span", { className: "text-emerald-700 font-black text-xs shrink-0", children: "✔" })
-                              ]
-                            });
-                          })
-                        }),
-                        // Solved Key / Explanation
-                        (m.explanationEn || m.explanationUr) && l.jsxs("div", {
-                          className: "bg-emerald-50/70 border border-emerald-200 rounded-lg p-2.5 text-[11px] text-emerald-950 space-y-1 font-medium",
-                          children: [
-                            l.jsxs("div", {
-                              className: "font-black text-emerald-900 flex items-center gap-1 text-[11px]",
-                              children: ["💡 Solved Key: Option (", m.correctOption, ") is Correct"]
-                            }),
-                            effectiveLangMode !== "urdu" && m.explanationEn && l.jsx("p", { className: "leading-relaxed", children: m.explanationEn }),
-                            effectiveLangMode !== "english" && m.explanationUr && l.jsx("p", { dir: "rtl", className: "font-urdu text-right leading-loose text-xs", children: m.explanationUr })
-                          ]
-                        })
-                      ]
-                    }, m.id))
-                  })
-                ]
-              }),
-
-              // SECTION B: SOLVED SHORT QUESTIONS (NO LONG QUESTIONS)
-              (activeTab === "all" || activeTab === "shorts") && l.jsxs("div", {
-                className: "space-y-3 pt-4 border-t-2 border-slate-200",
-                children: [
-                  l.jsxs("div", {
-                    className: "bg-teal-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
-                    children: [
-                      l.jsx("span", { children: "Section B: Solved Short Questions (مختصر سوالات مع ماڈل جواب)" }),
-                      l.jsxs("span", { className: "text-teal-200 font-normal", children: [notesData.shortQuestions.length, " Solved Questions • 2 Marks Each"] })
+                      l.jsxs("h4", {
+                        className: "text-sm sm:text-base font-black text-slate-900 uppercase tracking-wide",
+                        children: ["Section A: Solved Multiple Choice Questions (", notesData.mcqs.length, " Questions)"]
+                      }),
+                      l.jsx("span", { className: "text-xs font-bold text-slate-500", children: "1 Mark Each" })
                     ]
                   }),
                   l.jsx("div", {
                     className: "space-y-3.5",
-                    children: notesData.shortQuestions.map(sq => l.jsxs("div", {
-                      key: sq.id,
-                      className: "border border-slate-300 rounded-xl p-4 bg-white space-y-2.5 shadow-2xs break-inside-avoid",
-                      children: [
-                        // Question Statement
-                        effectiveLangMode === "english" ? l.jsxs("div", {
-                          className: "font-black text-xs sm:text-sm text-slate-900 leading-relaxed",
-                          children: ["Q.", sq.subNo, ". ", sq.statementEn, " ", l.jsx("span", { className: "text-blue-700 font-bold text-xs", children: "(2 Marks)" })]
-                        }) : effectiveLangMode === "urdu" ? l.jsxs("div", {
-                          dir: "rtl",
-                          className: "font-black text-sm sm:text-base font-urdu text-slate-950 leading-loose text-right",
-                          children: [sq.statementUr, " ", l.jsx("span", { className: "font-sans text-xs", children: "(2 نمبر) Q." + sq.subNo })]
-                        }) : l.jsxs("div", {
-                          className: "flex flex-col sm:flex-row items-baseline justify-between gap-2 border-b border-slate-200 pb-2",
-                          children: [
-                            l.jsxs("div", { className: "font-black text-xs sm:text-sm text-slate-900 leading-relaxed flex-1", children: ["Q.", sq.subNo, ". ", sq.statementEn, " ", l.jsx("span", { className: "text-blue-700 font-bold text-xs", children: "(2 Marks)" })] }),
-                            l.jsxs("div", { dir: "rtl", className: "font-black text-xs sm:text-sm font-urdu text-slate-900 text-right flex-1 leading-loose", children: [sq.statementUr, " (2 نمبر)"] })
-                          ]
-                        }),
-                        // Model Solved Answer Box
-                        l.jsxs("div", {
-                          className: "bg-slate-50 border border-slate-300 rounded-xl p-3.5 space-y-2",
-                          children: [
-                            l.jsx("div", {
-                              className: "text-[11px] font-black uppercase tracking-wider text-teal-800 border-b border-slate-200 pb-1 flex items-center justify-between",
-                              children: [
-                                l.jsx("span", { children: "✔ Standard Model Answer (حل شدہ ماڈل جواب):" }),
-                                l.jsx("span", { className: "text-[10px] text-slate-500 font-bold", children: "Board Marking Standard" })
-                              ]
-                            }),
-                            effectiveLangMode !== "urdu" && sq.answerEn && l.jsxs("div", {
-                              className: "text-xs text-slate-800 leading-relaxed whitespace-pre-line font-medium",
-                              children: [
-                                effectiveLangMode === "bilingual" && l.jsx("span", { className: "font-bold text-slate-900 mr-1.5", children: "[English]:" }),
-                                sq.answerEn
-                              ]
-                            }),
-                            effectiveLangMode !== "english" && sq.answerUr && l.jsxs("div", {
-                              dir: "rtl",
-                              className: "text-xs sm:text-sm font-urdu text-slate-950 leading-loose text-right whitespace-pre-line pt-1 font-medium",
-                              children: [
-                                effectiveLangMode === "bilingual" && l.jsx("span", { className: "font-bold text-slate-900 ml-1.5 font-sans", children: "[اردو]:" }),
-                                sq.answerUr
-                              ]
+                    children: notesData.mcqs.map((mcq, mIdx) => {
+                      const letters = ["A", "B", "C", "D"];
+                      return l.jsxs("div", {
+                        key: mcq.id || mIdx,
+                        className: "p-4 rounded-xl border border-slate-200 bg-white space-y-3 shadow-2xs page-break-inside-avoid",
+                        children: [
+                          // Question Prompt
+                          l.jsxs("div", {
+                            className: "space-y-1",
+                            children: [
+                              l.jsxs("div", {
+                                className: "flex items-start gap-2",
+                                children: [
+                                  l.jsxs("span", { className: "px-2 py-0.5 rounded bg-blue-100 text-blue-900 font-black text-xs shrink-0", children: ["Q", mIdx + 1] }),
+                                  l.jsx("p", {
+                                    className: "font-black text-slate-900 text-sm leading-relaxed",
+                                    children: effectiveLangMode === "urdu" ? (mcq.questionUr || mcq.questionEn) : mcq.questionEn
+                                  })
+                                ]
+                              }),
+                              effectiveLangMode === "bilingual" && mcq.questionUr && l.jsx("p", {
+                                className: "font-urdu text-right text-sm text-slate-700 font-bold pr-2 leading-relaxed",
+                                dir: "rtl",
+                                children: mcq.questionUr
+                              })
+                            ]
+                          }),
+
+                          // Options Grid (4 Options)
+                          l.jsx("div", {
+                            className: "grid grid-cols-1 sm:grid-cols-2 gap-2 pt-1",
+                            children: mcq.optionsEn.map((opt, optIdx) => {
+                              const isCorrect = optIdx === mcq.correctIndex;
+                              const optUr = (mcq.optionsUr && mcq.optionsUr[optIdx]) || "";
+                              return l.jsxs("div", {
+                                key: optIdx,
+                                className: "p-2.5 rounded-lg border text-xs flex items-center justify-between gap-2 " + (
+                                  isCorrect ? "bg-emerald-50 border-emerald-400 font-bold text-emerald-950 shadow-2xs" :
+                                  "bg-slate-50/70 border-slate-200 text-slate-700 font-medium"
+                                ),
+                                children: [
+                                  l.jsxs("div", {
+                                    className: "flex items-center gap-2",
+                                    children: [
+                                      l.jsxs("span", {
+                                        className: "w-5 h-5 rounded-full flex items-center justify-center font-black text-[11px] " + (
+                                          isCorrect ? "bg-emerald-600 text-white" : "bg-slate-200 text-slate-700"
+                                        ),
+                                        children: letters[optIdx]
+                                      }),
+                                      l.jsx("span", {
+                                        children: effectiveLangMode === "urdu" ? (optUr || opt) : effectiveLangMode === "english" ? opt : (optUr ? `${opt} (${optUr})` : opt)
+                                      })
+                                    ]
+                                  }),
+                                  isCorrect && l.jsx("span", { className: "text-emerald-700 font-black text-xs", children: "✔ Correct" })
+                                ]
+                              });
                             })
-                          ]
-                        })
-                      ]
-                    }, sq.id))
+                          }),
+
+                          // Justification / Explanation Box
+                          l.jsxs("div", {
+                            className: "bg-emerald-50/60 border border-emerald-200 rounded-lg p-2.5 text-xs text-slate-800 space-y-1",
+                            children: [
+                              l.jsxs("div", {
+                                className: "flex items-center gap-1.5 font-black text-emerald-900",
+                                children: [
+                                  l.jsx("span", { children: "💡" }),
+                                  l.jsxs("span", { children: ["Model Reason & Justification (Option ", letters[mcq.correctIndex], "):"] })
+                                ]
+                              }),
+                              l.jsx("p", {
+                                className: "text-slate-600 font-medium leading-relaxed",
+                                children: effectiveLangMode === "urdu" ? (mcq.explanationUr || mcq.explanationEn) : mcq.explanationEn
+                              }),
+                              effectiveLangMode === "bilingual" && mcq.explanationUr && l.jsx("p", {
+                                className: "font-urdu text-right text-xs text-slate-700 font-bold leading-relaxed pt-0.5",
+                                dir: "rtl",
+                                children: mcq.explanationUr
+                              })
+                            ]
+                          })
+                        ]
+                      });
+                    })
                   })
                 ]
               }),
 
-              // Footer
-              l.jsxs("div", {
-                className: "border-t border-slate-300 pt-3 flex flex-wrap items-center justify-between text-[10px] text-slate-500 font-bold gap-2",
+              // SECTION B: SOLVED SHORT QUESTIONS (2 MARKS EACH) - NO LONG QUESTIONS
+              (activeTab === "all" || activeTab === "sq") && l.jsxs("div", {
+                className: "space-y-4 pt-2",
                 children: [
-                  l.jsx("div", { children: "PUNJAB TEXTBOOK BOARD (PTBB) CHAPTER REVISION NOTES" }),
-                  l.jsx("div", { children: "Prepared for Matric 9th & 10th Classes • All BISE Punjab Boards" })
+                  l.jsxs("div", {
+                    className: "border-l-4 border-emerald-700 pl-3 py-0.5 flex items-center justify-between",
+                    children: [
+                      l.jsxs("h4", {
+                        className: "text-sm sm:text-base font-black text-slate-900 uppercase tracking-wide",
+                        children: ["Section B: Solved Short Questions (", notesData.shortQuestions.length, " Questions)"]
+                      }),
+                      l.jsx("span", { className: "text-xs font-bold text-slate-500", children: "2 Marks Each • Board Pattern" })
+                    ]
+                  }),
+                  l.jsx("div", {
+                    className: "space-y-4",
+                    children: notesData.shortQuestions.map((sq, sqIdx) => {
+                      return l.jsxs("div", {
+                        key: sq.id || sqIdx,
+                        className: "p-4 sm:p-5 rounded-xl border border-slate-200 bg-white space-y-3 shadow-2xs page-break-inside-avoid",
+                        children: [
+                          // Question Header
+                          l.jsxs("div", {
+                            className: "space-y-1",
+                            children: [
+                              l.jsxs("div", {
+                                className: "flex items-start justify-between gap-2",
+                                children: [
+                                  l.jsxs("div", {
+                                    className: "flex items-start gap-2",
+                                    children: [
+                                      l.jsxs("span", { className: "px-2 py-0.5 rounded bg-emerald-100 text-emerald-900 font-black text-xs shrink-0", children: ["SQ ", sqIdx + 1] }),
+                                      l.jsx("h5", {
+                                        className: "font-black text-slate-900 text-sm leading-relaxed",
+                                        children: effectiveLangMode === "urdu" ? (sq.questionUr || sq.questionEn) : sq.questionEn
+                                      })
+                                    ]
+                                  }),
+                                  l.jsxs("span", { className: "px-2 py-0.5 rounded bg-slate-100 text-slate-700 font-black text-[11px] shrink-0", children: [sq.marks || 2, " Marks"] })
+                                ]
+                              }),
+                              effectiveLangMode === "bilingual" && sq.questionUr && l.jsx("p", {
+                                className: "font-urdu text-right text-sm text-slate-700 font-bold pr-2 leading-relaxed",
+                                dir: "rtl",
+                                children: sq.questionUr
+                              })
+                            ]
+                          }),
+
+                          // Model Answer Box
+                          l.jsxs("div", {
+                            className: "bg-slate-50 border-l-3 border-emerald-600 rounded-r-xl p-3.5 space-y-2 text-xs",
+                            children: [
+                              l.jsx("div", {
+                                className: "font-black text-emerald-900 text-[11px] uppercase tracking-wider",
+                                children: "✔ Standard Model Answer:"
+                              }),
+                              // English Answer
+                              effectiveLangMode !== "urdu" && l.jsx("div", {
+                                className: "text-slate-800 leading-relaxed font-semibold whitespace-pre-line",
+                                children: sq.answerEn
+                              }),
+                              // Urdu Answer
+                              (effectiveLangMode === "urdu" || effectiveLangMode === "bilingual") && sq.answerUr && l.jsxs("div", {
+                                className: (effectiveLangMode === "bilingual" ? "border-t border-slate-200 pt-2.5 mt-2 " : "") + "font-urdu text-right text-slate-900 text-sm font-semibold leading-relaxed whitespace-pre-line",
+                                dir: "rtl",
+                                children: [
+                                  effectiveLangMode === "bilingual" && l.jsx("div", { className: "text-[11px] font-sans font-bold text-slate-500 mb-1 text-left", dir: "ltr", children: "[Urdu Translation]:" }),
+                                  sq.answerUr
+                                ]
+                              })
+                            ]
+                          })
+                        ]
+                      });
+                    })
+                  })
+                ]
+              }),
+
+              // Notes Footer Signature & Stamp Box
+              l.jsxs("div", {
+                className: "border-t border-slate-200 pt-6 mt-8 flex flex-wrap items-center justify-between gap-4 text-xs font-bold text-slate-500",
+                children: [
+                  l.jsxs("div", {
+                    children: [
+                      l.jsx("p", { className: "text-slate-700", children: "Subject Specialist & Examination Cell" }),
+                      l.jsx("p", { className: "text-[11px] text-slate-400 font-normal", children: "Curriculum strictly mapped with PTBB 2026 Board Pattern" })
+                    ]
+                  }),
+                  l.jsxs("div", {
+                    className: "text-right",
+                    children: [
+                      l.jsx("div", { className: "w-32 border-b border-slate-400 pb-1 mb-1" }),
+                      l.jsx("p", { className: "text-slate-700", children: "Principal / Authorized Stamp" })
+                    ]
+                  })
                 ]
               })
             ]
@@ -5318,8 +5606,6 @@ function ClassNotesView({ currentUser, onBack }) {
     ]
   });
 }
-
-
 function renderHubSvg(type){switch(type){case"create_paper":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("path",{d:"M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"}),l.jsx("polyline",{points:"14 2 14 8 20 8"}),l.jsx("line",{x1:"12",x2:"12",y1:"12",y2:"18"}),l.jsx("line",{x1:"9",x2:"15",y1:"15",y2:"15"})]});case"question_bank":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("path",{d:"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"}),l.jsx("path",{d:"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"})]});case"date_sheet":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("rect",{width:"18",height:"18",x:"3",y:"4",rx:"2",ry:"2"}),l.jsx("line",{x1:"16",x2:"16",y1:"2",y2:"6"}),l.jsx("line",{x1:"8",x2:"8",y1:"2",y2:"6"}),l.jsx("line",{x1:"3",x2:"21",y1:"10",y2:"10"}),l.jsx("path",{d:"M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01M16 18h.01"})]});case"result_card":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("circle",{cx:"12",cy:"8",r:"6"}),l.jsx("path",{d:"M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"})]});case"answer_key":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("path",{d:"M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"}),l.jsx("polyline",{points:"14 2 14 8 20 8"}),l.jsx("path",{d:"m9 15 2 2 4-4"})]});case"bubble_sheet":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("circle",{cx:"12",cy:"12",r:"10"}),l.jsx("circle",{cx:"12",cy:"12",r:"4"})]});case"school_profile":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("path",{d:"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"}),l.jsx("path",{d:"M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"}),l.jsx("path",{d:"M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"})]});case"saved_papers":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("rect",{width:"20",height:"5",x:"2",y:"3",rx:"1"}),l.jsx("path",{d:"M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8"}),l.jsx("path",{d:"M10 12h4"})]});case"support_bug":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("circle",{cx:"12",cy:"12",r:"10"}),l.jsx("circle",{cx:"12",cy:"12",r:"4"}),l.jsx("line",{x1:"4.93",x2:"9.17",y1:"4.93",y2:"9.17"}),l.jsx("line",{x1:"14.83",x2:"19.07",y1:"14.83",y2:"19.07"}),l.jsx("line",{x1:"14.83",x2:"19.07",y1:"9.17",y2:"4.93"}),l.jsx("line",{x1:"4.93",x2:"9.17",y1:"19.07",y2:"14.83"})]});case"admin_portal":return l.jsxs("svg",{className:"w-4 h-4 text-white stroke-[2.2]",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",children:[l.jsx("path",{d:"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"}),l.jsx("path",{d:"m9 12 2 2 4-4"})]});default:return null;}}const m8=({currentUser:n,savedPapers:e,onOpenCreatePaper:t,onOpenAiGenerator:r,onOpenManualSelector:a,onOpenQuestionBank:o,onViewPaper:A,onOpenSchoolProfile:u,onOpenBubbleSheet:f,onOpenAnswerKey:B,onDeletePaper:m,onSelectTab:C})=>l.jsxs("div",{className:"space-y-6 max-w-7xl mx-auto font-sans text-slate-800",children:[l.jsxs("div",{className:"rounded-2xl p-6 sm:p-8 text-white shadow-2xl relative overflow-hidden border-2 border-blue-400/40",style:{background:"linear-gradient(135deg, #06152d 0%, #0a254a 40%, #0f3669 75%, #154580 100%)",boxShadow:"0 14px 32px -5px rgba(6, 21, 45, 0.7), 0 8px 12px -6px rgba(0, 0, 0, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25)"},children:[l.jsxs("div",{className:"relative z-10 max-w-3xl space-y-3",children:[l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{className:"inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 text-blue-300 border border-blue-400/40 text-xs font-bold uppercase tracking-wider shadow-xs",children:[l.jsx(SAFE_Ta,{className:"w-3.5 h-3.5 text-blue-400"}),l.jsx("span",{children:"PAPER MAKER SOFTWARE"})]}),l.jsx(LiveClockWidget,{})]}),l.jsx("h1",{className:"text-2xl sm:text-3xl font-extrabold tracking-tight text-white drop-shadow-md",style:{textShadow:"0 2px 6px rgba(0,0,0,0.7)"},children:(n==null?void 0:n.schoolName)||"Punjab Board Examination System"}),l.jsx("p",{className:"text-sm text-slate-200 leading-relaxed font-medium",children:"Generate authentic board pattern question papers for 9th and 10th Matric Science Group & Compulsory Subjects (English & Urdu) in English, Urdu Nastaliq, or Bilingual format. Complete with official pairing schemes, OMR bubble sheets, answer keys, and MS Word export."}),l.jsx(NewsBulletinTicker,{})]}),l.jsx("div",{className:"absolute right-6 -bottom-8 opacity-10 pointer-events-none select-none",children:l.jsxs("svg",{className:"w-64 h-64 text-white",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"1.5",strokeLinecap:"round",strokeLinejoin:"round",children:[l.jsx("path",{d:"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"}),l.jsx("path",{d:"M22 10v6"}),l.jsx("path",{d:"M6 12.5V16a6 3 0 0 0 12 0v-3.5"})]})})]}),l.jsxs("div",{className:"grid grid-cols-2 sm:grid-cols-4 gap-4",children:[l.jsxs("div",{onClick:()=>C&&C("saved_papers"),className:"card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-blue-400 hover:shadow-md transition-all group",title:"Click to open Saved Papers Archive",children:[l.jsxs("div",{className:"flex items-center justify-between mb-1",children:[l.jsx("span",{className:"text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-blue-700 transition-colors",children:"Total Papers Created"}),l.jsx("div",{className:"w-9 h-9 icon-3d-badge jewel-blue text-white flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform",children:l.jsxs("svg",{className:"w-4 h-4 text-white",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"2.2",strokeLinecap:"round",strokeLinejoin:"round",children:[l.jsx("circle",{cx:"15",cy:"19",r:"2"}),l.jsx("path",{d:"M4 20V6a2 2 0 0 1 2-2h4l2 2h6a2 2 0 0 1 2 2v2"}),l.jsx("path",{d:"M2 13h10"}),l.jsx("path",{d:"M2 17h6"})]})})]}),l.jsx("div",{className:"text-2xl font-black text-slate-950 mt-1",children:e.length}),l.jsx("span",{className:"text-[11px] text-blue-700 font-bold mt-0.5 group-hover:underline",children:"Click to view archive →"})]}),l.jsxs("div",{onClick:u,className:"card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-indigo-400 hover:shadow-md transition-all group",title:"Click to view Board Pattern and School Profile",children:[l.jsxs("div",{className:"flex items-center justify-between mb-1",children:[l.jsx("span",{className:"text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-indigo-700 transition-colors",children:"Target Board Pattern"}),l.jsx("div",{className:"w-9 h-9 icon-3d-badge jewel-indigo text-white flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform",children:l.jsxs("svg",{className:"w-4 h-4 text-white",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"2.2",strokeLinecap:"round",strokeLinejoin:"round",children:[l.jsx("circle",{cx:"12",cy:"8",r:"6"}),l.jsx("path",{d:"M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"})]})})]}),l.jsx("div",{className:"text-base font-bold text-slate-950 truncate mt-1",children:n!=null&&n.targetBoard?n.targetBoard.toUpperCase()+" Board":"BISE Punjab"}),l.jsx("span",{className:"text-[11px] text-slate-700 font-semibold mt-0.5 group-hover:text-indigo-600",children:"PTBB Scheme • Edit branding →"})]}),l.jsxs("div",{onClick:()=>t("9th"),className:"card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-emerald-400 hover:shadow-md transition-all group",title:"Click to create a new paper",children:[l.jsxs("div",{className:"flex items-center justify-between mb-1",children:[l.jsx("span",{className:"text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-emerald-700 transition-colors",children:"Active Classes"}),l.jsx("div",{className:"w-9 h-9 icon-3d-badge jewel-emerald text-white flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform",children:l.jsx(SAFE_id,{className:"w-4 h-4 text-white"})})]}),l.jsx("div",{className:"text-base font-bold text-slate-950 mt-1",children:"9th & 10th Class"}),l.jsx("span",{className:"text-[11px] text-emerald-700 font-bold mt-0.5 group-hover:underline",children:"Launch builder →"})]}),l.jsxs("div",{onClick:()=>{(n==null?void 0:n.role)==="admin"&&C?C("admin_portal"):u()},className:"card-3d p-4 flex flex-col justify-between cursor-pointer hover:border-amber-400 hover:shadow-md transition-all group",title:"Click to view subscription & license details",children:[l.jsxs("div",{className:"flex items-center justify-between mb-1",children:[l.jsx("span",{className:"text-[11px] font-black uppercase tracking-wider text-slate-700 group-hover:text-amber-800 transition-colors",children:"System License"}),l.jsx("div",{className:"w-9 h-9 icon-3d-badge jewel-amber text-white flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform",children:l.jsx(Hp,{className:"w-4 h-4 text-white"})})]}),l.jsxs("div",{className:"text-base font-bold text-emerald-700 flex items-center gap-1 mt-1",children:[l.jsx(bs,{className:"w-4 h-4 text-emerald-600"}),l.jsx("span",{children:"Active"})]}),l.jsxs("span",{className:"text-[11px] text-slate-700 font-semibold mt-0.5",children:["Valid till ",(n==null?void 0:n.expiryDate)||"2027-12-31"]})]})]}),l.jsxs("div",{className:"card-3d p-5",children:[l.jsxs("div",{className:"flex items-center justify-between mb-4 border-b border-slate-200 pb-3",children:[l.jsxs("div",{children:[l.jsx("h3",{className:"font-black text-sm text-slate-950",children:"Recent Generated Question Papers"}),l.jsx("p",{className:"text-xs text-slate-700 font-medium",children:"1-click Print, MS Word download, Answer Key & Bubble Sheet"})]}),l.jsx("button",{onClick:()=>t(),className:"btn-3d btn-3d-blue text-xs font-black text-white px-3 py-1.5 rounded-lg cursor-pointer",children:"+ Create Another Paper"})]}),e.length>0?l.jsx("div",{className:"divide-y divide-slate-200",children:e.slice(0,5).map(y=>l.jsxs("div",{className:"py-3 flex flex-wrap items-center justify-between gap-3 text-xs hover:bg-slate-50 p-2 rounded-lg transition-colors",children:[l.jsxs("div",{children:[l.jsxs("div",{className:"font-extrabold text-slate-950 flex items-center gap-2",children:[l.jsx("span",{className:"text-sm",children:y.header.subjectName}),l.jsx("span",{className:"px-2 py-0.5 rounded bg-blue-100 text-blue-900 text-[10px] font-mono font-bold",children:y.header.classLevel}),l.jsx("span",{className:"text-slate-500 font-normal",children:"·"}),l.jsx("span",{className:"text-slate-800 font-semibold",children:y.header.examTitle})]}),l.jsxs("div",{className:"text-xs text-slate-700 font-medium mt-0.5",children:[y.header.dateStr," · Total Marks: ",l.jsx("strong",{className:"text-slate-950",children:y.header.totalMarks})," · Syllabus: ",y.header.syllabusCovered||"All chapters"]})]}),l.jsxs("div",{className:"flex items-center gap-1.5 flex-wrap",children:[l.jsx("button",{onClick:()=>A(y),className:"btn-3d btn-3d-blue px-3 py-1.5 text-white rounded-lg font-bold text-[11px] cursor-pointer",children:"View Paper"}),l.jsxs("button",{onClick:()=>z0(y),className:"btn-3d btn-3d-navy flex items-center gap-1 px-3 py-1.5 text-white rounded-lg font-bold text-[11px] cursor-pointer",children:[l.jsx(Xu,{className:"w-3 h-3 text-blue-200"}),l.jsx("span",{children:"MS Word"})]}),l.jsx("button",{onClick:()=>B(y),className:"btn-3d btn-3d-emerald px-3 py-1.5 text-white rounded-lg font-bold text-[11px] cursor-pointer",children:"Answer Key"}),l.jsx("button",{onClick:()=>f(y),className:"btn-3d btn-3d-purple px-3 py-1.5 text-white rounded-lg font-bold text-[11px] cursor-pointer",children:"Bubble Sheet"}),m&&l.jsxs("button",{type:"button",onClick:()=>{window.confirm(`Are you sure you want to delete "${y.header.subjectName}" paper?`)&&m(y.id)},className:"btn-3d btn-3d-ruby flex items-center gap-1 px-2.5 py-1.5 text-white rounded-lg font-bold text-[11px] cursor-pointer",title:"Delete this paper from saved list",children:[l.jsx(Ql,{className:"w-3 h-3"}),l.jsx("span",{children:"Delete"})]})]})]},y.id))}):l.jsx("div",{className:"text-center py-8 text-slate-400 text-xs",children:'No papers generated yet. Click "Create New Exam Paper" above to start.'})]}),l.jsxs("footer",{className:"no-print pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between text-xs text-slate-500",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx(q3,{className:"w-4 h-4 text-blue-600"}),l.jsxs("span",{children:["Developed by: ",l.jsx("strong",{className:"text-slate-800",children:"MUHAMMAD IMRAN KHAN"})," (MSc Computer Science)"]})]}),l.jsxs("div",{className:"flex items-center gap-4 text-slate-600 font-mono text-[11px]",children:[l.jsxs("span",{className:"flex items-center gap-1",children:[l.jsx(SAFE_Cc,{className:"w-3 h-3 text-blue-600"}),"03007603964"]}),l.jsxs("span",{className:"flex items-center gap-1",children:[l.jsx(SAFE_Cc,{className:"w-3 h-3 text-blue-600"}),"03147603964"]})]})]})]}),Y2=[{id:"lahore",nameEn:"BISE Lahore",nameUr:"ثانوی و اعلیٰ ثانوی تعلیمی بورڈ لاہور"},{id:"gujranwala",nameEn:"BISE Gujranwala",nameUr:"تعلیمی بورڈ گوجرانوالہ"},{id:"rawalpindi",nameEn:"BISE Rawalpindi",nameUr:"تعلیمی بورڈ راولپنڈی"},{id:"faisalabad",nameEn:"BISE Faisalabad",nameUr:"تعلیمی بورڈ فیصل آباد"},{id:"multan",nameEn:"BISE Multan",nameUr:"تعلیمی بورڈ ملتان"},{id:"sahiwal",nameEn:"BISE Sahiwal",nameUr:"تعلیمی بورڈ ساہیوال"},{id:"bahawalpur",nameEn:"BISE Bahawalpur",nameUr:"تعلیمی بورڈ بہاولپور"},{id:"sargodha",nameEn:"BISE Sargodha",nameUr:"تعلیمی بورڈ سرگودھا"},{id:"dgkhan",nameEn:"BISE D.G. Khan",nameUr:"تعلیمی بورڈ ڈیرہ غازی خان"},{id:"federal",nameEn:"Federal Board Islamabad",nameUr:"وفاقی تعلیمی بورڈ اسلام آباد"}],g8=[{id:"9th-physics",nameEn:"Physics",nameUr:"Physics",classLevel:"9th",group:"science",defaultMarks:60,mcqMarks:12,shortQMarks:30,longQMarks:18,timeAllowed:"2:15 Hours",hasNumericals:!0,chapters:[{id:1,number:1,titleEn:"Physical Quantities and Measurement",titleUr:"طبیعی مقداریں اور پیمائش",mcqs:[{id:"p9-1-m1",statementEn:"The number of base units in System International (SI) is:",statementUr:"سسٹم انٹرنیشنل (SI) میں بنیادی یونٹس کی تعداد ہے:",options:[{key:"A",textEn:"3",textUr:"3"},{key:"B",textEn:"6",textUr:"6"},{key:"C",textEn:"7",textUr:"7"},{key:"D",textEn:"9",textUr:"9"}],correctOption:"C"},{id:"p9-1-m2",statementEn:"The least count of a standard Vernier Calipers is:",statementUr:"عام ورنیئر کیلیپرز کا لیسٹ کاؤنٹ ہوتا ہے:",options:[{key:"A",textEn:"0.1 cm",textUr:"0.1 سینٹی میٹر"},{key:"B",textEn:"0.01 cm",textUr:"0.01 سینٹی میٹر"},{key:"C",textEn:"0.001 cm",textUr:"0.001 سینٹی میٹر"},{key:"D",textEn:"1 mm",textUr:"1 ملی میٹر"}],correctOption:"B"},{id:"p9-1-m3",statementEn:"Which of the following is a derived unit?",statementUr:"مندرجہ ذیل میں سے ماخوذ یونٹ کون سا ہے؟",options:[{key:"A",textEn:"Meter",textUr:"میٹر"},{key:"B",textEn:"Kilogram",textUr:"کلوگرام"},{key:"C",textEn:"Newton",textUr:"نیوٹن"},{key:"D",textEn:"Second",textUr:"سیکنڈ"}],correctOption:"C"}],shortQuestions:[{id:"p9-1-s1",statementEn:"Differentiate between base quantities and derived quantities with two examples.",statementUr:"بنیادی اور ماخوذ مقداروں میں فرق واضح کریں اور ہر ایک کی دو مثالیں دیں۔",marks:2},{id:"p9-1-s2",statementEn:"What is meant by scientific notation? Express 0.000054 s in scientific notation.",statementUr:"سائنسی نوٹیشن سے کیا مراد ہے؟ 0.000054 سیکنڈ کو سائنسی نوٹیشن میں لکھیں۔",marks:2},{id:"p9-1-s3",statementEn:"What is zero error? Why is zero correction necessary in screw gauge?",statementUr:"زیرو ایرر کیا ہے؟ سکریو گیج میں زیرو کریکشن کیوں ضروری ہے؟",marks:2}],longQuestions:[{id:"p9-1-l1",statementEn:"Explain Vernier Calipers with its construction, least count, zero error and zero correction.",statementUr:"ورنیئر کیلیپرز کی بناوٹ، لیسٹ کاؤنٹ، زیرو ایرر اور زیرو کریکشن کی وضاحت کریں۔",parts:[{partLabel:"a",statementEn:"Describe working of Vernier Calipers with neat diagram.",statementUr:"ورنیئر کیلیپرز کا طریقہ کار مع ڈایاگرام بیان کریں۔",marks:5},{partLabel:"b",statementEn:"Calculate the volume of a sphere of radius 2.25 cm with correct significant figures.",statementUr:"2.25 سینٹی میٹر رداس کے کرے کا والیم درست اہم ہندسوں میں معلوم کریں۔",marks:4}]}]},{id:2,number:2,titleEn:"Kinematics",titleUr:"کائینی میٹکس",mcqs:[{id:"p9-2-m1",statementEn:"The motion of a body around an axis is called:",statementUr:"کسی جسم کی اپنے ہی محور کے گرد حرکت کہلاتی ہے:",options:[{key:"A",textEn:"Circular motion",textUr:"سرکلر موشن"},{key:"B",textEn:"Rotatory motion",textUr:"روٹیٹری موشن"},{key:"C",textEn:"Vibratory motion",textUr:"وائبریٹری موشن"},{key:"D",textEn:"Translatory motion",textUr:"ٹرانسلیٹری موشن"}],correctOption:"B"},{id:"p9-2-m2",statementEn:"A vector quantity among the following is:",statementUr:"مندرجہ ذیل میں سے ویکٹر مقدار کون سی ہے؟",options:[{key:"A",textEn:"Speed",textUr:"سپیڈ"},{key:"B",textEn:"Distance",textUr:"فاصلہ"},{key:"C",textEn:"Displacement",textUr:"ڈسپلیسمنٹ"},{key:"D",textEn:"Power",textUr:"پاور"}],correctOption:"C"}],shortQuestions:[{id:"p9-2-s1",statementEn:"Differentiate between speed and velocity with their SI units.",statementUr:"سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔",marks:2},{id:"p9-2-s2",statementEn:"What is meant by uniform acceleration? Give its formula.",statementUr:"یکساں (یونیفارم) ایکسلریشن سے کیا مراد ہے؟ فارمولا لکھیں۔",marks:2}],longQuestions:[{id:"p9-2-l1",statementEn:"Derive second equation of motion with the help of speed-time graph.",statementUr:"سپیڈ-ٹائم گراف کی مدد سے حرکت کی دوسری مساوات اخذ کریں۔",parts:[{partLabel:"a",statementEn:"Derive 2nd equation of motion: S = vi t + 1/2 a t².",statementUr:"حرکت کی دوسری مساوات S = vi t + 1/2 a t² اخذ کریں۔",marks:5},{partLabel:"b",statementEn:"A train moves with a uniform velocity of 36 km/h for 10 s. Find distance traveled.",statementUr:"ایک ٹرین 36 کلومیٹر فی گھنٹہ کی یکساں ویلوسٹی سے 10 سیکنڈ تک چلتی ہے، طے کردہ فاصلہ معلوم کریں۔",marks:4}]}]},{id:3,number:3,titleEn:"Dynamics (قوت اور حرکت)",titleUr:"ڈائنامکس"},{id:4,number:4,titleEn:"Turning Effect of Forces",titleUr:"فورسز کا گھماؤ اثر"},{id:5,number:5,titleEn:"Gravitation",titleUr:"گریوی ٹیشن"},{id:6,number:6,titleEn:"Work and Energy",titleUr:"ورک اور انرجی"},{id:7,number:7,titleEn:"Properties of Matter",titleUr:"مادے کی خصوصیات"},{id:8,number:8,titleEn:"Thermal Properties of Matter",titleUr:"مادے کی تھرمل خصوصیات"},{id:9,number:9,titleEn:"Transfer of Heat",titleUr:"حرارت کا انتقال"}]},{id:"9th-chemistry",nameEn:"Chemistry",nameUr:"Chemistry",classLevel:"9th",group:"science",defaultMarks:60,mcqMarks:12,shortQMarks:30,longQMarks:18,timeAllowed:"2:15 Hours",hasNumericals:!0,chapters:[{id:1,number:1,titleEn:"Fundamentals of Chemistry",titleUr:"کیمسٹری کے بنیادی تصورات"},{id:2,number:2,titleEn:"Structure of Atoms",titleUr:"ایٹمز کی ساخت"},{id:3,number:3,titleEn:"Periodic Table and Periodicity of Properties",titleUr:"پیریوڈک ٹیبل اور خصوصیات کی دوریت"},{id:4,number:4,titleEn:"Structure of Molecules",titleUr:"مالیکیولز کی ساخت"},{id:5,number:5,titleEn:"Physical States of Matter",titleUr:"مادے کی طبعی حالتیں"},{id:6,number:6,titleEn:"Solutions",titleUr:"سولوشنز"},{id:7,number:7,titleEn:"Electrochemistry",titleUr:"الیکٹرو کیمسٹری"},{id:8,number:8,titleEn:"Chemical Reactivity",titleUr:"کیمیائی ری ایکٹیویٹی"}]},{id:"9th-biology",nameEn:"Biology",nameUr:"Biology",classLevel:"9th",group:"science",defaultMarks:60,mcqMarks:12,shortQMarks:30,longQMarks:18,timeAllowed:"2:15 Hours",chapters:[{id:1,number:1,titleEn:"Introduction to Biology",titleUr:"بائیولوجی کا تعارف"},{id:2,number:2,titleEn:"Solving a Biological Problem",titleUr:"بائیولوجیکل مسئلہ کا حل"},{id:3,number:3,titleEn:"Biodiversity",titleUr:"بائیو ڈائیورسٹی"},{id:4,number:4,titleEn:"Cells and Tissues",titleUr:"سیلز اور ٹشوز"},{id:5,number:5,titleEn:"Cell Cycle",titleUr:"سیل سائیکل"},{id:6,number:6,titleEn:"Enzymes",titleUr:"انزائمز"},{id:7,number:7,titleEn:"Bioenergetics",titleUr:"بائیو انرجیٹکس"},{id:8,number:8,titleEn:"Nutrition",titleUr:"نیوٹریشن (غذائیت)"},{id:9,number:9,titleEn:"Transport",titleUr:"ٹرانسپورٹ"}]},{id:"9th-mathematics",nameEn:"Mathematics",nameUr:"Mathematics",classLevel:"9th",group:"science",defaultMarks:75,mcqMarks:15,shortQMarks:36,longQMarks:24,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Matrices and Determinants",titleUr:"قالب اور قالبوں کا مقطع"},{id:2,number:2,titleEn:"Real and Complex Numbers",titleUr:"حقیقی اور غیر حقیقی اعداد"},{id:3,number:3,titleEn:"Logarithms",titleUr:"لوگارتھم"},{id:4,number:4,titleEn:"Algebraic Expressions & Formulas",titleUr:"الجبرائی جملے اور کلیے"},{id:5,number:5,titleEn:"Factorization",titleUr:"تجزی"},{id:6,number:6,titleEn:"Algebraic Manipulation (HCF & LCM)",titleUr:"الجبرائی جملوں کا عاد اعظم اور ذواضعاف اقل"},{id:7,number:7,titleEn:"Linear Equations and Inequalities",titleUr:"یک درجی مساواتیں اور غیر مساواتیں"},{id:8,number:8,titleEn:"Linear Graphs & Application",titleUr:"یک درجی گراف اور ان کا اطلاق"},{id:9,number:9,titleEn:"Coordinate Geometry",titleUr:"محدد جیومیٹری"},{id:10,number:10,titleEn:"Congruent Triangles",titleUr:"متماثل مثلثیں"},{id:11,number:11,titleEn:"Parallelograms and Triangles",titleUr:"متوازی الاضلاع اور مثلثیں"},{id:12,number:12,titleEn:"Line Bisectors & Angle Bisectors (Theorems Compulsory)",titleUr:"خط کا ناصف اور زاویہ کا ناصف (لازمی مسائل)"},{id:13,number:13,titleEn:"Sides and Angles of a Triangle",titleUr:"مثلث کے اضلاع اور زاویے"},{id:14,number:14,titleEn:"Ratio and Proportion",titleUr:"نسبت اور تناسب"},{id:15,number:15,titleEn:"Pythagoras Theorem",titleUr:"مسئلہ فیثا غورث"},{id:16,number:16,titleEn:"Theorems Related with Area",titleUr:"رقبہ سے متعلق مسائل"},{id:17,number:17,titleEn:"Practical Geometry - Triangles",titleUr:"عملی جیومیٹری - مثلثیں"}]},{id:"9th-computer",nameEn:"Computer Science",nameUr:"Computer Science",classLevel:"9th",group:"science",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Problem Solving",titleUr:"مسئلہ کا حل (پرابلم سالونگ)"},{id:2,number:2,titleEn:"Binary System",titleUr:"ثنائی نظام (بائنری سسٹم)"},{id:3,number:3,titleEn:"Networks",titleUr:"کمپیوٹر نیٹ ورکس"},{id:4,number:4,titleEn:"Data and Privacy",titleUr:"ڈیٹا اور پرائیویسی"},{id:5,number:5,titleEn:"Designing Website (HTML)",titleUr:"ویب سائٹ ڈیزائننگ"}]},{id:"9th-english",nameEn:"English Compulsory",nameUr:"English Compulsory",classLevel:"9th",group:"general",defaultMarks:75,mcqMarks:19,shortQMarks:10,longQMarks:46,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"The Saviour of Mankind (PBUH)",titleUr:"سیرت النبی ﷺ - انسانیت کے نجات دہندہ"},{id:2,number:2,titleEn:"Patriotism",titleUr:"حب الوطنی"},{id:3,number:3,titleEn:"Media and Its Impact",titleUr:"میڈیا اور اس کے اثرات"},{id:4,number:4,titleEn:"Hazrat Asma (R.A)",titleUr:"حضرت اسماء رضی اللہ عنہا"},{id:5,number:5,titleEn:"Daffodils (Poem)",titleUr:"ڈیفوڈلز (نظم)"},{id:6,number:6,titleEn:"The Quaid's Vision and Pakistan",titleUr:"قائد کا وژن اور پاکستان"},{id:7,number:7,titleEn:"Sultan Ahmad Mosque",titleUr:"مسجد سلطان احمد"},{id:8,number:8,titleEn:"Stopping by Woods on a Snowy Evening",titleUr:"برفانی شام میں جنگل کا منظر"},{id:9,number:9,titleEn:"All is Not Lost",titleUr:"سب کچھ برباد نہیں ہوا"},{id:10,number:10,titleEn:"Drug Addiction",titleUr:"منشیات کی لعنت"},{id:11,number:11,titleEn:"Noise in the Environment",titleUr:"ماحولیاتی شور"},{id:12,number:12,titleEn:"Three Days to See",titleUr:"دیکھنے کے لیے تین دن"}]},{id:"9th-urdu",nameEn:"Urdu Compulsory",nameUr:"اردو (لازمی)",classLevel:"9th",group:"general",defaultMarks:75,mcqMarks:15,shortQMarks:10,longQMarks:50,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Hissa Nasar: Hijrat-e-Nabvi (PBUH)",titleUr:"حصہ نثر: ہجرتِ نبوی ﷺ"},{id:2,number:2,titleEn:"Hissa Nasar: Mirza Ghalib k Adaat-o-Khasail",titleUr:"حصہ نثر: مرزا غالب کے عادات و خصائل"},{id:3,number:3,titleEn:"Hissa Nasar: Khasil-e-Akhlaq & Panchayat",titleUr:"حصہ نثر: پنچایت"},{id:4,number:4,titleEn:"Hissa Nasar: Nasooh aur Saleem ki Guftagu",titleUr:"حصہ نثر: نصوح اور سلیم کی گفتگو"},{id:5,number:5,titleEn:"Hissa Nazm: Hamd, Naat, Barsat ki Baharain",titleUr:"حصہ نظم: حمد، نعت، برسات کی بہاریں"},{id:6,number:6,titleEn:"Hissa Ghazal: Meer Taqi Meer, Aatish, Ghalib",titleUr:"حصہ غزل: میر تقی میر، آتش، غالب"},{id:7,number:7,titleEn:"Qawaid-o-Insha: Khatoot, Darkhwastain, Kahaniyan",titleUr:"قواعد و انشا: خطوط، درخواستیں، کہانیاں"}]},{id:"9th-islamiyat",nameEn:"Islamiat Compulsory",nameUr:"اسلامیات (لازمی)",classLevel:"9th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Surah Al-Anfal (Ayaat 1 - 75)",titleUr:"سورۃ الانفال (آیات 1 تا 75)"},{id:2,number:2,titleEn:"Ahadith-e-Nabaviyya (Hadith 1 - 10)",titleUr:"احادیثِ نبویہ (حدیث 1 تا 10)"},{id:3,number:3,titleEn:"Mozooati Mutalia: Quran-e-Majeed ki Fazeelat",titleUr:"موضوعاتی مطالعہ: قرآن مجید کا تعارف"},{id:4,number:4,titleEn:"Mozooati Mutalia: Allah & Rasool (PBUH) ki Muhabbat",titleUr:"موضوعاتی مطالعہ: اللہ اور رسول ﷺ کی اطاعت"},{id:5,number:5,titleEn:"Mozooati Mutalia: Ilm ki Fazeelat aur Farziyat",titleUr:"موضوعاتی مطالعہ: علم کی فضیلت"},{id:6,number:6,titleEn:"Mozooati Mutalia: Zakat, Taharat aur Safai",titleUr:"موضوعاتی مطالعہ: زکوۃ اور طہارت"}]},{id:"9th-tarjuma-quran",nameEn:"Tarjuma-tul-Quran-ul-Majeed",nameUr:"ترجمۃ القرآن المجید (لازمی)",classLevel:"9th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Surah Maryam",titleUr:"سورۃ مریم (تعارف، خلاصہ و ترجمہ)"},{id:2,number:2,titleEn:"Surah Taha",titleUr:"سورۃ طٰہٰ"},{id:3,number:3,titleEn:"Surah Al-Anbiya",titleUr:"سورۃ الانبیاء"},{id:4,number:4,titleEn:"Surah Al-Hajj",titleUr:"سورۃ الحج"},{id:5,number:5,titleEn:"Surah Al-Furqan",titleUr:"سورۃ الفرقان"},{id:6,number:6,titleEn:"Surah Ash-Shuara",titleUr:"سورۃ الشعراء"}]},{id:"9th-pakstudies",nameEn:"Pakistan Studies",nameUr:"مطالعہ پاکستان (لازمی)",classLevel:"9th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Ideological Basis of Pakistan",titleUr:"پاکستان کی نظریاتی اساس"},{id:2,number:2,titleEn:"Making of Pakistan (Tehreek-e-Pakistan)",titleUr:"تحریکِ پاکستان اور قیامِ پاکستان"},{id:3,number:3,titleEn:"Land and Environment of Pakistan",titleUr:"زمین اور ماحول"},{id:4,number:4,titleEn:"History of Pakistan (Part-I)",titleUr:"تاریخِ پاکستان (حصہ اول)"},{id:5,number:5,titleEn:"Women Empowerment (Tahaffuz-e-Niswan)",titleUr:"تحفظِ نسواں"}]},{id:"10th-physics",nameEn:"Physics",nameUr:"Physics",classLevel:"10th",group:"science",defaultMarks:60,mcqMarks:12,shortQMarks:30,longQMarks:18,timeAllowed:"2:15 Hours",hasNumericals:!0,chapters:[{id:10,number:10,titleEn:"Simple Harmonic Motion and Waves",titleUr:"سمپل ہارمونک موشن اور ویوز"},{id:11,number:11,titleEn:"Sound",titleUr:"ساؤنڈ (آواز)"},{id:12,number:12,titleEn:"Geometrical Optics",titleUr:"جیومیٹریکل آپٹکس"},{id:13,number:13,titleEn:"Electrostatics",titleUr:"الیکٹرو سٹیٹکس"},{id:14,number:14,titleEn:"Current Electricity",titleUr:"کرنٹ الیکٹریسٹی"},{id:15,number:15,titleEn:"Electromagnetism",titleUr:"الیکٹرو میگنیٹزم"},{id:16,number:16,titleEn:"Basic Electronics",titleUr:"بنیادی الیکٹرانکس"},{id:17,number:17,titleEn:"Information & Communication Tech (ICT)",titleUr:"انفارمیشن اینڈ کمیونیکیشن ٹیکنالوجی"},{id:18,number:18,titleEn:"Atomic and Nuclear Physics",titleUr:"ایٹامک اور نیوکلیئر فزکس"}]},{id:"10th-chemistry",nameEn:"Chemistry",nameUr:"Chemistry",classLevel:"10th",group:"science",defaultMarks:60,mcqMarks:12,shortQMarks:30,longQMarks:18,timeAllowed:"2:15 Hours",hasNumericals:!0,chapters:[{id:9,number:9,titleEn:"Chemical Equilibrium",titleUr:"کیمیائی توازن (کیمیکل ایکوی لبریم)"},{id:10,number:10,titleEn:"Acids, Bases and Salts",titleUr:"ایسڈز، بیسز اور سالٹس"},{id:11,number:11,titleEn:"Organic Chemistry",titleUr:"آرگینک کیمسٹری"},{id:12,number:12,titleEn:"Hydrocarbons",titleUr:"ہائیڈرو کاربنز"},{id:13,number:13,titleEn:"Biochemistry",titleUr:"بائیو کیمسٹری"},{id:14,number:14,titleEn:"The Atmosphere",titleUr:"ایٹموسفیئر (ماحول)"},{id:15,number:15,titleEn:"Water",titleUr:"پانی (واٹر)"},{id:16,number:16,titleEn:"Chemical Industries",titleUr:"کیمیائی صنعتیں"}]},{id:"10th-biology",nameEn:"Biology",nameUr:"Biology",classLevel:"10th",group:"science",defaultMarks:60,mcqMarks:12,shortQMarks:30,longQMarks:18,timeAllowed:"2:15 Hours",chapters:[{id:10,number:10,titleEn:"Gaseous Exchange",titleUr:"گیسوں کا تبادلہ"},{id:11,number:11,titleEn:"Homeostasis",titleUr:"ہومیوسٹیسز"},{id:12,number:12,titleEn:"Coordination and Control",titleUr:"کوآرڈینیشن اور کنٹرول"},{id:13,number:13,titleEn:"Support and Movement",titleUr:"سپورٹ اور موومنٹ"},{id:14,number:14,titleEn:"Reproduction",titleUr:"ری پروڈکشن"},{id:15,number:15,titleEn:"Inheritance",titleUr:"وراثت"},{id:16,number:16,titleEn:"Man and His Environment",titleUr:"انسان اور اس کا ماحول"},{id:17,number:17,titleEn:"Biotechnology",titleUr:"بائیو ٹیکنالوجی"},{id:18,number:18,titleEn:"Pharmacology",titleUr:"فارماکولوجی"}]},{id:"10th-mathematics",nameEn:"Mathematics",nameUr:"Mathematics",classLevel:"10th",group:"science",defaultMarks:75,mcqMarks:15,shortQMarks:36,longQMarks:24,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Quadratic Equations",titleUr:"دو درجی مساواتیں"},{id:2,number:2,titleEn:"Theory of Quadratic Equations",titleUr:"دو درجی مساواتوں کا نظریہ"},{id:3,number:3,titleEn:"Variations",titleUr:"تغیرات"},{id:4,number:4,titleEn:"Partial Fractions",titleUr:"جزوی کسریں"},{id:5,number:5,titleEn:"Sets and Functions",titleUr:"سیٹس اور تفاعلات"},{id:6,number:6,titleEn:"Basic Statistics",titleUr:"بنیادی شماریات"},{id:7,number:7,titleEn:"Introduction to Trigonometry",titleUr:"مثلثیات کا تعارف"},{id:8,number:8,titleEn:"Projection of a Side of a Triangle",titleUr:"مثلث کے ضلع کا سایہ"},{id:9,number:9,titleEn:"Chords of a Circle (Theorems)",titleUr:"دائرے کے وتر (مسائل)"},{id:10,number:10,titleEn:"Tangent to a Circle",titleUr:"دائرے کا مماس"},{id:11,number:11,titleEn:"Chords and Arcs",titleUr:"وتر اور قوسیں"},{id:12,number:12,titleEn:"Angle in a Segment of a Circle (Theorems)",titleUr:"قطعہ دائرہ میں زاویہ (مسائل)"},{id:13,number:13,titleEn:"Practical Geometry - Circles",titleUr:"عملی جیومیٹری - دائرے"}]},{id:"10th-computer",nameEn:"Computer Science",nameUr:"Computer Science",classLevel:"10th",group:"science",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Introduction to Programming (C Language)",titleUr:"پروگرامنگ کا تعارف (سی لینگویج)"},{id:2,number:2,titleEn:"User Interface and Input/Output",titleUr:"یوزر انٹرفیس اور ان پٹ / آؤٹ پٹ"},{id:3,number:3,titleEn:"Conditional Logic",titleUr:"کنڈیشنل لاجک"},{id:4,number:4,titleEn:"Data Structures and Loops",titleUr:"ڈیٹا اسٹرکچرز اور لوپس"},{id:5,number:5,titleEn:"Functions in C",titleUr:"سی میں فنکشنز"}]},{id:"10th-english",nameEn:"English Compulsory",nameUr:"English Compulsory",classLevel:"10th",group:"general",defaultMarks:75,mcqMarks:19,shortQMarks:10,longQMarks:46,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Hazrat Muhammad (PBUH) an Embodiment of Justice",titleUr:"حضرت محمد ﷺ عدل و انصاف کا پیکر"},{id:2,number:2,titleEn:"Chinese New Year",titleUr:"چینی نیا سال"},{id:3,number:3,titleEn:"Try Again (Poem)",titleUr:"دوبارہ کوشش کریں (نظم)"},{id:4,number:4,titleEn:"First Aid",titleUr:"ابتدائی طبی امداد"},{id:5,number:5,titleEn:"The Rain (Poem)",titleUr:"بارش (نظم)"},{id:6,number:6,titleEn:"Television vs. Newspapers",titleUr:"ٹیلی ویژن بمقابلہ اخبارات"},{id:7,number:7,titleEn:"Little by Little One Walks Far!",titleUr:"قطرہ قطرہ دریا بنتا ہے"},{id:8,number:8,titleEn:"Peace (Poem)",titleUr:"امن (نظم)"},{id:9,number:9,titleEn:"Selecting the Right Career",titleUr:"درست پیشے کا انتخاب"},{id:10,number:10,titleEn:"A World Without Books",titleUr:"کتابوں کے بغیر دنیا"},{id:11,number:11,titleEn:"Great Expectations",titleUr:"بڑی امیدیں"},{id:12,number:12,titleEn:"Population Growth and World Food Supplies",titleUr:"آبادی میں اضافہ اور خوراک کی فراہمی"},{id:13,number:13,titleEn:"Faithfulness",titleUr:"وفاداری"}]},{id:"10th-urdu",nameEn:"Urdu Compulsory",nameUr:"اردو (لازمی)",classLevel:"10th",group:"general",defaultMarks:75,mcqMarks:15,shortQMarks:10,longQMarks:50,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Hissa Nasar: Mirza Muhammad Saeed",titleUr:"حصہ نثر: مرزا محمد سعید"},{id:2,number:2,titleEn:"Hissa Nasar: Nazria-e-Pakistan",titleUr:"حصہ نثر: نظریہ پاکستان"},{id:3,number:3,titleEn:"Hissa Nasar: Paristan ki Shahzadi",titleUr:"حصہ نثر: پرستان کی شہزادی"},{id:4,number:4,titleEn:"Hissa Nasar: Urdu Adab mein Eid-ul-Fitr",titleUr:"حصہ نثر: اردو ادب میں عید الفطر"},{id:5,number:5,titleEn:"Hissa Nasar: Mujhe Mere Doston se Bachao",titleUr:"حصہ نثر: مجھے میرے دوستوں سے بچاؤ"},{id:6,number:6,titleEn:"Hissa Nasar: Namdeo Maali",titleUr:"حصہ نثر: نام دیو مالی"},{id:7,number:7,titleEn:"Hissa Nasar: Ali Bakhsh & Dastan",titleUr:"حصہ نثر: علی بخش"},{id:8,number:8,titleEn:"Hissa Nazm: Hamd, Naat, Maidan-e-Karbala",titleUr:"حصہ نظم: حمد، نعت، میدانِ کربلا میں صبح کا منظر"},{id:9,number:9,titleEn:"Hissa Ghazal: Hasrat Mohani, Jigar, Firaq",titleUr:"حصہ غزل: حسرت موہانی، جگر مراد آبادی، فراق گورکھپوری"},{id:10,number:10,titleEn:"Qawaid-o-Insha: Mazameen, Khatoot, Tafheem",titleUr:"قواعد و انشا: مضامین، خطوط اور فہمِ عبارت"}]},{id:"10th-islamiyat",nameEn:"Islamiat Compulsory",nameUr:"اسلامیات (لازمی)",classLevel:"10th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Surah Al-Ahzab",titleUr:"سورۃ الاحزاب"},{id:2,number:2,titleEn:"Surah Al-Mumtahanah",titleUr:"سورۃ الممتحنہ"},{id:3,number:3,titleEn:"Ahadith-e-Nabaviyya (Hadith 11 - 20)",titleUr:"احادیثِ نبویہ (حدیث 11 تا 20)"},{id:4,number:4,titleEn:"Mozooati Mutalia: Jihad fi Sabeelillah",titleUr:"موضوعاتی مطالعہ: جہاد فی سبیل اللہ"},{id:5,number:5,titleEn:"Mozooati Mutalia: Huqooq-ul-Ibaad",titleUr:"موضوعاتی مطالعہ: حقوق العباد"},{id:6,number:6,titleEn:"Mozooati Mutalia: Ilm aur Hikmat",titleUr:"موضوعاتی مطالعہ: علم اور حکمت کی فضیلت"}]},{id:"10th-tarjuma-quran",nameEn:"Tarjuma-tul-Quran-ul-Majeed",nameUr:"ترجمۃ القرآن المجید (لازمی)",classLevel:"10th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Surah An-Noor",titleUr:"سورۃ النور"},{id:2,number:2,titleEn:"Surah Al-Ahzab",titleUr:"سورۃ الاحزاب"},{id:3,number:3,titleEn:"Surah Saba & Fatir",titleUr:"سورۃ سبا اور سورۃ فاطر"},{id:4,number:4,titleEn:"Surah Yaseen",titleUr:"سورۃ یٰسٓ"},{id:5,number:5,titleEn:"Surah As-Saffat & Saad",titleUr:"سورۃ الصافات اور سورۃ ص"},{id:6,number:6,titleEn:"Surah Az-Zumar",titleUr:"سورۃ الزمر"}]},{id:"10th-pakstudies",nameEn:"Pakistan Studies",nameUr:"مطالعہ پاکستان (لازمی)",classLevel:"10th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"History of Pakistan - II (1971 to Present)",titleUr:"تاریخِ پاکستان - حصہ دوم (1971 تا حال)"},{id:2,number:2,titleEn:"Foreign Policy & Pakistan in World Affairs",titleUr:"پاکستان کے خارجہ تعلقات اور عالمی امور"},{id:3,number:3,titleEn:"Economic Development of Pakistan",titleUr:"پاکستان کی معاشی ترقی"},{id:4,number:4,titleEn:"Population, Society and Culture of Pakistan",titleUr:"پاکستان کی آبادی، معاشرہ اور ثقافت"},{id:5,number:5,titleEn:"Protection of Women & Children Rights",titleUr:"خواتین اور بچوں کے حقوق کا تحفظ"}]}],yg=["BISE Lahore","BISE Gujranwala","BISE Rawalpindi","BISE Faisalabad","BISE Multan","BISE Sahiwal","BISE Sargodha","BISE Bahawalpur","BISE DG Khan"],Bu=["LHR","GRW","RWP","FSD","MTN","SWL","SGD","BWP","DGK"],fA=["2020","2021","2022","2023","2024","2025"],f_=["Group-I (Morning)","Group-II (Evening)"];function VB(n){const e=Bu[n%Bu.length],t=fA[n*2%fA.length];if(n%4===0){const r=Bu[(n+3)%Bu.length],a=fA[(n+1)%fA.length],o=Bu[(n+5)%Bu.length],A=fA[(n+3)%fA.length];return`${e} ${t}, ${r} ${a}, ${o} ${A}`}else if(n%2===0){const r=Bu[(n+2)%Bu.length],a=fA[(n+3)%fA.length];return`${e} ${t}, ${r} ${a}`}return`${e} ${t}`}function C8(n,e){const t=e.number,r=n.nameEn,a=e.titleEn,o=e.titleUr,A=r.toLowerCase().includes("physics"),u=r.toLowerCase().includes("chemistry"),f=r.toLowerCase().includes("biology"),B=r.toLowerCase().includes("math"),m=r.toLowerCase().includes("computer"),C=r.toLowerCase().includes("english"),y=r.toLowerCase().includes("urdu");r.toLowerCase().includes("islamiat")||r.toLowerCase().includes("islamiyat"),r.toLowerCase().includes("tarjuma"),r.toLowerCase().includes("pakistan")||r.toLowerCase().includes("pakstudies");const v=A||u||B,E=[],I=[],O=[];let F=[],R=[],Z=[];A?(F=[{en:`In ${a}, the SI base unit or standard fundamental quantity is:`,ur:`${o} میں سسٹم انٹرنیشنل (SI) کی بنیادی اکائی ہے:`,opts:[{en:"Meter / Kilogram / Second",ur:"میٹر / کلوگرام / سیکنڈ"},{en:"Newton / Joule / Watt",ur:"نیوٹن / جول / واٹ"},{en:"Pascal / Coulomb",ur:"پاسکل / کولمب"},{en:"Volt / Ohm / Henry",ur:"وولٹ / اوہم / ہینری"}],correct:"A"},{en:"The rate of change of momentum is equal to:",ur:"مومنٹم میں تبدیلی کی شرح برابر ہوتی ہے:",opts:[{en:"Applied Force (F)",ur:"لگائی گئی فورس (F)"},{en:"Acceleration (a)",ur:"اسراع (ایکسلریشن)"},{en:"Total Work Done",ur:"کیا گیا کل کام"},{en:"Impulse of Force",ur:"امپلس آف فورس"}],correct:"A"},{en:`Which instrument possesses the highest precision in measurement related to ${a}?`,ur:`${o} سے متعلق سب سے زیادہ حساس اور درست پیمائشی آلہ کون سا ہے؟`,opts:[{en:"Digital Micrometer Screw Gauge",ur:"ڈیجیٹل مائیکرو میٹر سکرو گیج"},{en:"Vernier Calipers (0.1 mm LC)",ur:"ورنیئر کیلیپرز (0.1 ملی میٹر لیسٹ کاؤنٹ)"},{en:"Standard Meter Rule",ur:"عام میٹر راڈ"},{en:"Measuring Tape",ur:"پیمائشی فیتہ"}],correct:"A"},{en:"The product of mass and velocity of a moving body is known as:",ur:"کسی متحرک جسم کی کمیت اور ویلوسٹی کا حاصل ضرب کہلاتا ہے:",opts:[{en:"Momentum (p = mv)",ur:"مومنٹم (p = mv)"},{en:"Kinetic Energy (1/2 mv²)",ur:"کائینیٹک انرجی"},{en:"Torque (τ = r × F)",ur:"ٹارک"},{en:"Centripetal Force",ur:"سینٹری پیٹل فورس"}],correct:"A"},{en:"The value of gravitational acceleration 'g' near the surface of the earth is approximately:",ur:"زمین کی سطح کے قریب گریویٹیشنل ایکسلریشن 'g' کی قیمت تقریباً ہوتی ہے:",opts:[{en:"10 m s^-2 (9.8 m s^-2)",ur:"10 میٹر فی سیکنڈ اسکوائر"},{en:"9.8 cm s^-2",ur:"9.8 سینٹی میٹر فی سیکنڈ"},{en:"6.67 × 10^-11 N m² kg^-2",ur:"6.67 × 10^-11"},{en:"Zero at earth surface",ur:"زمین کی سطح پر صفر"}],correct:"A"},{en:`Sound waves are classified as which type of waves in ${a}?`,ur:`${o} میں آواز کی لہریں کس قسم کی ویوز شمار ہوتی ہیں؟`,opts:[{en:"Longitudinal Mechanical Waves",ur:"طولی مکینیکل ویوز"},{en:"Transverse Waves",ur:"مستعرض ویوز"},{en:"Electromagnetic Radiation",ur:"الیکٹرو میگنیٹک ویوز"},{en:"Stationary Matter Waves",ur:"ساکن ماداتی ویوز"}],correct:"A"}],R=[{en:`Define ${a}. State its formula and SI unit.`,ur:`${o} کی تعریف تحریر کریں اور اس کا حسابی فارمولا اور ایس آئی یونٹ لکھیں۔`,cat:"Definitions & Laws"},{en:`Differentiate between scalar quantities and vector quantities with two examples from ${a}.`,ur:`${o} کی روشنی میں سکیلر اور ویکٹر مقداروں میں دو دو مثالوں سے فرق واضح کریں۔`,cat:"Differences & Comparisons"},{en:"State Newton's Second Law of Motion and prove F = ma mathematically.",ur:"نیوٹن کا دوسرا قانون حرکت بیان کریں اور حسابی طور پر F = ma ثابت کریں۔",cat:"Definitions & Laws"},{en:"What is meant by center of gravity and center of mass? Differentiate briefly.",ur:"سینٹر آف گریویٹی اور سینٹر آف ماس سے کیا مراد ہے؟ مختصر فرق بتائیں۔",cat:"Definitions & Laws"},{en:"Why do passengers lean backwards when a stationary bus suddenly starts moving? Explain using inertia.",ur:"جب رکی ہوئی بس اچانک چل پڑے تو سواریاں پیچھے کی طرف کیوں جھکتی ہیں؟ انرشا کی مدد سے وضاحت کریں۔",cat:"SLO Conceptual"},{en:"Define rolling friction and sliding friction. Why is rolling friction less than sliding friction?",ur:"رولنگ فرکشن اور سلائیڈنگ فرکشن کی تعریف کریں۔ رولنگ فرکشن سلائیڈنگ فرکشن سے کم کیوں ہوتی ہے؟",cat:"Differences & Comparisons"},{en:"State Pascal's principle. Give two hydraulic applications used in daily life.",ur:"پاسکل کا قانون بیان کریں اور روزمرہ زندگی میں ہائیڈرولک سسٹم کی دو مثالیں دیں۔",cat:"Textbook Exercises"},{en:"Differentiate between heat capacity and specific heat capacity. Write their units.",ur:"حرارت کی گنجائش اور مخصوص حرارت میں کیا فرق ہے؟ ان کی اکائیاں لکھیں۔",cat:"Differences & Comparisons"}],Z=[{theoryEn:"Derive the equations of motion with the help of a speed-time graph for a uniformly accelerated body.",theoryUr:"یکساں اسراع سے حرکت کرتے ہوئے جسم کے لیے سپیڈ-ٹائم گراف کی مدد سے حرکت کی مساواتیں اخذ کریں۔",numEn:"A car starts from rest with an acceleration of 0.5 m s^-2. Find its velocity after covering 100 meters.",numUr:"ایک کار ساکن حالت سے 0.5 میٹر فی سیکنڈ اسکوائر کے اسراع سے چلتی ہے۔ 100 میٹر فاصلہ طے کرنے کے بعد اس کی سپیڈ کیا ہوگی؟"},{theoryEn:"State and explain the Law of Gravitation. How did Newton calculate the mass of the earth?",theoryUr:"نیوٹن کا قانونِ گریویٹیشن بیان کریں اور اس کی مدد سے زمین کا ماس معلوم کرنے کا طریقہ تفصیل سے تحریر کریں۔",numEn:"Calculate the gravitational force between two spheres each of mass 1000 kg placed 0.5 m apart.",numUr:"دو کروں جن میں سے ہر ایک کا ماس 1000 کلوگرام ہے اور ان کے درمیانی فاصلہ 0.5 میٹر ہے، کے مابین کششِ ثقل معلوم کریں۔"}]):u?(F=[{en:"The horizontal rows and vertical columns of the Modern Periodic Table are called:",ur:"جدید پیریوڈک ٹیبل کی افقی قطاریں اور عمودی کالم کیا کہلاتے ہیں؟",opts:[{en:"Periods and Groups respectively",ur:"بالترتیب پیریڈز اور گروپس"},{en:"Groups and Periods",ur:"گروپس اور پیریڈز"},{en:"Series and Blocks",ur:"سیریز اور بلاکس"},{en:"Families and Orbitals",ur:"فیملیز اور آربیٹلز"}],correct:"A"},{en:"Which of the following elements has the highest electronegativity according to Pauling scale?",ur:"پولنگ سکیل کے مطابق مندرجہ ذیل میں سے کس عنصر کی الیکٹرو نیگیٹیوٹی سب سے زیادہ ہے؟",opts:[{en:"Fluorine (4.0)",ur:"فلورین (4.0)"},{en:"Chlorine (3.0)",ur:"کلورین"},{en:"Oxygen (3.5)",ur:"آکسیجن"},{en:"Nitrogen (3.0)",ur:"نائٹروجن"}],correct:"A"},{en:"One mole of any gas at standard temperature and pressure (STP) occupies a molar volume of:",ur:"معیاری درجہ حرارت و دباؤ (STP) پر کسی بھی گیس کے ایک مول کا حجم ہوتا ہے:",opts:[{en:"22.414 dm³",ur:"22.414 کیوبک ڈیسی میٹر"},{en:"2.24 dm³",ur:"2.24 کیوبک ڈیسی میٹر"},{en:"224 dm³",ur:"224 کیوبک ڈیسی میٹر"},{en:"1.0 dm³",ur:"1.0 کیوبک ڈیسی میٹر"}],correct:"A"},{en:"The bond formed by complete transfer of electrons from one atom to another is:",ur:"ایک ایٹم سے دوسرے ایٹم میں الیکٹرانز کی مکمل منتقلی سے بننے والا بانڈ کہلاتا ہے:",opts:[{en:"Ionic (Electrovalent) Bond",ur:"آئیونک (الیکٹرو ویلنٹ) بانڈ"},{en:"Covalent Bond",ur:"کوویلنٹ بانڈ"},{en:"Coordinate Covalent Bond",ur:"کوآرڈینیٹ کوویلنٹ بانڈ"},{en:"Metallic Bond",ur:"میٹالک بانڈ"}],correct:"A"}],R=[{en:"Define isotopes. Write names and symbols of three isotopes of Hydrogen.",ur:"آئسوٹوپس کی تعریف کریں۔ ہائیڈروجن کے تینوں آئسوٹوپس کے نام اور علامات لکھیں۔",cat:"Definitions & Laws"},{en:"Differentiate between Rutherford's atomic theory and Bohr's atomic theory.",ur:"ردرفورڈ اور بوہر کے ایٹمی ماڈل کے مابین دو بنیادی فرق تحریر کریں۔",cat:"Differences & Comparisons"},{en:"What is meant by Molarity? Write its mathematical formula and unit.",ur:"مولیرٹی (Molarity) سے کیا مراد ہے؟ اس کا حسابی فارمولا اور اکائی لکھیں۔",cat:"Definitions & Laws"},{en:"Differentiate between saturated and unsaturated solutions.",ur:"سیر شدہ (سیچوریٹڈ) اور غیر سیر شدہ (ان سیچوریٹڈ) محلول میں فرق واضح کریں۔",cat:"Differences & Comparisons"},{en:"State Boyle's Law. Write its mathematical expression and verification.",ur:"بوائل کا قانون بیان کریں اور اس کی حسابی مساوات تحریر کریں۔",cat:"Definitions & Laws"},{en:"What is electroplating? Write two primary purposes of electroplating metals.",ur:"الیکٹرو پلیٹنگ سے کیا مراد ہے؟ دھاتوں پر الیکٹرو پلیٹنگ کرنے کے دو اہم مقاصد لکھیں۔",cat:"Textbook Exercises"}],Z=[{theoryEn:"State Boyle's Law and Charles's Law of gases. Explain their experimental verification and graphical representation.",theoryUr:"گیسوں سے متعلق بوائل اور چارلس کے قوانین بیان کریں، ان کی تجرباتی تصدیق اور گراف کی وضاحت کریں۔",numEn:"A sample of gas has a volume of 250 cm³ at 1 atmospheric pressure. Calculate its volume when pressure increases to 2 atm at constant temperature.",numUr:"ایک گیس کا والیم 1 ایٹموسفیرک پریشر پر 250 سینٹی میٹر³ ہے۔ مستقل درجہ حرارت پر پریشر بڑھا کر 2 ایٹموسفیئر کر دیا جائے تو نیا والیم کیا ہوگا؟"}]):f?(F=[{en:"The powerhouse of the eukaryotic cell where ATP synthesis takes place is:",ur:"یوکیریوٹک سیل کا پاور ہاؤس جہاں اے ٹی پی (ATP) تیار ہوتی ہے، کہلاتا ہے:",opts:[{en:"Mitochondria",ur:"مائٹو کونڈریا"},{en:"Ribosome",ur:"رائیبو سوم"},{en:"Endoplasmic Reticulum",ur:"اینڈو پلازمک ریٹیکولم"},{en:"Golgi Apparatus",ur:"گالجی اپریٹس"}],correct:"A"},{en:"In which stage of cell division do homologous chromosomes cross over and exchange segments?",ur:"سیل ڈویژن کے کس مرحلے میں ہومولوگس کروموسومز کراسنگ اوور کرتے ہیں؟",opts:[{en:"Prophase-I of Meiosis",ur:"میوسس کا پروفیز اول"},{en:"Metaphase of Mitosis",ur:"مائیٹوسس کا میٹافیز"},{en:"Anaphase-II",ur:"اینافیز دوم"},{en:"Telophase",ur:"ٹیلو فیز"}],correct:"A"},{en:"Enzymes increase the rate of chemical reactions by lowering the:",ur:"انزائمز کیمیائی عمل کی رفتار کو کس چیز میں کمی لا کر تیز کرتے ہیں؟",opts:[{en:"Activation Energy",ur:"ایکٹیویشن انرجی"},{en:"Product Free Energy",ur:"پروڈکٹ کی انرجی"},{en:"Substrate Concentration",ur:"سبسٹریٹ کا ارتکاز"},{en:"pH Level",ur:"پی ایچ لیول"}],correct:"A"}],R=[{en:"Differentiate between Mitosis and Meiosis with two key differences.",ur:"مائیٹوسس اور میوسس میں دو بنیادی فرق بیان کریں۔",cat:"Differences & Comparisons"},{en:"What is lock and key model of enzyme action proposed by Emil Fischer?",ur:"ایمل فشر کا پیش کردہ انزائم ایکشن کا تالا اور چابی ماڈل کیا ہے؟",cat:"Definitions & Laws"},{en:"Differentiate between aerobic respiration and anaerobic respiration (fermentation).",ur:"ایروبک اور این ایروبک ریسپائریشن (فرمنٹیشن) میں فرق واضح کریں۔",cat:"Differences & Comparisons"},{en:"What are nephrons? State the two main parts of a human nephron.",ur:"نیفرونز کیا ہیں؟ انسانی نیفرون کے دو اہم حصوں کے نام لکھیں۔",cat:"Definitions & Laws"},{en:"State Mendel's Law of Segregation and Law of Independent Assortment.",ur:"مینڈل کا قانون تفریق (Segregation) اور آزادانہ ملاپ (Independent Assortment) بیان کریں۔",cat:"Definitions & Laws"}],Z=[{theoryEn:"Describe the light and dark reactions (Calvin Cycle) of photosynthesis in detail with chemical equations and summary diagram.",theoryUr:"فوٹوسنتھیسز کے لائٹ اور ڈارک ری ایکشنز (کیلون سائیکل) کی کیمیائی مساواتوں اور خاکے کی مدد سے تفصیلی وضاحت کریں۔",numEn:"Explain the economic and ecological importance of transpiration in plants. Why is it called a necessary evil?",numUr:"پودوں میں ٹرانسپائریشن کی حیاتیاتی و معاشی اہمیت بیان کریں۔ اسے ضروری برائی کیوں کہا جاتا ہے؟"}]):B?(F=[{en:"The order of a matrix having 2 rows and 3 columns is:",ur:"2 قطاروں اور 3 کالموں پر مشتمل قالب کا مرتبہ (Order) ہوتا ہے:",opts:[{en:"2-by-3",ur:"2-by-3"},{en:"3-by-2",ur:"3-by-2"},{en:"2-by-2",ur:"2-by-2"},{en:"6",ur:"6"}],correct:"A"},{en:"The standard quadratic equation in one variable 'x' is represented as:",ur:"ایک متغیر 'x' میں دو درجی معیاری مساوات کی شکل ہے:",opts:[{en:"ax² + bx + c = 0 (a ≠ 0)",ur:"ax² + bx + c = 0 (a ≠ 0)"},{en:"ax + b = 0",ur:"ax + b = 0"},{en:"ax³ + bx² + c = 0",ur:"ax³ + bx² + c = 0"},{en:"x² + y² = r²",ur:"x² + y² = r²"}],correct:"A"},{en:"The discriminant of the quadratic equation ax² + bx + c = 0 is given by formula:",ur:"دو درجی مساوات ax² + bx + c = 0 کا فرق کنندہ (Discriminant) معلوم کرنے کا کلیہ ہے:",opts:[{en:"b² - 4ac",ur:"b² - 4ac"},{en:"b² + 4ac",ur:"b² + 4ac"},{en:"-b ± √(b² - 4ac)",ur:"-b ± √(b² - 4ac)"},{en:"4ac - b²",ur:"4ac - b²"}],correct:"A"}],R=[{en:"Define singular and non-singular matrix. Give an example of each.",ur:"نادر (Singular) اور غیر نادر (Non-singular) قالب کی تعریف کریں اور ہر ایک کی مثال دیں۔",cat:"Definitions & Laws"},{en:"Solve the quadratic equation x² - 7x + 12 = 0 by factorization method.",ur:"دو درجی مساوات x² - 7x + 12 = 0 بذریعہ تجزی حل کریں۔",cat:"Numerical Problems"},{en:"State and prove Cramer's Rule for solving simultaneous linear equations.",ur:"ہمزاد یک درجی مساواتوں کو حل کرنے کے لیے کریمر کا قانون بیان کریں۔",cat:"Definitions & Laws"},{en:"Find the discriminant and determine the nature of roots of 2x² - 5x + 3 = 0.",ur:"مساوات 2x² - 5x + 3 = 0 کا فرق کنندہ نکالیں اور روٹس کی نوعیت معلوم کریں۔",cat:"Numerical Problems"},{en:"Prove that: sin²θ + cos²θ = 1 using trigonometric definitions.",ur:"مثلثیاتی تعریفوں کی مدد سے ثابت کریں: sin²θ + cos²θ = 1",cat:"Definitions & Laws"}],Z=[{theoryEn:"State and prove that any point on the right bisector of a line segment is equidistant from its end points. (Compulsory Theorem)",theoryUr:"ثابت کریں کہ کسی قطعہ خط کے ناصف پر واقع کوئی بھی نقطہ اس کے سروں سے مساوی الفاصلہ ہوتا ہے۔ (لازمی مسئلہ)",numEn:"Solve the system of linear equations by using Matrix Inversion Method: 2x - y = 5, 3x + 2y = 4.",numUr:"قالبوں کے معکوس کے طریقہ سے مساواتوں کو حل کریں: 2x - y = 5 اور 3x + 2y = 4"}]):m?(F=[{en:"In flowcharts, the diamond symbol represents which operation?",ur:"فلو چارٹ میں ڈائمنڈ (ہیرا نما) علامت کس مقصد کے لیے استعمال ہوتی ہے؟",opts:[{en:"Decision Making (Condition)",ur:"فیصلہ سازی (کنڈیشن)"},{en:"Input / Output",ur:"ان پٹ یا آؤٹ پٹ"},{en:"Process / Calculation",ur:"پروسیسنگ یا حسابی عمل"},{en:"Start / End Terminal",ur:"آغاز یا اختتام"}],correct:"A"},{en:"In C programming language, every statement must end with which character?",ur:"سی لینگویج میں ہر اسٹیٹمنٹ کا اختتام کس علامت پر ہونا لازمی ہے؟",opts:[{en:"Semicolon (;)",ur:"سیمی کولن (;)"},{en:"Colon (:)",ur:"کولن (:)"},{en:"Period (.)",ur:"فل اسٹاپ (.)"},{en:"Comma (,)",ur:"کوما (,)"}],correct:"A"}],R=[{en:"Define Algorithm. State two key advantages of writing an algorithm before coding.",ur:"الگورتھم کی تعریف کریں۔ کوڈنگ سے قبل الگورتھم لکھنے کے دو نمایاں فوائد تحریر کریں۔",cat:"Definitions & Laws"},{en:"Differentiate between while loop and for loop in C language.",ur:"سی لینگویج میں وائل لوپ (while) اور فار لوپ (for) کے مابین بنیادی فرق بیان کریں۔",cat:"Differences & Comparisons"},{en:"What is meant by variable declaration and initialization in C? Give code examples.",ur:"سی میں ویری ایبل ڈیکلریشن اور انیشیلائزیشن سے کیا مراد ہے؟ کوڈ کی مثال دیں۔",cat:"Definitions & Laws"}],Z=[{theoryEn:"What is network topology? Explain Star, Bus, and Ring topologies with diagrammatic comparisons and trade-offs.",theoryUr:"نیٹ ورک ٹوپولوجی کیا ہے؟ اسٹار، بس اور رنگ ٹوپولوجی کی خاکوں کی مدد سے تفصیلی وضاحت کریں۔",numEn:"Write a complete C language program to find the factorial of an entered positive integer using a loop.",numUr:"سی لینگویج میں ایک مکمل پروگرام لکھیں جو صارف سے نمبر لے کر لوپ کی مدد سے اس کا فیکٹوریل معلوم کرے۔"}]):C?(F=[{en:"Choose the correct form of verb: She __________ English quite fluently.",ur:"درست فعل (Verb) کا انتخاب کریں: She __________ English quite fluently.",opts:[{en:"speaks",ur:"speaks"},{en:"spoke",ur:"spoke"},{en:"is speaking",ur:"is speaking"},{en:"will speak",ur:"will speak"}],correct:"A"},{en:"Choose the word with correct spelling:",ur:"درست املا والے لفظ کا انتخاب کریں:",opts:[{en:"Conquest",ur:"Conquest"},{en:"Conqueste",ur:"Conqueste"},{en:"Conquast",ur:"Conquast"},{en:"Cunquest",ur:"Cunquest"}],correct:"A"},{en:`Choose the correct synonym of the underlined word in '${a}': 'Perseverance'`,ur:`سبق '${o}' میں سے لفظ 'Perseverance' کا درست ہم معنی (Synonym) منتخب کریں:`,opts:[{en:"Steadfastness / Persistence",ur:"Steadfastness / Persistence"},{en:"Laziness",ur:"Laziness"},{en:"Hesitation",ur:"Hesitation"},{en:"Ignorance",ur:"Ignorance"}],correct:"A"},{en:"Choose the correct grammatical category of the underlined word: 'The horse galloped **swiftly**.'",ur:"گرامر کے لحاظ سے خط کشیدہ لفظ کی قسم ہے:",opts:[{en:"Adverb of Manner",ur:"Adverb of Manner"},{en:"Adjective of Quality",ur:"Adjective of Quality"},{en:"Abstract Noun",ur:"Abstract Noun"},{en:"Preposition",ur:"Preposition"}],correct:"A"},{en:`In '${a}', the tone of the author is primarily:`,ur:`سبق '${o}' میں مصنف کا اندازِ بیاں ہے:`,opts:[{en:"Inspiring and didactic",ur:"Inspiring and didactic"},{en:"Cynical and sarcastic",ur:"Cynical and sarcastic"},{en:"Humorous",ur:"Humorous"},{en:"Pessimistic",ur:"Pessimistic"}],correct:"A"}],R=[{en:`[Textbook Comprehension] Answer the question based on '${a}': What is the main message conveyed by the author?`,ur:`[تفہیمی سوال] سبق '${o}' کی روشنی میں مصنف کا بنیادی پیغام اور مقصد کیا ہے؟`,cat:"Textbook Exercises"},{en:`[Past Board Q] How does '${a}' motivate and guide youth towards moral perseverance?`,ur:`سبق '${o}' نوجوان نسل کو ثابت قدمی اور کردار سازی کی کیسے ترغیب دیتا ہے؟`,cat:"Past Board Papers"},{en:`[Grammar & Vocabulary] Use the following words / phrases from '${a}' in meaningful sentences of your own: (i) Steadfast (ii) By leaps and bounds.`,ur:`سبق '${o}' کے الفاظ / محاورات کو اپنے جملوں میں استعمال کریں۔`,cat:"Definitions & Laws"},{en:'[Punctuation & Direct/Indirect] Change the narration: He said to me, "Are you preparing for the board examination?"',ur:'ڈائریکٹ سے ان ڈائریکٹ میں تبدیل کریں: He said to me, "Are you preparing for the board examination?"',cat:"SLO Conceptual"},{en:`[Comprehension] What historical significance or moral virtues are highlighted in '${a}'?`,ur:`سبق '${o}' میں کون سے نمایاں تاریخی اور اخلاقی اوصاف اجاگر کیے گئے ہیں؟`,cat:"SLO Conceptual"}],Z=[{theoryEn:"[Section II - Essay / Paragraph] Write an essay or comprehensive paragraph (150-200 words) on: 'A True Muslim' OR 'Life in a Big City' OR 'My Ambition in Life'.",theoryUr:"بورڈ پیٹرن کے مطابق دیے گئے عنوان پر انگریزی مضمون تحریر کریں (150 تا 200 الفاظ)۔",numEn:`[Section II - Translation & Pair of Words] (a) Translate the textbook paragraph from '${a}' into idiomatic Urdu. (b) Use any 3 pairs of words in sentences.`,numUr:`سبق '${o}' کے پیراگراف کا بامحاورہ اردو ترجمہ کریں اور الفاظ کے جوڑوں (Pair of Words) کو جملوں میں استعمال کریں۔`}]):y?(F=[{en:`Identify the correct literary device or grammatical term for '${o}':`,ur:`سبق '${o}' کے مصنف / شاعر کا تعارف اور صنفِ ادب:`,opts:[{en:"Authentic Board Literary Style",ur:"مستند درسی و نصابی صنف"},{en:"Secondary Narrative",ur:"غیر درسی صنف"},{en:"Colloquial slang",ur:"عامیانہ محاورہ"},{en:"None of these",ur:"کوئی نہیں"}],correct:"A"},{en:"Urdu Grammar: Identify the 'Ism-e-Marfa' (Proper Noun) in the sentence:",ur:"قواعد و انشا: جملے میں 'اسم معرفہ' کی نشاندہی کریں: 'قائد اعظم محمد علی جناح نے پاکستان بنایا۔'",opts:[{en:"Quaid-e-Azam (اسم علم)",ur:"قائد اعظم (اسمِ علم)"},{en:"City (شہر)",ur:"شہر"},{en:"Book (کتاب)",ur:"کتاب"},{en:"Tree (درخت)",ur:"درخت"}],correct:"A"},{en:`Identify the correct meaning of the textbook word from '${o}':`,ur:`سبق '${o}' کے خط کشیدہ لفظ کا درست مفہوم ہے:`,opts:[{en:"True Textbook Meaning",ur:"درست لغوی و سیاقی مفہوم"},{en:"Opposite meaning",ur:"متضاد مفہوم"},{en:"Irrelevant meaning",ur:"غیر متعلق معنی"},{en:"Slang meaning",ur:"عامیانہ مفہوم"}],correct:"A"},{en:"Correct pronunciation and Aerab (اعراب):",ur:"درست اعراب کی مدد سے تلفظ کی وضاحت کریں:",opts:[{en:"Standard PTBB Aerab",ur:"معیاری درسی اعراب کے مطابق"},{en:"Incorrect Aerab",ur:"غلط اعراب"},{en:"Missing Aerab",ur:"بغیر اعراب"},{en:"None",ur:"کوئی نہیں"}],correct:"A"}],R=[{en:`[Textbook Comprehension] Answer the question based on '${o}':`,ur:`سبق '${o}' کے متن کو مدنظر رکھ کر دیے گئے سوال کا مختصر جواب تحریر کریں۔`,cat:"Textbook Exercises"},{en:"[Poetry Explanation - اشعار کی تشریح] Explain the couplet with reference to context:",ur:"سیاق و سباق کے حوالے سے درج ذیل شعر کی تشریح کریں اور شاعر کا نام لکھیں۔",cat:"Past Board Papers"},{en:`[Urdu Idioms & Phrases] Use the idioms from '${o}' in meaningful sentences:`,ur:`سبق '${o}' کے اہم محاورات کو اپنے جملوں میں استعمال کریں تاکہ مفہوم واضح ہو جائے۔`,cat:"Definitions & Laws"},{en:"[Correction of Sentences - جملوں کی درستی] Correct the grammatical errors in the sentence:",ur:"جملوں کی درستگی: روزمرہ اور محاورے کے لحاظ سے غلط جملوں کو درست کر کے لکھیں۔",cat:"SLO Conceptual"}],Z=[{theoryEn:`[Section II - Prose Summary & Context] Write the summary of '${o}' with lesson reference:`,theoryUr:`سبق '${o}' کا خلاصہ مصنف کے حوالے کے ساتھ تحریر کریں اور اہم نکات اجاگر کریں۔`,numEn:"[Section II - Essay / Letter / Story] Write a formal letter or application / essay on the specified board topic.",numUr:"بورڈ کے مقررہ اصولوں کے تحت پرنسپل کے نام درخواست یا دیے گئے عنوان پر جامع مضمون تحریر کریں۔"}]):(F=[{en:`According to ${a}, the central theme or core moral lesson conveyed is:`,ur:`${o} کے متن و سلیبس کے مطابق بنیادی پیغام یا اخلاقی سبق ہے:`,opts:[{en:"Righteous conduct, perseverance and truth",ur:"حق و انصاف، صبر اور دیانت داری"},{en:"Material wealth and superficial status",ur:"محض دنیاوی جاہ و حشمت"},{en:"Fatalistic passivity without effort",ur:"بے مقصد جمود"},{en:"Individual isolation from society",ur:"معاشرے سے لاتعلقی"}],correct:"A"},{en:`The primary historical context or linguistic foundation in ${a} is:`,ur:`${o} کا تاریخی پس منظر اور بنیادی فکری حوالہ ہے:`,opts:[{en:"Authentic Textual & Curriculum Guidelines",ur:"مستند درسی و نصابی ہدایات"},{en:"Secondary unverified narrative",ur:"غیر مصدقہ روایات"},{en:"External speculative assumption",ur:"فرضی قیاس"},{en:"None of the above",ur:"ان میں سے کوئی نہیں"}],correct:"A"}],R=[{en:`Write the central idea or concise summary of ${a}.`,ur:`${o} کا مرکزی خیال یا خلاصہ جامع انداز میں تحریر کریں۔`,cat:"Textbook Exercises"},{en:`What important historical or moral lesson does ${a} teach students?`,ur:`${o} طلباء کو کیا اہم تاریخی، اخلاقی یا فکری درس دیتا ہے؟`,cat:"Past Board Papers"},{en:`Explain the context and background of the events highlighted in ${a}.`,ur:`${o} میں بیان کردہ اہم واقعات کے پس منظر اور اثرات کی وضاحت کریں۔`,cat:"SLO Conceptual"}],Z=[{theoryEn:`Provide an extensive analysis of the key themes, historical significance, and contemporary relevance of ${a}.`,theoryUr:`${o} کے اہم فکری و عملی پہلوؤں، پس منظر اور موجودہ دور میں اس کی اہمیت پر مفصل نوٹ لکھیں۔`,numEn:"Summarize the lesson and write a paragraph on how students can apply these teachings in their lives.",numUr:"سبق کا خلاصہ اپنے الفاظ میں تحریر کریں اور روزمرہ زندگی میں اس کے نفاذ کے لیے تجاویز پیش کریں۔"}]);const oe=["A","B","C","D"];for(let ne=0;ne<30;ne++){const te=F[ne%F.length],P=yg[ne%yg.length],T=fA[ne%fA.length],H=f_[ne%f_.length],G=`(${P} ${T} ${H})`,D=oe[(ne+t*3)%4],U=oe.indexOf(D),Q=[...te.opts],se=Q[0];Q[0]=Q[U],Q[U]=se,E.push({id:`${n.id}-c${t}-mcq-past-${ne+1}`,qNo:E.length+1,statementEn:`${te.en} ${G}`,statementUr:`${te.ur} ${G}`,options:[{key:"A",textEn:Q[0].en,textUr:Q[0].ur},{key:"B",textEn:Q[1].en,textUr:Q[1].ur},{key:"C",textEn:Q[2].en,textUr:Q[2].ur},{key:"D",textEn:Q[3].en,textUr:Q[3].ur}],correctOption:D,chapterRef:t,category:"Past Board Papers",pastBoardInfo:`${P} ${T}`})}for(let ne=1;ne<=15;ne++){const te=yg[ne*2%yg.length],P=["B","C","D","A"][(ne+t)%4],T=[{textEn:"Conforms to official PTBB definition and rules",textUr:"پنجاب ٹیکسٹ بک بورڈ کے معیاری اصولوں کے عین مطابق ہے"},{textEn:"Contradicts standard experimental findings",textUr:"تجرباتی مشاہدات کے متضاد ہے"},{textEn:"Limited only to theoretical assumptions",textUr:"صرف فرضی نظریات تک محدود ہے"},{textEn:"Depends solely on external random noise",textUr:"غیر متعلقہ عوامل پر انحصار کرتا ہے"}],H=["A","B","C","D"],G=H.indexOf(P),D=T[0];T[0]=T[G],T[G]=D,E.push({id:`${n.id}-c${t}-mcq-ex-${ne}`,qNo:E.length+1,statementEn:`[Textbook Exercise Q.${ne}] Which statement accurately represents the core principle of ${a}?`,statementUr:`[مشقی سوال ${ne}] مندرجہ ذیل میں سے کون سا بیان ${o} کے بنیادی اصول کی درست عکاسی کرتا ہے؟`,options:H.map((U,Q)=>({key:U,textEn:T[Q].textEn,textUr:T[Q].textUr})),correctOption:P,chapterRef:t,category:"Textbook Exercises",pastBoardInfo:te})}for(let ne=1;ne<=15;ne++){const te=["C","A","D","B"][(ne+t*2)%4],P=[{textEn:"Direct proportional response according to established laws",textUr:"متعلقہ سائنسی قوانین کے تحت براہِ راست تناسب کا ردعمل"},{textEn:"Complete cessation of physical mechanism",textUr:"عمل کا مکمل تعطل"},{textEn:"Inverse exponential deterioration",textUr:"معکوس گرتی ہوئی شرح"},{textEn:"Unstable and erratic measurement",textUr:"غیر مستحکم مشاہدہ"}],T=["A","B","C","D"],H=T.indexOf(te),G=P[0];P[0]=P[H],P[H]=G;const D=VB(ne*7+t);E.push({id:`${n.id}-c${t}-mcq-slo-${ne}`,qNo:E.length+1,statementEn:`[SLO Analytical Q.${ne}] If experimental conditions are varied systematically in ${a}, the expected outcome is: (${D})`,statementUr:`[ایس ایل او سوال ${ne}] اگر ${o} میں سائنسی شرائط میں باقاعدہ تبدیلی کی جائے تو متوقع نتیجہ کیا ہوگا؟ (${D})`,options:T.map((U,Q)=>({key:U,textEn:P[Q].textEn,textUr:P[Q].textUr})),correctOption:te,chapterRef:t,category:"SLO Conceptual",pastBoardInfo:D})}R.forEach((ne,te)=>{const P=VB(te*3+t*5),T=`(${P})`;I.push({id:`${n.id}-c${t}-sq-subj-${te+1}`,subNo:I.length+1,statementEn:`${ne.en} ${T}`,statementUr:`${ne.ur} ${T}`,marks:2,chapterRef:t,category:ne.cat,pastBoardInfo:P})});for(let ne=1;ne<=25;ne++){const te=VB(ne*5+t*7),P=`(${te})`,T=ne%2===0&&v;I.push({id:`${n.id}-c${t}-sq-ext-${ne}`,subNo:I.length+1,statementEn:T?`[Numerical Problem] Solve and calculate the required value in ${a} when initial magnitude is ${ne*10} units and elapsed time is 4 seconds. ${P}`:`[Conceptual SLO Q.${ne}] Give scientific reason behind the characteristic behavior observed in ${a}. ${P}`,statementUr:T?`[حسابی سوال] ${o} کے تحت حسابی مسئلہ حل کریں جب ابتدائی قیمت ${ne*10} اکائیاں اور وقت 4 سیکنڈ ہو۔ ${P}`:`[تصوراتی سوال ${ne}] ${o} میں مشاہدہ کیے جانے والے مخصوص عمل کی سائنسی و منطقی وجہ بیان کریں۔ ${P}`,marks:2,chapterRef:t,category:T?"Numerical Problems":"SLO Conceptual",pastBoardInfo:te})}Z.forEach((ne,te)=>{const P=VB(te*4+t*9),T=`(${P})`;O.push({id:`${n.id}-c${t}-lq-subj-${te+1}`,qNo:te+5,totalMarks:9,parts:[{partLabel:"a",statementEn:`${ne.theoryEn} ${T}`,statementUr:`${ne.theoryUr} ${T}`,marks:5,isNumerical:!1},{partLabel:"b",statementEn:`${ne.numEn} ${T}`,statementUr:`${ne.numUr} ${T}`,marks:4,isNumerical:v}],chapterRef:`Unit ${t}`,category:"Past Board Papers",pastBoardInfo:P})});for(let ne=1;ne<=8;ne++){const te=VB(ne*6+t*3),P=`(${te})`,T=O.length+5;O.push({id:`${n.id}-c${t}-lq-ext-${ne}`,qNo:T,totalMarks:9,parts:[{partLabel:"a",statementEn:`[Theory Part] Explain in detail the fundamental laws, experimental setup, and mathematical derivations of ${a}. ${P}`,statementUr:`[نظریاتی حصہ] ${o} کے بنیادی قوانین، تجرباتی خاکہ اور حسابی مساوات کا اخراج تفصیل سے بیان کریں۔ ${P}`,marks:5,isNumerical:!1},{partLabel:"b",statementEn:v?`[Numerical Problem] Calculate the unknown parameter when primary constant is ${ne*5} units and boundary factor is 2.5. ${P}`:`[Analytical Part] Discuss practical implications, industrial relevance, and social benefits of ${a}. ${P}`,statementUr:v?`[حسابی مسئلہ] مطلوبہ نامعلوم مقدار معلوم کریں جب ابتدائی مستقل ${ne*5} اکائیاں اور مؤثر فیکٹر 2.5 ہو۔ ${P}`:`[تجزیاتی حصہ] ${o} کے عملی اطلاقات، جدید معاشرے میں اہمیت اور صنعتی فوائد بیان کریں۔ ${P}`,marks:4,isNumerical:v}],chapterRef:`Unit ${t}`,category:v?"Numerical Problems":"SLO Conceptual",pastBoardInfo:te})}return{mcqs:E,shortQuestions:I,longQuestions:O}}const b8=[{id:"10th-english",nameEn:"English Compulsory",nameUr:"English Compulsory",classLevel:"10th",group:"general",defaultMarks:75,mcqMarks:19,shortQMarks:10,longQMarks:46,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Hazrat Muhammad (PBUH) An Embodiment of Justice",titleUr:"حضرت محمد ﷺ - پیکرِ عدل و انصاف"},{id:2,number:2,titleEn:"Chinese New Year",titleUr:"چینی نیا سال"},{id:3,number:3,titleEn:"Try Again (Poem)",titleUr:"دوبارہ کوشش کرو (نظم)"},{id:4,number:4,titleEn:"First Aid",titleUr:"ابتدائی طبی امداد"},{id:5,number:5,titleEn:"The Rain (Poem)",titleUr:"بارش (نظم)"},{id:6,number:6,titleEn:"Television vs Newspapers",titleUr:"ٹیلی ویژن بمقابلہ اخبارات"},{id:7,number:7,titleEn:"Little by Little One Walks Far",titleUr:"رفتہ رفتہ منزل تک رسائی"},{id:8,number:8,titleEn:"Peace (Poem)",titleUr:"امن و سکون (نظم)"},{id:9,number:9,titleEn:"Selecting the Right Career",titleUr:"صحیح پیشہ کا انتخاب"},{id:10,number:10,titleEn:"A World Without Books",titleUr:"کتابوں کے بغیر دنیا"},{id:11,number:11,titleEn:"Great Expectations",titleUr:"عظیم توقعات"},{id:12,number:12,titleEn:"Population Growth and World Food Supplies",titleUr:"آبادی میں اضافہ اور غذائی وسائل"},{id:13,number:13,titleEn:"Faithfulness",titleUr:"وفاداری"}]},{id:"10th-urdu",nameEn:"Urdu Compulsory",nameUr:"اردو (دسویں جماعت)",classLevel:"10th",group:"general",defaultMarks:75,mcqMarks:15,shortQMarks:10,longQMarks:50,timeAllowed:"2:30 Hours",chapters:[{id:1,number:1,titleEn:"Hissa Nasar: Mirza Muhammad Saeed",titleUr:"حصہ نثر: مرزا محمد سعید"},{id:2,number:2,titleEn:"Hissa Nasar: Nazria-e-Pakistan",titleUr:"حصہ نثر: نظریہ پاکستان"},{id:3,number:3,titleEn:"Hissa Nasar: Paristan ki Gohar Bano",titleUr:"حصہ نثر: پرستان کی گوہر بانو"},{id:4,number:4,titleEn:"Hissa Nasar: Urdu Adab main Eid-ul-Fitr",titleUr:"حصہ نثر: اردو ادب میں عید الفطر"},{id:5,number:5,titleEn:"Hissa Nasar: Mujhe Mere Doston se Bachao",titleUr:"حصہ نثر: مجھے میرے دوستوں سے بچاؤ"},{id:6,number:6,titleEn:"Hissa Nasar: Malli",titleUr:"حصہ نثر: ملمع"},{id:7,number:7,titleEn:"Hissa Nazm: Hamd, Naat, Maidan-e-Karbala",titleUr:"حصہ نظم: حمد، نعت، میدانِ کربلا"},{id:8,number:8,titleEn:"Hissa Ghazal: Hasrat Mohani, Jigar Muradabadi",titleUr:"حصہ غزل: حسرت موہانی، جگر مراد آبادی"}]},{id:"10th-islamiyat",nameEn:"Islamiat Compulsory",nameUr:"اسلامیات (دسویں جماعت)",classLevel:"10th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Surah Al-Ahzab (Ayaat 1 - 73)",titleUr:"سورۃ الاحزاب (آیات 1 تا 73)"},{id:2,number:2,titleEn:"Surah Al-Mumtahanah",titleUr:"سورۃ الممتحنہ"},{id:3,number:3,titleEn:"Ahadith-e-Nabaviyya (Hadith 11 - 20)",titleUr:"احادیثِ مبارکہ (حدیث 11 تا 20)"},{id:4,number:4,titleEn:"Mozooati Mutalia: Jihad fi Sabilillah",titleUr:"موضوعاتی مطالعہ: جہاد فی سبیل اللہ"},{id:5,number:5,titleEn:"Mozooati Mutalia: Farz Shanasi aur Dayanat Dari",titleUr:"موضوعاتی مطالعہ: فرض شناسی و دیانت داری"},{id:6,number:6,titleEn:"Mozooati Mutalia: Khulaq-e-Azeem (Husn-e-Khuluq)",titleUr:"موضوعاتی مطالعہ: حسنِ خلق"}]},{id:"10th-pakstudies",nameEn:"Pakistan Studies",nameUr:"مطالعہ پاکستان (دسویں جماعت)",classLevel:"10th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:5,number:5,titleEn:"History of Pakistan (Part-II 1971 to Present)",titleUr:"تاریخِ پاکستان (حصہ دوم: 1971 تا حال)"},{id:6,number:6,titleEn:"Pakistan in World Affairs (Foreign Policy)",titleUr:"پاکستان کے خارجہ تعلقات"},{id:7,number:7,titleEn:"Economic Development of Pakistan",titleUr:"پاکستان کی معاشی ترقی"},{id:8,number:8,titleEn:"Population, Society and Culture of Pakistan",titleUr:"آبادی، معاشرہ اور پاکستان کی ثقافت"}]},{id:"10th-tarjuma-quran",nameEn:"Tarjuma-tul-Quran-ul-Majeed",nameUr:"ترجمۃ القرآن المجید (دسویں جماعت)",classLevel:"10th",group:"general",defaultMarks:50,mcqMarks:10,shortQMarks:24,longQMarks:16,timeAllowed:"2:00 Hours",chapters:[{id:1,number:1,titleEn:"Surah Al-Furqan",titleUr:"سورۃ الفرقان"},{id:2,number:2,titleEn:"Surah Ash-Shuara",titleUr:"سورۃ الشعراء"},{id:3,number:3,titleEn:"Surah An-Naml",titleUr:"سورۃ النمل"},{id:4,number:4,titleEn:"Surah Al-Qasas",titleUr:"سورۃ القصص"},{id:5,number:5,titleEn:"Surah Al-Ankabut",titleUr:"سورۃ العنکبوت"},{id:6,number:6,titleEn:"Surah Ar-Rum & Luqman",titleUr:"سورۃ الروم و سورۃ لقمان"},{id:7,number:7,titleEn:"Surah As-Sajdah & Al-Ahzab",titleUr:"سورۃ السجدہ و الاحزاب"}]}],Wo=[...g8,...b8];function x8(n,e){const t=e.number,r=n.nameEn,a=e.titleEn,o=[{id:`${n.id}-c${t}-m1`,qNo:1,statementEn:`According to PTBB curriculum of ${a}, which of the following is correct?`,statementUr:`${e.titleUr} کے مطابق مندرجہ ذیل میں سے کون سا درست ہے؟`,options:[{key:"A",textEn:"Option A (Fundamental Principle)",textUr:"بنیادی اصول (الف)"},{key:"B",textEn:"Option B (Key Application)",textUr:"اہم اطلاق (ب)"},{key:"C",textEn:"Option C (Standard Board Definition)",textUr:"معیاری تعریف (ج)"},{key:"D",textEn:"Option D (Derived Conclusion)",textUr:"ماخوذ نتیجہ (د)"}],correctOption:"C",chapterRef:t},{id:`${n.id}-c${t}-m2`,qNo:2,statementEn:`The SI unit or standard measure associated with concepts in ${a} is:`,statementUr:`${e.titleUr} میں بیان کردہ اصطلاح کا ایس آئی یونٹ ہے:`,options:[{key:"A",textEn:"Joule / Unit A",textUr:"جول / الف"},{key:"B",textEn:"Newton / Unit B",textUr:"نیوٹن / ب"},{key:"C",textEn:"Standard PTBB Unit",textUr:"بورڈ کا معیاری یونٹ"},{key:"D",textEn:"None of these",textUr:"ان میں سے کوئی نہیں"}],correctOption:"C",chapterRef:t},{id:`${n.id}-c${t}-m3`,qNo:3,statementEn:`What is the primary significance of studying ${a}?`,statementUr:`${e.titleUr} کے مطالعہ کی بنیادی اہمیت کیا ہے؟`,options:[{key:"A",textEn:"Theoretical understanding of natural laws",textUr:"قدرتی قوانین کا نظریاتی فہم"},{key:"B",textEn:"Industrial and laboratory applications",textUr:"صنعتی اور لیبارٹری اطلاقات"},{key:"C",textEn:"Analytical problem solving in BISE exams",textUr:"امتحانی سوالات کا تجزیاتی حل"},{key:"D",textEn:"All of the above",textUr:"یہ تمام درست ہیں"}],correctOption:"D",chapterRef:t},{id:`${n.id}-c${t}-m4`,qNo:4,statementEn:`Which law or foundational rule is most prominent in ${a}?`,statementUr:`${e.titleUr} میں کون سا بنیادی قانون سب سے زیادہ نمایاں ہے؟`,options:[{key:"A",textEn:"First Law / Primary Equation",textUr:"پہلا قانون / بنیادی مساوات"},{key:"B",textEn:"Conservation Principle",textUr:"بقائے مادہ / توانائی کا اصول"},{key:"C",textEn:"Empirical Observation Rule",textUr:"تجرباتی مشاہدے کا اصول"},{key:"D",textEn:"Mathematical Formula Axiom",textUr:"ریاضیاتی کلیہ"}],correctOption:"B",chapterRef:t},{id:`${n.id}-c${t}-m5`,qNo:5,statementEn:`In ${n.classLevel} ${r}, the graphical or analytical representation in ${a} shows:`,statementUr:`${r} کے مطابق ${e.titleUr} میں گرافیکل یا حسابی نمائندگی کیا ظاہر کرتی ہے؟`,options:[{key:"A",textEn:"Direct proportion relationship",textUr:"براہِ راست متناسب تعلق"},{key:"B",textEn:"Inverse variation curve",textUr:"معکوس تغیر کا خط"},{key:"C",textEn:"Equilibrium state",textUr:"توازن کی حالت"},{key:"D",textEn:"Constant linear behavior",textUr:"مستقل یکساں رویہ"}],correctOption:"A",chapterRef:t},{id:`${n.id}-c${t}-m6`,qNo:6,statementEn:`Which factor directly affects the rate or magnitude of phenomenon described in ${a}?`,statementUr:`${e.titleUr} میں بیان کردہ عمل یا مقدار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟`,options:[{key:"A",textEn:"Temperature & pressure conditions",textUr:"درجہ حرارت اور دباؤ"},{key:"B",textEn:"Concentration or magnitude of reactants/force",textUr:"مقدار، قوت یا ارتکاز"},{key:"C",textEn:"Medium or resistance properties",textUr:"میڈیم یا مزاحمت"},{key:"D",textEn:"All physical factors mentioned",textUr:"مذکورہ تمام طبعی عوامل"}],correctOption:"D",chapterRef:t},{id:`${n.id}-c${t}-m7`,qNo:7,statementEn:`Identify the correct mathematical relationship for ${a}:`,statementUr:`${e.titleUr} سے متعلق درست حسابی کلیہ کی نشاندہی کریں:`,options:[{key:"A",textEn:"Formula Type I (Linear)",textUr:"پہلا کلیہ (لکیری مساوات)"},{key:"B",textEn:"Formula Type II (Inverse Ratio)",textUr:"دوسرا کلیہ (معکوس نسبت)"},{key:"C",textEn:"Standard Board Formula",textUr:"بورڈ کی منظور شدہ مساوات"},{key:"D",textEn:"Empirical Approximation",textUr:"تخمینی کلیہ"}],correctOption:"C",chapterRef:t},{id:`${n.id}-c${t}-m8`,qNo:8,statementEn:`In past 5 years Punjab Board papers, which concept from ${a} is most frequently asked?`,statementUr:`پنجاب بورڈ کے امتحانات میں ${e.titleUr} سے سب سے زیادہ پوچھا جانے والا بنیادی سوال ہے:`,options:[{key:"A",textEn:"Definition and SI Unit",textUr:"تعریف اور ایس آئی یونٹ"},{key:"B",textEn:"Derivation and Mathematical Proof",textUr:"مساوات کا ثبوت اور اخذ کرنا"},{key:"C",textEn:"Everyday Life Example",textUr:"روزمرہ زندگی سے مثال"},{key:"D",textEn:"Experimental Setup",textUr:"تجرباتی خاکہ"}],correctOption:"A",chapterRef:t}],A=[{id:`${n.id}-c${t}-s1`,subNo:1,statementEn:`Define ${a} and write its key formula or scientific definition.`,statementUr:`${e.titleUr} کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا کلیہ لکھیں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s2`,subNo:2,statementEn:`Differentiate between two main aspects or classifications discussed in ${a}.`,statementUr:`${e.titleUr} میں زیرِ بحث دو اہم اقسام یا پہلوؤں کے مابین واضح فرق بیان کریں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s3`,subNo:3,statementEn:`Give two real-world practical applications of ${a} in daily life or modern technology.`,statementUr:`روزمرہ زندگی یا جدید ٹیکنالوجی میں ${e.titleUr} کے دو عملی اطلاقات بیان کریں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s4`,subNo:4,statementEn:`State the essential conditions or rules required for phenomenon in ${a} to occur.`,statementUr:`${e.titleUr} کے عمل کے لیے درکار بنیادی شرائط یا قوانین مختصراً بیان کریں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s5`,subNo:5,statementEn:`Why is the study of ${a} crucial for understanding subsequent advanced topics?`,statementUr:`آئندہ اعلیٰ درجات کے موضوعات کو سمجھنے کے لیے ${e.titleUr} کا علم کیوں ناگزیر ہے؟`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s6`,subNo:6,statementEn:`Write down the units and dimensions (or properties) of key quantities in ${a}.`,statementUr:`${e.titleUr} میں شامل اہم طبعی مقداروں کے یونٹس اور خصوصیات درج کریں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s7`,subNo:7,statementEn:`Explain the conceptual reason behind the main observation in ${a} (SLO Question).`,statementUr:`${e.titleUr} کے بنیادی مشاہدے کی سائنسی اور منطقی وجہ بیان کریں (SLO سوال)۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s8`,subNo:8,statementEn:`What happens when parameters in ${a} are doubled or halved? Explain briefly.`,statementUr:`${e.titleUr} کے حسابی عوامل کو دگنا یا نصف کرنے سے کیا اثر پڑے گا؟ وضاحت کریں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s9`,subNo:9,statementEn:`Draw a labelled diagram or schematic flowchart representing the core mechanism of ${a}.`,statementUr:`${e.titleUr} کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا فلو چارٹ بنائیں۔`,marks:2,chapterRef:t},{id:`${n.id}-c${t}-s10`,subNo:10,statementEn:`Solve the conceptual question based on textbook exercise of Unit ${t}.`,statementUr:`یونٹ نمبر ${t} کی ٹیکسٹ بک مشق میں موجود اہم تصوّراتی سوال کا جواب دیں۔`,marks:2,chapterRef:t}],u=[{id:`${n.id}-c${t}-l1`,qNo:5,totalMarks:9,parts:[{partLabel:"a",statementEn:`Discuss in detail the fundamental laws, theoretical derivation, and working principles of ${a}.`,statementUr:`${e.titleUr} کے بنیادی قوانین، مساوات کے اخراج اور عملی طریقہ کار پر تفصیلی نوٹ تحریر کریں۔`,marks:5},{partLabel:"b",statementEn:n.hasNumericals?"Numerical Problem: Calculate the resulting magnitude when initial value is 25 units and operational factor is 4.5.":`Explain the practical significance and experimental evidence supporting ${a}.`,statementUr:n.hasNumericals?"حسابی سوال (نومیریکل): اگر ابتدائی مقدار 25 یونٹس اور فیکٹر 4.5 ہو تو حتمی مقدار معلوم کریں۔":`${e.titleUr} کے حق میں ٹھوس تجرباتی شواہد اور عملی اہمیت بیان کریں۔`,marks:4,isNumerical:!!n.hasNumericals}],chapterRef:`Unit ${t}`},{id:`${n.id}-c${t}-l2`,qNo:6,totalMarks:9,parts:[{partLabel:"a",statementEn:`Explain the experimental verification, graph analysis, and mathematical formulation related to ${a}.`,statementUr:`${e.titleUr} سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔`,marks:5},{partLabel:"b",statementEn:n.hasNumericals?`Numerical Problem: An experiment according to Unit ${t} yielded 150 J of work in 5 seconds. Find the output efficiency.`:`Compare and contrast the merits and demerits or alternate theories presented in ${a}.`,statementUr:n.hasNumericals?`حسابی سوال: یونٹ ${t} کے اصول کے مطابق اگر 5 سیکنڈ میں 150 جول کام سرانجام پائے تو کارکردگی اور پاور معلوم کریں۔`:`${e.titleUr} میں پیش کردہ متبادل نظریات یا خوبیوں اور خامیوں کا موازنہ کریں۔`,marks:4,isNumerical:!!n.hasNumericals}],chapterRef:`Unit ${t}`},{id:`${n.id}-c${t}-l3`,qNo:7,totalMarks:9,parts:[{partLabel:"a",statementEn:`State and prove the governing equation of ${a} with diagram and complete steps.`,statementUr:`${e.titleUr} کے بنیادی قانون کو ڈایاگرام اور تمام ضروری مراحل کے ساتھ ثابت کریں۔`,marks:5},{partLabel:"b",statementEn:`Explain industrial importance and modern technological implications of ${a}.`,statementUr:`${e.titleUr} کی صنعتی اہمیت اور جدید ٹیکنالوجی میں اس کے انقلابی اثرات واضح کریں۔`,marks:4}],chapterRef:`Unit ${t}`}];return{mcqs:o,shortQuestions:A,longQuestions:u}}const X3="ptbb_user_custom_questions_v1";function Z3(){try{const n=localStorage.getItem(X3);return n?JSON.parse(n):[]}catch(n){return[]}}function B_(n){const e=Z3(),t={...n,id:`custom-${Date.now()}-${Math.random().toString(36).substring(2,6)}`};return e.unshift(t),localStorage.setItem(X3,JSON.stringify(e)),t}function W2(n,e){const t=Wo.find(E=>E.id===n);if(!t)return{mcqs:[],shortQuestions:[],longQuestions:[],totalAvailableMCQs:0,totalAvailableShorts:0,totalAvailableLongs:0};const r=t.chapters.filter(E=>e.length===0||e.includes(E.number)),a=Z3().filter(E=>E.subjectId===n),o=[],A=[],u=[];r.forEach(E=>{const I=(E.mcqs||[]).map((T,H)=>({...T,qNo:o.length+H+1,chapterRef:E.number})),O=(E.shortQuestions||[]).map((T,H)=>({...T,subNo:A.length+H+1,chapterRef:E.number})),F=(E.longQuestions||[]).map((T,H)=>({id:T.id,qNo:u.length+H+5,totalMarks:9,parts:T.parts||[{partLabel:"a",statementEn:T.statementEn||"",statementUr:T.statementUr||"",marks:5}],chapterRef:`Unit ${E.number}`})),R=x8(t,E),Z=C8(t,E),oe=[...I,...Z.mcqs,...R.mcqs],ne=[...O,...Z.shortQuestions,...R.shortQuestions],te=[...F,...Z.longQuestions,...R.longQuestions];oe.forEach((T,H)=>{T.qNo=o.length+H+1}),ne.forEach((T,H)=>{T.subNo=A.length+H+1}),te.forEach((T,H)=>{T.qNo=u.length+H+5}),o.push(...oe),A.push(...ne),u.push(...te),a.filter(T=>T.chapterNo===E.number).forEach(T=>{T.type==="mcq"&&T.options&&T.correctOption?o.push({id:T.id,qNo:o.length+1,statementEn:T.statementEn,statementUr:T.statementUr,options:T.options,correctOption:T.correctOption,chapterRef:E.number}):T.type==="short"?A.push({id:T.id,subNo:A.length+1,statementEn:T.statementEn,statementUr:T.statementUr,marks:T.marks||2,chapterRef:E.number}):T.type==="long"&&u.push({id:T.id,qNo:u.length+5,totalMarks:T.marks||9,parts:[{partLabel:"a",statementEn:T.statementEn,statementUr:T.statementUr,marks:T.marks||5}],chapterRef:`Unit ${E.number}`})})});const f=[],B=new Set;o.forEach(E=>{const I=(E.statementEn||E.statementUr||"").trim().toLowerCase();I&&!B.has(I)&&(B.add(I),f.push({...E,qNo:f.length+1}))});const m=[],C=new Set;A.forEach(E=>{const I=(E.statementEn||E.statementUr||"").trim().toLowerCase();I&&!C.has(I)&&(C.add(I),m.push({...E,subNo:m.length+1}))});const y=[],v=new Set;return u.forEach(E=>{var O,F;const I=(((F=(O=E.parts)==null?void 0:O[0])==null?void 0:F.statementEn)||E.statementEn||"").trim().toLowerCase();I&&!v.has(I)&&(v.add(I),y.push({...E,qNo:y.length+5}))}),{mcqs:f,shortQuestions:m,longQuestions:y,totalAvailableMCQs:f.length,totalAvailableShorts:m.length,totalAvailableLongs:y.length}}function w8(n,e){const t=e.number;n.nameEn;const r=e.titleEn;return[{id:`${n.id}-c${t}-slo-1`,code:`SLO-${t}.1 (K)`,titleEn:`Recall, define and explain fundamental terms and definitions of ${r}`,titleUr:`${e.titleUr} کی بنیادی سائنسی اصطلاحات، تعریفات اور اکائیوں کو بیان کرنا`,bloomLevel:"Knowledge"},{id:`${n.id}-c${t}-slo-2`,code:`SLO-${t}.2 (U)`,titleEn:`Understand and differentiate core laws, principles, and classifications in ${r}`,titleUr:`${e.titleUr} کے بنیادی سائنسی قوانین، اصولوں اور اقسام کے مابین واضح فرق سمجھنا`,bloomLevel:"Understanding"},{id:`${n.id}-c${t}-slo-3`,code:`SLO-${t}.3 (U)`,titleEn:`Explain mechanisms, working principles, and experimental proofs of concepts in ${r}`,titleUr:`${e.titleUr} کے تجرباتی ثبوت، ساخت اور عملی طریقہ کار کی تفہیم و وضاحت کرنا`,bloomLevel:"Understanding"},{id:`${n.id}-c${t}-slo-4`,code:`SLO-${t}.4 (A)`,titleEn:`Apply theoretical formulas and mathematical relations of ${r} to solve numerical problems`,titleUr:`${e.titleUr} کے حسابی فارمولوں اور مساوات کے ذریعے عملی و حسابی مسائل حل کرنا`,bloomLevel:"Application"},{id:`${n.id}-c${t}-slo-5`,code:`SLO-${t}.5 (A)`,titleEn:`Analyze real-life applications, technological impacts, and conceptual reasoning of ${r}`,titleUr:`روزمرہ زندگی اور جدید ٹیکنالوجی میں ${e.titleUr} کے عملی اطلاقات اور سائنسی وجوہات کا تجزیہ کرنا`,bloomLevel:"Application"}]}const y8=({currentUser:n,initialClass:e="9th",onPaperCreated:t,onCancel:r})=>{var Jr;const[a,o]=Ee.useState(1),[A,u]=Ee.useState(e),f=Ee.useMemo(()=>Wo.filter(Ie=>Ie.classLevel===A),[A]),[B,m]=Ee.useState(((Jr=f[0])==null?void 0:Jr.id)||"9th-physics"),C=Ee.useMemo(()=>Wo.find(Ie=>Ie.id===B)||f[0],[B,f]),[y,v]=Ee.useState([1]),[E,I]=Ee.useState([]),[O,F]=Ee.useState([]),[R,Z]=Ee.useState(""),[oe,ne]=Ee.useState("all"),[te,P]=Ee.useState([]),[T,H]=Ee.useState(""),[G,D]=Ee.useState("all"),[U,Q]=Ee.useState([]),[se,pe]=Ee.useState(""),[ce,me]=Ee.useState("standard"),[ue,Ne]=Ee.useState(1),[Le,Ce]=Ee.useState(2),[k,Y]=Ee.useState(9),[S,V]=Ee.useState((C==null?void 0:C.defaultMarks)||60),[q,ae]=Ee.useState("2:15 Hours"),[Be,xe]=Ee.useState("Evaluation Examination 2026"),[le,be]=Ee.useState((n==null?void 0:n.schoolName)||"PUNJAB GROUP OF SCIENCE ACADEMIES"),[Qe,Ye]=Ee.useState((n==null?void 0:n.campusName)||"Main Campus"),[St,Ke]=Ee.useState(n==null?void 0:n.logoUrl),[X,At]=Ee.useState("Prof. M. Imran"),[Ze,qe]=Ee.useState((n==null?void 0:n.targetBoard)||"lahore"),[We,dt]=Ee.useState("bilingual"),[ge,ze]=Ee.useState(!0),[ht,Ut]=Ee.useState(5),[Bt,Ht]=Ee.useState(2),[Zt,Pt]=Ee.useState(!1),ln=Ie=>{u(Ie);const gt=Wo.find(It=>It.classLevel===Ie);gt&&(m(gt.id),v(gt.chapters.slice(0,2).map(It=>It.number)))},xt=Ie=>{m(Ie);const gt=Wo.find(It=>It.id===Ie);gt&&(v(gt.chapters.slice(0,2).map(It=>It.number)),V(gt.defaultMarks||60),ae(gt.timeAllowed||"2:15 Hours"))},pr=Ee.useMemo(()=>((C==null?void 0:C.chapters)||[]).filter(Ie=>y.includes(Ie.number)),[C,y]),Oe=Ee.useMemo(()=>{const Ie=[];return pr.forEach(gt=>{const It=w8(C,gt);Ie.push(...It)}),Ie},[C,pr]);Ee.useEffect(()=>{I(Oe.map(Ie=>Ie.id))},[Oe]),Ee.useEffect(()=>{n&&(n.schoolName&&be(n.schoolName),n.campusName&&Ye(n.campusName),n.logoUrl&&Ke(n.logoUrl),n.name&&At(n.name),n.targetBoard&&qe(n.targetBoard))},[n]);const ct=Ee.useMemo(()=>W2(C.id,y),[C.id,y]),mt=C.mcqMarks||12,zt=Math.round((C.shortQMarks||30)/2),yn=Math.round((C.longQMarks||18)/9)||3,Bn=()=>{const Ie=[...ct.mcqs].sort(()=>.5-Math.random());F(Ie.slice(0,mt).map(gt=>gt.id))},mr=()=>{const Ie=[...ct.shortQuestions].sort(()=>.5-Math.random());P(Ie.slice(0,zt).map(gt=>gt.id))},Pn=()=>{const Ie=[...ct.longQuestions].sort(()=>.5-Math.random());Q(Ie.slice(0,yn).map(gt=>gt.id))},rs=()=>{const Ie=[...ct.mcqs].sort(()=>.5-Math.random());F(Ie.slice(0,mt).map(en=>en.id));const gt=[...ct.shortQuestions].sort(()=>.5-Math.random());P(gt.slice(0,zt).map(en=>en.id));const It=[...ct.longQuestions].sort(()=>.5-Math.random());Q(It.slice(0,yn).map(en=>en.id))},rn=Ie=>{v(gt=>gt.includes(Ie)?gt.length>1?gt.filter(It=>It!==Ie):gt:[...gt,Ie].sort((It,en)=>It-en))},dn=()=>{v(((C==null?void 0:C.chapters)||[]).map(Ie=>Ie.number))},Wt=()=>{var It;const Ie=((It=C==null?void 0:C.chapters)==null?void 0:It.length)||1,gt=Math.ceil(Ie/2);v(((C==null?void 0:C.chapters)||[]).slice(0,gt).map(en=>en.number))},xn=()=>{var It;const Ie=((It=C==null?void 0:C.chapters)==null?void 0:It.length)||1,gt=Math.ceil(Ie/2);v(((C==null?void 0:C.chapters)||[]).slice(gt).map(en=>en.number))},so=Ie=>{I(gt=>gt.includes(Ie)?gt.filter(It=>It!==Ie):[...gt,Ie])},Mr=O.length*ue,_r=(te.length>0?Math.min(te.length,ht):0)*Le,lr=(U.length>0?Math.min(U.length,Bt):0)*k,Mt=Mr+_r+lr,Xn=Ee.useMemo(()=>ct.mcqs.filter(Ie=>{const gt=!R.trim()||Ie.statementEn.toLowerCase().includes(R.toLowerCase())||Ie.statementUr&&Ie.statementUr.includes(R),It=oe==="all"||Ie.category&&Ie.category.toLowerCase()===oe.toLowerCase();return gt&&It}),[ct.mcqs,R,oe]),ha=Ee.useMemo(()=>ct.shortQuestions.filter(Ie=>{const gt=!T.trim()||Ie.statementEn.toLowerCase().includes(T.toLowerCase())||Ie.statementUr&&Ie.statementUr.includes(T),It=G==="all"||Ie.category&&Ie.category.toLowerCase()===G.toLowerCase();return gt&&It}),[ct.shortQuestions,T,G]),us=Ee.useMemo(()=>ct.longQuestions.filter(Ie=>{var gt,It;return!se.trim()||((gt=Ie.statementEn)==null?void 0:gt.toLowerCase().includes(se.toLowerCase()))||((It=Ie.parts)==null?void 0:It.some(en=>en.statementEn.toLowerCase().includes(se.toLowerCase())))}),[ct.longQuestions,se]),xr=()=>{const Ie=Y2.find(Cn=>Cn.id===Ze),gt=Ie?Ie.nameEn:"BISE Punjab",It=ct.mcqs.filter(Cn=>O.includes(Cn.id)).map((Cn,ss)=>({id:Cn.id,qNo:ss+1,statementEn:Cn.statementEn,statementUr:Cn.statementUr,options:Cn.options,correctOption:Cn.correctOption})),en=ct.shortQuestions.filter(Cn=>te.includes(Cn.id)),on=[],Sr=ht>=6?9:8,Hs=Math.max(1,Math.ceil(en.length/Sr));for(let Cn=0;Cn<Hs;Cn++){const ss=en.slice(Cn*Sr,(Cn+1)*Sr);if(ss.length>0){const as=Math.min(ss.length,ht);on.push({id:`sq-grp-${Cn+2}`,qNo:Cn+2,instructionEn:`Write short answers to any ${as} questions out of ${ss.length}:`,instructionUr:`درج ذیل میں سے کوئی سے ${as} سوالات کے مختصر جوابات لکھیں (کل ${ss.length} سوالات):`,attemptCount:as,totalCount:ss.length,marksEach:Le,questions:ss.map((hs,Dr)=>({id:hs.id,subNo:Dr+1,statementEn:hs.statementEn,statementUr:hs.statementUr,marks:Le}))})}}const Pr=ct.longQuestions.filter(Cn=>U.includes(Cn.id)).map((Cn,ss)=>({id:Cn.id,qNo:ss+5,totalMarks:Cn.totalMarks||k,parts:(Cn.parts||[]).map(as=>({partLabel:as.partLabel,statementEn:as.statementEn,statementUr:as.statementUr,marks:as.marks,isNumerical:as.isNumerical})),chapterRef:Cn.chapterRef})),Es=Math.min(Pr.length,Bt),La=It.length*ue,ii=on.reduce((Cn,ss)=>Cn+ss.attemptCount*ss.marksEach,0),ka=Es*k,Zs=Zt?S:La+ii+ka,ea={id:`paper-wizard-${Date.now()}`,createdAt:new Date().toISOString(),languageMode:We,difficulty:ce,header:{instituteName:le||"PUNJAB GROUP OF SCIENCE ACADEMIES",campusName:Qe||"Main Campus",examTitle:Be||`${C.nameEn} Evaluation Test`,classLevel:A,subjectName:C.nameEn,syllabusCovered:pr.map(Cn=>`Unit ${Cn.number}: ${Cn.titleEn}`).join(", "),dateStr:new Date().toLocaleDateString("en-GB"),timeAllowed:q||"2:15 Hours",totalMarks:Zs>0?Zs:S,teacherName:X||"",showWatermark:!0,watermarkText:le||"BISE PUNJAB",logoType:"crest",customLogoUrl:St||(n==null?void 0:n.logoUrl),boardPattern:`${gt} Pattern (${ce.toUpperCase()} LEVEL)`,includeBubbleSheet:ge,studentFields:{showRollNo:!0,showName:!0,showSection:!0,showObtainedMarks:!0}},objectiveSection:{enabled:It.length>0,titleEn:"SECTION - A (OBJECTIVE TYPE)",titleUr:"حصہ اول (معروضی طرز)",totalMarks:La,timeAllowed:`${Math.max(15,Math.round(It.length*1.25))} Minutes`,instructionsEn:"Note: Four possible answers A, B, C and D to each question are given. Fill the correct bubble.",instructionsUr:"نوٹ: ہر سوال کے چار ممکنہ جوابات دیے گئے ہیں۔ درست جواب کے دائرے کو مارکر سے بھریں۔",questions:It},subjectiveSection:{enabled:on.length>0||Pr.length>0,titleEn:"SECTION - B & C (SUBJECTIVE TYPE)",titleUr:"حصہ دوم و سوم (انشائیہ طرز)",totalMarks:ii+ka,timeAllowed:q||"2:00 Hours",part1_shortQuestions:on,part2_longQuestions:{instructionEn:`Note: Attempt any ${Es} questions out of ${Pr.length}. All questions carry equal marks (${k} Marks each).`,instructionUr:`نوٹ: کل ${Pr.length} سوالات میں سے کوئی سے ${Es} سوالات کے تفصیلی جوابات تحریر کریں۔ تمام سوالات کے نمبر برابر ہیں (${k} نمبر فی سوال)۔`,attemptCount:Es,totalCount:Pr.length,questions:Pr}}};t(ea)},Kn=[{num:1,title:"Class & Medium",subtitle:"Target & Language"},{num:2,title:"Subject",subtitle:"Choose Book"},{num:3,title:"Chapters",subtitle:"Select Units"},{num:4,title:"SLOs",subtitle:"Outcomes"},{num:5,title:"MCQs",subtitle:"Section A"},{num:6,title:"Shorts & Choice",subtitle:"Section B"},{num:7,title:"Longs & Choice",subtitle:"Section C"},{num:8,title:"Difficulty & Finalize",subtitle:"Marks & Tier"}];return l.jsxs("div",{className:"max-w-6xl mx-auto space-y-6 font-sans text-slate-800 pb-12",children:[l.jsxs("div",{className:"bg-white rounded-2xl border border-slate-200 p-4 sm:p-5 shadow-xs space-y-4",children:[l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{children:[l.jsxs("h1",{className:"text-lg font-black text-slate-900 flex items-center gap-2",children:[l.jsx(SAFE_Ta,{className:"w-5 h-5 text-blue-600"}),l.jsx("span",{children:"Step-by-Step Examination Paper Builder"})]}),l.jsx("p",{className:"text-xs text-slate-500 mt-0.5",children:"Follow the 8 guided steps or click Auto-Pick to automatically select questions conforming to PTBB pattern."})]}),l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:rs,className:"btn-3d btn-3d-emerald flex items-center gap-1.5 px-3.5 py-2 text-white font-black rounded-xl text-xs cursor-pointer shadow-md",title:"Automatically select MCQs, Short Questions, and Long Questions strictly according to official board pairing scheme",children:[l.jsx(SAFE_Ta,{className:"w-4 h-4 text-emerald-100"}),l.jsx("span",{children:"Auto-Pick Questions"})]}),l.jsx("button",{type:"button",onClick:r,className:"text-xs font-bold text-slate-500 hover:text-slate-800 px-3 py-1.5 rounded-lg border border-slate-200 hover:bg-slate-50 cursor-pointer",children:"Cancel"})]})]}),l.jsxs("div",{className:"bg-gradient-to-r from-blue-50/90 via-indigo-50/80 to-slate-50 border border-blue-200 rounded-xl p-3 flex flex-wrap items-center justify-between gap-3 shadow-2xs",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx("span",{className:"text-xs font-black uppercase tracking-wider text-slate-900",children:"Paper Medium:"}),l.jsx("span",{className:"text-[11px] text-slate-500 hidden sm:inline",children:"Switch anytime between English, Urdu, or Bilingual format"})]}),l.jsxs("div",{className:"inline-flex rounded-xl p-1 bg-white border border-slate-300 shadow-xs gap-1",children:[l.jsx("button",{type:"button",onClick:()=>dt("english"),className:`px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer ${We==="english"?"bg-blue-600 text-white shadow-xs":"text-slate-700 hover:text-slate-950 hover:bg-slate-100"}`,children:"English Medium"}),l.jsx("button",{type:"button",onClick:()=>dt("urdu"),className:`px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer ${We==="urdu"?"bg-emerald-600 text-white shadow-xs":"text-slate-700 hover:text-slate-950 hover:bg-slate-100"}`,children:"Urdu Medium"}),l.jsx("button",{type:"button",onClick:()=>dt("bilingual"),className:`px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer ${We==="bilingual"?"bg-indigo-600 text-white shadow-xs":"text-slate-700 hover:text-slate-950 hover:bg-slate-100"}`,children:"Bilingual (English + Urdu)"})]})]}),l.jsx("div",{className:"grid grid-cols-2 sm:grid-cols-4 xl:grid-cols-8 gap-2",children:Kn.map(Ie=>{const gt=a===Ie.num,It=a>Ie.num;return l.jsxs("button",{type:"button",onClick:()=>o(Ie.num),className:`btn-3d p-2.5 rounded-xl text-center border-2 transition-all cursor-pointer ${gt?"btn-3d-blue text-white ring-2 ring-blue-400/50 shadow-md":It?"btn-3d-emerald text-white font-bold shadow-xs":"bg-white border-2 border-slate-300 text-slate-950 hover:bg-slate-100 font-bold"}`,children:[l.jsxs("div",{className:`text-[10px] font-black uppercase flex items-center justify-center gap-1 ${gt||It?"text-white":"text-slate-900"}`,children:[l.jsxs("span",{children:["Step ",Ie.num]}),It&&l.jsx(bs,{className:"w-3.5 h-3.5 text-white shrink-0"})]}),l.jsx("div",{className:`font-black text-xs truncate mt-0.5 ${gt||It?"text-white":"text-slate-950"}`,children:Ie.title}),l.jsx("div",{className:`text-[9px] ${gt||It?"text-white/90":"text-slate-700"} font-bold truncate mt-0.5`,children:Ie.subtitle})]},Ie.num)})})]}),l.jsxs("div",{className:"bg-white rounded-2xl border border-slate-200 p-5 sm:p-7 shadow-xs space-y-6",children:[a===1&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3",children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 1 of 8: Select Target Class"}),l.jsx("h2",{className:"text-xl font-black text-slate-900 mt-1",children:"Choose Class Level"}),l.jsx("p",{className:"text-xs text-slate-500",children:"Select Matric Part-I (9th Class) or Matric Part-II (10th Class) Science Group board examination."})]}),l.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2 max-w-3xl",children:[{level:"9th",name:"9th Class (Matric Part-I)",subTitle:"Secondary School Certificate - Science Group",desc:"Physics, Chemistry, Biology, Computer Science, Mathematics, English, Urdu, Islamiat, Tarjuma-tul-Quran, Pakistan Studies"},{level:"10th",name:"10th Class (Matric Part-II)",subTitle:"Secondary School Certificate - Science Group",desc:"Physics, Chemistry, Biology, Computer Science, Mathematics, English, Urdu, Islamiat, Tarjuma-tul-Quran, Pakistan Studies"}].map(Ie=>{const gt=A===Ie.level;return l.jsxs("div",{onClick:()=>ln(Ie.level),className:`p-5 rounded-2xl border-2 cursor-pointer transition-all ${gt?"bg-blue-50/70 border-blue-600 shadow-md ring-2 ring-blue-500/20":"bg-white border-slate-200 hover:border-slate-300 hover:bg-slate-50"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-2",children:[l.jsx("span",{className:`text-xs font-black px-2.5 py-1 rounded-lg ${gt?"bg-blue-600 text-white":"bg-slate-100 text-slate-700"}`,children:Ie.level}),gt&&l.jsx(bs,{className:"w-5 h-5 text-blue-600"})]}),l.jsx("h3",{className:"font-black text-base text-slate-900",children:Ie.name}),l.jsx("div",{className:"text-[11px] text-blue-700 font-bold mt-0.5",children:Ie.subTitle}),l.jsx("p",{className:"text-xs text-slate-500 mt-2 line-clamp-2",children:Ie.desc})]},Ie.level)})}),l.jsxs("div",{className:"pt-6 border-t border-slate-200 max-w-3xl space-y-3",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Select Paper Medium"}),l.jsx("h3",{className:"text-base font-black text-slate-900 mt-0.5",children:"Choose Examination Medium"}),l.jsx("p",{className:"text-xs text-slate-500",children:"Select whether you want your examination paper in English, Urdu, or Bilingual (Both) format."})]}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-3 gap-3",children:[l.jsxs("div",{onClick:()=>dt("english"),className:`p-4 rounded-2xl border-2 cursor-pointer transition-all ${We==="english"?"bg-blue-50/80 border-blue-600 shadow-md ring-2 ring-blue-500/20":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-1.5",children:[l.jsx("span",{className:"text-xs font-black text-blue-700 uppercase",children:"English"}),We==="english"&&l.jsx(bs,{className:"w-5 h-5 text-blue-600"})]}),l.jsx("h4",{className:"font-extrabold text-sm text-slate-900",children:"English Medium"}),l.jsx("p",{className:"text-[11px] text-slate-500 mt-1",children:"Questions, instructions, and options generated purely in English."})]}),l.jsxs("div",{onClick:()=>dt("urdu"),className:`p-4 rounded-2xl border-2 cursor-pointer transition-all ${We==="urdu"?"bg-emerald-50/80 border-emerald-600 shadow-md ring-2 ring-emerald-500/20":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-1.5",children:[l.jsx("span",{className:"text-xs font-black text-emerald-700 uppercase",children:"Urdu"}),We==="urdu"&&l.jsx(bs,{className:"w-5 h-5 text-emerald-600"})]}),l.jsx("h4",{className:"font-extrabold text-sm text-slate-900",children:"Urdu Medium"}),l.jsx("p",{className:"text-[11px] text-slate-500 mt-1",children:"Questions, instructions, and options in Urdu script."})]}),l.jsxs("div",{onClick:()=>dt("bilingual"),className:`p-4 rounded-2xl border-2 cursor-pointer transition-all ${We==="bilingual"?"bg-indigo-50/80 border-indigo-600 shadow-md ring-2 ring-indigo-500/20":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-1.5",children:[l.jsx("span",{className:"text-xs font-black text-indigo-700 uppercase",children:"Bilingual"}),We==="bilingual"&&l.jsx(bs,{className:"w-5 h-5 text-indigo-600"})]}),l.jsx("h4",{className:"font-extrabold text-sm text-slate-900",children:"Bilingual (Both)"}),l.jsx("p",{className:"text-[11px] text-slate-500 mt-1",children:"English on left and Urdu on right without overlapping."})]})]})]})]}),a===2&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3 flex flex-wrap items-center justify-between gap-2",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 2 of 8: Choose Subject"}),l.jsxs("h2",{className:"text-xl font-black text-slate-900 mt-1",children:["Choose Subject / Book (",A," Class)"]}),l.jsxs("p",{className:"text-xs text-slate-500",children:["Select the textbook for which you want to create the paper (",f.length," books available)."]})]}),l.jsxs("span",{className:"px-3 py-1 bg-blue-100 text-blue-800 rounded-full font-bold text-xs",children:["Selected Class: ",A]})]}),l.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 pt-2",children:f.map(Ie=>{const gt=B===Ie.id;return l.jsxs("div",{onClick:()=>xt(Ie.id),className:`p-4 rounded-xl border-2 cursor-pointer transition-all ${gt?"bg-blue-50/80 border-blue-600 shadow-md ring-2 ring-blue-500/20":"bg-white border-slate-200 hover:border-slate-300 hover:bg-slate-50"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-1.5",children:[l.jsx("div",{className:"font-extrabold text-slate-900 text-sm",children:Ie.nameEn}),gt&&l.jsx(bs,{className:"w-5 h-5 text-blue-600"})]}),l.jsxs("div",{className:"flex items-center gap-3 text-xs text-slate-500 mt-2 font-medium",children:[l.jsxs("span",{children:[Ie.chapters.length," Units"]}),l.jsx("span",{children:"·"}),l.jsxs("span",{children:[Ie.defaultMarks," Marks"]}),l.jsx("span",{children:"·"}),l.jsx("span",{children:Ie.timeAllowed})]})]},Ie.id)})})]}),a===3&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3 flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 3 of 8: Tick Chapters"}),l.jsxs("h2",{className:"text-xl font-black text-slate-900 mt-1",children:["Select Chapters (",y.length," Selected)"]}),l.jsx("p",{className:"text-xs text-slate-500",children:"Tick which chapters will be included in this test paper."})]}),l.jsxs("div",{className:"flex items-center gap-1.5 text-xs font-bold",children:[l.jsx("button",{type:"button",onClick:dn,className:"px-3 py-1.5 bg-blue-50 hover:bg-blue-100 text-blue-700 border border-blue-200 rounded-lg cursor-pointer",children:"All Chapters"}),l.jsx("button",{type:"button",onClick:Wt,className:"px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg cursor-pointer",children:"1st Half"}),l.jsx("button",{type:"button",onClick:xn,className:"px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg cursor-pointer",children:"2nd Half"})]})]}),l.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2",children:((C==null?void 0:C.chapters)||[]).map(Ie=>{const gt=y.includes(Ie.number);return l.jsxs("div",{onClick:()=>rn(Ie.number),className:`p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-start gap-3 ${gt?"bg-blue-50/80 border-blue-600 shadow-xs":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsx("div",{className:"pt-0.5",children:gt?l.jsx(SAFE_Yo,{className:"w-5 h-5 text-blue-600"}):l.jsx(SAFE_hc,{className:"w-5 h-5 text-slate-500"})}),l.jsxs("div",{className:"flex-1",children:[l.jsxs("div",{className:"text-[11px] font-mono font-bold text-blue-700",children:["Unit ",Ie.number]}),l.jsx("div",{className:"font-extrabold text-slate-900 text-xs leading-snug",children:Ie.titleEn})]})]},Ie.id)})})]}),a===4&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3 flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 4 of 8: Student Learning Outcomes (SLOs)"}),l.jsxs("h2",{className:"text-xl font-black text-slate-900 mt-1",children:["Select Learning Outcomes (SLOs) (",E.length," Selected)"]}),l.jsx("p",{className:"text-xs text-slate-500",children:"Choose specific conceptual topics and learning outcomes to evaluate from the selected chapters."})]}),l.jsxs("div",{className:"flex items-center gap-1.5 text-xs font-bold",children:[l.jsx("button",{type:"button",onClick:()=>I(Oe.map(Ie=>Ie.id)),className:"px-3 py-1.5 bg-blue-600 text-white rounded-lg cursor-pointer",children:"Select All SLOs"}),l.jsx("button",{type:"button",onClick:()=>I([]),className:"px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg cursor-pointer",children:"Clear All"})]})]}),l.jsx("div",{className:"space-y-3 pt-2 max-h-[500px] overflow-y-auto p-1",children:Oe.map(Ie=>{const gt=E.includes(Ie.id);return l.jsxs("div",{onClick:()=>so(Ie.id),className:`p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-start gap-3 ${gt?"bg-blue-50/80 border-blue-600 shadow-xs":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsx("div",{className:"pt-0.5",children:gt?l.jsx(SAFE_Yo,{className:"w-5 h-5 text-blue-600"}):l.jsx(SAFE_hc,{className:"w-5 h-5 text-slate-300"})}),l.jsxs("div",{className:"flex-1 space-y-1",children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsx("span",{className:"font-mono font-bold text-xs bg-slate-100 text-slate-700 px-2 py-0.5 rounded",children:Ie.code}),l.jsx("span",{className:`text-[10px] font-bold px-2 py-0.5 rounded ${Ie.bloomLevel==="Knowledge"?"bg-emerald-100 text-emerald-800":Ie.bloomLevel==="Understanding"?"bg-blue-100 text-blue-800":"bg-purple-100 text-purple-800"}`,children:Ie.bloomLevel})]}),l.jsx("div",{className:"font-extrabold text-slate-900 text-xs sm:text-sm",children:Ie.titleEn})]})]},Ie.id)})})]}),a===5&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3 flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 5 of 8: Multiple Choice Questions"}),l.jsxs("h2",{className:"text-xl font-black text-slate-900 mt-1",children:["Select MCQs (",O.length," Selected / ",ct.mcqs.length," Available)"]}),l.jsxs("p",{className:"text-xs text-slate-500",children:["Standard board exam typically requires ",mt," MCQs. Tick your preferred questions."]})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:Bn,className:"flex items-center gap-1.5 px-3 py-1.5 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:[l.jsx(SAFE_Ta,{className:"w-3.5 h-3.5"}),l.jsxs("span",{children:["Auto-Pick Board Set (",mt," MCQs)"]})]}),l.jsx("button",{type:"button",onClick:()=>F(ct.mcqs.map(Ie=>Ie.id)),className:"px-3 py-1.5 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:"Select All"}),l.jsx("button",{type:"button",onClick:()=>F([]),className:"px-3 py-1.5 bg-rose-600 hover:bg-rose-700 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:"Clear"})]})]}),l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3 bg-slate-100 p-2.5 rounded-xl border border-slate-300 text-xs",children:[l.jsxs("div",{className:"relative flex-1 min-w-[200px]",children:[l.jsx(mp,{className:"w-3.5 h-3.5 text-slate-500 absolute left-3 top-2.5"}),l.jsx("input",{type:"text",value:R,onChange:Ie=>Z(Ie.target.value),placeholder:"Search MCQs by keywords...",className:"w-full pl-8 pr-3 py-1.5 border border-slate-300 rounded-lg text-xs bg-white font-medium focus:outline-none focus:ring-2 focus:ring-blue-500"})]}),l.jsx("div",{className:"flex items-center gap-1 text-[11px]",children:["all","Past Board Papers","Textbook Exercises","SLO Conceptual"].map(Ie=>l.jsx("button",{type:"button",onClick:()=>ne(Ie),className:`px-2.5 py-1 rounded-lg font-bold transition-colors cursor-pointer ${oe===Ie?"bg-blue-600 text-white shadow-xs":"bg-white text-slate-700 border border-slate-300 hover:bg-slate-200"}`,children:Ie==="all"?"All":Ie},Ie))})]}),l.jsx("div",{className:"space-y-3 pt-1 max-h-[500px] overflow-y-auto p-1",children:Xn.map((Ie,gt)=>{var en;const It=O.includes(Ie.id);return l.jsxs("div",{onClick:()=>F(on=>on.includes(Ie.id)?on.filter(Sr=>Sr!==Ie.id):[...on,Ie.id]),className:`p-3.5 rounded-xl border-2 cursor-pointer transition-all space-y-2 ${It?"bg-blue-50/70 border-blue-600 shadow-xs":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-start gap-3",children:[l.jsx("div",{className:"pt-0.5",children:It?l.jsx(SAFE_Yo,{className:"w-5 h-5 text-blue-600"}):l.jsx(SAFE_hc,{className:"w-5 h-5 text-slate-500"})}),l.jsxs("div",{className:"flex-1 space-y-1",children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("span",{className:"font-bold text-blue-700 text-xs",children:["MCQ #",gt+1]}),Ie.category&&l.jsx("span",{className:"text-[10px] font-bold px-2 py-0.5 rounded bg-slate-100 text-slate-600",children:Ie.category})]}),l.jsx("div",{className:"font-bold text-slate-900 text-xs leading-snug",children:Ie.statementEn}),Ie.statementUr&&l.jsx("div",{className:"font-urdu text-[12px] text-slate-700",dir:"rtl",children:Ie.statementUr})]})]}),l.jsx("div",{className:"grid grid-cols-2 sm:grid-cols-4 gap-2 pl-8 pt-1",children:(en=Ie.options)==null?void 0:en.map(on=>l.jsxs("div",{className:`p-1.5 rounded-md border text-[11px] ${on.key===Ie.correctOption?"bg-emerald-100 border-emerald-400 font-black text-emerald-950 shadow-2xs":"bg-white border-slate-300 text-slate-950 font-semibold"}`,children:[l.jsxs("strong",{className:"text-slate-950 font-black",children:["(",on.key,")"]})," ",on.textEn]},on.key))})]},Ie.id)})})]}),a===6&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3 flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 6 of 8: Short Questions & Choice"}),l.jsxs("h2",{className:"text-xl font-black text-slate-900 mt-1",children:["Select Short Questions (",te.length," Selected / ",ct.shortQuestions.length," Available)"]}),l.jsxs("p",{className:"text-xs text-slate-500",children:["Standard board exam typically requires ",zt," Short Questions (divided into Q.2, Q.3, Q.4)."]})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:mr,className:"flex items-center gap-1.5 px-3 py-1.5 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:[l.jsx(SAFE_Ta,{className:"w-3.5 h-3.5"}),l.jsxs("span",{children:["Auto-Pick Board Set (",zt," Shorts)"]})]}),l.jsx("button",{type:"button",onClick:()=>P(ct.shortQuestions.map(Ie=>Ie.id)),className:"px-3 py-1.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:"Select All"}),l.jsx("button",{type:"button",onClick:()=>P([]),className:"px-3 py-1.5 bg-rose-600 hover:bg-rose-700 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:"Clear"})]})]}),l.jsxs("div",{className:"bg-indigo-50/70 border border-indigo-200 rounded-xl p-3.5 flex flex-wrap items-center justify-between gap-3 shadow-2xs",children:[l.jsxs("div",{className:"space-y-0.5",children:[l.jsxs("div",{className:"font-extrabold text-xs text-indigo-950 flex items-center gap-1.5",children:[l.jsx(q0,{className:"w-4 h-4 text-indigo-600"}),l.jsx("span",{children:"Student Choice Settings:"})]}),l.jsxs("p",{className:"text-[11px] text-indigo-800",children:["Paper instructions will specify attempting any ",l.jsx("strong",{children:ht})," questions per section group."]})]}),l.jsxs("div",{className:"flex items-center gap-2 bg-white px-3 py-1.5 rounded-lg border border-indigo-200 shadow-xs",children:[l.jsx("span",{className:"text-xs font-bold text-slate-700",children:"Attempt Any:"}),l.jsx("input",{type:"number",min:1,max:Math.max(1,te.length||15),value:ht,onChange:Ie=>Ut(Math.max(1,Number(Ie.target.value))),className:"w-14 px-2 py-0.5 border border-slate-300 rounded font-bold text-center text-xs text-indigo-900 focus:outline-none focus:ring-1 focus:ring-indigo-500"}),l.jsx("span",{className:"text-xs text-slate-600 font-medium",children:"Questions"})]})]}),l.jsx("div",{className:"space-y-3 pt-1 max-h-[500px] overflow-y-auto p-1",children:ha.map((Ie,gt)=>{const It=te.includes(Ie.id);return l.jsxs("div",{onClick:()=>P(en=>en.includes(Ie.id)?en.filter(on=>on!==Ie.id):[...en,Ie.id]),className:`p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-start gap-3 ${It?"bg-blue-50/70 border-blue-600 shadow-xs":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsx("div",{className:"pt-0.5",children:It?l.jsx(SAFE_Yo,{className:"w-5 h-5 text-blue-600"}):l.jsx(SAFE_hc,{className:"w-5 h-5 text-slate-500"})}),l.jsxs("div",{className:"flex-1 space-y-1",children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("span",{className:"font-bold text-blue-700 text-xs",children:["Short Question #",gt+1]}),l.jsxs("div",{className:"flex items-center gap-1.5",children:[Ie.category&&l.jsx("span",{className:"text-[10px] font-bold px-2 py-0.5 rounded bg-slate-100 text-slate-600",children:Ie.category}),l.jsxs("span",{className:"text-[10px] font-bold px-1.5 py-0.5 rounded bg-blue-100 text-blue-800",children:[Ie.marks||2," Marks"]})]})]}),l.jsx("div",{className:"font-bold text-slate-900 text-xs leading-snug",children:Ie.statementEn}),Ie.statementUr&&l.jsx("div",{className:"font-urdu text-[12px] text-slate-700",dir:"rtl",children:Ie.statementUr})]})]},Ie.id)})})]}),a===7&&l.jsxs("div",{className:"space-y-4",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3 flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 7 of 8: Long Questions & Numericals"}),l.jsxs("h2",{className:"text-xl font-black text-slate-900 mt-1",children:["Select Long Questions (",U.length," Selected / ",ct.longQuestions.length," Available)"]}),l.jsxs("p",{className:"text-xs text-slate-500",children:["Standard board exam typically requires ",yn," Long Questions with part (a) theory & part (b) numerical."]})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:Pn,className:"flex items-center gap-1.5 px-3 py-1.5 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:[l.jsx(SAFE_Ta,{className:"w-3.5 h-3.5"}),l.jsxs("span",{children:["Auto-Pick Board Set (",yn," Longs)"]})]}),l.jsx("button",{type:"button",onClick:()=>Q(ct.longQuestions.map(Ie=>Ie.id)),className:"px-3 py-1.5 bg-purple-600 hover:bg-purple-700 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:"Select All"}),l.jsx("button",{type:"button",onClick:()=>Q([]),className:"px-3 py-1.5 bg-rose-600 hover:bg-rose-700 text-white rounded-lg text-xs font-bold shadow-xs cursor-pointer",children:"Clear"})]})]}),l.jsxs("div",{className:"bg-purple-50/70 border border-purple-200 rounded-xl p-3.5 flex flex-wrap items-center justify-between gap-3 shadow-2xs",children:[l.jsxs("div",{className:"space-y-0.5",children:[l.jsxs("div",{className:"font-extrabold text-xs text-purple-950 flex items-center gap-1.5",children:[l.jsx(q0,{className:"w-4 h-4 text-purple-600"}),l.jsx("span",{children:"Student Choice Settings (Long Questions):"})]}),l.jsxs("p",{className:"text-[11px] text-purple-800",children:["Paper instructions will specify attempting any ",l.jsx("strong",{children:Bt})," long questions out of ",U.length,"."]})]}),l.jsxs("div",{className:"flex items-center gap-2 bg-white px-3 py-1.5 rounded-lg border border-purple-200 shadow-xs",children:[l.jsx("span",{className:"text-xs font-bold text-slate-700",children:"Attempt Any:"}),l.jsx("input",{type:"number",min:1,max:Math.max(1,U.length||5),value:Bt,onChange:Ie=>Ht(Math.max(1,Number(Ie.target.value))),className:"w-14 px-2 py-0.5 border border-slate-300 rounded font-bold text-center text-xs text-purple-900 focus:outline-none focus:ring-1 focus:ring-purple-500"}),l.jsx("span",{className:"text-xs text-slate-600 font-medium",children:"Long Questions"})]})]}),l.jsx("div",{className:"space-y-3 pt-1 max-h-[500px] overflow-y-auto p-1",children:us.map((Ie,gt)=>{var en;const It=U.includes(Ie.id);return l.jsxs("div",{onClick:()=>Q(on=>on.includes(Ie.id)?on.filter(Sr=>Sr!==Ie.id):[...on,Ie.id]),className:`p-4 rounded-xl border-2 cursor-pointer transition-all space-y-2.5 ${It?"bg-blue-50/70 border-blue-600 shadow-xs":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[It?l.jsx(SAFE_Yo,{className:"w-5 h-5 text-blue-600"}):l.jsx(SAFE_hc,{className:"w-5 h-5 text-slate-500"}),l.jsxs("span",{className:"font-extrabold text-slate-900 text-xs",children:["Long Question #",gt+5]})]}),l.jsxs("span",{className:"text-[11px] font-bold px-2 py-0.5 rounded bg-purple-100 text-purple-800",children:[Ie.totalMarks||9," Marks"]})]}),l.jsx("div",{className:"pl-7 space-y-2",children:(en=Ie.parts)==null?void 0:en.map(on=>l.jsxs("div",{className:"border-l-2 border-slate-200 pl-3 py-0.5 space-y-0.5",children:[l.jsxs("div",{className:"font-bold text-slate-900 text-xs",children:[l.jsxs("span",{className:"text-purple-700 font-extrabold mr-1",children:["(",on.partLabel,")"]}),on.statementEn,l.jsxs("span",{className:"text-[10px] text-slate-500 font-normal ml-1",children:["[",on.marks," Marks]"]})]}),on.statementUr&&l.jsx("div",{className:"font-urdu text-[12px] text-slate-700",dir:"rtl",children:on.statementUr})]},on.partLabel))})]},Ie.id)})})]}),a===8&&l.jsxs("div",{className:"space-y-6",children:[l.jsxs("div",{className:"border-b border-slate-100 pb-3",children:[l.jsx("span",{className:"text-[11px] font-bold uppercase tracking-wider text-blue-600",children:"Step 8 of 8: Marks Calculation & Difficulty Tier"}),l.jsx("h2",{className:"text-xl font-black text-slate-900 mt-1",children:"Marks Calculation & Difficulty Tier"}),l.jsx("p",{className:"text-xs text-slate-500",children:"Review live marks calculation and select the student difficulty tier (Easy, Medium, or Difficult)."})]}),l.jsxs("div",{className:"space-y-2",children:[l.jsx("label",{className:"block text-xs font-bold uppercase tracking-wider text-slate-700",children:"Select Difficulty Tier (Target Student Level):"}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-3 gap-3.5",children:[l.jsxs("div",{onClick:()=>me("easy"),className:`p-4 rounded-2xl border-2 cursor-pointer transition-all ${ce==="easy"?"bg-emerald-50/80 border-emerald-600 shadow-md ring-2 ring-emerald-500/20":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-2",children:[l.jsxs("span",{className:"px-2.5 py-0.5 rounded-full text-xs font-black bg-emerald-600 text-white flex items-center gap-1",children:[l.jsx(t8,{className:"w-3.5 h-3.5"}),l.jsx("span",{children:"Easy Paper"})]}),ce==="easy"&&l.jsx(bs,{className:"w-5 h-5 text-emerald-600"})]}),l.jsx("h4",{className:"font-bold text-slate-900 text-xs",children:"Foundation Level"}),l.jsx("p",{className:"text-[11px] text-slate-600 mt-1",children:"Fundamental definitions, straightforward textbook questions, and basic review exercises for foundation learners."})]}),l.jsxs("div",{onClick:()=>me("standard"),className:`p-4 rounded-2xl border-2 cursor-pointer transition-all ${ce==="standard"?"bg-blue-50/80 border-blue-600 shadow-md ring-2 ring-blue-500/20":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-2",children:[l.jsxs("span",{className:"px-2.5 py-0.5 rounded-full text-xs font-black bg-blue-600 text-white flex items-center gap-1",children:[l.jsx(h8,{className:"w-3.5 h-3.5"}),l.jsx("span",{children:"Medium Paper"})]}),ce==="standard"&&l.jsx(bs,{className:"w-5 h-5 text-blue-600"})]}),l.jsx("h4",{className:"font-bold text-slate-900 text-xs",children:"Standard Board Pattern"}),l.jsx("p",{className:"text-[11px] text-slate-600 mt-1",children:"Balanced examination pattern (50% Knowledge, 30% Understanding, 20% Application) conforming to BISE standards."})]}),l.jsxs("div",{onClick:()=>me("conceptual_slo"),className:`p-4 rounded-2xl border-2 cursor-pointer transition-all ${ce==="conceptual_slo"?"bg-rose-50/80 border-rose-600 shadow-md ring-2 ring-rose-500/20":"bg-white border-slate-200 hover:border-slate-300"}`,children:[l.jsxs("div",{className:"flex items-center justify-between mb-2",children:[l.jsxs("span",{className:"px-2.5 py-0.5 rounded-full text-xs font-black bg-rose-600 text-white flex items-center gap-1",children:[l.jsx(s8,{className:"w-3.5 h-3.5"}),l.jsx("span",{children:"Difficult / Hard Paper"})]}),ce==="conceptual_slo"&&l.jsx(bs,{className:"w-5 h-5 text-rose-600"})]}),l.jsx("h4",{className:"font-bold text-slate-900 text-xs",children:"Advanced SLO & Top Scorers"}),l.jsx("p",{className:"text-[11px] text-slate-600 mt-1",children:"Challenging SLO conceptual reasoning, higher-order analytical problems, and multi-step derivations for top achievers."})]})]})]}),l.jsxs("div",{className:"space-y-2 bg-slate-50 p-4 rounded-2xl border border-slate-200",children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("div",{children:[l.jsx("label",{className:"block text-xs font-bold uppercase tracking-wider text-slate-700",children:"Selected Paper Medium:"}),l.jsx("p",{className:"text-[11px] text-slate-500",children:"You can switch the examination paper output language here anytime before finalization."})]}),l.jsxs("span",{className:"px-3 py-1 bg-indigo-100 text-indigo-800 text-xs font-black rounded-lg uppercase",children:["Current: ",We]})]}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1",children:[l.jsxs("button",{type:"button",onClick:()=>dt("english"),className:`p-3 rounded-xl border-2 text-left font-sans transition-all cursor-pointer ${We==="english"?"bg-blue-600 border-blue-600 text-white shadow-md":"bg-white border-slate-300 text-slate-700 hover:border-blue-400"}`,children:[l.jsx("div",{className:"font-black text-xs",children:"English Medium Only"}),l.jsx("div",{className:`text-[10px] mt-0.5 ${We==="english"?"text-blue-100":"text-slate-500"}`,children:"Purely in English without Urdu"})]}),l.jsxs("button",{type:"button",onClick:()=>dt("urdu"),className:`p-3 rounded-xl border-2 text-left font-sans transition-all cursor-pointer ${We==="urdu"?"bg-emerald-600 border-emerald-600 text-white shadow-md":"bg-white border-slate-300 text-slate-700 hover:border-emerald-400"}`,children:[l.jsx("div",{className:"font-black text-xs",children:"Urdu Medium (Urdu Only)"}),l.jsx("div",{className:`text-[10px] mt-0.5 ${We==="urdu"?"text-emerald-100":"text-slate-500"}`,children:"Exclusively in Urdu Nastaliq font"})]}),l.jsxs("button",{type:"button",onClick:()=>dt("bilingual"),className:`p-3 rounded-xl border-2 text-left font-sans transition-all cursor-pointer ${We==="bilingual"?"bg-indigo-600 border-indigo-600 text-white shadow-md":"bg-white border-slate-300 text-slate-700 hover:border-indigo-400"}`,children:[l.jsx("div",{className:"font-black text-xs",children:"Bilingual (English + Urdu)"}),l.jsx("div",{className:`text-[10px] mt-0.5 ${We==="bilingual"?"text-indigo-100":"text-slate-500"}`,children:"Left English, Right Urdu (No overlap)"})]})]})]}),l.jsxs("div",{className:"bg-slate-900 text-white p-5 rounded-2xl shadow-lg space-y-4",children:[l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-2 border-b border-slate-800 pb-3",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx(YP,{className:"w-5 h-5 text-blue-400"}),l.jsx("span",{className:"font-bold text-sm",children:"Marks Calculator & Breakdown"})]}),l.jsxs("div",{className:"flex items-center gap-3",children:[l.jsx("button",{type:"button",onClick:()=>Pt(!Zt),className:"btn-3d btn-3d-amber px-2.5 py-1 text-slate-950 font-black rounded-lg text-xs cursor-pointer shadow-sm",children:Zt?"✓ Custom Mode Active":"✏️ Custom Edit Marks"}),l.jsxs("div",{className:"text-xl font-black text-emerald-400",children:["Total Marks: ",Zt?S:Mt," Marks"]})]})]}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs",children:[l.jsxs("div",{className:"bg-slate-800/80 p-3 rounded-xl border border-slate-700 space-y-1.5",children:[l.jsx("div",{className:"text-blue-300 font-black uppercase text-[11px] tracking-wider",children:"MCQS (Objective)"}),l.jsxs("div",{className:"text-base font-black text-white",children:[O.length," Qs × ",ue," M = ",Mr," Marks"]}),Zt&&l.jsxs("div",{className:"flex items-center gap-2 pt-1 border-t border-slate-700/60",children:[l.jsx("span",{className:"text-[10px] text-slate-300",children:"Marks Each:"}),l.jsx("input",{type:"number",min:1,max:10,value:ue,onChange:Ie=>Ne(Math.max(1,Number(Ie.target.value))),className:"w-14 px-1.5 py-0.5 bg-slate-900 border border-slate-600 rounded text-center text-white font-bold"})]})]}),l.jsxs("div",{className:"bg-slate-800/80 p-3 rounded-xl border border-slate-700 space-y-1.5",children:[l.jsx("div",{className:"text-indigo-300 font-black uppercase text-[11px] tracking-wider",children:"SHORT QUESTIONS"}),l.jsxs("div",{className:"text-base font-black text-white",children:[te.length>0?Math.min(te.length,ht):0," Qs × ",Le," M = ",_r," Marks"]}),Zt&&l.jsxs("div",{className:"flex items-center gap-2 pt-1 border-t border-slate-700/60",children:[l.jsx("span",{className:"text-[10px] text-slate-300",children:"Marks Each:"}),l.jsx("input",{type:"number",min:1,max:10,value:Le,onChange:Ie=>Ce(Math.max(1,Number(Ie.target.value))),className:"w-14 px-1.5 py-0.5 bg-slate-900 border border-slate-600 rounded text-center text-white font-bold"})]})]}),l.jsxs("div",{className:"bg-slate-800/80 p-3 rounded-xl border border-slate-700 space-y-1.5",children:[l.jsx("div",{className:"text-purple-300 font-black uppercase text-[11px] tracking-wider",children:"LONG QUESTIONS"}),l.jsxs("div",{className:"text-base font-black text-white",children:[U.length>0?Math.min(U.length,Bt):0," Qs × ",k," M = ",lr," Marks"]}),Zt&&l.jsxs("div",{className:"flex items-center gap-2 pt-1 border-t border-slate-700/60",children:[l.jsx("span",{className:"text-[10px] text-slate-300",children:"Marks Each:"}),l.jsx("input",{type:"number",min:1,max:20,value:k,onChange:Ie=>Y(Math.max(1,Number(Ie.target.value))),className:"w-14 px-1.5 py-0.5 bg-slate-900 border border-slate-600 rounded text-center text-white font-bold"})]})]})]}),Zt&&l.jsxs("div",{className:"bg-slate-800 p-3 rounded-xl border border-amber-500/40 flex flex-wrap items-center justify-between gap-2 text-xs",children:[l.jsx("span",{className:"font-bold text-amber-300",children:"Overall Paper Total Marks Custom Override:"}),l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx("input",{type:"number",value:S,onChange:Ie=>V(Number(Ie.target.value)),className:"w-20 px-2 py-1 bg-slate-900 border border-amber-400 rounded-lg text-center text-amber-300 font-bold"}),l.jsx("span",{className:"text-slate-300 font-medium",children:"Marks"})]})]})]}),l.jsxs("div",{className:"bg-slate-50 p-4 rounded-xl border border-slate-200 text-xs space-y-3",children:[l.jsxs("div",{className:"font-bold text-slate-800 uppercase tracking-wider text-[11px] flex items-center justify-between",children:[l.jsx("span",{children:"Institutional Header & School Monogram"}),l.jsx("span",{className:"text-[10px] text-slate-500 font-normal",children:"Appears in a single pristine line at the top of the question paper"})]}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3",children:[l.jsxs("div",{className:"md:col-span-2",children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Institute / School Name"}),l.jsx("input",{type:"text",value:le,onChange:Ie=>be(Ie.target.value),placeholder:"Enter school or college name...",className:"w-full px-3 py-2 bg-white border border-slate-300 rounded-lg font-bold text-slate-900"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Campus / Branch"}),l.jsx("input",{type:"text",value:Qe,onChange:Ie=>Ye(Ie.target.value),placeholder:"e.g. Main Campus / Boys Wing",className:"w-full px-3 py-2 bg-white border border-slate-300 rounded-lg font-semibold"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Exam Title"}),l.jsx("input",{type:"text",value:Be,onChange:Ie=>xe(Ie.target.value),className:"w-full px-3 py-2 bg-white border border-slate-300 rounded-lg font-semibold"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Time Allowed"}),l.jsx("input",{type:"text",value:q,onChange:Ie=>ae(Ie.target.value),className:"w-full px-3 py-2 bg-white border border-slate-300 rounded-lg font-semibold"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"School Monogram / Logo"}),l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx("div",{className:"w-10 h-10 rounded-full border-2 border-slate-300 bg-white flex items-center justify-center overflow-hidden shrink-0 shadow-2xs",children:St?l.jsx("img",{src:St,alt:"Logo",className:"w-full h-full object-contain"}):l.jsx(SAFE_id,{className:"w-5 h-5 text-slate-400"})}),l.jsxs("label",{className:"px-3 py-2 bg-white hover:bg-slate-100 border border-slate-300 text-slate-700 rounded-lg text-xs font-bold cursor-pointer transition-colors",children:[l.jsx("span",{children:"Upload Logo"}),l.jsx("input",{type:"file",accept:"image/*",className:"hidden",onChange:Ie=>{var It;const gt=(It=Ie.target.files)==null?void 0:It[0];if(gt){const en=new FileReader;en.onload=on=>{var Sr;(Sr=on.target)!=null&&Sr.result&&Ke(on.target.result)},en.readAsDataURL(gt)}}})]}),St&&l.jsx("button",{type:"button",onClick:()=>Ke(void 0),className:"text-rose-600 hover:text-rose-800 text-[11px] font-bold cursor-pointer",children:"Remove"})]})]})]})]}),l.jsxs("div",{className:"bg-slate-50 p-4 rounded-xl border border-slate-200 text-xs space-y-3",children:[l.jsxs("div",{className:"font-bold text-slate-800 uppercase tracking-wider text-[11px] flex items-center justify-between",children:[l.jsx("span",{children:"Bubble Sheet Option"}),l.jsx("span",{className:"text-[10px] text-slate-500 font-semibold",children:"Choose whether to attach the OMR bubble response sheet to the question paper"})]}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1",children:[l.jsxs("button",{type:"button",onClick:()=>ze(!0),className:`btn-3d flex items-center justify-center gap-2 p-3 rounded-xl font-black text-xs transition-all cursor-pointer ${ge?"btn-3d-emerald text-white shadow-md":"bg-white border-2 border-slate-300 text-slate-700 hover:border-slate-400"}`,children:[l.jsx(Ru,{className:"w-4 h-4"}),l.jsx("span",{children:"With Bubble Sheet"})]}),l.jsxs("button",{type:"button",onClick:()=>ze(!1),className:`btn-3d flex items-center justify-center gap-2 p-3 rounded-xl font-black text-xs transition-all cursor-pointer ${ge?"bg-white border-2 border-slate-300 text-slate-700 hover:border-slate-400":"btn-3d-rose text-white shadow-md"}`,children:[l.jsx(q2,{className:"w-4 h-4"}),l.jsx("span",{children:"Without Bubble Sheet"})]})]})]})]}),l.jsxs("div",{className:"sticky bottom-0 z-30 bg-white/95 backdrop-blur-xs p-3 sm:p-4 border-t-2 border-slate-200 shadow-xl -mx-4 -mb-4 sm:-mx-6 sm:-mb-6 rounded-b-2xl flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:()=>o(Ie=>Math.max(1,Ie-1)),disabled:a===1,className:"btn-3d btn-3d-slate flex items-center gap-1.5 px-4 py-2 text-white rounded-xl text-xs font-bold transition-all disabled:opacity-40 disabled:pointer-events-none cursor-pointer",children:[l.jsx(G2,{className:"w-4 h-4"}),l.jsx("span",{children:"Back"})]}),l.jsxs("div",{className:"hidden sm:flex items-center gap-2 px-3 py-1.5 bg-slate-100 border border-slate-200 rounded-xl text-xs font-bold text-slate-800",children:[l.jsxs("span",{className:"text-blue-700",children:["Questions: ",O.length+te.length+U.length]}),l.jsx("span",{className:"text-slate-300",children:"|"}),l.jsxs("span",{className:"text-emerald-700",children:["Marks: ",Zt?S:O.length*ue+Math.min(te.length,ht)*Le+Math.min(U.length,Bt)*k]})]})]}),l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:rs,className:"btn-3d btn-3d-amber hidden md:flex items-center gap-1.5 px-4 py-2 text-slate-950 rounded-xl text-xs font-black cursor-pointer shadow-xs",title:"Automatically select recommended board pattern questions in one click",children:[l.jsx(SAFE_Ta,{className:"w-3.5 h-3.5 text-slate-950"}),l.jsx("span",{children:"Auto-Pick All"})]}),a<8?l.jsxs("button",{type:"button",onClick:()=>o(Ie=>Math.min(8,Ie+1)),className:"btn-3d btn-3d-blue flex items-center gap-1.5 px-5 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-md",children:[l.jsxs("span",{children:["Continue (Step ",a+1,")"]}),l.jsx(K2,{className:"w-4 h-4"})]}):null,l.jsxs("button",{type:"button",onClick:xr,className:"btn-3d btn-3d-emerald flex items-center gap-2 px-5 py-2 text-white rounded-xl text-xs sm:text-sm font-black cursor-pointer shadow-md",children:[l.jsx(bs,{className:"w-4 h-4 text-white"}),l.jsx("span",{children:"Generate Paper"})]})]})]})]})]})},v8=({onStartTestWithChapter:n,onOpenManualBuilder:e})=>{var Be,xe;const[t,r]=Ee.useState("9th"),a=Ee.useMemo(()=>Wo.filter(le=>le.classLevel===t),[t]),[o,A]=Ee.useState("9th-physics"),u=Ee.useMemo(()=>Wo.find(le=>le.id===o)||a[0],[o,a]),[f,B]=Ee.useState([1]),m=le=>{B(be=>{if(be.includes(le)){const Qe=be.filter(Ye=>Ye!==le);return Qe.length>0?Qe:[le]}else return[...be,le].sort((Qe,Ye)=>Qe-Ye)}),oe(1)},C=()=>{u&&(B(u.chapters.map(le=>le.number)),oe(1))},y=Ee.useMemo(()=>{var le,be;return((le=u==null?void 0:u.chapters)==null?void 0:le.find(Qe=>f.includes(Qe.number)))||((be=u==null?void 0:u.chapters)==null?void 0:be[0])},[u,f]),[v,E]=Ee.useState("all"),[I,O]=Ee.useState("all"),[F,R]=Ee.useState(""),[Z,oe]=Ee.useState(1),ne=20,[te,P]=Ee.useState(!1),[T,H]=Ee.useState(null),[G,D]=Ee.useState(0),U=Ee.useMemo(()=>{if(!u)return{mcqs:[],shortQuestions:[],longQuestions:[]};const le=f.length>0?f:[1];return W2(u.id,le)},[u,f,G]),Q=U.mcqs,se=U.shortQuestions,pe=U.longQuestions,ce=["all","Past Board Papers","SLO Conceptual","Textbook Exercises","Numerical Problems","Definitions & Laws"],me=Ee.useMemo(()=>Q.filter(le=>{const be=!F.trim()||le.statementEn.toLowerCase().includes(F.toLowerCase())||le.statementUr&&le.statementUr.includes(F),Qe=I==="all"||le.category&&le.category.toLowerCase()===I.toLowerCase();return be&&Qe}),[Q,F,I]),ue=Ee.useMemo(()=>se.filter(le=>{const be=!F.trim()||le.statementEn.toLowerCase().includes(F.toLowerCase())||le.statementUr&&le.statementUr.includes(F),Qe=I==="all"||le.category&&le.category.toLowerCase()===I.toLowerCase();return be&&Qe}),[se,F,I]),Ne=Ee.useMemo(()=>pe.filter(le=>{var Ye,St;const be=!F.trim()||((Ye=le.statementEn)==null?void 0:Ye.toLowerCase().includes(F.toLowerCase()))||((St=le.parts)==null?void 0:St.some(Ke=>Ke.statementEn.toLowerCase().includes(F.toLowerCase()))),Qe=I==="all"||le.category&&le.category.toLowerCase()===I.toLowerCase();return be&&Qe}),[pe,F,I]),Le=v==="mcq"?me.length:v==="short"?ue.length:v==="long"?Ne.length:me.length+ue.length+Ne.length,Ce=Math.max(1,Math.ceil(Le/ne)),k=le=>{E(le),oe(1)},Y=le=>{O(le),oe(1)},S=async()=>{if(!(!u||!y)){P(!0),H(null);try{const le=await fetch("/api/batch-generate-questions",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({classLevel:t,subjectName:u.nameEn,chapterNo:y.number,chapterTitle:y.titleEn,count:15})});if(!le.ok)throw new Error("Batch generation failed");const be=await le.json();let Qe=0;Array.isArray(be.mcqs)&&be.mcqs.forEach(Ye=>{B_({subjectId:u.id,chapterNo:y.number,type:"mcq",statementEn:Ye.statementEn,statementUr:Ye.statementUr,marks:1,options:Ye.options,correctOption:Ye.correctOption}),Qe++}),Array.isArray(be.shortQuestions)&&be.shortQuestions.forEach(Ye=>{B_({subjectId:u.id,chapterNo:y.number,type:"short",statementEn:Ye.statementEn,statementUr:Ye.statementUr,marks:Ye.marks||2}),Qe++}),D(Ye=>Ye+1),H(`Successfully generated and added ${Qe} questions into Unit ${y.number}!`),setTimeout(()=>H(null),5e3)}catch(le){console.warn("Batch generation notice:",le.message)}finally{P(!1)}}},V=Ee.useMemo(()=>{if(v!=="all"&&v!=="mcq")return[];if(v==="mcq"){const le=(Z-1)*ne;return me.slice(le,le+ne)}return me.slice(0,15)},[me,v,Z]),q=Ee.useMemo(()=>{if(v!=="all"&&v!=="short")return[];if(v==="short"){const le=(Z-1)*ne;return ue.slice(le,le+ne)}return ue.slice(0,15)},[ue,v,Z]),ae=Ee.useMemo(()=>{if(v!=="all"&&v!=="long")return[];if(v==="long"){const le=(Z-1)*ne;return Ne.slice(le,le+ne)}return Ne.slice(0,8)},[Ne,v,Z]);return l.jsxs("div",{className:"space-y-6 max-w-7xl mx-auto font-sans text-slate-800",children:[l.jsxs("div",{className:"bg-white p-6 rounded-2xl shadow-sm border-2 border-slate-200 text-slate-900 flex flex-wrap items-center justify-between gap-4",children:[l.jsxs("div",{children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx("span",{className:"px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-950 font-mono text-[11px] font-black border border-emerald-300",children:"PTBB BOARD QUESTION BANK 2026"}),l.jsx("span",{className:"px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-950 font-mono text-[11px] font-black border border-blue-300",children:"Over 5,000+ Questions Per Subject"})]}),l.jsxs("h1",{className:"text-xl sm:text-2xl font-black mt-2 flex items-center gap-2 text-slate-950",children:[l.jsx(ZP,{className:"w-6 h-6 text-blue-700"}),l.jsx("span",{children:"Punjab Textbook Board Question Repository"})]}),l.jsx("p",{className:"text-xs text-slate-700 font-medium mt-1 max-w-2xl",children:"Exhaustive database covering all 9 BISE Punjab boards (2020–2025), Textbook Exercises, Student Learning Outcomes (SLO), Numerical Problems, and Long Theory Derivations."})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-2.5",children:[l.jsxs("button",{type:"button",onClick:S,disabled:te,className:"flex items-center gap-2 px-4 py-2.5 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-slate-950 font-black rounded-xl text-xs shadow-md transition-all cursor-pointer disabled:opacity-50",title:"Generate and permanently save 15-25 fresh questions for this unit",children:[te?l.jsx(Sc,{className:"w-4 h-4 animate-spin text-slate-950"}):l.jsx(SAFE_Ta,{className:"w-4 h-4 text-slate-950"}),l.jsx("span",{children:te?"Generating with AI...":"AI Auto-Generate More (+15)"})]}),e&&l.jsxs("button",{type:"button",onClick:()=>e(t,u.id),className:"flex items-center gap-2 px-4 py-2.5 bg-blue-600 hover:bg-blue-500 text-white rounded-xl text-xs font-bold shadow-md transition-colors cursor-pointer",children:[l.jsx(FC,{className:"w-4 h-4 text-white"}),l.jsx("span",{children:"Select Questions & Build Paper"})]}),l.jsxs("button",{type:"button",onClick:()=>n(t,u.id,y.number),className:"flex items-center gap-2 px-4 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl text-xs font-bold shadow-md transition-colors cursor-pointer",children:[l.jsx(SAFE__f,{className:"w-4 h-4 text-emerald-200"}),l.jsxs("span",{children:["Fast Paper (Unit ",y==null?void 0:y.number,")"]})]})]})]}),T&&l.jsxs("div",{className:"bg-emerald-50 border border-emerald-300 p-3 rounded-xl text-xs font-bold text-emerald-900 flex items-center justify-between",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx(bs,{className:"w-4 h-4 text-emerald-600"}),l.jsx("span",{children:T})]}),l.jsx("button",{onClick:()=>H(null),className:"text-emerald-700 hover:text-emerald-950",children:"✕"})]}),l.jsxs("div",{className:"grid grid-cols-1 md:grid-cols-3 gap-4",children:[l.jsxs("div",{className:"bg-white p-4 rounded-xl border border-slate-200 shadow-xs",children:[l.jsx("label",{className:"block text-[11px] font-bold uppercase tracking-wider text-slate-500 mb-2",children:"Class"}),l.jsx("div",{className:"grid grid-cols-2 gap-2",children:["9th","10th"].map(le=>l.jsx("button",{type:"button",onClick:()=>{var Qe;r(le);const be=Wo.find(Ye=>Ye.classLevel===le);be&&(A(be.id),B([((Qe=be.chapters[0])==null?void 0:Qe.number)||1])),oe(1)},className:`py-2 rounded-lg text-xs font-extrabold transition-all cursor-pointer ${t===le?"bg-blue-600 text-white shadow-xs":"bg-slate-100 hover:bg-slate-200 text-slate-700"}`,children:le==="9th"?"9th Class (Matric-I)":"10th Class (Matric-II)"},le))})]}),l.jsxs("div",{className:"bg-white p-4 rounded-xl border border-slate-200 shadow-xs",children:[l.jsxs("label",{className:"block text-[11px] font-bold uppercase tracking-wider text-slate-500 mb-2",children:["Subject (",a.length," Books Available)"]}),l.jsx("select",{value:u==null?void 0:u.id,onChange:le=>{A(le.target.value),B([1]),oe(1)},className:"w-full px-3 py-2 border border-slate-300 rounded-lg text-xs font-bold bg-white text-slate-900 focus:ring-2 focus:ring-blue-500 cursor-pointer",children:a.map(le=>l.jsxs("option",{value:le.id,children:[le.nameEn," (",le.chapters.length," Units)"]},le.id))})]}),l.jsxs("div",{className:"bg-white p-4 rounded-xl border border-slate-200 shadow-xs",children:[l.jsxs("label",{className:"block text-[11px] font-bold uppercase tracking-wider text-slate-500 mb-2",children:["Selected Units (",f.length," of ",((Be=u==null?void 0:u.chapters)==null?void 0:Be.length)||0," Ticked)"]}),l.jsxs("div",{className:"flex items-center gap-1.5",children:[l.jsx("button",{type:"button",onClick:C,className:"px-2.5 py-1.5 bg-blue-600 hover:bg-blue-500 text-white rounded-lg text-xs font-bold transition-colors cursor-pointer",children:"Select All Units"}),l.jsx("button",{type:"button",onClick:()=>{if(u){const le=Math.ceil(u.chapters.length/2);B(u.chapters.slice(0,le).map(be=>be.number)),oe(1)}},className:"px-2.5 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-lg text-xs font-semibold cursor-pointer",children:"1st Half"}),l.jsx("button",{type:"button",onClick:()=>{if(u){const le=Math.ceil(u.chapters.length/2);B(u.chapters.slice(le).map(be=>be.number)),oe(1)}},className:"px-2.5 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-lg text-xs font-semibold cursor-pointer",children:"2nd Half"})]})]})]}),l.jsxs("div",{className:"bg-white p-4 rounded-xl border border-slate-200 shadow-xs space-y-2",children:[l.jsxs("div",{className:"flex items-center justify-between text-xs",children:[l.jsx("span",{className:"font-bold uppercase tracking-wider text-slate-700",children:"Tick Chapters to View Questions:"}),l.jsx("span",{className:"text-slate-500 font-medium text-[11px]",children:"Tick any combination of chapters to view all questions together"})]}),l.jsx("div",{className:"grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2 max-h-44 overflow-y-auto p-2 border border-slate-100 rounded-lg bg-slate-50/50",children:(xe=u==null?void 0:u.chapters)==null?void 0:xe.map(le=>{const be=f.includes(le.number);return l.jsxs("button",{type:"button",onClick:()=>m(le.number),className:`flex items-center gap-2 p-2 rounded-lg text-left text-xs transition-colors cursor-pointer border ${be?"bg-blue-50 border-blue-400 text-blue-950 font-bold":"bg-white border-slate-200 hover:border-slate-300 text-slate-700"}`,children:[l.jsx("div",{className:`w-4 h-4 rounded flex items-center justify-center border text-[10px] ${be?"bg-blue-600 border-blue-600 text-white":"border-slate-300 bg-white"}`,children:be?"✓":""}),l.jsxs("span",{className:"truncate",children:["Unit ",le.number,": ",le.titleEn]})]},le.id)})})]}),l.jsxs("div",{className:"bg-blue-50/70 border border-blue-200 p-3 rounded-xl flex flex-wrap items-center justify-between text-xs text-blue-950 font-semibold gap-2",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx("span",{className:"w-2.5 h-2.5 rounded-full bg-blue-600 animate-pulse"}),l.jsxs("span",{children:[l.jsxs("strong",{children:["Active Units (",f.length,"):"]})," Units ",f.join(", ")]})]}),l.jsxs("div",{className:"flex items-center gap-4 text-[11px]",children:[l.jsxs("span",{children:["MCQs: ",l.jsx("strong",{children:Q.length})]}),l.jsxs("span",{children:["Short Questions: ",l.jsx("strong",{children:se.length})]}),l.jsxs("span",{children:["Long Questions: ",l.jsx("strong",{children:pe.length})]}),l.jsxs("span",{className:"bg-blue-200 text-blue-900 px-2.5 py-0.5 rounded-full font-extrabold",children:["Total Questions: ",Q.length+se.length+pe.length]})]})]}),l.jsxs("div",{className:"space-y-3",children:[l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 pb-3 text-xs",children:[l.jsxs("div",{className:"flex items-center gap-1.5 bg-slate-200 p-1.5 rounded-xl border border-slate-300",children:[l.jsxs("button",{type:"button",onClick:()=>k("all"),className:`px-3 py-1.5 rounded-lg font-black transition-all cursor-pointer ${v==="all"?"btn-3d btn-3d-blue text-white shadow-sm":"text-slate-800 hover:text-slate-950 hover:bg-white font-extrabold"}`,children:["All Types (",Q.length+se.length+pe.length,")"]}),l.jsxs("button",{type:"button",onClick:()=>k("mcq"),className:`px-3 py-1.5 rounded-lg font-black transition-all cursor-pointer ${v==="mcq"?"btn-3d btn-3d-blue text-white shadow-sm":"text-slate-800 hover:text-slate-950 hover:bg-white font-extrabold"}`,children:["MCQs (",Q.length,")"]}),l.jsxs("button",{type:"button",onClick:()=>k("short"),className:`px-3 py-1.5 rounded-lg font-black transition-all cursor-pointer ${v==="short"?"btn-3d btn-3d-blue text-white shadow-sm":"text-slate-800 hover:text-slate-950 hover:bg-white font-extrabold"}`,children:["Short Questions (",se.length,")"]}),l.jsxs("button",{type:"button",onClick:()=>k("long"),className:`px-3 py-1.5 rounded-lg font-black transition-all cursor-pointer ${v==="long"?"btn-3d btn-3d-blue text-white shadow-sm":"text-slate-800 hover:text-slate-950 hover:bg-white font-extrabold"}`,children:["Long Questions (",pe.length,")"]})]}),l.jsxs("div",{className:"relative w-full sm:w-72",children:[l.jsx(mp,{className:"w-3.5 h-3.5 text-slate-600 absolute left-3 top-2.5"}),l.jsx("input",{type:"text",value:F,onChange:le=>{R(le.target.value),oe(1)},placeholder:"Search in English or Urdu...",className:"w-full pl-8 pr-3 py-1.5 border-2 border-slate-300 rounded-lg text-xs font-bold text-slate-950 focus:ring-2 focus:ring-blue-500 focus:outline-none bg-white placeholder:text-slate-500"})]})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-1.5 text-[11px]",children:[l.jsx("span",{className:"text-slate-700 font-extrabold uppercase mr-1",children:"Categories:"}),ce.map(le=>l.jsx("button",{type:"button",onClick:()=>Y(le),className:`px-2.5 py-1 rounded-md font-bold transition-colors cursor-pointer ${I===le?"bg-blue-600 text-white":"bg-white border-2 border-slate-300 text-slate-800 hover:bg-slate-100"}`,children:le==="all"?"All Categories":le},le))]})]}),l.jsxs("div",{className:"space-y-6",children:[(v==="all"||v==="mcq")&&V.length>0&&l.jsxs("div",{className:"bg-white rounded-2xl border border-slate-200 p-5 space-y-4 shadow-xs",children:[l.jsxs("div",{className:"flex items-center justify-between pb-2 border-b border-slate-100",children:[l.jsxs("h3",{className:"font-extrabold text-xs uppercase tracking-wider text-slate-800 flex items-center gap-2",children:[l.jsx("span",{className:"w-2.5 h-2.5 rounded-full bg-emerald-500"}),l.jsxs("span",{children:["Multiple Choice Questions (Showing ",V.length," of ",me.length,")"]})]}),l.jsx("span",{className:"text-[11px] text-slate-500",children:"1 Mark each"})]}),l.jsx("div",{className:"space-y-3",children:V.map((le,be)=>l.jsxs("div",{className:"border border-slate-200 rounded-xl p-4 bg-slate-50/50 text-xs hover:border-blue-300 hover:bg-white transition-all space-y-2",children:[l.jsxs("div",{className:"flex items-start justify-between gap-3",children:[l.jsxs("div",{className:"font-bold text-slate-900 leading-snug",children:[l.jsxs("span",{className:"text-blue-600 font-extrabold mr-1",children:["Q.",le.qNo||be+1,"."]})," ",le.statementEn]}),le.category&&l.jsx("span",{className:"text-[10px] font-bold px-2 py-0.5 rounded bg-slate-200 text-slate-700 shrink-0",children:le.category})]}),le.statementUr&&l.jsx("div",{className:"font-urdu text-[13px] text-slate-800 leading-relaxed text-right",dir:"rtl",children:le.statementUr}),l.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2 pt-1",children:le.options.map(Qe=>l.jsxs("div",{className:`p-2 rounded-lg border text-[11px] transition-colors ${Qe.key===le.correctOption?"bg-emerald-100/80 border-emerald-300 font-bold text-emerald-950 shadow-2xs":"border-slate-200 bg-white text-slate-700"}`,children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("span",{children:[l.jsxs("strong",{children:["(",Qe.key,")"]})," ",Qe.textEn]}),Qe.key===le.correctOption&&l.jsx(bs,{className:"w-3.5 h-3.5 text-emerald-600 shrink-0 ml-1"})]}),Qe.textUr&&Qe.textUr!==Qe.textEn&&l.jsx("div",{className:"font-urdu text-[11px] text-slate-600 text-right mt-0.5",dir:"rtl",children:Qe.textUr})]},Qe.key))})]},le.id||be))})]}),(v==="all"||v==="short")&&q.length>0&&l.jsxs("div",{className:"bg-white rounded-2xl border border-slate-200 p-5 space-y-4 shadow-xs",children:[l.jsxs("div",{className:"flex items-center justify-between pb-2 border-b border-slate-100",children:[l.jsxs("h3",{className:"font-extrabold text-xs uppercase tracking-wider text-slate-800 flex items-center gap-2",children:[l.jsx("span",{className:"w-2.5 h-2.5 rounded-full bg-blue-500"}),l.jsxs("span",{children:["Short Questions (Showing ",q.length," of ",ue.length,")"]})]}),l.jsx("span",{className:"text-[11px] text-slate-500",children:"2 Marks each"})]}),l.jsx("div",{className:"space-y-3",children:q.map((le,be)=>l.jsxs("div",{className:"border border-slate-200 rounded-xl p-4 bg-slate-50/50 text-xs hover:border-blue-300 hover:bg-white transition-all space-y-1.5",children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("span",{className:"font-bold text-blue-600 text-[11px]",children:["Question #",le.subNo||be+1]}),l.jsxs("div",{className:"flex items-center gap-1.5",children:[le.category&&l.jsx("span",{className:"text-[10px] bg-slate-200 text-slate-700 font-bold px-2 py-0.5 rounded",children:le.category}),l.jsxs("span",{className:"text-[10px] bg-blue-100 text-blue-800 font-bold px-1.5 py-0.5 rounded",children:[le.marks||2," Marks"]})]})]}),l.jsx("div",{className:"font-bold text-slate-900 text-xs sm:text-[13px] leading-snug",children:le.statementEn}),le.statementUr&&l.jsx("div",{className:"font-urdu text-[13px] text-slate-800 text-right leading-relaxed mt-1",dir:"rtl",children:le.statementUr})]},le.id||be))})]}),(v==="all"||v==="long")&&ae.length>0&&l.jsxs("div",{className:"bg-white rounded-2xl border border-slate-200 p-5 space-y-4 shadow-xs",children:[l.jsxs("div",{className:"flex items-center justify-between pb-2 border-b border-slate-100",children:[l.jsxs("h3",{className:"font-extrabold text-xs uppercase tracking-wider text-slate-800 flex items-center gap-2",children:[l.jsx("span",{className:"w-2.5 h-2.5 rounded-full bg-purple-500"}),l.jsxs("span",{children:["Long & Numerical Questions (Showing ",ae.length," of ",Ne.length,")"]})]}),l.jsx("span",{className:"text-[11px] text-slate-500",children:"Theory (5M) + Numerical (4M)"})]}),l.jsx("div",{className:"space-y-3",children:ae.map((le,be)=>{var Qe;return l.jsxs("div",{className:"border border-slate-200 rounded-xl p-4 bg-slate-50/50 text-xs space-y-2.5 hover:border-purple-300 hover:bg-white transition-all",children:[l.jsxs("div",{className:"flex items-center justify-between border-b border-slate-200 pb-1.5",children:[l.jsxs("div",{className:"font-extrabold text-slate-900 text-xs",children:["Question #",le.qNo||be+5]}),l.jsxs("span",{className:"text-[10px] bg-purple-100 text-purple-800 font-bold px-2 py-0.5 rounded",children:[le.totalMarks||9," Marks"]})]}),(Qe=le.parts)==null?void 0:Qe.map(Ye=>l.jsxs("div",{className:"pl-3 border-l-2 border-slate-300 py-1 space-y-1",children:[l.jsxs("div",{className:"font-bold text-slate-900 text-xs",children:[l.jsxs("span",{className:"text-purple-700 font-extrabold mr-1",children:["(",Ye.partLabel,")"]}),Ye.statementEn,l.jsxs("span",{className:"text-[10px] text-slate-500 font-normal ml-1.5",children:["[",Ye.marks," Marks]"]})]}),Ye.statementUr&&l.jsx("div",{className:"font-urdu text-[13px] text-slate-800 text-right leading-relaxed",dir:"rtl",children:Ye.statementUr})]},Ye.partLabel))]},le.id||be)})})]})]}),Ce>1&&l.jsxs("div",{className:"bg-white p-4 rounded-xl border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-3 text-xs",children:[l.jsxs("div",{className:"text-slate-500",children:["Showing Page ",l.jsx("strong",{children:Z})," of ",l.jsx("strong",{children:Ce})," (",Le," Total Filtered Questions)"]}),l.jsxs("div",{className:"flex items-center gap-1.5",children:[l.jsx("button",{type:"button",onClick:()=>oe(le=>Math.max(1,le-1)),disabled:Z===1,className:"p-1.5 rounded-lg border border-slate-200 hover:bg-slate-100 disabled:opacity-40 disabled:pointer-events-none cursor-pointer",children:l.jsx(G2,{className:"w-4 h-4 text-slate-700"})}),Array.from({length:Math.min(5,Ce)},(le,be)=>{const Qe=be+1;return l.jsx("button",{type:"button",onClick:()=>oe(Qe),className:`w-7 h-7 rounded-lg font-bold text-xs transition-colors cursor-pointer ${Z===Qe?"bg-blue-600 text-white shadow-xs":"border border-slate-200 text-slate-700 hover:bg-slate-100"}`,children:Qe},Qe)}),Ce>5&&l.jsx("span",{className:"text-slate-400 px-1",children:"..."}),l.jsx("button",{type:"button",onClick:()=>oe(le=>Math.min(Ce,le+1)),disabled:Z===Ce,className:"p-1.5 rounded-lg border border-slate-200 hover:bg-slate-100 disabled:opacity-40 disabled:pointer-events-none cursor-pointer",children:l.jsx(K2,{className:"w-4 h-4 text-slate-700"})})]})]})]})},E8="modulepreload",N8=function(n){return"/"+n},p_={},rw=function(e,t,r){let a=Promise.resolve();if(t&&t.length>0){let A=function(B){return Promise.all(B.map(m=>Promise.resolve(m).then(C=>({status:"fulfilled",value:C}),C=>({status:"rejected",reason:C}))))};document.getElementsByTagName("link");const u=document.querySelector("meta[property=csp-nonce]"),f=(u==null?void 0:u.nonce)||(u==null?void 0:u.getAttribute("nonce"));a=A(t.map(B=>{if(B=N8(B),B in p_)return;p_[B]=!0;const m=B.endsWith(".css"),C=m?'[rel="stylesheet"]':"";if(document.querySelector(`link[href="${B}"]${C}`))return;const y=document.createElement("link");if(y.rel=m?"stylesheet":E8,m||(y.as="script"),y.crossOrigin="",y.href=B,f&&y.setAttribute("nonce",f),document.head.appendChild(y),m)return new Promise((v,E)=>{y.addEventListener("load",v),y.addEventListener("error",()=>E(new Error(`Unable to preload CSS for ${B}`)))})}))}function o(A){const u=new Event("vite:preloadError",{cancelable:!0});if(u.payload=A,window.dispatchEvent(u),!u.defaultPrevented)throw A}return a.then(A=>{for(const u of A||[])u.status==="rejected"&&o(u.reason);return e().catch(o)})};function Br(n){"@babel/helpers - typeof";return Br=typeof Symbol=="function"&&typeof Symbol.iterator=="symbol"?function(e){return typeof e}:function(e){return e&&typeof Symbol=="function"&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},Br(n)}var ri=Uint8Array,So=Uint16Array,X2=Int32Array,LC=new ri([0,0,0,0,0,0,0,0,1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,0,0,0,0]),kC=new ri([0,0,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,0,0]),sw=new ri([16,17,18,0,8,7,9,6,10,5,11,4,12,3,13,2,14,1,15]),eI=function(n,e){for(var t=new So(31),r=0;r<31;++r)t[r]=e+=1<<n[r-1];for(var a=new X2(t[30]),r=1;r<30;++r)for(var o=t[r];o<t[r+1];++o)a[o]=o-t[r]<<5|r;return{b:t,r:a}},tI=eI(LC,2),nI=tI.b,aw=tI.r;nI[28]=258,aw[258]=28;var rI=eI(kC,0),_8=rI.b,m_=rI.r,iw=new So(32768);for(var Rr=0;Rr<32768;++Rr){var pu=(Rr&43690)>>1|(Rr&21845)<<1;pu=(pu&52428)>>2|(pu&13107)<<2,pu=(pu&61680)>>4|(pu&3855)<<4,iw[Rr]=((pu&65280)>>8|(pu&255)<<8)>>1}var DA=(function(n,e,t){for(var r=n.length,a=0,o=new So(e);a<r;++a)n[a]&&++o[n[a]-1];var A=new So(e);for(a=1;a<e;++a)A[a]=A[a-1]+o[a-1]<<1;var u;if(t){u=new So(1<<e);var f=15-e;for(a=0;a<r;++a)if(n[a])for(var B=a<<4|n[a],m=e-n[a],C=A[n[a]-1]++<<m,y=C|(1<<m)-1;C<=y;++C)u[iw[C]>>f]=B}else for(u=new So(r),a=0;a<r;++a)n[a]&&(u[a]=iw[A[n[a]-1]++]>>15-n[a]);return u}),Zu=new ri(288);for(var Rr=0;Rr<144;++Rr)Zu[Rr]=8;for(var Rr=144;Rr<256;++Rr)Zu[Rr]=9;for(var Rr=256;Rr<280;++Rr)Zu[Rr]=7;for(var Rr=280;Rr<288;++Rr)Zu[Rr]=8;var Vp=new ri(32);for(var Rr=0;Rr<32;++Rr)Vp[Rr]=5;var S8=DA(Zu,9,0),D8=DA(Zu,9,1),I8=DA(Vp,5,0),T8=DA(Vp,5,1),$b=function(n){for(var e=n[0],t=1;t<n.length;++t)n[t]>e&&(e=n[t]);return e},Il=function(n,e,t){var r=e/8|0;return(n[r]|n[r+1]<<8)>>(e&7)&t},Yb=function(n,e){var t=e/8|0;return(n[t]|n[t+1]<<8|n[t+2]<<16)>>(e&7)},Z2=function(n){return(n+7)/8|0},sI=function(n,e,t){return(t==null||t>n.length)&&(t=n.length),new ri(n.subarray(e,t))},F8=["unexpected EOF","invalid block type","invalid length/literal","invalid distance","stream finished","no stream handler",,"no callback","invalid UTF-8 data","extra field too long","date not in range 1980-2099","filename too long","stream finishing","invalid zip data"],Ll=function(n,e,t){var r=new Error(e||F8[n]);if(r.code=n,Error.captureStackTrace&&Error.captureStackTrace(r,Ll),!t)throw r;return r},U8=function(n,e,t,r){var a=n.length,o=0;if(!a||e.f&&!e.l)return t||new ri(0);var A=!t,u=A||e.i!=2,f=e.i;A&&(t=new ri(a*3));var B=function(be){var Qe=t.length;if(be>Qe){var Ye=new ri(Math.max(Qe*2,be));Ye.set(t),t=Ye}},m=e.f||0,C=e.p||0,y=e.b||0,v=e.l,E=e.d,I=e.m,O=e.n,F=a*8;do{if(!v){m=Il(n,C,1);var R=Il(n,C+1,3);if(C+=3,R)if(R==1)v=D8,E=T8,I=9,O=5;else if(R==2){var te=Il(n,C,31)+257,P=Il(n,C+10,15)+4,T=te+Il(n,C+5,31)+1;C+=14;for(var H=new ri(T),G=new ri(19),D=0;D<P;++D)G[sw[D]]=Il(n,C+D*3,7);C+=P*3;for(var U=$b(G),Q=(1<<U)-1,se=DA(G,U,1),D=0;D<T;){var pe=se[Il(n,C,Q)];C+=pe&15;var Z=pe>>4;if(Z<16)H[D++]=Z;else{var ce=0,me=0;for(Z==16?(me=3+Il(n,C,3),C+=2,ce=H[D-1]):Z==17?(me=3+Il(n,C,7),C+=3):Z==18&&(me=11+Il(n,C,127),C+=7);me--;)H[D++]=ce}}var ue=H.subarray(0,te),Ne=H.subarray(te);I=$b(ue),O=$b(Ne),v=DA(ue,I,1),E=DA(Ne,O,1)}else Ll(1);else{var Z=Z2(C)+4,oe=n[Z-4]|n[Z-3]<<8,ne=Z+oe;if(ne>a){f&&Ll(0);break}u&&B(y+oe),t.set(n.subarray(Z,ne),y),e.b=y+=oe,e.p=C=ne*8,e.f=m;continue}if(C>F){f&&Ll(0);break}}u&&B(y+131072);for(var Le=(1<<I)-1,Ce=(1<<O)-1,k=C;;k=C){var ce=v[Yb(n,C)&Le],Y=ce>>4;if(C+=ce&15,C>F){f&&Ll(0);break}if(ce||Ll(2),Y<256)t[y++]=Y;else if(Y==256){k=C,v=null;break}else{var S=Y-254;if(Y>264){var D=Y-257,V=LC[D];S=Il(n,C,(1<<V)-1)+nI[D],C+=V}var q=E[Yb(n,C)&Ce],ae=q>>4;q||Ll(3),C+=q&15;var Ne=_8[ae];if(ae>3){var V=kC[ae];Ne+=Yb(n,C)&(1<<V)-1,C+=V}if(C>F){f&&Ll(0);break}u&&B(y+131072);var Be=y+S;if(y<Ne){var xe=o-Ne,le=Math.min(Ne,Be);for(xe+y<0&&Ll(3);y<le;++y)t[y]=r[xe+y]}for(;y<Be;++y)t[y]=t[y-Ne]}}e.l=v,e.p=k,e.b=y,e.f=m,v&&(m=1,e.m=I,e.d=E,e.n=O)}while(!m);return y!=t.length&&A?sI(t,0,y):t.subarray(0,y)},lc=function(n,e,t){t<<=e&7;var r=e/8|0;n[r]|=t,n[r+1]|=t>>8},GB=function(n,e,t){t<<=e&7;var r=e/8|0;n[r]|=t,n[r+1]|=t>>8,n[r+2]|=t>>16},Wb=function(n,e){for(var t=[],r=0;r<n.length;++r)n[r]&&t.push({s:r,f:n[r]});var a=t.length,o=t.slice();if(!a)return{t:iI,l:0};if(a==1){var A=new ri(t[0].s+1);return A[t[0].s]=1,{t:A,l:1}}t.sort(function(ne,te){return ne.f-te.f}),t.push({s:-1,f:25001});var u=t[0],f=t[1],B=0,m=1,C=2;for(t[0]={s:-1,f:u.f+f.f,l:u,r:f};m!=a-1;)u=t[t[B].f<t[C].f?B++:C++],f=t[B!=m&&t[B].f<t[C].f?B++:C++],t[m++]={s:-1,f:u.f+f.f,l:u,r:f};for(var y=o[0].s,r=1;r<a;++r)o[r].s>y&&(y=o[r].s);var v=new So(y+1),E=ow(t[m-1],v,0);if(E>e){var r=0,I=0,O=E-e,F=1<<O;for(o.sort(function(te,P){return v[P.s]-v[te.s]||te.f-P.f});r<a;++r){var R=o[r].s;if(v[R]>e)I+=F-(1<<E-v[R]),v[R]=e;else break}for(I>>=O;I>0;){var Z=o[r].s;v[Z]<e?I-=1<<e-v[Z]++-1:++r}for(;r>=0&&I;--r){var oe=o[r].s;v[oe]==e&&(--v[oe],++I)}E=e}return{t:new ri(v),l:E}},ow=function(n,e,t){return n.s==-1?Math.max(ow(n.l,e,t+1),ow(n.r,e,t+1)):e[n.s]=t},g_=function(n){for(var e=n.length;e&&!n[--e];);for(var t=new So(++e),r=0,a=n[0],o=1,A=function(f){t[r++]=f},u=1;u<=e;++u)if(n[u]==a&&u!=e)++o;else{if(!a&&o>2){for(;o>138;o-=138)A(32754);o>2&&(A(o>10?o-11<<5|28690:o-3<<5|12305),o=0)}else if(o>3){for(A(a),--o;o>6;o-=6)A(8304);o>2&&(A(o-3<<5|8208),o=0)}for(;o--;)A(a);o=1,a=n[u]}return{c:t.subarray(0,r),n:e}},KB=function(n,e){for(var t=0,r=0;r<e.length;++r)t+=n[r]*e[r];return t},aI=function(n,e,t){var r=t.length,a=Z2(e+2);n[a]=r&255,n[a+1]=r>>8,n[a+2]=n[a]^255,n[a+3]=n[a+1]^255;for(var o=0;o<r;++o)n[a+o+4]=t[o];return(a+4+r)*8},C_=function(n,e,t,r,a,o,A,u,f,B,m){lc(e,m++,t),++a[256];for(var C=Wb(a,15),y=C.t,v=C.l,E=Wb(o,15),I=E.t,O=E.l,F=g_(y),R=F.c,Z=F.n,oe=g_(I),ne=oe.c,te=oe.n,P=new So(19),T=0;T<R.length;++T)++P[R[T]&31];for(var T=0;T<ne.length;++T)++P[ne[T]&31];for(var H=Wb(P,7),G=H.t,D=H.l,U=19;U>4&&!G[sw[U-1]];--U);var Q=B+5<<3,se=KB(a,Zu)+KB(o,Vp)+A,pe=KB(a,y)+KB(o,I)+A+14+3*U+KB(P,G)+2*P[16]+3*P[17]+7*P[18];if(f>=0&&Q<=se&&Q<=pe)return aI(e,m,n.subarray(f,f+B));var ce,me,ue,Ne;if(lc(e,m,1+(pe<se)),m+=2,pe<se){ce=DA(y,v,0),me=y,ue=DA(I,O,0),Ne=I;var Le=DA(G,D,0);lc(e,m,Z-257),lc(e,m+5,te-1),lc(e,m+10,U-4),m+=14;for(var T=0;T<U;++T)lc(e,m+3*T,G[sw[T]]);m+=3*U;for(var Ce=[R,ne],k=0;k<2;++k)for(var Y=Ce[k],T=0;T<Y.length;++T){var S=Y[T]&31;lc(e,m,Le[S]),m+=G[S],S>15&&(lc(e,m,Y[T]>>5&127),m+=Y[T]>>12)}}else ce=S8,me=Zu,ue=I8,Ne=Vp;for(var T=0;T<u;++T){var V=r[T];if(V>255){var S=V>>18&31;GB(e,m,ce[S+257]),m+=me[S+257],S>7&&(lc(e,m,V>>23&31),m+=LC[S]);var q=V&31;GB(e,m,ue[q]),m+=Ne[q],q>3&&(GB(e,m,V>>5&8191),m+=kC[q])}else GB(e,m,ce[V]),m+=me[V]}return GB(e,m,ce[256]),m+me[256]},L8=new X2([65540,131080,131088,131104,262176,1048704,1048832,2114560,2117632]),iI=new ri(0),k8=function(n,e,t,r,a,o){var A=o.z||n.length,u=new ri(r+A+5*(1+Math.ceil(A/7e3))+a),f=u.subarray(r,u.length-a),B=o.l,m=(o.r||0)&7;if(e){m&&(f[0]=o.r>>3);for(var C=L8[e-1],y=C>>13,v=C&8191,E=(1<<t)-1,I=o.p||new So(32768),O=o.h||new So(E+1),F=Math.ceil(t/3),R=2*F,Z=function(St){return(n[St]^n[St+1]<<F^n[St+2]<<R)&E},oe=new X2(25e3),ne=new So(288),te=new So(32),P=0,T=0,H=o.i||0,G=0,D=o.w||0,U=0;H+2<A;++H){var Q=Z(H),se=H&32767,pe=O[Q];if(I[se]=pe,O[Q]=se,D<=H){var ce=A-H;if((P>7e3||G>24576)&&(ce>423||!B)){m=C_(n,f,0,oe,ne,te,T,G,U,H-U,m),G=P=T=0,U=H;for(var me=0;me<286;++me)ne[me]=0;for(var me=0;me<30;++me)te[me]=0}var ue=2,Ne=0,Le=v,Ce=se-pe&32767;if(ce>2&&Q==Z(H-Ce))for(var k=Math.min(y,ce)-1,Y=Math.min(32767,H),S=Math.min(258,ce);Ce<=Y&&--Le&&se!=pe;){if(n[H+ue]==n[H+ue-Ce]){for(var V=0;V<S&&n[H+V]==n[H+V-Ce];++V);if(V>ue){if(ue=V,Ne=Ce,V>k)break;for(var q=Math.min(Ce,V-2),ae=0,me=0;me<q;++me){var Be=H-Ce+me&32767,xe=I[Be],le=Be-xe&32767;le>ae&&(ae=le,pe=Be)}}}se=pe,pe=I[se],Ce+=se-pe&32767}if(Ne){oe[G++]=268435456|aw[ue]<<18|m_[Ne];var be=aw[ue]&31,Qe=m_[Ne]&31;T+=LC[be]+kC[Qe],++ne[257+be],++te[Qe],D=H+ue,++P}else oe[G++]=n[H],++ne[n[H]]}}for(H=Math.max(H,D);H<A;++H)oe[G++]=n[H],++ne[n[H]];m=C_(n,f,B,oe,ne,te,T,G,U,H-U,m),B||(o.r=m&7|f[m/8|0]<<3,m-=7,o.h=O,o.p=I,o.i=H,o.w=D)}else{for(var H=o.w||0;H<A+B;H+=65535){var Ye=H+65535;Ye>=A&&(f[m/8|0]=B,Ye=A),m=aI(f,m+1,n.subarray(H,Ye))}o.i=A}return sI(u,0,r+Z2(m)+a)},oI=function(){var n=1,e=0;return{p:function(t){for(var r=n,a=e,o=t.length|0,A=0;A!=o;){for(var u=Math.min(A+2655,o);A<u;++A)a+=r+=t[A];r=(r&65535)+15*(r>>16),a=(a&65535)+15*(a>>16)}n=r,e=a},d:function(){return n%=65521,e%=65521,(n&255)<<24|(n&65280)<<8|(e&255)<<8|e>>8}}},j8=function(n,e,t,r,a){if(!a&&(a={l:1},e.dictionary)){var o=e.dictionary.subarray(-32768),A=new ri(o.length+n.length);A.set(o),A.set(n,o.length),n=A,a.w=o.length}return k8(n,e.level==null?6:e.level,e.mem==null?a.l?Math.ceil(Math.max(8,Math.min(13,Math.log(n.length)))*1.5):20:12+e.mem,t,r,a)},lI=function(n,e,t){for(;t;++e)n[e]=t,t>>>=8},Q8=function(n,e){var t=e.level,r=t==0?0:t<6?1:t==9?3:2;if(n[0]=120,n[1]=r<<6|(e.dictionary&&32),n[1]|=31-(n[0]<<8|n[1])%31,e.dictionary){var a=oI();a.p(e.dictionary),lI(n,2,a.d())}},O8=function(n,e){return((n[0]&15)!=8||n[0]>>4>7||(n[0]<<8|n[1])%31)&&Ll(6,"invalid zlib data"),(n[1]>>5&1)==1&&Ll(6,"invalid zlib data: "+(n[1]&32?"need":"unexpected")+" dictionary"),(n[1]>>3&4)+2};function lw(n,e){e||(e={});var t=oI();t.p(n);var r=j8(n,e,e.dictionary?6:2,4);return Q8(r,e),lI(r,r.length-4,t.d()),r}function R8(n,e){return U8(n.subarray(O8(n),-4),{i:2},e,e)}var M8=typeof TextDecoder!="undefined"&&new TextDecoder,P8=0;try{M8.decode(iI,{stream:!0}),P8=1}catch(n){}var an=(function(){return typeof window!="undefined"?window:typeof global!="undefined"?global:typeof self!="undefined"?self:this})();function Xb(){an.console&&typeof an.console.log=="function"&&an.console.log.apply(an.console,arguments)}var Er={log:Xb,warn:function(n){an.console&&(typeof an.console.warn=="function"?an.console.warn.apply(an.console,arguments):Xb.call(null,arguments))},error:function(n){an.console&&(typeof an.console.error=="function"?an.console.error.apply(an.console,arguments):Xb(n))}};function Zb(n,e,t){var r=new XMLHttpRequest;r.open("GET",n),r.responseType="blob",r.onload=function(){Lh(r.response,e,t)},r.onerror=function(){Er.error("could not download file")},r.send()}function b_(n){var e=new XMLHttpRequest;e.open("HEAD",n,!1);try{e.send()}catch(t){}return e.status>=200&&e.status<=299}function vg(n){try{n.dispatchEvent(new MouseEvent("click"))}catch(t){var e=document.createEvent("MouseEvents");e.initMouseEvent("click",!0,!0,window,0,0,0,80,20,!1,!1,!1,!1,0,null),n.dispatchEvent(e)}}var gp,Aw,Lh=an.saveAs||((typeof window=="undefined"?"undefined":Br(window))!=="object"||window!==an?function(){}:typeof HTMLAnchorElement!="undefined"&&"download"in HTMLAnchorElement.prototype?function(n,e,t){var r=an.URL||an.webkitURL,a=document.createElement("a");e=e||n.name||"download",a.download=e,a.rel="noopener",typeof n=="string"?(a.href=n,a.origin!==location.origin?b_(a.href)?Zb(n,e,t):vg(a,a.target="_blank"):vg(a)):(a.href=r.createObjectURL(n),setTimeout((function(){r.revokeObjectURL(a.href)}),4e4),setTimeout((function(){vg(a)}),0))}:"msSaveOrOpenBlob"in navigator?function(n,e,t){if(e=e||n.name||"download",typeof n=="string")if(b_(n))Zb(n,e,t);else{var r=document.createElement("a");r.href=n,r.target="_blank",setTimeout((function(){vg(r)}))}else navigator.msSaveOrOpenBlob((function(a,o){return o===void 0?o={autoBom:!1}:Br(o)!=="object"&&(Er.warn("Deprecated: Expected third argument to be a object"),o={autoBom:!o}),o.autoBom&&/^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(a.type)?new Blob(["\uFEFF",a],{type:a.type}):a})(n,t),e)}:function(n,e,t,r){if((r=r||open("","_blank"))&&(r.document.title=r.document.body.innerText="downloading..."),typeof n=="string")return Zb(n,e,t);var a=n.type==="application/octet-stream",o=/constructor/i.test(an.HTMLElement)||an.safari,A=/CriOS\/[\d]+/.test(navigator.userAgent);if((A||a&&o)&&(typeof FileReader=="undefined"?"undefined":Br(FileReader))==="object"){var u=new FileReader;u.onloadend=function(){var m=u.result;m=A?m:m.replace(/^data:[^;]*;/,"data:attachment/file;"),r?r.location.href=m:location=m,r=null},u.readAsDataURL(n)}else{var f=an.URL||an.webkitURL,B=f.createObjectURL(n);r?r.location=B:location.href=B,r=null,setTimeout((function(){f.revokeObjectURL(B)}),4e4)}});/**
  * A class to parse color values
  * @author Stoyan Stefanov <sstoo@gmail.com>
