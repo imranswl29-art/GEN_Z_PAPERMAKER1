@@ -4441,6 +4441,8 @@ async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapter
 }
 
 function ClassNotesView({ currentUser, onBack }) {
+  // Step State: 1 = Select Class, 2 = Select Subject, 3 = Select Chapter & Medium, 4 = View & Print Solved Notes
+  const [currentStep, setCurrentStep] = Ee.useState(1);
   const [selectedClass, setSelectedClass] = Ee.useState("9th");
   const classSubjects = Ee.useMemo(() => Wo.filter(s => s.classLevel === selectedClass), [selectedClass]);
   const [selectedSubjectId, setSelectedSubjectId] = Ee.useState("9th-physics");
@@ -4492,441 +4494,823 @@ function ClassNotesView({ currentUser, onBack }) {
     }
   };
 
+  const stepsList = [
+    { num: 1, labelEn: "Select Class", labelUr: "کلاس کا انتخاب", icon: "🏫" },
+    { num: 2, labelEn: "Select Subject", labelUr: "مضمون کا انتخاب", icon: "📚" },
+    { num: 3, labelEn: "Unit & Medium", labelUr: "یونٹ و میڈیم", icon: "📑" },
+    { num: 4, labelEn: "Solved Notes", labelUr: "حل شدہ نوٹس", icon: "📖" }
+  ];
+
   return l.jsxs("div", {
     className: "space-y-5 max-w-7xl mx-auto pb-16 font-sans text-slate-800",
     children: [
-      // Top Navigation / Header
+      // Top Module Header & Stepper
       l.jsxs("div", {
-        className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-3 no-print",
+        className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs space-y-4 no-print",
         children: [
+          // Main Header Row
           l.jsxs("div", {
-            className: "flex items-center gap-3",
+            className: "flex flex-wrap items-center justify-between gap-3",
             children: [
-              l.jsxs("button", {
-                type: "button",
-                onClick: onBack,
-                className: "btn-3d flex items-center gap-1.5 px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border border-slate-300 shadow-xs",
-                title: "Return to Dashboard",
-                children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "Back" })]
-              }),
               l.jsxs("div", {
+                className: "flex items-center gap-3",
                 children: [
-                  l.jsxs("h1", {
-                    className: "text-lg sm:text-xl font-black text-slate-900 flex items-center gap-2",
-                    children: [
-                      l.jsx("span", { className: "w-8 h-8 icon-3d-badge jewel-purple text-white shrink-0 flex items-center justify-center", children: "📖" }),
-                      "CLASS 9th & 10th (Notes)"
-                    ]
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: onBack,
+                    className: "btn-3d flex items-center gap-1.5 px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border border-slate-300 shadow-xs",
+                    title: "Return to Dashboard",
+                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "Dashboard" })]
                   }),
-                  l.jsx("p", { className: "text-xs text-slate-500 font-semibold", children: "Official Punjab Textbook Board (PTBB) Solved Revision Notes: MCQs & Short Questions" })
+                  l.jsxs("div", {
+                    children: [
+                      l.jsxs("h1", {
+                        className: "text-lg sm:text-xl font-black text-slate-900 flex items-center gap-2",
+                        children: [
+                          l.jsx("span", { className: "w-8 h-8 icon-3d-badge jewel-purple text-white shrink-0 flex items-center justify-center", children: "📖" }),
+                          "CLASS 9th & 10th (Notes)"
+                        ]
+                      }),
+                      l.jsx("p", { className: "text-xs text-slate-500 font-semibold", children: "Step-by-Step Guided Wizard: Punjab Textbook Board (PTBB) Solved Revision Notes" })
+                    ]
+                  })
+                ]
+              }),
+              // Active Selection Indicator Chip
+              l.jsxs("div", {
+                className: "hidden md:flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-xl border border-slate-200 text-xs font-bold text-slate-700",
+                children: [
+                  l.jsx("span", { className: "text-slate-400", children: "Active:" }),
+                  l.jsxs("span", { className: "px-2 py-0.5 rounded bg-blue-100 text-blue-800 font-black", children: [selectedClass, " Class"] }),
+                  l.jsx("span", { className: "text-slate-300", children: "•" }),
+                  l.jsx("span", { className: "font-black text-slate-900", children: currentSubject.nameEn }),
+                  currentStep >= 3 && l.jsxs(l.Fragment, {
+                    children: [
+                      l.jsx("span", { className: "text-slate-300", children: "•" }),
+                      l.jsxs("span", { className: "text-purple-700 font-black", children: ["Unit ", selectedChapterNo] })
+                    ]
+                  })
                 ]
               })
             ]
           }),
-          // Three Export Buttons: PDF (.pdf), Word (.docx), Direct Print
-          l.jsxs("div", {
-            className: "flex flex-wrap items-center gap-2",
-            children: [
-              // Button 1: PDF Download
-              l.jsxs("button", {
+
+          // Guided Stepper Navigation Tabs (Like Paper Maker Stepper)
+          l.jsx("div", {
+            className: "grid grid-cols-2 sm:grid-cols-4 gap-2 pt-1 border-t border-slate-200",
+            children: stepsList.map(st => {
+              const isCurrent = currentStep === st.num;
+              const isPast = currentStep > st.num;
+              return l.jsxs("button", {
+                key: st.num,
                 type: "button",
-                disabled: isExportingPdf,
-                onClick: handleDownloadPDF,
-                className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-rose-600 hover:bg-rose-700 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs disabled:opacity-60 transition-all",
-                title: "Download Solved Notes as PDF Document",
+                onClick: () => setCurrentStep(st.num),
+                className: "p-2.5 sm:p-3 rounded-xl text-center border-2 transition-all cursor-pointer " + (
+                  isCurrent ? "bg-blue-600 border-blue-700 text-white shadow-md ring-2 ring-blue-400/40" :
+                  isPast ? "bg-emerald-600 border-emerald-700 text-white font-bold shadow-xs hover:bg-emerald-700" :
+                  "bg-slate-50 border-slate-200 text-slate-600 hover:bg-slate-100 font-bold"
+                ),
                 children: [
-                  isExportingPdf ? l.jsx(Sc, { className: "w-4 h-4 animate-spin text-white" }) : l.jsx(SAFE_ad, { className: "w-4 h-4 text-rose-100" }),
-                  l.jsx("span", { children: isExportingPdf ? "Generating PDF..." : "Download PDF (.pdf)" })
+                  l.jsxs("div", {
+                    className: "text-[11px] font-black uppercase flex items-center justify-center gap-1.5",
+                    children: [
+                      l.jsx("span", { children: st.icon }),
+                      l.jsxs("span", { children: ["Step ", st.num] }),
+                      isPast && l.jsx(bs, { className: "w-3 h-3 text-white shrink-0" })
+                    ]
+                  }),
+                  l.jsx("div", {
+                    className: "font-black text-xs sm:text-sm truncate mt-0.5",
+                    children: st.labelEn
+                  }),
+                  l.jsx("div", {
+                    className: "font-urdu text-[11px] opacity-90 truncate leading-tight",
+                    children: st.labelUr
+                  })
+                ]
+              });
+            })
+          })
+        ]
+      }),
+
+      // ==========================================
+      // STEP 1: SELECT CLASS (ONLY SHOWN ON STEP 1)
+      // ==========================================
+      currentStep === 1 && l.jsxs("div", {
+        className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
+        children: [
+          l.jsxs("div", {
+            className: "text-center max-w-xl mx-auto space-y-2",
+            children: [
+              l.jsxs("div", {
+                className: "inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-100 text-blue-900 font-black text-xs uppercase tracking-wider",
+                children: [
+                  l.jsx("span", { className: "w-2 h-2 rounded-full bg-blue-600" }),
+                  "Step 1: Choose Matric Class"
                 ]
               }),
-              // Button 2: Word Download (.docx)
-              l.jsxs("button", {
-                type: "button",
-                onClick: () => exportNotesToWordDoc(notesData, effectiveLangMode, currentUser, selectedClass, currentSubject.nameEn),
-                className: "btn-3d btn-3d-indigo flex items-center gap-1.5 px-3.5 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs",
-                title: "Download MS Word .docx Document",
-                children: [l.jsx(Xu, { className: "w-4 h-4 text-indigo-100" }), l.jsx("span", { children: "Download Word (.docx)" })]
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "اپنی مطلوبہ کلاس کا انتخاب کریں" }),
+              l.jsx("p", { className: "text-xs sm:text-sm text-slate-500 font-semibold", children: "Select 9th or 10th Class to load official Punjab Textbook Board (PTBB) syllabus & solved notes." })
+            ]
+          }),
+
+          // Two Interactive Big Class Cards
+          l.jsxs("div", {
+            className: "grid grid-cols-1 md:grid-cols-2 gap-5 max-w-3xl mx-auto pt-2",
+            children: [
+              // 9th Class Card
+              l.jsxs("div", {
+                onClick: () => setSelectedClass("9th"),
+                className: "p-6 rounded-2xl border-3 cursor-pointer transition-all relative overflow-hidden group " + (
+                  selectedClass === "9th" ? "bg-blue-50/70 border-blue-600 shadow-lg ring-4 ring-blue-100 scale-[1.01]" :
+                  "bg-white border-slate-200 hover:border-blue-400 hover:shadow-md"
+                ),
+                children: [
+                  selectedClass === "9th" && l.jsx("div", {
+                    className: "absolute top-3 right-3 w-7 h-7 rounded-full bg-blue-600 text-white flex items-center justify-center font-black text-sm shadow-sm",
+                    children: "✔"
+                  }),
+                  l.jsxs("div", {
+                    className: "flex items-start gap-4",
+                    children: [
+                      l.jsx("div", {
+                        className: "w-16 h-16 rounded-2xl icon-3d-badge jewel-blue text-white flex items-center justify-center text-2xl font-black shrink-0",
+                        children: "9th"
+                      }),
+                      l.jsxs("div", {
+                        className: "space-y-1.5 flex-1",
+                        children: [
+                          l.jsx("h3", { className: "text-xl font-black text-slate-900", children: "9th Class (Matric Part-I)" }),
+                          l.jsx("p", { dir: "rtl", className: "font-urdu text-base font-bold text-blue-900", children: "کلاس نہم • پنجاب ٹیکسٹ بک بورڈ" }),
+                          l.jsx("p", { className: "text-xs text-slate-600 font-medium", children: "Official 2026 PTBB Curriculum: Physics, Chemistry, Biology, Math, Computer, English, Urdu & more." }),
+                          l.jsxs("div", {
+                            className: "pt-2 flex flex-wrap gap-1.5 text-[10px] font-black",
+                            children: [
+                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-blue-100 text-blue-800", children: "9 Core Subjects" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-emerald-100 text-emerald-800", children: "Solved MCQs" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-purple-100 text-purple-800", children: "Model Short Questions" })
+                            ]
+                          })
+                        ]
+                      })
+                    ]
+                  })
+                ]
               }),
-              // Button 3: Direct Print
+
+              // 10th Class Card
+              l.jsxs("div", {
+                onClick: () => setSelectedClass("10th"),
+                className: "p-6 rounded-2xl border-3 cursor-pointer transition-all relative overflow-hidden group " + (
+                  selectedClass === "10th" ? "bg-indigo-50/70 border-indigo-600 shadow-lg ring-4 ring-indigo-100 scale-[1.01]" :
+                  "bg-white border-slate-200 hover:border-indigo-400 hover:shadow-md"
+                ),
+                children: [
+                  selectedClass === "10th" && l.jsx("div", {
+                    className: "absolute top-3 right-3 w-7 h-7 rounded-full bg-indigo-600 text-white flex items-center justify-center font-black text-sm shadow-sm",
+                    children: "✔"
+                  }),
+                  l.jsxs("div", {
+                    className: "flex items-start gap-4",
+                    children: [
+                      l.jsx("div", {
+                        className: "w-16 h-16 rounded-2xl icon-3d-badge jewel-indigo text-white flex items-center justify-center text-2xl font-black shrink-0",
+                        children: "10th"
+                      }),
+                      l.jsxs("div", {
+                        className: "space-y-1.5 flex-1",
+                        children: [
+                          l.jsx("h3", { className: "text-xl font-black text-slate-900", children: "10th Class (Matric Part-II)" }),
+                          l.jsx("p", { dir: "rtl", className: "font-urdu text-base font-bold text-indigo-900", children: "کلاس دہم • پنجاب ٹیکسٹ بک بورڈ" }),
+                          l.jsx("p", { className: "text-xs text-slate-600 font-medium", children: "Board Pairing Scheme & Examination Notes with SLO Conceptual MCQs and Verified Answers." }),
+                          l.jsxs("div", {
+                            className: "pt-2 flex flex-wrap gap-1.5 text-[10px] font-black",
+                            children: [
+                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-indigo-100 text-indigo-800", children: "Board Matrix 2026" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-emerald-100 text-emerald-800", children: "Full Syllabus" }),
+                              l.jsx("span", { className: "px-2 py-0.5 rounded bg-purple-100 text-purple-800", children: "Direct Print / PDF" })
+                            ]
+                          })
+                        ]
+                      })
+                    ]
+                  })
+                ]
+              })
+            ]
+          }),
+
+          // Step 1 Footer Action Bar
+          l.jsxs("div", {
+            className: "pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 max-w-3xl mx-auto",
+            children: [
               l.jsxs("button", {
                 type: "button",
-                onClick: () => window.print(),
-                className: "btn-print-preview flex items-center gap-1.5 px-4 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs",
-                title: "Direct Print Solved Notes",
-                children: [l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-100" }), l.jsx("span", { children: "Direct Print" })]
+                onClick: onBack,
+                className: "btn-3d px-4 py-2.5 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300 cursor-pointer flex items-center gap-1.5",
+                children: [l.jsx(SAFE_h_, { className: "w-4 h-4" }), l.jsx("span", { children: "Back to Dashboard" })]
+              }),
+              l.jsxs("button", {
+                type: "button",
+                onClick: () => setCurrentStep(2),
+                className: "btn-3d btn-3d-blue px-6 py-2.5 text-white rounded-xl text-sm font-black cursor-pointer shadow-md flex items-center gap-2",
+                children: [
+                  l.jsx("span", { children: "اگلا مرحلہ: مضمون منتخب کریں (Next: Select Subject)" }),
+                  l.jsx("span", { className: "text-base font-sans", children: "→" })
+                ]
               })
             ]
           })
         ]
       }),
-      // Step Controls Card: Step 1 (Class) -> Step 2 (Subject) -> Step 3 (Chapter)
-      l.jsxs("div", {
-        className: "card-3d p-4 sm:p-5 space-y-4 no-print",
+
+      // ==========================================
+      // STEP 2: SELECT SUBJECT (ONLY SHOWN ON STEP 2)
+      // ==========================================
+      currentStep === 2 && l.jsxs("div", {
+        className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
         children: [
-          // Step 1: Select Class
           l.jsxs("div", {
-            className: "flex flex-wrap items-center gap-2 border-b border-slate-200 pb-3",
+            className: "text-center max-w-xl mx-auto space-y-2",
             children: [
-              l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700 min-w-[90px]", children: "Step 1: Class:" }),
+              l.jsxs("div", {
+                className: "inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-900 font-black text-xs uppercase tracking-wider",
+                children: [
+                  l.jsx("span", { className: "w-2 h-2 rounded-full bg-emerald-600" }),
+                  "Step 2: Choose PTBB Subject (" + selectedClass + " Class)"
+                ]
+              }),
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "مضمون منتخب کریں" }),
+              l.jsx("p", { className: "text-xs sm:text-sm text-slate-500 font-semibold", children: "Click on any PTBB textbook subject to generate its solved revision notes." })
+            ]
+          }),
+
+          // Subjects Grid
+          l.jsx("div", {
+            className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 max-w-5xl mx-auto pt-2",
+            children: classSubjects.map(sub => {
+              const isSelected = sub.id === currentSubject.id;
+              const chCount = (sub.chapters && sub.chapters.length) || 0;
+              return l.jsxs("div", {
+                key: sub.id,
+                onClick: () => setSelectedSubjectId(sub.id),
+                className: "p-4 rounded-xl border-2 cursor-pointer transition-all flex items-center justify-between gap-3 " + (
+                  isSelected ? "bg-emerald-50 border-emerald-600 shadow-md ring-2 ring-emerald-300 scale-[1.01]" :
+                  "bg-white border-slate-200 hover:border-emerald-400 hover:bg-slate-50 shadow-2xs"
+                ),
+                children: [
+                  l.jsxs("div", {
+                    className: "flex items-center gap-3",
+                    children: [
+                      l.jsx("div", {
+                        className: "w-11 h-11 rounded-xl icon-3d-badge jewel-emerald text-white flex items-center justify-center font-black text-base shrink-0",
+                        children: sub.nameEn.charAt(0)
+                      }),
+                      l.jsxs("div", {
+                        children: [
+                          l.jsx("h4", { className: "font-black text-sm text-slate-900 leading-tight", children: sub.nameEn }),
+                          l.jsx("p", { dir: "rtl", className: "font-urdu text-xs font-bold text-emerald-800 leading-tight", children: sub.nameUr || sub.nameEn }),
+                          l.jsxs("span", { className: "text-[10px] text-slate-500 font-bold", children: [chCount, " Chapters in Syllabus"] })
+                        ]
+                      })
+                    ]
+                  }),
+                  isSelected && l.jsx("span", {
+                    className: "w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-black shrink-0 shadow-2xs",
+                    children: "✔"
+                  })
+                ]
+              });
+            })
+          }),
+
+          // Step 2 Footer Action Bar
+          l.jsxs("div", {
+            className: "pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 max-w-5xl mx-auto",
+            children: [
               l.jsxs("button", {
                 type: "button",
-                onClick: () => setSelectedClass("9th"),
-                className: "btn-3d px-4 py-2 rounded-xl text-xs font-black cursor-pointer transition-all " + (selectedClass === "9th" ? "btn-3d-blue text-white shadow-sm" : "bg-slate-100 text-slate-700 border border-slate-300 hover:bg-slate-200"),
-                children: ["9th Class (Matric Part-I)"]
+                onClick: () => setCurrentStep(1),
+                className: "btn-3d px-4 py-2.5 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300 cursor-pointer flex items-center gap-1.5",
+                children: [l.jsx(SAFE_h_, { className: "w-4 h-4" }), l.jsx("span", { children: "← پچھلا مرحلہ: کلاس تبدیل کریں (Back to Class)" })]
               }),
               l.jsxs("button", {
                 type: "button",
-                onClick: () => setSelectedClass("10th"),
-                className: "btn-3d px-4 py-2 rounded-xl text-xs font-black cursor-pointer transition-all " + (selectedClass === "10th" ? "btn-3d-blue text-white shadow-sm" : "bg-slate-100 text-slate-700 border border-slate-300 hover:bg-slate-200"),
-                children: ["10th Class (Matric Part-II)"]
+                onClick: () => setCurrentStep(3),
+                className: "btn-3d btn-3d-emerald px-6 py-2.5 text-white rounded-xl text-sm font-black cursor-pointer shadow-md flex items-center gap-2",
+                children: [
+                  l.jsxs("span", { children: ["اگلا مرحلہ: یونٹ / چیپٹر منتخب کریں (", currentSubject.nameEn, ")"] }),
+                  l.jsx("span", { className: "text-base font-sans", children: "→" })
+                ]
+              })
+            ]
+          })
+        ]
+      }),
+
+      // ==============================================================
+      // STEP 3: SELECT CHAPTER & MEDIUM (ONLY SHOWN ON STEP 3)
+      // ==============================================================
+      currentStep === 3 && l.jsxs("div", {
+        className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
+        children: [
+          l.jsxs("div", {
+            className: "text-center max-w-xl mx-auto space-y-2",
+            children: [
+              l.jsxs("div", {
+                className: "inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-900 font-black text-xs uppercase tracking-wider",
+                children: [
+                  l.jsx("span", { className: "w-2 h-2 rounded-full bg-purple-600" }),
+                  "Step 3: Chapter & Language Selection"
+                ]
+              }),
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "یونٹ اور زبان کا انتخاب کریں" }),
+              l.jsxs("p", {
+                className: "text-xs sm:text-sm text-slate-600 font-bold",
+                children: [
+                  "Active Subject: ",
+                  l.jsx("span", { className: "text-blue-800 font-black", children: currentSubject.nameEn }),
+                  " (" + selectedClass + " Class)"
+                ]
               })
             ]
           }),
-          // Step 2: Select Subject
+
+          // Section A: Language Medium Selection Box
           l.jsxs("div", {
-            className: "space-y-2 border-b border-slate-200 pb-3",
+            className: "max-w-4xl mx-auto bg-slate-50 border-2 border-slate-200 p-4 sm:p-5 rounded-2xl space-y-3",
             children: [
               l.jsxs("div", {
                 className: "flex items-center justify-between",
                 children: [
-                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "Step 2: Select PTBB Subject:" }),
-                  l.jsxs("span", { className: "text-[11px] text-blue-700 font-bold", children: [classSubjects.length, " Subjects Available"] })
+                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "زبان کا میڈیم (Language Medium):" }),
+                  isUrduSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "اردو میڈیم (100% اردو لازمی)" }) :
+                  isEnglishSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-blue-100 text-blue-800 border border-blue-300", children: "English Only with Urdu Translation" }) :
+                  l.jsx("span", { className: "text-xs font-bold text-slate-500", children: "Select your required exam medium" })
+                ]
+              }),
+
+              // Medium selector toggles
+              isUrduSubject ? l.jsx("div", {
+                className: "p-3 bg-white border border-emerald-200 rounded-xl text-xs font-bold text-emerald-950 flex items-center gap-2",
+                children: "اس مضمون کے تمام نوٹس اور سوالات 100% مستند اردو نستعلیق میں خودکار طور پر تیار کیے جائیں گے۔"
+              }) :
+              isEnglishSubject ? l.jsx("div", {
+                className: "p-3 bg-white border border-blue-200 rounded-xl text-xs font-bold text-blue-950 flex items-center gap-2",
+                children: "This subject displays pure English text with an integrated Urdu translation and vocabulary section for all key passages."
+              }) :
+              l.jsxs("div", {
+                className: "grid grid-cols-1 sm:grid-cols-3 gap-3",
+                children: [
+                  l.jsxs("div", {
+                    onClick: () => setLanguageMode("english"),
+                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all text-center " + (
+                      languageMode === "english" ? "bg-blue-600 border-blue-700 text-white font-black shadow-md ring-2 ring-blue-300" :
+                      "bg-white border-slate-300 text-slate-700 hover:bg-slate-100 font-bold"
+                    ),
+                    children: [
+                      l.jsx("div", { className: "text-xs font-black uppercase", children: "English Medium" }),
+                      l.jsx("div", { className: "text-[10px] opacity-80 mt-0.5", children: "Questions & Answers in English" })
+                    ]
+                  }),
+                  l.jsxs("div", {
+                    onClick: () => setLanguageMode("urdu"),
+                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all text-center " + (
+                      languageMode === "urdu" ? "bg-emerald-600 border-emerald-700 text-white font-black shadow-md ring-2 ring-emerald-300" :
+                      "bg-white border-slate-300 text-slate-700 hover:bg-slate-100 font-bold"
+                    ),
+                    children: [
+                      l.jsx("div", { className: "text-xs font-black font-urdu", children: "اردو میڈیم (Urdu Medium)" }),
+                      l.jsx("div", { className: "text-[10px] opacity-80 mt-0.5 font-urdu", children: "سوالات اور ماڈل جوابات مکمل اردو میں" })
+                    ]
+                  }),
+                  l.jsxs("div", {
+                    onClick: () => setLanguageMode("bilingual"),
+                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all text-center " + (
+                      languageMode === "bilingual" ? "bg-indigo-600 border-indigo-700 text-white font-black shadow-md ring-2 ring-indigo-300" :
+                      "bg-white border-slate-300 text-slate-700 hover:bg-slate-100 font-bold"
+                    ),
+                    children: [
+                      l.jsx("div", { className: "text-xs font-black uppercase", children: "Bilingual (بائی لنگوئل)" }),
+                      l.jsx("div", { className: "text-[10px] opacity-80 mt-0.5", children: "English & Urdu Both Side-by-Side" })
+                    ]
+                  })
+                ]
+              })
+            ]
+          }),
+
+          // Section B: Chapters List Cards
+          l.jsxs("div", {
+            className: "max-w-4xl mx-auto space-y-3",
+            children: [
+              l.jsxs("div", {
+                className: "flex items-center justify-between",
+                children: [
+                  l.jsx("h3", { className: "text-sm font-black text-slate-900 uppercase tracking-wider", children: "منتخب مضمون کے تمام یونٹس / چیپٹرز:" }),
+                  l.jsxs("span", { className: "text-xs text-slate-500 font-bold", children: [chapters.length, " Units Available"] })
                 ]
               }),
               l.jsx("div", {
-                className: "flex flex-wrap gap-2",
-                children: classSubjects.map(sub => {
-                  const isSelected = sub.id === currentSubject.id;
-                  return l.jsxs("button", {
-                    key: sub.id,
-                    type: "button",
-                    onClick: () => setSelectedSubjectId(sub.id),
-                    className: "btn-3d px-3 py-2 rounded-xl text-xs font-black cursor-pointer flex items-center gap-1.5 transition-all " + (isSelected ? "btn-3d-emerald text-white shadow-sm ring-2 ring-emerald-300" : "bg-slate-100 text-slate-700 border border-slate-300 hover:bg-slate-200"),
+                className: "grid grid-cols-1 sm:grid-cols-2 gap-3 max-h-[380px] overflow-y-auto pr-1",
+                children: chapters.map(ch => {
+                  const isSelected = ch.number === selectedChapterNo;
+                  return l.jsxs("div", {
+                    key: ch.number,
+                    onClick: () => setSelectedChapterNo(ch.number),
+                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-center justify-between gap-3 " + (
+                      isSelected ? "bg-purple-50 border-purple-600 shadow-md ring-2 ring-purple-300 scale-[1.01]" :
+                      "bg-white border-slate-200 hover:border-purple-300 hover:bg-slate-50 shadow-2xs"
+                    ),
                     children: [
-                      l.jsx("span", { children: sub.nameEn }),
-                      sub.nameUr && l.jsx("span", { className: "opacity-80 text-[11px] font-urdu", children: sub.nameUr })
+                      l.jsxs("div", {
+                        className: "flex items-center gap-3",
+                        children: [
+                          l.jsxs("div", {
+                            className: "w-9 h-9 rounded-lg font-black text-xs flex items-center justify-center shrink-0 " + (
+                              isSelected ? "bg-purple-600 text-white" : "bg-slate-200 text-slate-800"
+                            ),
+                            children: ["U-", ch.number]
+                          }),
+                          l.jsxs("div", {
+                            children: [
+                              l.jsxs("div", { className: "font-black text-xs text-slate-900 leading-tight", children: ["Unit ", ch.number, ": ", ch.titleEn] }),
+                              ch.titleUr && l.jsx("div", { dir: "rtl", className: "font-urdu text-[11px] font-bold text-purple-900 leading-tight", children: ch.titleUr })
+                            ]
+                          })
+                        ]
+                      }),
+                      isSelected && l.jsx("span", {
+                        className: "w-5 h-5 rounded-full bg-purple-600 text-white flex items-center justify-center text-xs font-black shrink-0",
+                        children: "✔"
+                      })
                     ]
                   });
                 })
               })
             ]
           }),
-          // Step 3: Select Chapter/Unit & Language Medium
+
+          // Step 3 Footer Action Bar
           l.jsxs("div", {
-            className: "flex flex-wrap items-center justify-between gap-3",
+            className: "pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3 max-w-4xl mx-auto",
             children: [
-              l.jsxs("div", {
-                className: "flex flex-wrap items-center gap-2",
-                children: [
-                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700 min-w-[90px]", children: "Step 3: Chapter:" }),
-                  l.jsx("select", {
-                    value: selectedChapterNo,
-                    onChange: e => setSelectedChapterNo(Number(e.target.value)),
-                    className: "px-3 py-2 bg-white border-2 border-slate-300 rounded-xl font-bold text-xs text-slate-900 focus:border-blue-600 focus:outline-none min-w-[220px] max-w-md shadow-2xs",
-                    children: chapters.map(ch => l.jsxs("option", {
-                      value: ch.number,
-                      children: ["Unit " + ch.number + ": " + ch.titleEn + (ch.titleUr ? " (" + ch.titleUr + ")" : "")]
-                    }, ch.number))
-                  })
-                ]
+              l.jsxs("button", {
+                type: "button",
+                onClick: () => setCurrentStep(2),
+                className: "btn-3d px-4 py-2.5 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300 cursor-pointer flex items-center gap-1.5",
+                children: [l.jsx(SAFE_h_, { className: "w-4 h-4" }), l.jsx("span", { children: "← پچھلا مرحلہ: مضمون تبدیل کریں (Back to Subjects)" })]
               }),
-              // Language Medium Toggle
-              l.jsxs("div", {
-                className: "flex items-center gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-300",
+              l.jsxs("button", {
+                type: "button",
+                onClick: () => setCurrentStep(4),
+                className: "btn-3d btn-3d-purple px-6 py-2.5 text-white rounded-xl text-sm font-black cursor-pointer shadow-md flex items-center gap-2",
                 children: [
-                  l.jsx("span", { className: "text-[10px] font-black uppercase tracking-wider text-slate-600 px-2", children: "Medium:" }),
-                  isUrduSubject ? l.jsx("span", { className: "px-2.5 py-1 text-xs font-black text-emerald-800 bg-emerald-100 rounded-lg", children: "Urdu (100% اردو)" }) :
-                  isEnglishSubject ? l.jsx("span", { className: "px-2.5 py-1 text-xs font-black text-blue-800 bg-blue-100 rounded-lg", children: "English Only (with Urdu Vocabulary Translation)" }) :
-                  l.jsxs(l.Fragment, {
-                    children: [
-                      l.jsx("button", {
-                        type: "button",
-                        onClick: () => setLanguageMode("english"),
-                        className: "btn-3d px-2.5 py-1 rounded-lg text-xs font-black cursor-pointer " + (languageMode === "english" ? "btn-3d-blue text-white" : "bg-white text-slate-700 hover:bg-slate-200 border border-slate-300"),
-                        children: "English Medium"
-                      }),
-                      l.jsx("button", {
-                        type: "button",
-                        onClick: () => setLanguageMode("urdu"),
-                        className: "btn-3d px-2.5 py-1 rounded-lg text-xs font-black cursor-pointer " + (languageMode === "urdu" ? "btn-3d-emerald text-white" : "bg-white text-slate-700 hover:bg-slate-200 border border-slate-300"),
-                        children: "اردو میڈیم"
-                      }),
-                      l.jsx("button", {
-                        type: "button",
-                        onClick: () => setLanguageMode("bilingual"),
-                        className: "btn-3d px-2.5 py-1 rounded-lg text-xs font-black cursor-pointer " + (languageMode === "bilingual" ? "btn-3d-indigo text-white" : "bg-white text-slate-700 hover:bg-slate-200 border border-slate-300"),
-                        children: "Bilingual (بائی لنگوئل)"
-                      })
-                    ]
-                  })
+                  l.jsx("span", { children: "📖 حل شدہ نوٹس کھولیں (Open & View Solved Notes)" }),
+                  l.jsx("span", { className: "text-base font-sans", children: "→" })
                 ]
               })
             ]
           })
         ]
       }),
-      // Step 4: Solved Notes Document Preview & Print Sheet
-      l.jsxs("div", {
-        id: "notes-print-sheet",
-        className: "bg-white rounded-2xl border-2 border-slate-300 p-6 sm:p-8 shadow-sm space-y-6 print:border-none print:shadow-none print:p-0",
+
+      // ==============================================================
+      // STEP 4: SOLVED NOTES DISPLAY & EXPORT (ONLY SHOWN ON STEP 4)
+      // ==============================================================
+      currentStep === 4 && l.jsxs("div", {
+        className: "space-y-4",
         children: [
-          // Institution Header with School Branding
+          // Step 4 Toolbar: Navigation & 3 Export Buttons
           l.jsxs("div", {
-            className: "border-b-2 border-slate-900 pb-4 flex items-center justify-between gap-4",
+            className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-3 no-print",
             children: [
-              (currentUser && currentUser.monogramUrl) ? l.jsx("img", {
-                src: currentUser.monogramUrl,
-                alt: "Monogram",
-                className: "w-16 h-16 object-contain rounded-lg border border-slate-300 p-1 shrink-0"
-              }) : l.jsx("div", {
-                className: "w-14 h-14 rounded-xl icon-3d-badge jewel-blue text-white flex items-center justify-center text-xl shrink-0 font-black",
-                children: "PTBB"
-              }),
               l.jsxs("div", {
-                className: "text-center flex-1",
+                className: "flex items-center gap-2",
                 children: [
-                  l.jsx("h2", {
-                    className: "text-xl sm:text-2xl font-black text-slate-950 uppercase tracking-tight",
-                    children: (currentUser && currentUser.schoolName) || "PUNJAB BOARD REVISION NOTES"
-                  }),
-                  l.jsx("p", {
-                    className: "text-xs font-bold text-slate-700 mt-0.5",
-                    children: (currentUser && currentUser.campusName) || "Official Curriculum & BISE Punjab Syllabus Revision Portal"
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => setCurrentStep(3),
+                    className: "btn-3d px-3.5 py-2 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl font-bold text-xs cursor-pointer border border-slate-300 shadow-xs flex items-center gap-1.5",
+                    title: "Back to Unit Selection",
+                    children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "← پچھلا مرحلہ (Back to Step 3)" })]
                   }),
                   l.jsxs("div", {
-                    className: "inline-flex items-center gap-2 mt-1.5 px-3 py-1 rounded-full bg-blue-100 text-blue-900 text-xs font-black uppercase tracking-wider",
+                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3 py-1.5 rounded-lg border border-slate-200",
                     children: [
-                      "Class " + selectedClass + " (" + currentSubject.nameEn + ")",
-                      " • ",
-                      "Unit " + notesData.chapterNo + ": " + notesData.titleEn + " (" + notesData.titleUr + ")"
+                      selectedClass, " Class • ", currentSubject.nameEn, " • Unit ", notesData.chapterNo
                     ]
                   })
                 ]
               }),
+
+              // Three Export Buttons: PDF (.pdf), Word (.docx), Direct Print
               l.jsxs("div", {
-                className: "text-right shrink-0 hidden sm:block",
+                className: "flex flex-wrap items-center gap-2",
                 children: [
-                  l.jsx("div", { className: "text-[11px] font-black text-slate-600 uppercase tracking-wider", children: "Revision Notes" }),
-                  l.jsx("div", { className: "text-xs font-mono font-black text-slate-900", children: "Session 2026" }),
-                  l.jsx("span", { className: "inline-block mt-1 px-2 py-0.5 rounded text-[10px] font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "Solved Key" })
+                  // Button 1: PDF Download
+                  l.jsxs("button", {
+                    type: "button",
+                    disabled: isExportingPdf,
+                    onClick: handleDownloadPDF,
+                    className: "btn-3d flex items-center gap-1.5 px-3.5 py-2 bg-rose-600 hover:bg-rose-700 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs disabled:opacity-60 transition-all",
+                    title: "Download Solved Notes as PDF Document",
+                    children: [
+                      isExportingPdf ? l.jsx(Sc, { className: "w-4 h-4 animate-spin text-white" }) : l.jsx(SAFE_ad, { className: "w-4 h-4 text-rose-100" }),
+                      l.jsx("span", { children: isExportingPdf ? "Generating PDF..." : "Download PDF (.pdf)" })
+                    ]
+                  }),
+                  // Button 2: Word Download (.docx)
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => exportNotesToWordDoc(notesData, effectiveLangMode, currentUser, selectedClass, currentSubject.nameEn),
+                    className: "btn-3d btn-3d-indigo flex items-center gap-1.5 px-3.5 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs",
+                    title: "Download MS Word .docx Document",
+                    children: [l.jsx(Xu, { className: "w-4 h-4 text-indigo-100" }), l.jsx("span", { children: "Download Word (.docx)" })]
+                  }),
+                  // Button 3: Direct Print
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => window.print(),
+                    className: "btn-print-preview flex items-center gap-1.5 px-4 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-xs",
+                    title: "Direct Print Solved Notes",
+                    children: [l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-100" }), l.jsx("span", { children: "Direct Print" })]
+                  })
                 ]
               })
             ]
           }),
-          // Notes Section Toggle Filter (No-print)
+
+          // Filter bar & Print Sheet Container
           l.jsxs("div", {
-            className: "flex items-center gap-2 border-b border-slate-200 pb-2 no-print",
+            id: "notes-print-sheet",
+            className: "bg-white rounded-2xl border-2 border-slate-300 p-6 sm:p-8 shadow-sm space-y-6 print:border-none print:shadow-none print:p-0",
             children: [
-              l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "View:" }),
-              l.jsxs("button", {
-                type: "button",
-                onClick: () => setActiveTab("all"),
-                className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "all" ? "bg-slate-900 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
-                children: ["All Sections (", notesData.mcqs.length + notesData.shortQuestions.length, ")"]
-              }),
-              l.jsxs("button", {
-                type: "button",
-                onClick: () => setActiveTab("mcqs"),
-                className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "mcqs" ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
-                children: ["Solved MCQs (", notesData.mcqs.length, ")"]
-              }),
-              l.jsxs("button", {
-                type: "button",
-                onClick: () => setActiveTab("shorts"),
-                className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "shorts" ? "bg-teal-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
-                children: ["Solved Short Questions (", notesData.shortQuestions.length, ")"]
-              })
-            ]
-          }),
-          // English Vocabulary Translation Section (for English subjects)
-          isEnglishSubject && notesData.vocabulary && notesData.vocabulary.length > 0 && l.jsxs("div", {
-            className: "space-y-3 pt-1",
-            children: [
+              // Institution Header with School Branding
               l.jsxs("div", {
-                className: "bg-indigo-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                className: "border-b-2 border-slate-900 pb-4 flex items-center justify-between gap-4",
                 children: [
-                  l.jsx("span", { children: "Key Vocabulary & Urdu Translation (اہم الفاظ معنی و سلیس اردو ترجمہ)" }),
-                  l.jsxs("span", { className: "text-indigo-200 font-normal", children: [notesData.vocabulary.length, " Words / Phrases"] })
-                ]
-              }),
-              l.jsx("div", {
-                className: "overflow-x-auto border border-slate-300 rounded-xl bg-white shadow-2xs",
-                children: l.jsxs("table", {
-                  className: "w-full text-left text-xs border-collapse",
-                  children: [
-                    l.jsx("thead", {
-                      className: "bg-slate-100 text-slate-800 font-black border-b border-slate-300 text-[11px] uppercase tracking-wider",
-                      children: l.jsxs("tr", {
+                  (currentUser && currentUser.monogramUrl) ? l.jsx("img", {
+                    src: currentUser.monogramUrl,
+                    alt: "Monogram",
+                    className: "w-16 h-16 object-contain rounded-lg border border-slate-300 p-1 shrink-0"
+                  }) : l.jsx("div", {
+                    className: "w-14 h-14 rounded-xl icon-3d-badge jewel-blue text-white flex items-center justify-center text-xl shrink-0 font-black",
+                    children: "PTBB"
+                  }),
+                  l.jsxs("div", {
+                    className: "text-center flex-1",
+                    children: [
+                      l.jsx("h2", {
+                        className: "text-xl sm:text-2xl font-black text-slate-950 uppercase tracking-tight",
+                        children: (currentUser && currentUser.schoolName) || "PUNJAB BOARD REVISION NOTES"
+                      }),
+                      l.jsx("p", {
+                        className: "text-xs font-bold text-slate-700 mt-0.5",
+                        children: (currentUser && currentUser.campusName) || "Official Curriculum & BISE Punjab Syllabus Revision Portal"
+                      }),
+                      l.jsxs("div", {
+                        className: "inline-flex items-center gap-2 mt-1.5 px-3 py-1 rounded-full bg-blue-100 text-blue-900 text-xs font-black uppercase tracking-wider",
                         children: [
-                          l.jsx("th", { className: "p-2.5 w-12 text-center", children: "#" }),
-                          l.jsx("th", { className: "p-2.5 w-40", children: "Word / Term" }),
-                          l.jsx("th", { dir: "rtl", className: "p-2.5 w-48 text-right font-urdu text-sm", children: "اردو معنی (Urdu Meaning)" }),
-                          l.jsx("th", { className: "p-2.5", children: "Contextual Sentence / Translation" })
+                          "Class " + selectedClass + " (" + currentSubject.nameEn + ")",
+                          " • ",
+                          "Unit " + notesData.chapterNo + ": " + notesData.titleEn + " (" + notesData.titleUr + ")"
                         ]
                       })
-                    }),
-                    l.jsx("tbody", {
-                      className: "divide-y divide-slate-200",
-                      children: notesData.vocabulary.map((vocab, vIdx) => l.jsxs("tr", {
-                        key: vIdx,
-                        className: "hover:bg-slate-50 transition-colors",
-                        children: [
-                          l.jsx("td", { className: "p-2.5 text-center font-bold text-slate-500", children: vIdx + 1 }),
-                          l.jsx("td", { className: "p-2.5 font-black text-indigo-950", children: vocab.word }),
-                          l.jsx("td", { dir: "rtl", className: "p-2.5 font-bold font-urdu text-emerald-900 text-right text-sm leading-loose", children: vocab.meaningUr }),
-                          l.jsx("td", { className: "p-2.5 text-slate-700 font-medium", children: vocab.context })
-                        ]
-                      }))
-                    })
-                  ]
-                })
-              })
-            ]
-          }),
-          // SECTION A: SOLVED MCQS
-          (activeTab === "all" || activeTab === "mcqs") && l.jsxs("div", {
-            className: "space-y-3",
-            children: [
-              l.jsxs("div", {
-                className: "bg-slate-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
-                children: [
-                  l.jsx("span", { children: "Section A: Solved Multiple Choice Questions (معروضی سوالات)" }),
-                  l.jsxs("span", { className: "text-blue-300 font-normal", children: [notesData.mcqs.length, " Solved Questions • 1 Mark Each"] })
+                    ]
+                  }),
+                  l.jsxs("div", {
+                    className: "text-right shrink-0 hidden sm:block",
+                    children: [
+                      l.jsx("div", { className: "text-[11px] font-black text-slate-600 uppercase tracking-wider", children: "Revision Notes" }),
+                      l.jsx("div", { className: "text-xs font-mono font-black text-slate-900", children: "Session 2026" }),
+                      l.jsx("span", { className: "inline-block mt-1 px-2 py-0.5 rounded text-[10px] font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "Solved Key" })
+                    ]
+                  })
                 ]
               }),
-              l.jsx("div", {
-                className: "space-y-3",
-                children: notesData.mcqs.map(m => l.jsxs("div", {
-                  key: m.id,
-                  className: "border border-slate-300 rounded-xl p-3.5 bg-slate-50/50 space-y-2.5 break-inside-avoid",
-                  children: [
-                    // Statement
-                    effectiveLangMode === "english" ? l.jsxs("div", {
-                      className: "font-black text-xs text-slate-900 leading-relaxed",
-                      children: ["Q.", m.qNo, ". ", m.statementEn]
-                    }) : effectiveLangMode === "urdu" ? l.jsxs("div", {
-                      dir: "rtl",
-                      className: "font-black text-sm font-urdu text-slate-950 leading-loose text-right",
-                      children: [m.statementUr, " ", l.jsx("span", { className: "font-sans", children: "Q." + m.qNo })]
-                    }) : l.jsxs("div", {
-                      className: "flex flex-col sm:flex-row items-baseline justify-between gap-2 border-b border-slate-200 pb-2",
-                      children: [
-                        l.jsxs("div", { className: "font-black text-xs text-slate-900 leading-relaxed flex-1", children: ["Q.", m.qNo, ". ", m.statementEn] }),
-                        l.jsx("div", { dir: "rtl", className: "font-black text-xs font-urdu text-slate-900 text-right flex-1 leading-loose", children: m.statementUr })
-                      ]
-                    }),
-                    // Options Grid
-                    l.jsx("div", {
-                      className: "grid grid-cols-2 sm:grid-cols-4 gap-2",
-                      children: m.options.map(opt => {
-                        const isCorrect = opt.key === m.correctOption;
-                        return l.jsxs("div", {
-                          key: opt.key,
-                          className: "p-2 rounded-lg border text-xs flex items-center gap-1.5 transition-colors " + (isCorrect ? "bg-emerald-50 border-emerald-500 text-emerald-950 font-black ring-1 ring-emerald-400" : "bg-white border-slate-300 text-slate-800 font-semibold"),
-                          children: [
-                            l.jsxs("span", {
-                              className: "w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black shrink-0 " + (isCorrect ? "bg-emerald-600 text-white" : "bg-slate-200 text-slate-800"),
-                              children: [opt.key]
-                            }),
-                            l.jsxs("span", {
-                              className: "flex-1 truncate",
-                              children: [
-                                effectiveLangMode === "english" ? opt.textEn : effectiveLangMode === "urdu" ? opt.textUr : opt.textEn + (opt.textUr ? " / " + opt.textUr : "")
-                              ]
-                            }),
-                            isCorrect && l.jsx("span", { className: "text-emerald-700 font-black text-xs shrink-0", children: "✔" })
-                          ]
-                        });
-                      })
-                    }),
-                    // Solved Key / Explanation
-                    (m.explanationEn || m.explanationUr) && l.jsxs("div", {
-                      className: "bg-emerald-50/70 border border-emerald-200 rounded-lg p-2.5 text-[11px] text-emerald-950 space-y-1 font-medium",
-                      children: [
-                        l.jsxs("div", {
-                          className: "font-black text-emerald-900 flex items-center gap-1 text-[11px]",
-                          children: ["💡 Solved Key: Option (", m.correctOption, ") is Correct"]
-                        }),
-                        effectiveLangMode !== "urdu" && m.explanationEn && l.jsx("p", { className: "leading-relaxed", children: m.explanationEn }),
-                        effectiveLangMode !== "english" && m.explanationUr && l.jsx("p", { dir: "rtl", className: "font-urdu text-right leading-loose text-xs", children: m.explanationUr })
-                      ]
-                    })
-                  ]
-                }, m.id))
-              })
-            ]
-          }),
-          // SECTION B: SOLVED SHORT QUESTIONS (NO LONG QUESTIONS)
-          (activeTab === "all" || activeTab === "shorts") && l.jsxs("div", {
-            className: "space-y-3 pt-4 border-t-2 border-slate-200",
-            children: [
+
+              // Notes Section Toggle Filter (No-print)
               l.jsxs("div", {
-                className: "bg-teal-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                className: "flex items-center gap-2 border-b border-slate-200 pb-2 no-print",
                 children: [
-                  l.jsx("span", { children: "Section B: Solved Short Questions (مختصر سوالات مع ماڈل جواب)" }),
-                  l.jsxs("span", { className: "text-teal-200 font-normal", children: [notesData.shortQuestions.length, " Solved Questions • 2 Marks Each"] })
+                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "View:" }),
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => setActiveTab("all"),
+                    className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "all" ? "bg-slate-900 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
+                    children: ["All Sections (", notesData.mcqs.length + notesData.shortQuestions.length, ")"]
+                  }),
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => setActiveTab("mcqs"),
+                    className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "mcqs" ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
+                    children: ["Solved MCQs (", notesData.mcqs.length, ")"]
+                  }),
+                  l.jsxs("button", {
+                    type: "button",
+                    onClick: () => setActiveTab("shorts"),
+                    className: "px-3 py-1 rounded-lg text-xs font-bold cursor-pointer " + (activeTab === "shorts" ? "bg-teal-600 text-white" : "bg-slate-100 text-slate-700 hover:bg-slate-200"),
+                    children: ["Solved Short Questions (", notesData.shortQuestions.length, ")"]
+                  })
                 ]
               }),
-              l.jsx("div", {
-                className: "space-y-3.5",
-                children: notesData.shortQuestions.map(sq => l.jsxs("div", {
-                  key: sq.id,
-                  className: "border border-slate-300 rounded-xl p-4 bg-white space-y-2.5 shadow-2xs break-inside-avoid",
-                  children: [
-                    // Question Statement
-                    effectiveLangMode === "english" ? l.jsxs("div", {
-                      className: "font-black text-xs sm:text-sm text-slate-900 leading-relaxed",
-                      children: ["Q.", sq.subNo, ". ", sq.statementEn, " ", l.jsx("span", { className: "text-blue-700 font-bold text-xs", children: "(2 Marks)" })]
-                    }) : effectiveLangMode === "urdu" ? l.jsxs("div", {
-                      dir: "rtl",
-                      className: "font-black text-sm sm:text-base font-urdu text-slate-950 leading-loose text-right",
-                      children: [sq.statementUr, " ", l.jsx("span", { className: "font-sans text-xs", children: "(2 نمبر) Q." + sq.subNo })]
-                    }) : l.jsxs("div", {
-                      className: "flex flex-col sm:flex-row items-baseline justify-between gap-2 border-b border-slate-200 pb-2",
+
+              // English Vocabulary Translation Section (for English subjects)
+              isEnglishSubject && notesData.vocabulary && notesData.vocabulary.length > 0 && l.jsxs("div", {
+                className: "space-y-3 pt-1",
+                children: [
+                  l.jsxs("div", {
+                    className: "bg-indigo-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                    children: [
+                      l.jsx("span", { children: "Key Vocabulary & Urdu Translation (اہم الفاظ معنی و سلیس اردو ترجمہ)" }),
+                      l.jsxs("span", { className: "text-indigo-200 font-normal", children: [notesData.vocabulary.length, " Words / Phrases"] })
+                    ]
+                  }),
+                  l.jsx("div", {
+                    className: "overflow-x-auto border border-slate-300 rounded-xl bg-white shadow-2xs",
+                    children: l.jsxs("table", {
+                      className: "w-full text-left text-xs border-collapse",
                       children: [
-                        l.jsxs("div", { className: "font-black text-xs sm:text-sm text-slate-900 leading-relaxed flex-1", children: ["Q.", sq.subNo, ". ", sq.statementEn, " ", l.jsx("span", { className: "text-blue-700 font-bold text-xs", children: "(2 Marks)" })] }),
-                        l.jsxs("div", { dir: "rtl", className: "font-black text-xs sm:text-sm font-urdu text-slate-900 text-right flex-1 leading-loose", children: [sq.statementUr, " (2 نمبر)"] })
-                      ]
-                    }),
-                    // Model Solved Answer Box
-                    l.jsxs("div", {
-                      className: "bg-slate-50 border border-slate-300 rounded-xl p-3.5 space-y-2",
-                      children: [
-                        l.jsx("div", {
-                          className: "text-[11px] font-black uppercase tracking-wider text-teal-800 border-b border-slate-200 pb-1 flex items-center justify-between",
-                          children: [
-                            l.jsx("span", { children: "✔ Standard Model Answer (حل شدہ ماڈل جواب):" }),
-                            l.jsx("span", { className: "text-[10px] text-slate-500 font-bold", children: "Board Marking Standard" })
-                          ]
+                        l.jsx("thead", {
+                          className: "bg-slate-100 text-slate-800 font-black border-b border-slate-300 text-[11px] uppercase tracking-wider",
+                          children: l.jsxs("tr", {
+                            children: [
+                              l.jsx("th", { className: "p-2.5 w-12 text-center", children: "#" }),
+                              l.jsx("th", { className: "p-2.5 w-40", children: "Word / Term" }),
+                              l.jsx("th", { dir: "rtl", className: "p-2.5 w-48 text-right font-urdu text-sm", children: "اردو معنی (Urdu Meaning)" }),
+                              l.jsx("th", { className: "p-2.5", children: "Contextual Sentence / Translation" })
+                            ]
+                          })
                         }),
-                        effectiveLangMode !== "urdu" && sq.answerEn && l.jsxs("div", {
-                          className: "text-xs text-slate-800 leading-relaxed whitespace-pre-line font-medium",
-                          children: [
-                            effectiveLangMode === "bilingual" && l.jsx("span", { className: "font-bold text-slate-900 mr-1.5", children: "[English]:" }),
-                            sq.answerEn
-                          ]
-                        }),
-                        effectiveLangMode !== "english" && sq.answerUr && l.jsxs("div", {
-                          dir: "rtl",
-                          className: "text-xs sm:text-sm font-urdu text-slate-950 leading-loose text-right whitespace-pre-line pt-1 font-medium",
-                          children: [
-                            effectiveLangMode === "bilingual" && l.jsx("span", { className: "font-bold text-slate-900 ml-1.5 font-sans", children: "[اردو]:" }),
-                            sq.answerUr
-                          ]
+                        l.jsx("tbody", {
+                          className: "divide-y divide-slate-200",
+                          children: notesData.vocabulary.map((vocab, vIdx) => l.jsxs("tr", {
+                            key: vIdx,
+                            className: "hover:bg-slate-50 transition-colors",
+                            children: [
+                              l.jsx("td", { className: "p-2.5 text-center font-bold text-slate-500", children: vIdx + 1 }),
+                              l.jsx("td", { className: "p-2.5 font-black text-indigo-950", children: vocab.word }),
+                              l.jsx("td", { dir: "rtl", className: "p-2.5 font-bold font-urdu text-emerald-900 text-right text-sm leading-loose", children: vocab.meaningUr }),
+                              l.jsx("td", { className: "p-2.5 text-slate-700 font-medium", children: vocab.context })
+                            ]
+                          }))
                         })
                       ]
                     })
-                  ]
-                }, sq.id))
+                  })
+                ]
+              }),
+
+              // SECTION A: SOLVED MCQS
+              (activeTab === "all" || activeTab === "mcqs") && l.jsxs("div", {
+                className: "space-y-3",
+                children: [
+                  l.jsxs("div", {
+                    className: "bg-slate-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                    children: [
+                      l.jsx("span", { children: "Section A: Solved Multiple Choice Questions (معروضی سوالات)" }),
+                      l.jsxs("span", { className: "text-blue-300 font-normal", children: [notesData.mcqs.length, " Solved Questions • 1 Mark Each"] })
+                    ]
+                  }),
+                  l.jsx("div", {
+                    className: "space-y-3",
+                    children: notesData.mcqs.map(m => l.jsxs("div", {
+                      key: m.id,
+                      className: "border border-slate-300 rounded-xl p-3.5 bg-slate-50/50 space-y-2.5 break-inside-avoid",
+                      children: [
+                        // Statement
+                        effectiveLangMode === "english" ? l.jsxs("div", {
+                          className: "font-black text-xs text-slate-900 leading-relaxed",
+                          children: ["Q.", m.qNo, ". ", m.statementEn]
+                        }) : effectiveLangMode === "urdu" ? l.jsxs("div", {
+                          dir: "rtl",
+                          className: "font-black text-sm font-urdu text-slate-950 leading-loose text-right",
+                          children: [m.statementUr, " ", l.jsx("span", { className: "font-sans", children: "Q." + m.qNo })]
+                        }) : l.jsxs("div", {
+                          className: "flex flex-col sm:flex-row items-baseline justify-between gap-2 border-b border-slate-200 pb-2",
+                          children: [
+                            l.jsxs("div", { className: "font-black text-xs text-slate-900 leading-relaxed flex-1", children: ["Q.", m.qNo, ". ", m.statementEn] }),
+                            l.jsx("div", { dir: "rtl", className: "font-black text-xs font-urdu text-slate-900 text-right flex-1 leading-loose", children: m.statementUr })
+                          ]
+                        }),
+                        // Options Grid
+                        l.jsx("div", {
+                          className: "grid grid-cols-2 sm:grid-cols-4 gap-2",
+                          children: m.options.map(opt => {
+                            const isCorrect = opt.key === m.correctOption;
+                            return l.jsxs("div", {
+                              key: opt.key,
+                              className: "p-2 rounded-lg border text-xs flex items-center gap-1.5 transition-colors " + (isCorrect ? "bg-emerald-50 border-emerald-500 text-emerald-950 font-black ring-1 ring-emerald-400" : "bg-white border-slate-300 text-slate-800 font-semibold"),
+                              children: [
+                                l.jsxs("span", {
+                                  className: "w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black shrink-0 " + (isCorrect ? "bg-emerald-600 text-white" : "bg-slate-200 text-slate-800"),
+                                  children: [opt.key]
+                                }),
+                                l.jsxs("span", {
+                                  className: "flex-1 truncate",
+                                  children: [
+                                    effectiveLangMode === "english" ? opt.textEn : effectiveLangMode === "urdu" ? opt.textUr : opt.textEn + (opt.textUr ? " / " + opt.textUr : "")
+                                  ]
+                                }),
+                                isCorrect && l.jsx("span", { className: "text-emerald-700 font-black text-xs shrink-0", children: "✔" })
+                              ]
+                            });
+                          })
+                        }),
+                        // Solved Key / Explanation
+                        (m.explanationEn || m.explanationUr) && l.jsxs("div", {
+                          className: "bg-emerald-50/70 border border-emerald-200 rounded-lg p-2.5 text-[11px] text-emerald-950 space-y-1 font-medium",
+                          children: [
+                            l.jsxs("div", {
+                              className: "font-black text-emerald-900 flex items-center gap-1 text-[11px]",
+                              children: ["💡 Solved Key: Option (", m.correctOption, ") is Correct"]
+                            }),
+                            effectiveLangMode !== "urdu" && m.explanationEn && l.jsx("p", { className: "leading-relaxed", children: m.explanationEn }),
+                            effectiveLangMode !== "english" && m.explanationUr && l.jsx("p", { dir: "rtl", className: "font-urdu text-right leading-loose text-xs", children: m.explanationUr })
+                          ]
+                        })
+                      ]
+                    }, m.id))
+                  })
+                ]
+              }),
+
+              // SECTION B: SOLVED SHORT QUESTIONS (NO LONG QUESTIONS)
+              (activeTab === "all" || activeTab === "shorts") && l.jsxs("div", {
+                className: "space-y-3 pt-4 border-t-2 border-slate-200",
+                children: [
+                  l.jsxs("div", {
+                    className: "bg-teal-900 text-white px-4 py-2 rounded-xl flex items-center justify-between font-black text-xs uppercase tracking-wider",
+                    children: [
+                      l.jsx("span", { children: "Section B: Solved Short Questions (مختصر سوالات مع ماڈل جواب)" }),
+                      l.jsxs("span", { className: "text-teal-200 font-normal", children: [notesData.shortQuestions.length, " Solved Questions • 2 Marks Each"] })
+                    ]
+                  }),
+                  l.jsx("div", {
+                    className: "space-y-3.5",
+                    children: notesData.shortQuestions.map(sq => l.jsxs("div", {
+                      key: sq.id,
+                      className: "border border-slate-300 rounded-xl p-4 bg-white space-y-2.5 shadow-2xs break-inside-avoid",
+                      children: [
+                        // Question Statement
+                        effectiveLangMode === "english" ? l.jsxs("div", {
+                          className: "font-black text-xs sm:text-sm text-slate-900 leading-relaxed",
+                          children: ["Q.", sq.subNo, ". ", sq.statementEn, " ", l.jsx("span", { className: "text-blue-700 font-bold text-xs", children: "(2 Marks)" })]
+                        }) : effectiveLangMode === "urdu" ? l.jsxs("div", {
+                          dir: "rtl",
+                          className: "font-black text-sm sm:text-base font-urdu text-slate-950 leading-loose text-right",
+                          children: [sq.statementUr, " ", l.jsx("span", { className: "font-sans text-xs", children: "(2 نمبر) Q." + sq.subNo })]
+                        }) : l.jsxs("div", {
+                          className: "flex flex-col sm:flex-row items-baseline justify-between gap-2 border-b border-slate-200 pb-2",
+                          children: [
+                            l.jsxs("div", { className: "font-black text-xs sm:text-sm text-slate-900 leading-relaxed flex-1", children: ["Q.", sq.subNo, ". ", sq.statementEn, " ", l.jsx("span", { className: "text-blue-700 font-bold text-xs", children: "(2 Marks)" })] }),
+                            l.jsxs("div", { dir: "rtl", className: "font-black text-xs sm:text-sm font-urdu text-slate-900 text-right flex-1 leading-loose", children: [sq.statementUr, " (2 نمبر)"] })
+                          ]
+                        }),
+                        // Model Solved Answer Box
+                        l.jsxs("div", {
+                          className: "bg-slate-50 border border-slate-300 rounded-xl p-3.5 space-y-2",
+                          children: [
+                            l.jsx("div", {
+                              className: "text-[11px] font-black uppercase tracking-wider text-teal-800 border-b border-slate-200 pb-1 flex items-center justify-between",
+                              children: [
+                                l.jsx("span", { children: "✔ Standard Model Answer (حل شدہ ماڈل جواب):" }),
+                                l.jsx("span", { className: "text-[10px] text-slate-500 font-bold", children: "Board Marking Standard" })
+                              ]
+                            }),
+                            effectiveLangMode !== "urdu" && sq.answerEn && l.jsxs("div", {
+                              className: "text-xs text-slate-800 leading-relaxed whitespace-pre-line font-medium",
+                              children: [
+                                effectiveLangMode === "bilingual" && l.jsx("span", { className: "font-bold text-slate-900 mr-1.5", children: "[English]:" }),
+                                sq.answerEn
+                              ]
+                            }),
+                            effectiveLangMode !== "english" && sq.answerUr && l.jsxs("div", {
+                              dir: "rtl",
+                              className: "text-xs sm:text-sm font-urdu text-slate-950 leading-loose text-right whitespace-pre-line pt-1 font-medium",
+                              children: [
+                                effectiveLangMode === "bilingual" && l.jsx("span", { className: "font-bold text-slate-900 ml-1.5 font-sans", children: "[اردو]:" }),
+                                sq.answerUr
+                              ]
+                            })
+                          ]
+                        })
+                      ]
+                    }, sq.id))
+                  })
+                ]
+              }),
+
+              // Footer
+              l.jsxs("div", {
+                className: "border-t border-slate-300 pt-3 flex flex-wrap items-center justify-between text-[10px] text-slate-500 font-bold gap-2",
+                children: [
+                  l.jsx("div", { children: "PUNJAB TEXTBOOK BOARD (PTBB) CHAPTER REVISION NOTES" }),
+                  l.jsx("div", { children: "Prepared for Matric 9th & 10th Classes • All BISE Punjab Boards" })
+                ]
               })
-            ]
-          }),
-          // Footer
-          l.jsxs("div", {
-            className: "border-t border-slate-300 pt-3 flex flex-wrap items-center justify-between text-[10px] text-slate-500 font-bold gap-2",
-            children: [
-              l.jsx("div", { children: "PUNJAB TEXTBOOK BOARD (PTBB) CHAPTER REVISION NOTES" }),
-              l.jsx("div", { children: "Prepared for Matric 9th & 10th Classes • All BISE Punjab Boards" })
             ]
           })
         ]
