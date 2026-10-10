@@ -4701,35 +4701,27 @@ function exportNotesToWordDoc(notesData, selectedClass, subjectNameEn, subjectNa
 async function exportNotesToPDF(elementId, selectedClass, subjectNameEn, chapterNo, effectiveLangMode) {
   const element = document.getElementById(elementId);
   if (!element) {
-    window.print();
+    console.error("PDF target element not found: " + elementId);
     return;
   }
-
-  const { jsPDF } = window.jspdf || {};
-  if (!jsPDF) {
-    window.print();
-    return;
-  }
-
-  const pdf = new jsPDF({
-    orientation: 'portrait',
-    unit: 'mm',
-    format: 'a4',
-    compress: true
-  });
-
-  const pageW = 210;
-  const pageH = 297;
-  const margin = 10;
-  const printW = pageW - margin * 2;
-  const printH = pageH - margin * 2;
-
+  const filename = `${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${chapterNo}_Solved_Notes_${effectiveLangMode}.pdf`;
   try {
-    await Oh(element, pdf, printW, printH, margin, true);
-    pdf.save(`${selectedClass}_Class_${subjectNameEn.replace(/\s+/g, '_')}_Unit_${chapterNo}_Solved_Notes_${effectiveLangMode}.pdf`);
+    const a = 210, o = 297, A = 8, u = 8, f = a - A * 2, B = o - u * 2;
+    const pdf = new Xt({
+      orientation: "portrait",
+      unit: "mm",
+      format: "a4",
+      compress: true
+    });
+    await Oh(element, pdf, f, B, A, u, true);
+    pdf.save(filename);
   } catch (err) {
-    console.error("PDF generation failed, falling back to window.print():", err);
-    window.print();
+    console.error("Direct PDF export error, trying iC fallback:", err);
+    try {
+      await iC(elementId, filename);
+    } catch (e2) {
+      console.error("Fallback PDF export failed:", e2);
+    }
   }
 }
 
@@ -4791,8 +4783,8 @@ function ClassNotesView({ currentUser, onBack }) {
   const stepsList = [
     { num: 1, label: "Select Class", icon: "🏫" },
     { num: 2, label: "Select Subject", icon: "📚" },
-    { num: 3, label: "Unit & Medium", icon: "📑" },
-    { num: 4, label: "Solved Notes", icon: "📖" }
+    { num: 3, label: "Select Chapter", icon: "📑" },
+    { num: 4, label: "Solved Notes & Export", icon: "📖" }
   ];
 
   return l.jsxs("div", {
@@ -5001,12 +4993,12 @@ function ClassNotesView({ currentUser, onBack }) {
               onClick: () => {
                 if (selectedClass) setCurrentStep(2);
               },
-              className: "min-h-[44px] max-h-[48px] px-8 py-2.5 rounded-lg font-semibold text-sm min-w-[140px] inline-flex items-center justify-center gap-2 transition-all cursor-pointer shadow-sm active:scale-95 " + (
+              className: "w-36 min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-xl font-bold text-sm inline-flex items-center justify-center transition-all cursor-pointer " + (
                 selectedClass
-                  ? "bg-blue-600 hover:bg-blue-700 text-white shadow-blue-200"
-                  : "bg-slate-200 text-slate-400 cursor-not-allowed shadow-none"
+                  ? "bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white border-b-4 border-b-blue-800 shadow-md hover:shadow-lg active:border-b-0 active:translate-y-1"
+                  : "bg-slate-200 text-slate-400 border-b-4 border-b-slate-300 cursor-not-allowed shadow-none"
               ),
-              children: "Next →"
+              children: "Next →" 
             })
           })
         ]
@@ -5081,14 +5073,14 @@ function ClassNotesView({ currentUser, onBack }) {
             })
           }),
 
-          // Standardized Navigation Bar for Step 2 (Height 44-48px, min-width 130px, gap-4)
+          // Standardized 3D Symmetrical Navigation Bar for Step 2 (Matching w-36, Height 44-48px, border-b-4)
           l.jsxs("div", {
             className: "flex items-center justify-between gap-4 max-w-5xl mx-auto pt-6 border-t border-slate-200",
             children: [
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(1),
-                className: "min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-lg border border-slate-300 text-slate-700 bg-white hover:bg-slate-50 font-bold text-sm min-w-[130px] inline-flex items-center justify-center transition-all cursor-pointer shadow-xs active:scale-95",
+                className: "w-36 min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-xl font-bold text-sm inline-flex items-center justify-center transition-all cursor-pointer bg-white hover:bg-slate-50 text-slate-700 border-2 border-slate-300 border-b-4 border-b-slate-400 shadow-sm hover:shadow-md active:border-b-2 active:translate-y-0.5",
                 children: "← Back"
               }),
               l.jsx("button", {
@@ -5097,10 +5089,10 @@ function ClassNotesView({ currentUser, onBack }) {
                 onClick: () => {
                   if (selectedSubjectId) setCurrentStep(3);
                 },
-                className: "min-h-[44px] max-h-[48px] px-8 py-2.5 rounded-lg font-bold text-sm min-w-[140px] inline-flex items-center justify-center transition-all cursor-pointer shadow-sm active:scale-95 " + (
+                className: "w-36 min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-xl font-bold text-sm inline-flex items-center justify-center transition-all cursor-pointer " + (
                   selectedSubjectId
-                    ? "bg-emerald-600 hover:bg-emerald-700 text-white shadow-emerald-200"
-                    : "bg-slate-200 text-slate-400 cursor-not-allowed shadow-none"
+                    ? "bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white border-b-4 border-b-emerald-800 shadow-md hover:shadow-lg active:border-b-0 active:translate-y-1"
+                    : "bg-slate-200 text-slate-400 border-b-4 border-b-slate-300 cursor-not-allowed shadow-none"
                 ),
                 children: "Next →"
               })
@@ -5110,10 +5102,10 @@ function ClassNotesView({ currentUser, onBack }) {
       }),
 
       // ==========================================
-      // STEP 3: SELECT CHAPTER & MEDIUM (ONLY STEP 3)
+      // STEP 3: SELECT CHAPTER (ONLY STEP 3)
       // ==========================================
       currentStep === 3 && currentSubject && l.jsxs("div", {
-        className: "bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-sm space-y-6 no-print",
+        className: "card-3d bg-white p-6 sm:p-8 rounded-2xl border-2 border-slate-200 shadow-lg space-y-6 no-print",
         children: [
           l.jsxs("div", {
             className: "text-center max-w-xl mx-auto space-y-2",
@@ -5122,117 +5114,55 @@ function ClassNotesView({ currentUser, onBack }) {
                 className: "inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-900 font-black text-xs uppercase tracking-wider",
                 children: [
                   l.jsx("span", { className: "w-2 h-2 rounded-full bg-purple-600" }),
-                  "Step 3: Chapter & Language Selection"
+                  "Step 3: Choose Unit (" + (currentSubject.nameEn || "Subject") + ")"
                 ]
               }),
-              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "Select Chapter & Language" }),
+              l.jsx("h2", { className: "text-2xl sm:text-3xl font-black text-slate-900", children: "Select Unit / Chapter" }),
               l.jsxs("p", {
                 className: "text-xs sm:text-sm text-slate-600 font-bold",
                 children: [
                   "Active Subject: ",
-                  l.jsx("span", { className: "text-blue-800 font-black", children: currentSubject.nameEn }),
+                  l.jsx("span", { className: "text-purple-700 font-black", children: currentSubject.nameEn }),
                   " (" + selectedClass + " Class)"
                 ]
               })
             ]
           }),
 
-          // Section A: Language Medium Selection Box
+          // Chapter Selection Grid (Clean layout, language selection positioned at final step)
           l.jsxs("div", {
-            className: "max-w-4xl mx-auto bg-slate-50 border-2 border-slate-200 p-4 sm:p-5 rounded-2xl space-y-3",
+            className: "max-w-4xl mx-auto space-y-3 pt-2",
             children: [
               l.jsxs("div", {
-                className: "flex items-center justify-between",
+                className: "flex items-center justify-between pb-1",
                 children: [
-                  l.jsx("span", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "Language Medium:" }),
-                  isUrduSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-emerald-100 text-emerald-800 border border-emerald-300", children: "Urdu Medium Only (100% Urdu)" }) :
-                  isEnglishSubject ? l.jsx("span", { className: "px-3 py-1 rounded-full text-xs font-black bg-blue-100 text-blue-800 border border-blue-300", children: "English Medium with Urdu Translation Table" }) :
-                  l.jsx("span", { className: "text-xs text-slate-500 font-bold", children: "Choose preferred language medium below:" })
+                  l.jsx("h3", { className: "text-xs font-black uppercase tracking-wider text-slate-700", children: "Available PTBB Chapters:" }),
+                  l.jsx("span", { className: "text-xs text-slate-500 font-bold", children: chapters.length + " Units in Syllabus" })
                 ]
               }),
-
-              // Medium Toggles or Information
-              isUrduSubject ? l.jsxs("div", {
-                className: "p-3.5 bg-emerald-50 border border-emerald-200 rounded-xl text-xs text-emerald-900 flex items-center gap-2.5",
-                children: [
-                  l.jsx("span", { className: "text-base", children: "ℹ️" }),
-                  l.jsx("span", { className: "font-semibold", children: "Urdu Subject Requirement: All notes, MCQs, and model answers are generated 100% in pure Urdu Nastaleeq as per PTBB rules." })
-                ]
-              }) : isEnglishSubject ? l.jsxs("div", {
-                className: "p-3.5 bg-blue-50 border border-blue-200 rounded-xl text-xs text-blue-900 flex items-center gap-2.5",
-                children: [
-                  l.jsx("span", { className: "text-base", children: "ℹ️" }),
-                  l.jsx("span", { className: "font-semibold", children: "English Subject Requirement: MCQs and Short Questions are provided in English, accompanied by a Key Vocabulary & Urdu Translation section." })
-                ]
-              }) : l.jsxs("div", {
-                className: "grid grid-cols-1 sm:grid-cols-3 gap-2.5 pt-1",
-                children: [
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: () => setLanguageMode("english"),
-                    className: "p-3 rounded-xl border-2 text-left cursor-pointer transition-all " + (
-                      languageMode === "english" ? "bg-blue-600 border-blue-700 text-white shadow-md font-bold" : "bg-white border-slate-200 hover:border-blue-300 text-slate-800 font-semibold"
-                    ),
-                    children: [
-                      l.jsx("div", { className: "text-xs font-black", children: "English Medium" }),
-                      l.jsx("div", { className: "text-[11px] opacity-80 mt-0.5", children: "100% English (No Urdu in PDF / Word)" })
-                    ]
-                  }),
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: () => setLanguageMode("urdu"),
-                    className: "p-3 rounded-xl border-2 text-left cursor-pointer transition-all " + (
-                      languageMode === "urdu" ? "bg-emerald-600 border-emerald-700 text-white shadow-md font-bold" : "bg-white border-slate-200 hover:border-emerald-300 text-slate-800 font-semibold"
-                    ),
-                    children: [
-                      l.jsx("div", { className: "text-xs font-black", children: "Urdu Medium" }),
-                      l.jsx("div", { className: "text-[11px] opacity-80 mt-0.5", children: "Questions and model answers in Urdu" })
-                    ]
-                  }),
-                  l.jsxs("button", {
-                    type: "button",
-                    onClick: () => setLanguageMode("bilingual"),
-                    className: "p-3 rounded-xl border-2 text-left cursor-pointer transition-all " + (
-                      languageMode === "bilingual" ? "bg-purple-600 border-purple-700 text-white shadow-md font-bold" : "bg-white border-slate-200 hover:border-purple-300 text-slate-800 font-semibold"
-                    ),
-                    children: [
-                      l.jsx("div", { className: "text-xs font-black", children: "Bilingual (English + Urdu)" }),
-                      l.jsx("div", { className: "text-[11px] opacity-80 mt-0.5", children: "Both English and Urdu alongside" })
-                    ]
-                  })
-                ]
-              })
-            ]
-          }),
-
-          // Section B: Chapter Selection Grid
-          l.jsxs("div", {
-            className: "max-w-4xl mx-auto space-y-3",
-            children: [
-              l.jsx("h3", { className: "text-sm font-black text-slate-800 uppercase tracking-wider", children: "Select Chapter / Unit:" }),
               l.jsx("div", {
-                className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2.5 max-h-72 overflow-y-auto pr-1",
+                className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 max-h-80 overflow-y-auto pr-1",
                 children: chapters.map(ch => {
                   const isChSelected = ch.number === selectedChapterNo;
                   return l.jsxs("div", {
                     key: ch.number,
                     onClick: () => setSelectedChapterNo(ch.number),
-                    className: "p-3.5 rounded-xl border-2 cursor-pointer transition-all flex items-center justify-between gap-2 " + (
-                      isChSelected ? "bg-purple-50 border-purple-600 shadow-md ring-2 ring-purple-300 scale-[1.01]" :
-                      "bg-white border-slate-200 hover:border-purple-300 hover:bg-slate-50"
+                    className: "p-4 rounded-xl border-2 cursor-pointer transition-all duration-200 flex items-center justify-between gap-2.5 shadow-sm hover:shadow-md hover:-translate-y-0.5 " + (
+                      isChSelected ? "bg-gradient-to-r from-purple-50 to-indigo-50 border-purple-600 shadow-md ring-2 ring-purple-300" :
+                      "bg-white border-slate-200 hover:border-purple-300 hover:bg-slate-50/80"
                     ),
                     children: [
                       l.jsxs("div", {
-                        className: "space-y-0.5 flex-1 min-w-0",
+                        className: "space-y-1 flex-1 min-w-0",
                         children: [
                           l.jsx("div", { className: "text-[11px] font-black uppercase text-purple-700", children: "Unit " + ch.number }),
-                          l.jsx("div", { className: "font-bold text-xs text-slate-800 truncate", children: ch.titleEn || ("Chapter " + ch.number) }),
-                          effectiveLangMode !== "english" && ch.titleUr && l.jsx("div", { className: "font-urdu text-[11px] text-slate-400 truncate text-right", dir: "rtl", children: ch.titleUr })
+                          l.jsx("div", { className: "font-bold text-xs sm:text-sm text-slate-800 truncate", children: ch.titleEn || ("Chapter " + ch.number) }),
+                          effectiveLangMode !== "english" && ch.titleUr && l.jsx("div", { className: "font-urdu text-xs text-slate-500 truncate text-right", dir: "rtl", children: ch.titleUr })
                         ]
                       }),
                       l.jsx("div", {
-                        className: "w-5 h-5 rounded-full flex items-center justify-center font-bold text-[10px] shrink-0 " + (
-                          isChSelected ? "bg-purple-600 text-white" : "border-2 border-slate-300 text-transparent"
+                        className: "w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs shrink-0 " + (
+                          isChSelected ? "bg-purple-600 text-white shadow-xs" : "border-2 border-slate-300 text-transparent"
                         ),
                         children: isChSelected ? "✔" : ""
                       })
@@ -5243,50 +5173,49 @@ function ClassNotesView({ currentUser, onBack }) {
             ]
           }),
 
-          // Standardized Navigation Bar for Step 3 (Height 44-48px, min-width 130px, gap-4)
+          // Symmetrical 3D Navigation Bar for Step 3 (Matching w-36, Height 44-48px, border-b-4)
           l.jsxs("div", {
             className: "flex items-center justify-between gap-4 max-w-4xl mx-auto pt-6 border-t border-slate-200",
             children: [
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(2),
-                className: "min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-lg border border-slate-300 text-slate-700 bg-white hover:bg-slate-50 font-bold text-sm min-w-[130px] inline-flex items-center justify-center transition-all cursor-pointer shadow-xs active:scale-95",
+                className: "w-36 min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-xl font-bold text-sm inline-flex items-center justify-center transition-all cursor-pointer bg-white hover:bg-slate-50 text-slate-700 border-2 border-slate-300 border-b-4 border-b-slate-400 shadow-sm hover:shadow-md active:border-b-2 active:translate-y-0.5",
                 children: "← Back"
               }),
               l.jsx("button", {
                 type: "button",
                 onClick: () => setCurrentStep(4),
-                className: "min-h-[44px] max-h-[48px] px-8 py-2.5 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-bold text-sm min-w-[140px] inline-flex items-center justify-center transition-all cursor-pointer shadow-sm active:scale-95",
+                className: "w-36 min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-xl font-bold text-sm inline-flex items-center justify-center transition-all cursor-pointer bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white border-b-4 border-b-purple-800 shadow-md hover:shadow-lg active:border-b-0 active:translate-y-1",
                 children: "Next →"
               })
             ]
           })
         ]
       }),
-
       // ==========================================
       // STEP 4: SOLVED NOTES DISPLAY & EXPORT
       // ==========================================
       currentStep === 4 && currentSubject && notesData && l.jsxs("div", {
         className: "space-y-4",
         children: [
-          // Step 4 Toolbar: Navigation & 3 Export Buttons + Language Medium Selector for Export
+          // Step 4 Toolbar: Symmetrical Navigation, Language Medium Selector at Final Step, and 3D Export Buttons
           l.jsxs("div", {
-            className: "bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-3 no-print",
+            className: "card-3d bg-white p-4 sm:p-5 rounded-2xl border-2 border-slate-200 shadow-lg flex flex-wrap items-center justify-between gap-4 no-print",
             children: [
-              // Left: Back to Step 3 & Chapter Tag
+              // Left: Back to Step 3 (Matching exact dimensions w-36, Height 44-48px) & Chapter Tag
               l.jsxs("div", {
-                className: "flex items-center gap-2",
+                className: "flex items-center gap-2.5",
                 children: [
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => setCurrentStep(3),
-                    className: "min-h-[44px] max-h-[48px] px-5 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-sm cursor-pointer border border-slate-300 shadow-xs inline-flex items-center gap-1.5 active:scale-95",
+                    className: "w-36 min-h-[44px] max-h-[48px] px-6 py-2.5 rounded-xl font-bold text-sm inline-flex items-center justify-center transition-all cursor-pointer bg-white hover:bg-slate-50 text-slate-700 border-2 border-slate-300 border-b-4 border-b-slate-400 shadow-sm hover:shadow-md active:border-b-2 active:translate-y-0.5 gap-1.5",
                     title: "Back to Unit Selection",
                     children: [l.jsx(SAFE_h_, { className: "w-4 h-4 text-blue-600" }), l.jsx("span", { children: "← Back" })]
                   }),
                   l.jsxs("div", {
-                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3.5 py-2.5 rounded-lg border border-slate-200",
+                    className: "hidden sm:block text-xs font-black text-slate-700 bg-slate-100 px-3.5 py-2.5 rounded-xl border border-slate-200",
                     children: [
                       selectedClass, " Class • ", currentSubject.nameEn, " • Unit ", notesData.chapterNo
                     ]
@@ -5294,52 +5223,58 @@ function ClassNotesView({ currentUser, onBack }) {
                 ]
               }),
 
-              // Center: Immediate Language Medium Selector (English / Urdu / Bilingual) for Export & View
-              !isUrduSubject && !isEnglishSubject && l.jsxs("div", {
-                className: "flex items-center gap-1 bg-slate-100 p-1.5 rounded-xl border border-slate-300 shadow-2xs",
+              // Center: Final Placement Language Medium Selector (Urdu / English / Bilingual)
+              !isUrduSubject && !isEnglishSubject ? l.jsxs("div", {
+                className: "flex items-center gap-1.5 bg-slate-100 p-1.5 rounded-xl border border-slate-300 shadow-inner",
                 children: [
-                  l.jsx("span", { className: "text-[11px] font-black uppercase tracking-wider text-slate-600 px-2", children: "Language:" }),
+                  l.jsx("span", { className: "text-[11px] font-black uppercase tracking-wider text-slate-600 px-2", children: "Medium:" }),
                   l.jsx("button", {
                     type: "button",
                     onClick: () => setLanguageMode("english"),
-                    className: "btn-3d px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer " + (
-                      languageMode === "english" ? "bg-blue-600 text-white shadow-xs" : "bg-white text-slate-700 font-bold hover:bg-slate-50 border border-slate-200"
+                    className: "px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer " + (
+                      languageMode === "english" ? "bg-gradient-to-r from-blue-600 to-indigo-600 text-white border-b-3 border-blue-800 shadow-sm" : "bg-white text-slate-700 border border-slate-300 hover:bg-slate-50"
                     ),
                     children: "English"
                   }),
                   l.jsx("button", {
                     type: "button",
                     onClick: () => setLanguageMode("urdu"),
-                    className: "btn-3d px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer " + (
-                      languageMode === "urdu" ? "bg-emerald-600 text-white shadow-xs" : "bg-white text-slate-700 font-bold hover:bg-slate-50 border border-slate-200"
+                    className: "px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer " + (
+                      languageMode === "urdu" ? "bg-gradient-to-r from-emerald-600 to-teal-600 text-white border-b-3 border-emerald-800 shadow-sm" : "bg-white text-slate-700 border border-slate-300 hover:bg-slate-50"
                     ),
                     children: "Urdu"
                   }),
                   l.jsx("button", {
                     type: "button",
                     onClick: () => setLanguageMode("bilingual"),
-                    className: "btn-3d px-3 py-1.5 rounded-lg text-xs font-black transition-all cursor-pointer " + (
-                      languageMode === "bilingual" ? "bg-purple-600 text-white shadow-xs" : "bg-white text-slate-700 font-bold hover:bg-slate-50 border border-slate-200"
+                    className: "px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer " + (
+                      languageMode === "bilingual" ? "bg-gradient-to-r from-purple-600 to-indigo-600 text-white border-b-3 border-purple-800 shadow-sm" : "bg-white text-slate-700 border border-slate-300 hover:bg-slate-50"
                     ),
-                    children: "Bilingual"
+                    children: "Both / Bilingual"
                   })
+                ]
+              }) : l.jsxs("div", {
+                className: "px-3.5 py-2 rounded-xl text-xs font-black bg-slate-100 border border-slate-200 text-slate-700",
+                children: [
+                  "Medium: ",
+                  l.jsx("span", { className: "capitalize text-blue-700 font-extrabold", children: effectiveLangMode })
                 ]
               }),
 
-              // Right: Three Export Buttons: PDF (.pdf), Word (.docx), Direct Print
+              // Right: Three 3D Export Buttons (Direct PDF Download, Word .docx, Direct Print)
               l.jsxs("div", {
-                className: "flex flex-wrap items-center gap-2",
+                className: "flex flex-wrap items-center gap-2.5",
                 children: [
-                  // Button 1: PDF Download
+                  // Button 1: Direct PDF Download (.pdf file auto-saved directly, no browser print dialog)
                   l.jsxs("button", {
                     type: "button",
                     disabled: isExportingPdf,
                     onClick: handleDownloadPDF,
-                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-1.5 px-5 py-2.5 bg-rose-600 hover:bg-rose-700 text-white rounded-lg text-xs font-bold cursor-pointer shadow-md disabled:opacity-60 transition-all",
+                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-rose-600 to-red-600 hover:from-rose-500 hover:to-red-500 text-white rounded-xl text-xs font-bold cursor-pointer border-b-4 border-rose-800 shadow-md hover:shadow-lg active:border-b-0 active:translate-y-1 disabled:opacity-60 transition-all",
                     title: `Download Solved Notes as PDF Document (${effectiveLangMode.toUpperCase()})`,
                     children: [
                       isExportingPdf ? l.jsx(Sc, { className: "w-4 h-4 animate-spin text-white" }) : l.jsx(SAFE_ad, { className: "w-4 h-4 text-rose-100" }),
-                      l.jsx("span", { children: isExportingPdf ? "Generating PDF..." : "Download PDF" })
+                      l.jsx("span", { children: isExportingPdf ? "Generating PDF..." : "Download PDF (.pdf)" })
                     ]
                   }),
 
@@ -5347,11 +5282,11 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => exportNotesToWordDoc(notesData, selectedClass, currentSubject.nameEn, currentSubject.nameUr, effectiveLangMode, currentUser && currentUser.branding),
-                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-1.5 px-5 py-2.5 bg-blue-700 hover:bg-blue-800 text-white rounded-lg text-xs font-bold cursor-pointer shadow-md transition-all",
+                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-blue-700 to-indigo-700 hover:from-blue-600 hover:to-indigo-600 text-white rounded-xl text-xs font-bold cursor-pointer border-b-4 border-blue-900 shadow-md hover:shadow-lg active:border-b-0 active:translate-y-1 transition-all",
                     title: `Download Solved Notes as Editable MS Word Document (${effectiveLangMode.toUpperCase()})`,
                     children: [
                       l.jsx(Xu, { className: "w-4 h-4 text-blue-200" }),
-                      l.jsx("span", { children: "Download Word" })
+                      l.jsx("span", { children: "Download Word (.docx)" })
                     ]
                   }),
 
@@ -5359,7 +5294,7 @@ function ClassNotesView({ currentUser, onBack }) {
                   l.jsxs("button", {
                     type: "button",
                     onClick: () => window.print(),
-                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-1.5 px-5 py-2.5 bg-emerald-700 hover:bg-emerald-800 text-white rounded-lg text-xs font-bold cursor-pointer shadow-md transition-all",
+                    className: "min-h-[44px] max-h-[48px] inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-emerald-700 to-teal-700 hover:from-emerald-600 hover:to-teal-600 text-white rounded-xl text-xs font-bold cursor-pointer border-b-4 border-emerald-900 shadow-md hover:shadow-lg active:border-b-0 active:translate-y-1 transition-all",
                     title: "Open Browser Print Dialog",
                     children: [
                       l.jsx(SAFE_od, { className: "w-4 h-4 text-emerald-200" }),
@@ -5370,7 +5305,6 @@ function ClassNotesView({ currentUser, onBack }) {
               })
             ]
           }),
-
           // Content Filter Tabs (All / MCQs / Short Questions)
           l.jsxs("div", {
             className: "flex items-center gap-2 border-b border-slate-200 pb-2 no-print",
