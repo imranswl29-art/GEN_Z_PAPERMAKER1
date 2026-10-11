@@ -129,12 +129,7 @@ h1.text-white, h2.text-white, h3.text-white, h4.text-white, h5.text-white, h6.te
 /* ==========================================================================
    ENHANCED 3D CARD DEPTH FOR LAPTOP VIEWPORTS
    ========================================================================== */
-.card-3d {
-  background: #ffffff !important;
-  border: 1.5px solid #cbd5e1 !important;
-  box-shadow: 0 4px 14px -2px rgba(15, 23, 42, 0.08), 0 2px 6px -1px rgba(15, 23, 42, 0.04), inset 0 1px 0 rgba(255, 255, 255, 0.95) !important;
-  border-radius: 16px !important;
-}
+/* card-3d replaced with glassmorphism */
 
 /* ==========================================================================
    PERFECT A4 PRINT & PDF EXPORT: ZERO OVERLAP & ZERO BLANK TRAILING PAGES
@@ -270,5 +265,231 @@ h1.text-white, h2.text-white, h3.text-white, h4.text-white, h5.text-white, h6.te
     min-height: 0 !important;
     page-break-after: auto !important;
     break-after: auto !important;
+  }
+}
+
+
+/* ==========================================================================
+   GLASSMORPHYSIM (FROSTED GLASS) COMPLETE UI THEME
+   Strictly preserving all functionality, branding, icons, typography & printable sheets
+   ========================================================================== */
+
+/* 1. Ambient Background Layer with Subtle Glowing Mesh for Frosted Glass Refraction */
+html, body {
+  min-height: 100vh;
+  background-color: #f1f5f9;
+  background-image: 
+    radial-gradient(at 10% 15%, rgba(99, 102, 241, 0.08) 0px, transparent 50%),
+    radial-gradient(at 90% 10%, rgba(59, 130, 246, 0.09) 0px, transparent 50%),
+    radial-gradient(at 50% 50%, rgba(14, 165, 233, 0.06) 0px, transparent 60%),
+    radial-gradient(at 85% 85%, rgba(139, 92, 246, 0.07) 0px, transparent 50%),
+    radial-gradient(at 15% 90%, rgba(16, 185, 129, 0.06) 0px, transparent 50%);
+  background-attachment: fixed;
+}
+
+.glass-portal-canvas,
+.min-h-screen.bg-slate-100 {
+  background-color: transparent !important;
+  background-image: 
+    radial-gradient(at 8% 12%, rgba(59, 130, 246, 0.09) 0px, transparent 45%),
+    radial-gradient(at 92% 8%, rgba(99, 102, 241, 0.09) 0px, transparent 45%),
+    radial-gradient(at 50% 45%, rgba(14, 165, 233, 0.05) 0px, transparent 55%),
+    radial-gradient(at 80% 88%, rgba(168, 85, 247, 0.08) 0px, transparent 50%),
+    radial-gradient(at 12% 92%, rgba(16, 185, 129, 0.06) 0px, transparent 50%) !important;
+  background-attachment: fixed !important;
+}
+
+/* 2. Top Navigation Bar & Header (Frosted Glass) */
+header,
+header.sticky,
+.glass-header,
+.top-nav-glass {
+  background: rgba(255, 255, 255, 0.72) !important;
+  backdrop-filter: blur(12px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(12px) saturate(180%) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.45) !important;
+  box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.85) !important;
+}
+
+/* 3. Sidebar (Frosted Glass) */
+aside,
+aside.sticky,
+.glass-sidebar {
+  background: rgba(255, 255, 255, 0.72) !important;
+  backdrop-filter: blur(14px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(14px) saturate(180%) !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.4) !important;
+  box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.8) !important;
+}
+
+aside .bg-slate-50,
+aside > div:first-child {
+  background: rgba(248, 250, 252, 0.6) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border-color: rgba(255, 255, 255, 0.4) !important;
+}
+
+/* 4. Structural Cards, Panels & Question Selectors */
+.card-3d,
+.glass-card,
+.glass-panel,
+.glass-container {
+  background: rgba(255, 255, 255, 0.72) !important;
+  backdrop-filter: blur(12px) saturate(160%) !important;
+  -webkit-backdrop-filter: blur(12px) saturate(160%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.45) !important;
+  box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.07), inset 0 1px 1px rgba(255, 255, 255, 0.9) !important;
+  border-radius: 16px !important;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.card-3d:hover,
+.glass-card:hover {
+  background: rgba(255, 255, 255, 0.82) !important;
+  border-color: rgba(255, 255, 255, 0.7) !important;
+  box-shadow: 0 12px 36px 0 rgba(15, 23, 42, 0.1), inset 0 1px 1.5px rgba(255, 255, 255, 0.95) !important;
+}
+
+/* Container cards (except printable sheets) */
+div:not(#exam-paper-container):not(.exam-sheet):not(#bubble-sheet-printable-area):not(#answer-key-print-content):not(#datesheet-print-container):not(#resultcard-print-container):not(.print-container):not([data-printable="true"]).bg-white.rounded-2xl {
+  background: rgba(255, 255, 255, 0.72) !important;
+  backdrop-filter: blur(12px) saturate(160%) !important;
+  -webkit-backdrop-filter: blur(12px) saturate(160%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.45) !important;
+  box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.85) !important;
+}
+
+/* Dark Frosted Glass Containers (Hero Banner, Dark Cards) */
+.glass-card-dark,
+div[style*="linear-gradient(135deg, #06152d"],
+div[style*="linear-gradient(135deg, rgb(6, 21, 45)"] {
+  background: rgba(10, 25, 48, 0.76) !important;
+  backdrop-filter: blur(14px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(14px) saturate(180%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.16) !important;
+  box-shadow: 0 16px 40px 0 rgba(6, 21, 45, 0.35), inset 0 1px 1px rgba(255, 255, 255, 0.25) !important;
+}
+
+/* 5. Floating Action Buttons, Controls, Toolboxes & Settings */
+.glass-toolbar,
+.glass-toolbox,
+.glass-control,
+.btn-glass {
+  background: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.85) !important;
+}
+
+/* 6. Modal Dialogs, Pop-up Overlays & Dropdown Menus */
+.fixed.inset-0.z-50 {
+  background-color: rgba(15, 23, 42, 0.45) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+}
+
+.fixed.inset-0.z-50 > div:not(#exam-paper-container):not(.exam-sheet):not([data-printable="true"]) {
+  background: rgba(255, 255, 255, 0.82) !important;
+  backdrop-filter: blur(16px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(16px) saturate(180%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.6) !important;
+  box-shadow: 0 24px 64px -12px rgba(15, 23, 42, 0.25), 0 8px 32px 0 rgba(0, 0, 0, 0.12), inset 0 1px 1.5px rgba(255, 255, 255, 0.95) !important;
+  border-radius: 20px !important;
+}
+
+/* Dropdown menus & Select boxes */
+select,
+.dropdown-menu,
+.glass-dropdown {
+  background-color: rgba(255, 255, 255, 0.78) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+}
+
+/* Input & Search Fields in Glass Cards */
+input[type="text"]:not([data-printable="true"]):not(#exam-paper-container *),
+input[type="password"]:not([data-printable="true"]):not(#exam-paper-container *),
+input[type="search"]:not([data-printable="true"]):not(#exam-paper-container *),
+textarea:not([data-printable="true"]):not(#exam-paper-container *) {
+  background: rgba(255, 255, 255, 0.75) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border: 1px solid rgba(203, 213, 225, 0.8) !important;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04) !important;
+}
+
+input[type="text"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border-color: #3b82f6 !important;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15) !important;
+}
+
+/* Question Selection Item Cards */
+div[class*="border"][class*="rounded-xl"]:not(#exam-paper-container *):not(.exam-sheet *):not(.icon-3d-badge) {
+  backdrop-filter: blur(8px) saturate(140%);
+  -webkit-backdrop-filter: blur(8px) saturate(140%);
+}
+
+/* 7. ELEMENT SHARPNESS & READABILITY PRESERVATION:
+   All typography, icons, monograms, badges & child content remain 100% crisp and readable */
+header *,
+aside *,
+.card-3d *,
+.glass-panel *,
+.font-urdu,
+.nastaliq,
+h1, h2, h3, h4, h5, h6, p, span, button, table, th, td, label {
+  filter: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 8. CRITICAL EXCEPTION: PURE WHITE SOLID CRISP PRINTABLE PAPER CANVAS
+   The A4 / Legal question paper, answer key, datesheet, marksheet and bubble sheet
+   canvas MUST remain pure solid #ffffff with NO blur, NO opacity and crisp borders */
+#exam-paper-container,
+.exam-sheet,
+#exam-paper-objective-sheet,
+#exam-paper-subjective-sheet,
+#bubble-sheet-printable-area,
+#answer-key-print-content,
+#datesheet-print-container,
+#resultcard-print-container,
+.printable-area,
+.print-sheet,
+.print-container,
+[data-printable="true"],
+#exam-paper-container *,
+.exam-sheet *,
+#exam-paper-objective-sheet *,
+#exam-paper-subjective-sheet *,
+#bubble-sheet-printable-area *,
+#answer-key-print-content *,
+#datesheet-print-container *,
+#resultcard-print-container * {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+#exam-paper-container,
+.exam-sheet {
+  border: 1px solid #cbd5e1 !important;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1) !important;
+}
+
+@media print {
+  #exam-paper-container,
+  .exam-sheet {
+    box-shadow: none !important;
+    border: none !important;
   }
 }
