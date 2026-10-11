@@ -655,7 +655,7 @@ export function generateMassiveQuestionPoolForChapter(subject: any, chapter: any
         en: `[Textbook Exercise Q.2] The HTML tag used to create a hyperlink to another web page is:`,
         ur: `[مشقی سوال 2] کسی دوسرے ویب پیج پر ہائپر لنک بنانے کے لیے کون سا HTML ٹیگ استعمال ہوتا ہے؟`,
         opts: [
-          { en: "<a href='...'>", ur: "<a href='...'>" },
+          { en: '<a href="...">', ur: '<a href="...">' },
           { en: "<link>", ur: "<link>" },
           { en: "<href>", ur: "<href>" },
           { en: "<url>", ur: "<url>" }

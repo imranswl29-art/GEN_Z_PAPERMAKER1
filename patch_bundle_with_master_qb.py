@@ -31,19 +31,19 @@ engine_js = engine_js.replace("let subjectInTextBoxMcqs: any[] = [];", "let subj
 engine_js = engine_js.replace("let subjectShortTemplates: any[] = [];", "let subjectShortTemplates = [];")
 engine_js = engine_js.replace("let subjectLongTemplates: any[] = [];", "let subjectLongTemplates = [];")
 
-# Locate C8 and x8 in bundle
-c8_idx = bundle.find("function C8(")
-x8_idx = bundle.find("function x8(")
-z3_idx = bundle.find("const X3=\"ptbb_user_custom_questions_v1\";")
+# Locate exact start and end in bundle
+start_idx = bundle.find("const PUNJAB_BOARDS_LIST = [")
+z3_idx = bundle.find('const X3="ptbb_user_custom_questions_v1";')
 
-print(f"Indices: c8={c8_idx}, x8={x8_idx}, z3={z3_idx}")
+print(f"Indices: start_idx={start_idx}, z3_idx={z3_idx}")
+assert start_idx != -1 and z3_idx != -1, "Target indices not found in bundle!"
 
 # New x8 that returns empty arrays (eliminating placeholders!)
 clean_x8 = "function x8(n,e){return{mcqs:[],shortQuestions:[],longQuestions:[]}}"
 
-# Replace the block from c8_idx to z3_idx
+# Replace the block from start_idx to z3_idx
 new_block = engine_js + "\n" + clean_x8 + "\n"
-new_bundle = bundle[:c8_idx] + new_block + bundle[z3_idx:]
+new_bundle = bundle[:start_idx] + new_block + bundle[z3_idx:]
 
 with open("assets/index-DAioIUjd.js", "w", encoding="utf-8") as f:
     f.write(new_bundle)
