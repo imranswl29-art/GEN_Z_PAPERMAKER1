@@ -224,4 +224,23 @@ h1, h2, h3, h4, h5, h6, p, span, button, table, th, td, label {
     box-shadow: none !important;
     border: none !important;
   }
+  .no-print,
+  button,
+  .btn,
+  .action-buttons,
+  nav,
+  header {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  #printable-content {
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
 }
