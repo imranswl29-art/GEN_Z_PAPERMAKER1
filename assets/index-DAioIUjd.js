@@ -7119,6 +7119,10 @@ const X3="ptbb_user_custom_questions_v1";function Z3(){try{const n=localStorage.
 function normalizeTextKey(str) {
   if (!str) return "";
   return String(str)
+    .replace(/\((BISE|LHR|GRW|RWP|FSD|MTN|SWL|SGD|BWP|DGK)[^)]*\)/gi, " ")
+    .replace(/\(Group-[^)]*\)/gi, " ")
+    .replace(/\(\d{4}[^)]*\)/gi, " ")
+    .replace(/\[[^\]]*\]/g, " ")
     .toLowerCase()
     .replace(/[\?\.,\/#!$%\^&\*;:{}=\-_`~()"\']+/g, " ")
     .replace(/[\u0600-\u061F\u064B-\u065F\u06D6-\u06ED]/g, "")
