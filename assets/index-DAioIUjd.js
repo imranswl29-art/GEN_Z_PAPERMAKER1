@@ -7032,42 +7032,7 @@ function C8(n, e) {
   });
 
   // Generate Additional High-Yield Short Questions for comprehensive coverage
-  for (let s = 1; s <= 45; s++) {
-    const citation = generatePunjabBoardCitation(s * 5 + chNo * 7);
-    const isNum = (s % 3 === 0) && hasNumericals;
-    const isBox = (s % 4 === 0);
-    const isEx = (s % 2 === 0);
-    const cat = isNum ? "Numerical Problems" : isBox ? "In-Text & Box Questions" : isEx ? "Textbook Exercises" : "Past Board Papers";
-    
-    let stEn = "";
-    let stUr = "";
-
-    if (isNum) {
-      stEn = `[Numerical Problem] Solve and calculate the required textbook value in ${chTitleEn} when initial magnitude is ${s * 10} units and time is 5 seconds. (${citation})`;
-      stUr = `[حسابی مسئلہ] ${chTitleUr} کے تحت حسابی سوال حل کریں جب ابتدائی قیمت ${s * 10} اکائیاں اور وقت 5 سیکنڈ ہو۔ (${citation})`;
-    } else if (isBox) {
-      stEn = `[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in ${chTitleEn}. (${citation})`;
-      stUr = `[چیپٹر کے اندر سے: معلوماتی بکس] ${chTitleUr} کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (${citation})`;
-    } else if (isEx) {
-      stEn = `[Textbook Exercise Q.${s}] State the core definition, conditions, and textbook characteristics of ${chTitleEn}. (${citation})`;
-      stUr = `[مشقی سوال ${s}] ${chTitleUr} کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (${citation})`;
-    } else {
-      stEn = `[Past Board Paper] Give scientific reason and two key points regarding ${chTitleEn} as asked in recent examinations. (${citation})`;
-      stUr = `[سابقہ بورڈ پرچہ] ${chTitleUr} سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (${citation})`;
-    }
-
-    shortQuestions.push({
-      id: `${subject.id}-c${chNo}-sq-ext-${s}`,
-      subNo: shortQuestions.length + 1,
-      statementEn: stEn,
-      statementUr: stUr,
-      marks: 2,
-      chapterRef: chNo,
-      category: cat,
-      pastBoardInfo: citation
-    });
-  }
-
+  
   // 5. Generate Long Questions
   subjectLongTemplates.forEach((lq, lIdx) => {
     const citation = generatePunjabBoardCitation(lIdx * 4 + chNo * 9);
@@ -7098,49 +7063,201 @@ function C8(n, e) {
     });
   });
 
-  // Additional Board Pattern Long Questions for High-Yield Coverage
-  for (let lExtra = 1; lExtra <= 5; lExtra++) {
-    const citation = generatePunjabBoardCitation(lExtra * 7 + chNo * 11);
-    const boardTag = `(${citation})`;
-    let extraTheoryEn = `[Comprehensive Board Question] Explain the fundamental laws, structural characteristics and experimental verification in ${chTitleEn}.`;
-    let extraTheoryUr = `[جامع تفصیلی سوال] ${chTitleUr} کے تحت بنیادی سائنسی قوانین، ساخت کی خصوصیات اور تجرباتی تصدیق کی جامع وضاحت کریں۔`;
-    let extraNumEn = hasNumericals
-      ? `[Textbook Numerical] An object with initial magnitude ${lExtra * 15} units undergoes uniform change in 4 seconds. Calculate the resulting value.`
-      : `[Textbook Analytical Derivation] Discuss the key applications, consequences and significance of ${chTitleEn} in real-life context.`;
-    let extraNumUr = hasNumericals
-      ? `[درسی حسابی مسئلہ] ایک جسم جس کی ابتدائی قیمت ${lExtra * 15} اکائیاں ہے، 4 سیکنڈ میں تبدیلی طے کرتا ہے۔ مطلوبہ حتمی قیمت معلوم کریں۔`
-      : `[تجزیاتی تفصیلی سوال] روزمرہ زندگی کے تناظر میں ${chTitleUr} کے اہم اطلاقات، فوائد اور اہمیت تفصیل سے بیان کریں۔`;
-
-    longQuestions.push({
-      id: `${subject.id}-c${chNo}-lq-ext-${lExtra}`,
-      qNo: longQuestions.length + 5,
-      totalMarks: 9,
-      parts: [
-        {
-          partLabel: "a",
-          statementEn: `${extraTheoryEn} ${boardTag}`,
-          statementUr: `${extraTheoryUr} ${boardTag}`,
-          marks: 5,
-          isNumerical: false
-        },
-        {
-          partLabel: "b",
-          statementEn: `${extraNumEn} ${boardTag}`,
-          statementUr: `${extraNumUr} ${boardTag}`,
-          marks: 4,
-          isNumerical: hasNumericals
-        }
+  // =========================================================================
+  // AUTHENTIC PTBB CURRICULUM CHAPTER-BY-CHAPTER QUESTION REPOSITORY
+  // =========================================================================
+  const REAL_PHYSICS_9TH_QUESTIONS = {
+    1: {
+      shorts: [
+        { en: "Define base quantities and derived quantities with two examples of each.", ur: "بنیادی اور ماخوذ مقداروں کی تعریف کریں اور ہر ایک کی دو دو مثالیں دیں۔", cat: "Textbook Exercises" },
+        { en: "What is meant by scientific notation? Express 0.000054 s in scientific notation.", ur: "سائنسی نوٹیشن سے کیا مراد ہے؟ 0.000054 سیکنڈ کو سائنسی نوٹیشن میں لکھیں۔", cat: "Textbook Exercises" },
+        { en: "What is the least count of Vernier Calipers and Screw Gauge?", ur: "ورنیئر کیلیپرز اور سکریو گیج کا لیسٹ کاؤنٹ کتنا ہوتا ہے؟", cat: "Past Board Papers" },
+        { en: "What is zero error? Why is zero correction necessary in measuring instruments?", ur: "زیرو ایرر کیا ہے؟ پیمائشی آلات میں زیرو کریکشن کیوں ضروری ہے؟", cat: "In-Text & Box Questions" },
+        { en: "How is a stop watch used to find the time period of a simple pendulum?", ur: "سادہ پینڈولم کا ٹائم پیریڈ معلوم کرنے کے لیے سٹاپ واچ کا استعمال کیسے کیا جاتا ہے؟", cat: "SLO Conceptual" },
+        { en: "What is the significance of significant figures in measured physical quantities?", ur: "پیمائش شدہ طبعی مقداروں میں اہم ہندسوں (Significant Figures) کی کیا اہمیت ہے؟", cat: "SLO Conceptual" },
+        { en: "Define prefixes. Give two examples of prefixes used in SI units.", ur: "پریفکسز (Prefixes) کی تعریف کریں اور ایس آئی سسٹم میں استعمال ہونے والے دو پریفکسز لکھیں۔", cat: "Textbook Exercises" },
+        { en: "Calculate the volume of a sphere of radius 2.25 cm using correct significant figures.", ur: "2.25 سینٹی میٹر رداس والے کرے کا والیم درست اہم ہندسوں کے ساتھ معلوم کریں۔", cat: "Numerical Problems" }
       ],
-      chapterRef: `Unit ${chNo}`,
-      category: "Textbook Exercises",
-      pastBoardInfo: citation
+      longs: [
+        { theoryEn: "Explain Vernier Calipers with its construction, least count, zero error, and procedure of measurement.", theoryUr: "ورنیئر کیلیپرز کی بناوٹ، لیسٹ کاؤنٹ، زیرو ایرر اور پیمائش کا طریقہ تفصیل سے بیان کریں۔", numEn: "A screw gauge has 50 divisions on its circular scale. The pitch of the screw gauge is 0.5 mm. Find its least count.", numUr: "ایک سکریو گیج کے سرکلر سکیل پر 50 درجے ہیں۔ اس کی پچ 0.5 ملی میٹر ہے۔ اس کا لیسٹ کاؤنٹ معلوم کریں۔" }
+      ]
+    },
+    2: {
+      shorts: [
+        { en: "Differentiate between rest and motion with examples from daily life.", ur: "روزمرہ زندگی سے مثالیں دیتے ہوئے ریسٹ اور موشن میں فرق واضح کریں۔", cat: "Textbook Exercises" },
+        { en: "Define rotatory motion and vibratory motion. Give one example of each.", ur: "روٹیٹری موشن اور وائبریٹری موشن کی تعریف کریں اور ہر ایک کی ایک مثال دیں۔", cat: "Past Board Papers" },
+        { en: "Differentiate between scalar and vector quantities with suitable examples.", ur: "سکیلر اور ویکٹر مقداروں میں مناسب مثالوں کے ساتھ فرق بیان کریں۔", cat: "Textbook Exercises" },
+        { en: "Define speed and velocity. Write their SI units and mathematical formulas.", ur: "سپیڈ اور ویلاسٹی کی تعریف کریں۔ ان کے ایس آئی یونٹس اور فارمولے لکھیں۔", cat: "Past Board Papers" },
+        { en: "What is meant by uniform acceleration? State its SI unit.", ur: "یونیفارم ایکسلریشن سے کیا مراد ہے؟ اس کا ایس آئی یونٹ تحریر کریں۔", cat: "In-Text & Box Questions" },
+        { en: "Can a body moving with constant speed have an acceleration? Explain with an example.", ur: "کیا مستقل سپیڈ سے حرکت کرتے ہوئے جسم میں ایکسلریشن ہو سکتا ہے؟ مثال سے واضح کریں۔", cat: "SLO Conceptual" },
+        { en: "What does the slope of a distance-time graph and speed-time graph represent?", ur: "فاصلہ-وقت گراف اور سپیڈ-وقت گراف کی ڈھلوان (سلوپ) کس مقدار کو ظاہر کرتی ہے؟", cat: "In-Text & Box Questions" },
+        { en: "A car starts from rest. Its velocity becomes 20 m s⁻¹ in 8 seconds. Find its acceleration.", ur: "ایک کار ریسٹ سے چلنا شروع کرتی ہے۔ 8 سیکنڈ میں اس کی ویلاسٹی 20 m s⁻¹ ہو جاتی ہے۔ ایکسلریشن معلوم کریں۔", cat: "Numerical Problems" },
+        { en: "A train moves with a uniform velocity of 36 km h⁻¹ for 10 s. Find the distance traveled by it.", ur: "ایک ٹرین 36 کلومیٹر فی گھنٹہ کی یونیفارم ویلاسٹی سے 10 سیکنڈ تک چلتی ہے۔ طے کردہ فاصلہ معلوم کریں۔", cat: "Numerical Problems" }
+      ],
+      longs: [
+        { theoryEn: "Derive the second equation of motion S = vi·t + 1/2·a·t² with the help of a speed-time graph.", theoryUr: "سپیڈ-وقت گراف کی مدد سے حرکت کی دوسری مساوات S = vi·t + 1/2·a·t² اخذ کریں۔", numEn: "A car has a velocity of 10 m s⁻¹. It accelerates at 0.2 m s⁻² for half a minute. Find the distance traveled.", numUr: "ایک کار کی ویلاسٹی 10 m s⁻¹ ہے۔ یہ آدھے منٹ تک 0.2 m s⁻² کے ایکسلریشن سے چلتی ہے۔ طے کردہ فاصلہ معلوم کریں۔" },
+        { theoryEn: "Derive the third equation of motion 2aS = vf² - vi² using a speed-time graph.", theoryUr: "سپیڈ-وقت گراف کی مدد سے حرکت کی تیسری مساوات 2aS = vf² - vi² اخذ کریں۔", numEn: "A ball is thrown vertically upwards with a velocity of 30 m s⁻¹. Find the maximum height reached by the ball.", numUr: "ایک گیند 30 m s⁻¹ کی ویلاسٹی سے عموداً اوپر پھینکی جاتی ہے۔ گیند کی زیادہ سے زیادہ بلندی معلوم کریں۔" }
+      ]
+    },
+    3: {
+      shorts: [
+        { en: "Define inertia and momentum. On what factors does inertia of a body depend?", ur: "انرشیا اور مومنٹم کی تعریف کریں۔ کسی جسم کے انرشیا کا دارومدار کس چیز پر ہوتا ہے؟", cat: "Textbook Exercises" },
+        { en: "State Newton's First Law of Motion and explain why it is called the Law of Inertia.", ur: "نیوٹن کا موشن کا پہلا قانون بیان کریں اور وضاحت کریں کہ اسے قانونِ انرشیا کیوں کہتے ہیں۔", cat: "Past Board Papers" },
+        { en: "State Newton's Second Law of Motion and define the unit of force (Newton).", ur: "نیوٹن کا موشن کا دوسرا قانون بیان کریں اور فورس کے یونٹ (نیوٹن) کی تعریف کریں۔", cat: "Textbook Exercises" },
+        { en: "Differentiate between mass and weight in terms of definition, SI unit, and measurement.", ur: "تعریف، ایس آئی یونٹ اور پیمائش کے لحاظ سے ماس اور وزن میں فرق واضح کریں۔", cat: "Past Board Papers" },
+        { en: "State Newton's Third Law of Motion. Give two practical examples from daily life.", ur: "نیوٹن کا موشن کا تیسرا قانون بیان کریں اور روزمرہ زندگی سے دو عملی مثالیں دیں۔", cat: "In-Text & Box Questions" },
+        { en: "State the Law of Conservation of Momentum and write its mathematical equation.", ur: "قانونِ بقائے مومنٹم بیان کریں اور اس کی حسابی مساوات تحریر کریں۔", cat: "SLO Conceptual" },
+        { en: "Why is rolling friction much smaller than sliding friction?", ur: "رولنگ فرکشن، سلائیڈنگ فرکشن سے بہت کم کیوں ہوتی ہے؟", cat: "In-Text & Box Questions" },
+        { en: "What is centripetal force and centripetal acceleration? Write their mathematical formulas.", ur: "سینٹری پیٹل فورس اور سینٹری پیٹل ایکسلریشن کیا ہیں؟ ان کے حسابی فارمولے لکھیں۔", cat: "Textbook Exercises" },
+        { en: "A force of 20 N moves a body with an acceleration of 2 m s⁻². Calculate the mass of the body.", ur: "20 نیوٹن کی فورس ایک جسم میں 2 m s⁻² کا ایکسلریشن پیدا کرتی ہے۔ جسم کا ماس معلوم کریں۔", cat: "Numerical Problems" },
+        { en: "Find the acceleration produced by a force of 100 N in a mass of 50 kg.", ur: "50 کلوگرام ماس والے جسم پر 100 نیوٹن فورس لگانے سے پیدا ہونے والا ایکسلریشن معلوم کریں۔", cat: "Numerical Problems" }
+      ],
+      longs: [
+        { theoryEn: "State and prove Newton's Second Law of Motion and establish the relation F = ma.", theoryUr: "نیوٹن کا موشن کا دوسرا قانون بیان کریں اور ثابت کریں کہ فورس F = ma کے برابر ہوتی ہے۔", numEn: "A body of mass 5 kg is moving with a velocity of 10 m s⁻¹. Find the force required to stop it in 2 seconds.", numUr: "5 کلوگرام کا جسم 10 m s⁻¹ کی ویلاسٹی سے حرکت کر رہا ہے۔ اسے 2 سیکنڈ میں روکنے کے لیے درکار فورس معلوم کریں۔" },
+        { theoryEn: "State the Law of Conservation of Momentum and prove it for an isolated system of two colliding balls.", theoryUr: "قانونِ بقائے مومنٹم بیان کریں اور دو ٹکراتی ہوئی گیندوں کے الگ تھلگ سسٹم کے لیے اسے ثابت کریں۔", numEn: "A car of mass 1000 kg is running on a circular track of radius 100 m at 20 m s⁻¹. Find the centripetal force.", numUr: "1000 کلوگرام ماس کی کار 100 میٹر رداس کے دائرے میں 20 m s⁻¹ کی رفتار سے گھوم رہی ہے۔ سینٹری پیٹل فورس معلوم کریں۔" }
+      ]
+    },
+    4: {
+      shorts: [
+        { en: "Differentiate between like parallel forces and unlike parallel forces with diagrams.", ur: "لائیک پیرلل فورسز اور ان لائیک پیرلل فورسز میں تصویری وضاحت کے ساتھ فرق بیان کریں۔", cat: "Textbook Exercises" },
+        { en: "Define torque (moment of force). Write its formula and SI unit.", ur: "ٹارک (فورس کے مومنٹ) کی تعریف کریں۔ اس کا فارمولا اور ایس آئی یونٹ لکھیں۔", cat: "Past Board Papers" },
+        { en: "What is the center of gravity and center of mass of a body?", ur: "کسی جسم کے سینٹر آف گریوٹی اور سینٹر آف ماس کی تعریف کریں۔", cat: "In-Text & Box Questions" },
+        { en: "Define couple and write two everyday examples of couple.", ur: "کپل (Couple) کی تعریف کریں اور روزمرہ زندگی سے کپل کی دو مثالیں دیں۔", cat: "Past Board Papers" },
+        { en: "State the First Condition of Equilibrium and its mathematical form.", ur: "ایکویلیبریم کی پہلی شرط اور اس کی حسابی مساوات تحریر کریں۔", cat: "Textbook Exercises" },
+        { en: "State the Second Condition of Equilibrium and explain why it is needed.", ur: "ایکویلیبریم کی دوسری شرط بیان کریں اور واضح کریں کہ اس کی ضرورت کیوں پیش آتی ہے۔", cat: "SLO Conceptual" },
+        { en: "Differentiate between stable, unstable, and neutral equilibrium.", ur: "سٹیبل، ان سٹیبل اور نیوٹرل ایکویلیبریم میں فرق بیان کریں۔", cat: "In-Text & Box Questions" },
+        { en: "A force of 100 N acts perpendicularly on a spanner at a distance of 10 cm from the nut. Find torque.", ur: "ایک نٹ پر پانے (Spanner) کی مدد سے 10 سینٹی میٹر فاصلے پر 100 نیوٹن کی فورس لگائی جاتی ہے۔ ٹارک معلوم کریں۔", cat: "Numerical Problems" }
+      ],
+      longs: [
+        { theoryEn: "What is resolution of forces? Determine the horizontal and vertical rectangular components of a force F.", theoryUr: "فورسز کی ریزولیوشن سے کیا مراد ہے؟ فورس F کے عمودی اور افقی ریکٹینگلر اجزاء معلوم کرنے کا طریقہ بیان کریں۔", numEn: "Find the magnitude and direction of a force if its x-component is 12 N and y-component is 5 N.", numUr: "ایک فورس کی مقدار اور سمت معلوم کریں جس کا x-کمپوننٹ 12 نیوٹن اور y-کمپوننٹ 5 نیوٹن ہو۔" }
+      ]
+    },
+    5: {
+      shorts: [
+        { en: "State Newton's Law of Universal Gravitation and write its mathematical formula.", ur: "نیوٹن کا گریوی ٹیشن کا کائناتی قانون بیان کریں اور اس کا حسابی فارمولا لکھیں۔", cat: "Textbook Exercises" },
+        { en: "What is gravitational field strength and what is its value near the surface of the Earth?", ur: "گریوی ٹیشنل فیلڈ سٹرینتھ کیا ہے اور زمین کی سطح پر اس کی قیمت کتنی ہوتی ہے؟", cat: "Past Board Papers" },
+        { en: "Why does the value of 'g' decrease with altitude?", ur: "بلندی پر جانے سے 'g' کی قیمت کیوں کم ہو جاتی ہے؟", cat: "In-Text & Box Questions" },
+        { en: "What are artificial satellites and what is their orbital speed near Earth?", ur: "مصنوعی سیارے کیا ہیں اور زمین کے قریب ان کی آربیٹل سپیڈ کتنی ہوتی ہے؟", cat: "Past Board Papers" },
+        { en: "What is the relation between Newton's Law of Gravitation and Newton's Third Law of Motion?", ur: "نیوٹن کے قانونِ گریوی ٹیشن اور موشن کے تیسرے قانون میں کیا تعلق ہے؟", cat: "SLO Conceptual" },
+        { en: "Calculate the gravitational force between two masses of 1000 kg each separated by 1 m.", ur: "ایک میٹر فاصلے پر رکھے ہوئے 1000 کلوگرام کے دو اجسام کے درمیان گریویٹیشنل فورس معلوم کریں۔", cat: "Numerical Problems" }
+      ],
+      longs: [
+        { theoryEn: "Explain how the mass of the Earth can be determined using Newton's Law of Gravitation.", theoryUr: "نیوٹن کے قانونِ گریوی ٹیشن کی مدد سے زمین کا ماس معلوم کرنے کا طریقہ تفصیلاً بیان کریں۔", numEn: "Find the gravitational acceleration 'g' at a height of 1000 km above the surface of the Earth.", numUr: "زمین کی سطح سے 1000 کلومیٹر کی بلندی پر گریویٹیشنل ایکسلریشن 'g' کی قیمت معلوم کریں۔" }
+      ]
+    },
+    6: {
+      shorts: [
+        { en: "Define work. Write its formula and define the SI unit of work (Joule).", ur: "ورک کی تعریف کریں۔ اس کا فارمولا لکھیں اور ورک کے ایس آئی یونٹ (جول) کی تعریف کریں۔", cat: "Textbook Exercises" },
+        { en: "Define kinetic energy and potential energy. Write their mathematical equations.", ur: "کائینیٹک انرجی اور پوٹینشل انرجی کی تعریف کریں اور ان کی حسابی مساواتیں تحریر کریں۔", cat: "Past Board Papers" },
+        { en: "State the Law of Conservation of Energy with a practical example.", ur: "قانونِ بقائے انرجی کی تعریف کریں اور ایک عملی مثال دیں۔", cat: "In-Text & Box Questions" },
+        { en: "Define efficiency of a machine. Why is an ideal machine with 100% efficiency not possible?", ur: "مشین کی ایفیشنسی (کارکردگی) کی تعریف کریں۔ 100 فیصد ایفیشنسی والی مثالی مشین کیوں ناممکن ہے؟", cat: "SLO Conceptual" },
+        { en: "Define power. Write its formula and define Watt and Horsepower.", ur: "پاور کی تعریف کریں۔ اس کا فارمولا لکھیں اور واٹ (Watt) اور ہارس پاور کی تعریف کریں۔", cat: "Textbook Exercises" },
+        { en: "A body of mass 2 kg is dropped from a height of 10 m. Find its kinetic energy just before striking the ground.", ur: "2 کلوگرام ماس کا جسم 10 میٹر بلندی سے گرایا جاتا ہے۔ زمین سے ٹکرانے سے پہلے اس کی کائینیٹک انرجی معلوم کریں۔", cat: "Numerical Problems" }
+      ],
+      longs: [
+        { theoryEn: "Derive the mathematical expression for Kinetic Energy K.E. = 1/2·m·v².", theoryUr: "کائینیٹک انرجی کی مساوات K.E. = 1/2·m·v² باقاعدہ اخذ کریں۔", numEn: "A 500 g stone is thrown upwards with a velocity of 15 m s⁻¹. Find its potential energy at the highest point.", numUr: "500 گرام کا پتھر 15 m s⁻¹ کی رفتار سے اوپر پھینکا جاتا ہے۔ بلند ترین مقام پر اس کی پوٹینشل انرجی معلوم کریں۔" }
+      ]
+    },
+    7: {
+      shorts: [
+        { en: "State the Kinetic Molecular Model of Matter and explain states of matter.", ur: "مادے کا کائینیٹک مالیکیولر ماڈل بیان کریں اور مادے کی طبعی حالتوں کی وضاحت کریں۔", cat: "Textbook Exercises" },
+        { en: "Define density. Write its formula and SI unit.", ur: "ڈینسٹی (کثافت) کی تعریف کریں۔ اس کا فارمولا اور ایس آئی یونٹ لکھیں۔", cat: "Past Board Papers" },
+        { en: "Define pressure. State its formula and define Pascal (Pa).", ur: "پریشر کی تعریف کریں۔ اس کا فارمولا لکھیں اور پاسکل کی تعریف کریں۔", cat: "Textbook Exercises" },
+        { en: "State Pascal's Law and name two hydraulic devices based on it.", ur: "پاسکل کا قانون بیان کریں اور اس پر کام کرنے والے دو ہائیڈرولک آلات کے نام لکھیں۔", cat: "In-Text & Box Questions" },
+        { en: "State Archimedes' Principle and explain how an iron ship floats on water.", ur: "ارشمیدس کا اصول بیان کریں اور واضح کریں کہ لوہے کا وزنی جہاز پانی پر کیسے تیرتا ہے۔", cat: "SLO Conceptual" },
+        { en: "State Hooke's Law and define Elastic Limit.", ur: "ہک کا قانون بیان کریں اور الاسٹک لمٹ کی تعریف کریں۔", cat: "Past Board Papers" },
+        { en: "Define Young's Modulus and write its mathematical formula.", ur: "ینگز ماڈیولس کی تعریف کریں اور اس کا حسابی فارمولا تحریر کریں۔", cat: "Textbook Exercises" }
+      ],
+      longs: [
+        { theoryEn: "State Pascal's Law. Explain the working of a hydraulic lift with a neat diagram.", theoryUr: "پاسکل کا قانون بیان کریں اور ہائیڈرولک لفٹ کا طریقہ کار مع ڈایاگرام واضح کریں۔", numEn: "A wooden cube of side 5 cm and mass 100 g floats in water. Find the upthrust acting on the cube.", numUr: "5 سینٹی میٹر چوڑائی اور 100 گرام ماس کا لکڑی کا بلاک پانی میں تیرتا ہے۔ اس پر لگنے والی اچھال کی فورس معلوم کریں۔" }
+      ]
+    },
+    8: {
+      shorts: [
+        { en: "Differentiate between temperature and heat in terms of kinetic energy.", ur: "مالیکیولز کی کائینیٹک انرجی کے تناظر میں ٹمپریچر اور حرارت میں فرق واضح کریں۔", cat: "Textbook Exercises" },
+        { en: "Define Specific Heat Capacity of a substance. State its SI unit.", ur: "کسی شے کی مخصوص حرارت (Specific Heat Capacity) کی تعریف کریں اور اس کا یونٹ لکھیں۔", cat: "Past Board Papers" },
+        { en: "Why does water have a very high specific heat capacity and what is its importance?", ur: "پانی کی مخصوص حرارت بہت زیادہ کیوں ہوتی ہے اور اس کی ماحول میں کیا اہمیت ہے؟", cat: "In-Text & Box Questions" },
+        { en: "Define Latent Heat of Fusion and Latent Heat of Vaporization.", ur: "پگھلاؤ کی مخفی حرارت (Hf) اور بخارات بننے کی مخفی حرارت (Hv) کی تعریف کریں۔", cat: "Textbook Exercises" },
+        { en: "Define evaporation. What factors affect the rate of evaporation of a liquid?", ur: "بخارات بننے کے عمل (Evaporation) کی تعریف کریں اور اس پر اثر انداز ہونے والے عوامل لکھیں۔", cat: "SLO Conceptual" },
+        { en: "Why does evaporation cause cooling? Explain with an everyday example.", ur: "بخارات بننے کا عمل ٹھنڈک کیوں پیدا کرتا ہے؟ روزمرہ مثال سے واضح کریں۔", cat: "In-Text & Box Questions" },
+        { en: "Explain linear thermal expansion and volume thermal expansion of solids.", ur: "ٹھوس اشیاء کے طولی پھیلاؤ اور والیم کے تھرمل پھیلاؤ کی وضاحت کریں۔", cat: "Past Board Papers" },
+        { en: "Calculate the heat required to raise the temperature of 5 kg of water from 20°C to 50°C (c = 4200 J kg⁻¹ K⁻¹).", ur: "5 کلوگرام پانی کا ٹمپریچر 20°C سے 50°C تک بڑھانے کے لیے درکار حرارت معلوم کریں (c = 4200 J kg⁻¹ K⁻¹)۔", cat: "Numerical Problems" }
+      ],
+      longs: [
+        { theoryEn: "Explain thermal expansion of solids and derive the mathematical equation for linear expansion ΔL = α·L₀·ΔT.", theoryUr: "ٹھوس اشیاء میں تھرمل پھیلاؤ کی وضاحت کریں اور طولی پھیلاؤ کی مساوات ΔL = α·L₀·ΔT اخذ کریں۔", numEn: "How much heat is required to melt 100 g of ice at 0°C into water at 0°C? (Hf = 3.36 × 10⁵ J kg⁻¹).", numUr: "0°C پر 100 گرام برف کو پگھلا کر پانی بنانے کے لیے درکار حرارت معلوم کریں۔ (Hf = 3.36 × 10⁵ J kg⁻¹)۔" }
+      ]
+    },
+    9: {
+      shorts: [
+        { en: "Name the three modes of transfer of heat and explain how heat travels in solids.", ur: "حرارت کے انتقال کے تینوں طریقوں کے نام لکھیں اور بتائیں کہ ٹھوس اشیاء میں حرارت کیسے منتقل ہوتی ہے۔", cat: "Textbook Exercises" },
+        { en: "Define conduction of heat. Why are metals much better conductors of heat than non-metals?", ur: "حرارت کے ایصال (Conduction) کی تعریف کریں۔ دھاتیں نان میٹلز کی نسبت حرارت کی بہترین کنڈکٹر کیوں ہوتی ہیں؟", cat: "Past Board Papers" },
+        { en: "Define thermal conductivity of a substance. State its mathematical formula and SI unit.", ur: "تھرمل کنڈکٹیوٹی کی تعریف کریں۔ اس کا فارمولا اور ایس آئی یونٹ تحریر کریں۔", cat: "Textbook Exercises" },
+        { en: "What are the four factors affecting the rate of flow of heat through a conductor?", ur: "کسی کنڈکٹر میں حرارت کے بہاؤ کی شرح پر اثر انداز ہونے والے چار عوامل کونسے ہیں؟", cat: "Past Board Papers" },
+        { en: "Define convection of heat and explain convection currents in liquids and gases.", ur: "حرارت کے حمل (Convection) کی تعریف کریں اور مائعات و گیسوں میں کنویکشن کرنٹس کی وضاحت کریں۔", cat: "In-Text & Box Questions" },
+        { en: "Explain how land breeze and sea breeze blow along coastal regions due to convection.", ur: "کنویکشن کی وجہ سے ساحلی علاقوں میں نسیمِ بر اور نسیمِ بحر چلنے کا طریقہ واضح کریں۔", cat: "In-Text & Box Questions" },
+        { en: "Define radiation of heat. How does heat reach the Earth from the Sun?", ur: "حرارت کے اشعاع (Radiation) کی تعریف کریں۔ سورج سے حرارت زمین تک کس طریقے سے پہنچتی ہے؟", cat: "Textbook Exercises" },
+        { en: "What is Leslie's Cube? How does it demonstrate the effect of surface nature on radiation?", ur: "لیزلی کیوب (Leslie's Cube) کیا ہے؟ یہ سطح کی نوعیت کا ریڈی ایشن پر اثر کیسے واضح کرتا ہے؟", cat: "SLO Conceptual" },
+        { en: "Why are the bottoms of cooking pots made black or dull, while teapots are shining silver?", ur: "کھانا پکانے والے برتنوں کی پیندیاں کالی اور چائے کی کیتلیاں چمکدار چاندی جیسی کیوں رکھی جاتی ہیں؟", cat: "SLO Conceptual" },
+        { en: "Explain the working of a thermos flask in minimizing heat loss by conduction, convection, and radiation.", ur: "تھرموس فلاسک کا طریقہ کار بیان کریں کہ وہ کنڈکشن، کنویکشن اور ریڈی ایشن سے حرارت کے ضیاع کو کیسے روکتی ہے۔", cat: "In-Text & Box Questions" },
+        { en: "What is the greenhouse effect and how does it contribute to global warming?", ur: "گرین ہاؤس ایفیکٹ کیا ہے اور یہ گلوبل وارمنگ میں کیسے کردار ادا کرتا ہے؟", cat: "Textbook Exercises" }
+      ],
+      longs: [
+        { theoryEn: "Explain thermal conductivity of solids and derive the formula for rate of flow of heat Q/t = k·A·(T1 - T2)/L.", theoryUr: "ٹھوس اشیاء کی تھرمل کنڈکٹیوٹی کی وضاحت کریں اور حرارت کے بہاؤ کی شرح کی مساوات Q/t = k·A·(T1 - T2)/L اخذ کریں۔", numEn: "The exterior brick wall of a house of thickness 25 cm has an area of 20 m². The inside temperature is 15°C and outside is 35°C. Find rate of heat flow (k = 0.6 W m⁻¹ K⁻¹).", numUr: "ایک مکان کی اینٹوں کی بیرونی دیوار کی موٹائی 25 سینٹی میٹر اور رقبہ 20 مربع میٹر ہے۔ اندرونی درجہ حرارت 15°C اور بیرونی 35°C ہے۔ حرارت کے بہاؤ کی شرح معلوم کریں۔ (k = 0.6 W m⁻¹ K⁻¹)۔" },
+        { theoryEn: "Describe radiation of heat in detail. Explain the working principles of a vacuum flask and the greenhouse effect.", theoryUr: "حرارت کے ریڈی ایشن کا تفصیلی جائزہ لیں۔ ویکیوم فلاسک اور گرین ہاؤس اثر کے سائنسی اصولوں کی وضاحت کریں۔", numEn: "A metal rod of length 0.5 m and cross-sectional area 0.02 m² has its ends maintained at 100°C and 0°C. Calculate heat conducted in 10 s (k = 200 W m⁻¹ K⁻¹).", numUr: "0.5 میٹر لمبی اور 0.02 مربع میٹر کراس سیکشن رقبے والی دھاتی سلاخ کے سرے 100°C اور 0°C پر ہیں۔ 10 سیکنڈ میں منتقل ہونے والی حرارت معلوم کریں۔ (k = 200 W m⁻¹ K⁻¹)۔" }
+      ]
+    }
+  };
+
+  // If chapter questions are specifically defined for this unit, inject them!
+  if (isPhysics && REAL_PHYSICS_9TH_QUESTIONS[chNo]) {
+    const qData = REAL_PHYSICS_9TH_QUESTIONS[chNo];
+    qData.shorts.forEach((sq, sIdx) => {
+      const citation = generatePunjabBoardCitation(sIdx * 3 + chNo * 7);
+      shortQuestions.push({
+        id: `${subject.id}-c${chNo}-real-sq-${sIdx + 1}`,
+        subNo: shortQuestions.length + 1,
+        statementEn: sq.en,
+        statementUr: sq.ur,
+        marks: 2,
+        chapterRef: chNo,
+        category: sq.cat || "Past Board Papers",
+        pastBoardInfo: citation
+      });
+    });
+
+    qData.longs.forEach((lq, lIdx) => {
+      const citation = generatePunjabBoardCitation(lIdx * 4 + chNo * 9);
+      longQuestions.push({
+        id: `${subject.id}-c${chNo}-real-lq-${lIdx + 1}`,
+        qNo: longQuestions.length + 5,
+        totalMarks: 9,
+        parts: [
+          {
+            partLabel: "a",
+            statementEn: lq.theoryEn,
+            statementUr: lq.theoryUr,
+            marks: 5,
+            isNumerical: false
+          },
+          {
+            partLabel: "b",
+            statementEn: lq.numEn,
+            statementUr: lq.numUr,
+            marks: 4,
+            isNumerical: true
+          }
+        ],
+        chapterRef: `Unit ${chNo}`,
+        category: "Past Board Papers",
+        pastBoardInfo: citation
+      });
     });
   }
 
   return { mcqs, shortQuestions, longQuestions };
 }
 
-function x8(n,e){return{mcqs:[],shortQuestions:[],longQuestions:[]}}
+
 const X3="ptbb_user_custom_questions_v1";function Z3(){try{const n=localStorage.getItem(X3);return n?JSON.parse(n):[]}catch(n){return[]}}function B_(n){const e=Z3(),t={...n,id:`custom-${Date.now()}-${Math.random().toString(36).substring(2,6)}`};return e.unshift(t),localStorage.setItem(X3,JSON.stringify(e)),t}
 function normalizeTextKey(str) {
   if (!str) return "";
