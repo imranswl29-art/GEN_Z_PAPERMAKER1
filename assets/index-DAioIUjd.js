@@ -7118,16 +7118,30 @@ function x8(n,e){return{mcqs:[],shortQuestions:[],longQuestions:[]}}
 const X3="ptbb_user_custom_questions_v1";function Z3(){try{const n=localStorage.getItem(X3);return n?JSON.parse(n):[]}catch(n){return[]}}function B_(n){const e=Z3(),t={...n,id:`custom-${Date.now()}-${Math.random().toString(36).substring(2,6)}`};return e.unshift(t),localStorage.setItem(X3,JSON.stringify(e)),t}
 function normalizeTextKey(str) {
   if (!str) return "";
-  return String(str)
-    .replace(/\((BISE|LHR|GRW|RWP|FSD|MTN|SWL|SGD|BWP|DGK)[^)]*\)/gi, " ")
+  let s = String(str)
+    .replace(/\((BISE|LHR|GRW|RWP|FSD|MTN|SWL|SGD|BWP|DGK|AJK|FBD)[^)]*\)/gi, " ")
     .replace(/\(Group-[^)]*\)/gi, " ")
     .replace(/\(\d{4}[^)]*\)/gi, " ")
     .replace(/\[[^\]]*\]/g, " ")
-    .toLowerCase()
-    .replace(/[\?\.,\/#!$%\^&\*;:{}=\-_`~()"\']+/g, " ")
-    .replace(/[\u0600-\u061F\u064B-\u065F\u06D6-\u06ED]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+    .toLowerCase();
+
+  // Strip question stems that cause semantic duplication
+  s = s.replace(/\b(what is meant by|what is the difference between|differentiate between|define and explain|define|state and explain|state|explain with examples|explain|describe in detail|describe|calculate the|calculate|find out the|find the|find|write down the|write a note on|write down|write|give an example of|give two examples|give|express|how can you|how do you|why is|why are|which of the following|name any|name the)\b/gi, " ");
+
+  // Remove common filler words
+  s = s.replace(/\b(and|or|with|their|its|also|the|a|an|in|of|for|to|is|are|called|from|by|at|on|between|two|three|any|also|such|as|that|this|these|those|which)\b/gi, " ");
+
+  // Strip punctuation and diacritics
+  s = s.replace(/[\?\.,\/#!$%\^&\*;:{}=\-_`~()"'\+\[\]\{\}|<>]/g, " ")
+       .replace(/[\u0600-\u061F\u064B-\u065F\u06D6-\u06ED]/g, "");
+
+  // Strip Urdu question stems
+  s = s.replace(/[؟،۔!]/g, " ")
+       .replace(/(کیا مراد ہے|کیا فرق ہے|فرق واضح کریں|فرق بیان کریں|تعریف کریں|کی وضاحت کریں|وضاحت کریں|بیان کریں|تحریر کریں|لکھیں|معلوم کریں|فارمولا لکھیں|مثالیں دیں|کی تعریف|سے کیا مراد)/g, " ");
+
+  // Extract core keywords, filter short noise, and sort to match rearranged questions
+  const tokens = s.trim().split(/\s+/).filter(t => t.length >= 3).sort();
+  return tokens.join("_");
 }
 function cleanQuestionStatement(str) {
   if (!str) return "";
