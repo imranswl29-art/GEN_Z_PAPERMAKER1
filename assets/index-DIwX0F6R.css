@@ -520,8 +520,14 @@ h1, h2, h3, h4, h5, h6, p, span, button, table, th, td, label {
 .paper-header h1,
 .school-name-col h1 {
   white-space: nowrap !important;
-  overflow: hidden !important;
-  text-overflow: ellipsis !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  text-align: center !important;
+  font-size: clamp(10pt, 2.2vw, 16pt) !important;
+  line-height: 1.25 !important;
 }
 
 .school-monogram-container,
