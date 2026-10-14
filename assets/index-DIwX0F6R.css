@@ -513,3 +513,42 @@ h1, h2, h3, h4, h5, h6, p, span, button, table, th, td, label {
   }
 }
 
+
+/* Institutional Header Single-Line School Name & Monogram Preservation */
+.school-name-title,
+.header-title,
+.paper-header h1,
+.school-name-col h1 {
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+.school-monogram-container,
+.school-monogram-box {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  flex-shrink: 0 !important;
+  visibility: visible !important;
+}
+
+@media print {
+  .school-name-title,
+  .header-title,
+  .paper-header h1,
+  .school-name-col h1 {
+    white-space: nowrap !important;
+    overflow: visible !important;
+    font-size: 16pt !important;
+    line-height: 1.2 !important;
+  }
+  .school-monogram-container,
+  .school-monogram-box,
+  .paper-header img {
+    display: flex !important;
+    visibility: visible !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
