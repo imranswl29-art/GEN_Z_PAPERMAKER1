@@ -1,5 +1,632 @@
 [
   {
+    "id": "paper-1791966218806",
+    "createdAt": "2026-10-14T08:23:38.806Z",
+    "languageMode": "bilingual",
+    "difficulty": "standard",
+    "header": {
+      "instituteName": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "campusName": "Main Campus, Lahore",
+      "examTitle": "Evaluation Examination 2026",
+      "classLevel": "9th",
+      "subjectName": "Physics",
+      "syllabusCovered": "Unit 1: Physical Quantities & Measurement",
+      "dateStr": "14/10/2026",
+      "timeAllowed": "1 Hour 45 Minutes",
+      "totalMarks": 60,
+      "teacherName": "",
+      "showWatermark": true,
+      "watermarkText": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "logoType": "crest",
+      "boardPattern": "Punjab Textbook Board (PTBB / BISE Pattern)",
+      "studentFields": {
+        "showRollNo": true,
+        "showName": true,
+        "showSection": true,
+        "showObtainedMarks": true
+      }
+    },
+    "objectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - A (OBJECTIVE TYPE)",
+      "titleUr": "حصہ اول (معروضی طرز)",
+      "totalMarks": 12,
+      "timeAllowed": "15 Minutes",
+      "instructionsEn": "Note: Four possible answers A, B, C and D to each question are given. Fill the correct bubble.",
+      "instructionsUr": "نوٹ: ہر سوال کے چار ممکنہ جوابات دیے گئے ہیں۔ درست جواب کے دائرے کو مارکر سے بھریں۔",
+      "questions": [
+        {
+          "id": "mcq-ai-1",
+          "qNo": 1,
+          "statementEn": "The number of base units in SI is:",
+          "statementUr": "ایس آئی (SI) یونٹس میں بنیادی یونٹس کی تعداد کتنی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "3",
+              "textUr": "3"
+            },
+            {
+              "key": "B",
+              "textEn": "6",
+              "textUr": "6"
+            },
+            {
+              "key": "C",
+              "textEn": "7",
+              "textUr": "7"
+            },
+            {
+              "key": "D",
+              "textEn": "9",
+              "textUr": "9"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-2",
+          "qNo": 2,
+          "statementEn": "Which one of the following is the smallest quantity?",
+          "statementUr": "درج ذیل میں سے کون سی مقدار سب سے چھوٹی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "0.01 g",
+              "textUr": "0.01 g"
+            },
+            {
+              "key": "B",
+              "textEn": "2 mg",
+              "textUr": "2 mg"
+            },
+            {
+              "key": "C",
+              "textEn": "100 µg",
+              "textUr": "100 µg"
+            },
+            {
+              "key": "D",
+              "textEn": "5000 ng",
+              "textUr": "5000 ng"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-3",
+          "qNo": 3,
+          "statementEn": "A student claimed the diameter of a wire as 1.032 cm using Vernier Calipers. Up to what extent do you agree with this statement?",
+          "statementUr": "ایک طالب علم نے ورنیئر کیلیپرز استعمال کرتے ہوئے تار کا قطر 1.032 سینٹی میٹر بتایا۔ آپ اس بیان سے کس حد تک اتفاق کرتے ہیں؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "1.03 cm",
+              "textUr": "1.03 cm"
+            },
+            {
+              "key": "B",
+              "textEn": "1.032 cm",
+              "textUr": "1.032 cm"
+            },
+            {
+              "key": "C",
+              "textEn": "1.0 cm",
+              "textUr": "1.0 cm"
+            },
+            {
+              "key": "D",
+              "textEn": "1.0320 cm",
+              "textUr": "1.0320 cm"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-4",
+          "qNo": 4,
+          "statementEn": "The value of g in scientific notation is:",
+          "statementUr": "سائنسی نوٹیشن میں g کی قیمت ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10 ms^-2",
+              "textUr": "10 ms^-2"
+            },
+            {
+              "key": "B",
+              "textEn": "1.0 x 10^1 ms^-2",
+              "textUr": "1.0 x 10^1 ms^-2"
+            },
+            {
+              "key": "C",
+              "textEn": "1.0 x 10^-1 ms^-2",
+              "textUr": "1.0 x 10^-1 ms^-2"
+            },
+            {
+              "key": "D",
+              "textEn": "0.1 x 10^2 ms^-2",
+              "textUr": "0.1 x 10^2 ms^-2"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-5",
+          "qNo": 5,
+          "statementEn": "Which instrument is most suitable to measure the internal diameter of a test tube?",
+          "statementUr": "ٹیسٹ ٹیوب کا اندرونی قطر ماپنے کے لیے کون سا آلہ سب سے موزوں ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Meter rule",
+              "textUr": "میٹر رول"
+            },
+            {
+              "key": "B",
+              "textEn": "Vernier calipers",
+              "textUr": "ورنیئر کیلیپرز"
+            },
+            {
+              "key": "C",
+              "textEn": "Screw gauge",
+              "textUr": "اسکرو گیج"
+            },
+            {
+              "key": "D",
+              "textEn": "Measuring tape",
+              "textUr": "میژرنگ ٹیپ"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-6",
+          "qNo": 6,
+          "statementEn": "Significant figures in 0.00580 are:",
+          "statementUr": "0.00580 میں نمایاں ہندسوں (Significant figures) کی تعداد ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "2",
+              "textUr": "2"
+            },
+            {
+              "key": "B",
+              "textEn": "3",
+              "textUr": "3"
+            },
+            {
+              "key": "C",
+              "textEn": "4",
+              "textUr": "4"
+            },
+            {
+              "key": "D",
+              "textEn": "5",
+              "textUr": "5"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-7",
+          "qNo": 7,
+          "statementEn": "Which of the following is a derived unit?",
+          "statementUr": "درج ذیل میں سے کون سا ماخوذ یونٹ (Derived unit) ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Kilogram",
+              "textUr": "کلو گرام"
+            },
+            {
+              "key": "B",
+              "textEn": "Meter",
+              "textUr": "میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "Watt",
+              "textUr": "واٹ"
+            },
+            {
+              "key": "D",
+              "textEn": "Mole",
+              "textUr": "مول"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-8",
+          "qNo": 8,
+          "statementEn": "The least count of a meter rule is:",
+          "statementUr": "میٹر رول کا لیسٹ کاؤنٹ کتنا ہوتا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "0.1 cm",
+              "textUr": "0.1 cm"
+            },
+            {
+              "key": "B",
+              "textEn": "0.01 cm",
+              "textUr": "0.01 cm"
+            },
+            {
+              "key": "C",
+              "textEn": "1 mm",
+              "textUr": "1 mm"
+            },
+            {
+              "key": "D",
+              "textEn": "0.1 mm",
+              "textUr": "0.1 mm"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-9",
+          "qNo": 9,
+          "statementEn": "The prefix 'peta' stands for:",
+          "statementUr": "پریفکس 'پیٹا' (peta) کی قیمت کیا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10^12",
+              "textUr": "10^12"
+            },
+            {
+              "key": "B",
+              "textEn": "10^15",
+              "textUr": "10^15"
+            },
+            {
+              "key": "C",
+              "textEn": "10^-12",
+              "textUr": "10^-12"
+            },
+            {
+              "key": "D",
+              "textEn": "10^-15",
+              "textUr": "10^-15"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-10",
+          "qNo": 10,
+          "statementEn": "The zero error of a measuring instrument is a type of:",
+          "statementUr": "پیمائش کرنے والے آلے میں زیرو ایرر کس قسم کی غلطی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Random error",
+              "textUr": "رینڈم ایرر"
+            },
+            {
+              "key": "B",
+              "textEn": "Systematic error",
+              "textUr": "سسٹمیٹک ایرر"
+            },
+            {
+              "key": "C",
+              "textEn": "Human error",
+              "textUr": "انسانی غلطی"
+            },
+            {
+              "key": "D",
+              "textEn": "None of these",
+              "textUr": "ان میں سے کوئی نہیں"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-11",
+          "qNo": 11,
+          "statementEn": "How many millimeters are in one decimeter?",
+          "statementUr": "ایک ڈیسی میٹر میں کتنے ملی میٹر ہوتے ہیں؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10",
+              "textUr": "10"
+            },
+            {
+              "key": "B",
+              "textEn": "100",
+              "textUr": "100"
+            },
+            {
+              "key": "C",
+              "textEn": "1000",
+              "textUr": "1000"
+            },
+            {
+              "key": "D",
+              "textEn": "0.1",
+              "textUr": "0.1"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-12",
+          "qNo": 12,
+          "statementEn": "The unit of intensity of light is:",
+          "statementUr": "روشنی کی شدت (Luminous intensity) کا یونٹ کیا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Mole",
+              "textUr": "مول"
+            },
+            {
+              "key": "B",
+              "textEn": "Kelvin",
+              "textUr": "کیلون"
+            },
+            {
+              "key": "C",
+              "textEn": "Candela",
+              "textUr": "کینڈلا"
+            },
+            {
+              "key": "D",
+              "textEn": "Ampere",
+              "textUr": "ایمپیر"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        }
+      ]
+    },
+    "subjectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - B & C (SUBJECTIVE TYPE)",
+      "titleUr": "حصہ دوم و سوم (انشائیہ طرز)",
+      "totalMarks": 48,
+      "timeAllowed": "1 Hour 45 Minutes",
+      "part1_shortQuestions": [
+        {
+          "id": "sq-grp-2",
+          "qNo": 2,
+          "instructionEn": "Attempt any five of the following:",
+          "instructionUr": "مندرجہ ذیل میں سے پانچ کے جوابات دیں:",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "sq-2-1",
+              "subNo": 1,
+              "statementEn": "Define Physics and distinguish between physical and derived quantities.",
+              "statementUr": "طبیعیات (Physics) کی تعریف کریں اور طبعی اور ماخوذ مقداروں میں فرق واضح کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-2",
+              "subNo": 2,
+              "statementEn": "Differentiate between base units and derived units with examples.",
+              "statementUr": "بنیادی یونٹس اور ماخوذ یونٹس میں مثالوں کے ساتھ فرق بیان کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-3",
+              "subNo": 3,
+              "statementEn": "How can you differentiate between a screw gauge and vernier calipers?",
+              "statementUr": "آپ اسکرو گیج اور ورنیئر کیلیپرز میں فرق کیسے کریں گے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-4",
+              "subNo": 4,
+              "statementEn": "What is the role of SI units in science?",
+              "statementUr": "سائنس میں ایس آئی (SI) یونٹس کا کیا کردار ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-5",
+              "subNo": 5,
+              "statementEn": "Define 'least count' of a measuring instrument.",
+              "statementUr": "پیمائش کرنے والے آلے کے 'لیسٹ کاؤنٹ' (Least count) کی تعریف کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-6",
+              "subNo": 6,
+              "statementEn": "Write down the names of any four base quantities and their units.",
+              "statementUr": "کوئی سی چار بنیادی مقداروں اور ان کے یونٹس کے نام لکھیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-7",
+              "subNo": 7,
+              "statementEn": "Express the following numbers in scientific notation: 300,000,000 m/s and 0.0000000016 g.",
+              "statementUr": "مندرجہ ذیل عدد کو سائنسی نوٹیشن میں لکھیں: 300,000,000 m/s اور 0.0000000016 g۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-8",
+              "subNo": 8,
+              "statementEn": "What is the importance of scientific notation?",
+              "statementUr": "سائنسی نوٹیشن کی کیا اہمیت ہے؟",
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "id": "sq-grp-3",
+          "qNo": 3,
+          "instructionEn": "Attempt any five of the following:",
+          "instructionUr": "مندرجہ ذیل میں سے پانچ کے جوابات دیں:",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "sq-3-1",
+              "subNo": 1,
+              "statementEn": "How do you identify significant figures in a measurement?",
+              "statementUr": "آپ کسی پیمائش میں نمایاں ہندسوں (Significant figures) کی شناخت کیسے کرتے ہیں؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-2",
+              "subNo": 2,
+              "statementEn": "Explain the difference between zero error and zero correction.",
+              "statementUr": "زیرو ایرر اور زیرو کریکشن میں فرق واضح کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-3",
+              "subNo": 3,
+              "statementEn": "Define prefix. Give two examples.",
+              "statementUr": "پریفکس (Prefix) کی تعریف کریں اور دو مثالیں دیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-4",
+              "subNo": 4,
+              "statementEn": "Describe the function of a physical balance in a laboratory.",
+              "statementUr": "لیبارٹری میں فزیکل بیلنس (ترازو) کا کام بیان کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-5",
+              "subNo": 5,
+              "statementEn": "Why is it important to minimize errors in scientific measurements?",
+              "statementUr": "سائنسی پیمائش میں غلطیوں کو کم کرنا کیوں ضروری ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-6",
+              "subNo": 6,
+              "statementEn": "Convert 2 years into seconds.",
+              "statementUr": "2 سال کو سیکنڈز میں تبدیل کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-7",
+              "subNo": 7,
+              "statementEn": "Define stop watch. Mention its two types.",
+              "statementUr": "اسٹاپ واچ کی تعریف کریں اور اس کی دو اقسام بتائیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-8",
+              "subNo": 8,
+              "statementEn": "What is meant by 'rounding off' the numbers?",
+              "statementUr": "عدد کو 'راؤنڈ آف' (Rounding off) کرنے سے کیا مراد ہے؟",
+              "marks": 2
+            }
+          ]
+        }
+      ],
+      "part2_longQuestions": {
+        "instructionEn": "Attempt any two questions. Each question carries 9 marks.",
+        "instructionUr": "کوئی سے دو سوالات حل کریں۔ ہر سوال کے 9 نمبر ہیں۔",
+        "attemptCount": 2,
+        "totalCount": 3,
+        "questions": [
+          {
+            "id": "lq-5",
+            "qNo": 5,
+            "totalMarks": 9,
+            "parts": [
+              {
+                "partLabel": "a",
+                "statementEn": "Explain the structure and working principle of a Vernier Calipers in detail.",
+                "statementUr": "ورنیئر کیلیپرز کی ساخت اور اس کے کام کرنے کے اصول کو تفصیل سے بیان کریں۔",
+                "marks": 5,
+                "isNumerical": false
+              },
+              {
+                "partLabel": "b",
+                "statementEn": "A hair grows at the rate of 1 mm per day. Find the growth rate in nm/s.",
+                "statementUr": "ایک بال کی بڑھنے کی شرح 1 ملی میٹر فی دن ہے۔ اس بڑھنے کی شرح کو nm/s میں معلوم کریں۔",
+                "marks": 4,
+                "isNumerical": true
+              }
+            ]
+          },
+          {
+            "id": "lq-6",
+            "qNo": 6,
+            "totalMarks": 9,
+            "parts": [
+              {
+                "partLabel": "a",
+                "statementEn": "Define significant figures and explain the rules to determine them.",
+                "statementUr": "نمایاں ہندسوں (Significant figures) کی تعریف کریں اور ان کے تعین کے قوانین بیان کریں۔",
+                "marks": 5,
+                "isNumerical": false
+              },
+              {
+                "partLabel": "b",
+                "statementEn": "A screw gauge has 50 divisions on its circular scale. The pitch of the screw gauge is 0.5 mm. What is its least count?",
+                "statementUr": "ایک اسکرو گیج کے سرکلر اسکیل پر 50 ڈویژنز ہیں۔ اسکرو گیج کی پچ 0.5 ملی میٹر ہے۔ اس کا لیسٹ کاؤنٹ کیا ہوگا؟",
+                "marks": 4,
+                "isNumerical": true
+              }
+            ]
+          },
+          {
+            "id": "lq-7",
+            "qNo": 7,
+            "totalMarks": 9,
+            "parts": [
+              {
+                "partLabel": "a",
+                "statementEn": "Discuss the importance and application of Physics in our daily life.",
+                "statementUr": "ہماری روزمرہ زندگی میں طبیعات (Physics) کی اہمیت اور اطلاق پر بحث کریں۔",
+                "marks": 5,
+                "isNumerical": false
+              },
+              {
+                "partLabel": "b",
+                "statementEn": "If a rectangle has length 15.3 cm and width 12.8 cm, find its area and express the result with proper significant figures.",
+                "statementUr": "اگر ایک مستطیل کی لمبائی 15.3 سینٹی میٹر اور چوڑائی 12.8 سینٹی میٹر ہو تو اس کا رقبہ معلوم کریں اور جواب کو مناسب نمایاں ہندسوں میں لکھیں۔",
+                "marks": 4,
+                "isNumerical": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "userId": "user-admin-01",
+    "createdByUserId": "user-admin-01"
+  },
+  {
     "id": "paper-1791964350717",
     "createdAt": "2026-10-14T07:52:30.717Z",
     "languageMode": "bilingual",

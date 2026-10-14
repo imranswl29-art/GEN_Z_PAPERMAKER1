@@ -15,20 +15,39 @@
     <script type="module" crossorigin src="/assets/index-DAioIUjd.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-DIwX0F6R.css">
     <style>
+      /* Top Navigation Bar permanently sticky */
+      header,
+      .main-header-bar {
+        position: sticky !important;
+        top: 0 !important;
+        z-index: 1000 !important;
+      }
+
+      /* Multi-Line School Title Accommodation: 2 full lines with clean centered alignment */
       .school-name-title,
       .header-title,
       .paper-header h1,
       .school-name-col h1 {
-        white-space: nowrap !important;
-        overflow: visible !important;
-        text-overflow: clip !important;
-        display: block !important;
+        white-space: normal !important;
+        word-wrap: break-word !important;
+        overflow-wrap: break-word !important;
+        display: -webkit-box !important;
+        -webkit-line-clamp: 2 !important;
+        line-clamp: 2 !important;
+        -webkit-box-orient: vertical !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
         width: 100% !important;
         max-width: 100% !important;
         text-align: center !important;
-        font-size: clamp(10pt, 2.2vw, 16pt) !important;
+        font-size: clamp(10pt, 2vw, 15pt) !important;
         line-height: 1.25 !important;
+        min-height: 2.5em !important;
+        margin: 0 auto !important;
+        padding: 0 4px !important;
       }
+
+      /* School Monogram: Authentic colors, correct aspect ratio, no tint */
       .school-monogram-container,
       .school-monogram-box {
         display: flex !important;
@@ -37,15 +56,69 @@
         flex-shrink: 0 !important;
         visibility: visible !important;
       }
+
+      .school-monogram-container img,
+      .school-monogram-box img {
+        object-fit: contain !important;
+        max-width: 100% !important;
+        max-height: 100% !important;
+        filter: none !important;
+        image-rendering: -webkit-optimize-contrast !important;
+      }
+
+      /* OMR Bubble Sheet Typography & Circle Alignment: Perfectly centered */
+      .omr-bubble,
+      .bubble-circle {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+        vertical-align: middle !important;
+        width: 22px !important;
+        height: 22px !important;
+        min-width: 22px !important;
+        min-height: 22px !important;
+        max-width: 22px !important;
+        max-height: 22px !important;
+        border-radius: 50% !important;
+        border: 1.5px solid #000000 !important;
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif !important;
+        font-size: 10px !important;
+        font-weight: 900 !important;
+        line-height: 1 !important;
+        box-sizing: border-box !important;
+        margin: 0 1px !important;
+        padding: 0 !important;
+      }
+
+      /* Printable Paper Sets: Laser-printer friendly high-contrast monochrome badge */
+      .paper-set-badge,
+      .print-set-badge {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 2px solid #000000 !important;
+      }
+
       @media print {
         .school-name-title,
         .header-title,
         .paper-header h1,
         .school-name-col h1 {
-          white-space: nowrap !important;
-          overflow: visible !important;
-          font-size: 16pt !important;
-          line-height: 1.2 !important;
+          white-space: normal !important;
+          word-wrap: break-word !important;
+          overflow-wrap: break-word !important;
+          display: -webkit-box !important;
+          -webkit-line-clamp: 2 !important;
+          line-clamp: 2 !important;
+          -webkit-box-orient: vertical !important;
+          text-align: center !important;
+          font-size: 15pt !important;
+          line-height: 1.25 !important;
+          min-height: 2.5em !important;
+          max-height: 2.6em !important;
+          overflow: hidden !important;
         }
         .school-monogram-container,
         .school-monogram-box,
@@ -54,6 +127,25 @@
           visibility: visible !important;
           -webkit-print-color-adjust: exact !important;
           print-color-adjust: exact !important;
+          object-fit: contain !important;
+        }
+        .omr-bubble,
+        .bubble-circle {
+          display: inline-flex !important;
+          align-items: center !important;
+          justify-content: center !important;
+          text-align: center !important;
+          width: 20px !important;
+          height: 20px !important;
+          min-width: 20px !important;
+          min-height: 20px !important;
+          border-radius: 50% !important;
+          border: 1.5pt solid #000000 !important;
+          background-color: #ffffff !important;
+          color: #000000 !important;
+          font-size: 9.5pt !important;
+          font-weight: 900 !important;
+          line-height: 1 !important;
         }
         .no-print,
         button,
@@ -65,14 +157,26 @@
         }
         body {
           background: #ffffff !important;
+          color: #000000 !important;
           margin: 0 !important;
           padding: 0 !important;
         }
-        #printable-content {
+        #printable-content,
+        #exam-paper-container,
+        .exam-paper {
           width: 100% !important;
           margin: 0 auto !important;
           padding: 0 !important;
           box-shadow: none !important;
+          background-color: #ffffff !important;
+          color: #000000 !important;
+        }
+        /* Black & white laser printer optimization */
+        .exam-paper table,
+        .exam-paper th,
+        .exam-paper td,
+        .exam-paper div {
+          border-color: #000000 !important;
         }
       }
     </style>
