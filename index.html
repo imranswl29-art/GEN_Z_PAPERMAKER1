@@ -175,8 +175,23 @@
         .exam-paper table,
         .exam-paper th,
         .exam-paper td,
-        .exam-paper div {
+        .exam-paper div,
+        .marksheet-table,
+        .marksheet-table th,
+        .marksheet-table td,
+        .date-sheet-table,
+        .date-sheet-table th,
+        .date-sheet-table td {
           border-color: #000000 !important;
+        }
+        /* Ensure OMR bubbles are mathematically centered in print */
+        .omr-bubble,
+        .bubble-circle {
+          display: inline-flex !important;
+          align-items: center !important;
+          justify-content: center !important;
+          text-align: center !important;
+          line-height: 1 !important;
         }
       }
     </style>
