@@ -1,5 +1,1276 @@
 [
   {
+    "id": "paper-1792056488675",
+    "createdAt": "2026-10-15T09:28:08.675Z",
+    "languageMode": "bilingual",
+    "difficulty": "standard",
+    "header": {
+      "instituteName": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "campusName": "Main Campus, Lahore",
+      "examTitle": "Evaluation Examination 2026",
+      "classLevel": "9th",
+      "subjectName": "Physics",
+      "syllabusCovered": "Unit 1: Physical Quantities and Measurement",
+      "dateStr": "15/10/2026",
+      "timeAllowed": "1 Hour 45 Minutes",
+      "totalMarks": 60,
+      "teacherName": "",
+      "showWatermark": true,
+      "watermarkText": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "logoType": "crest",
+      "boardPattern": "Punjab Textbook Board (PTBB / BISE Pattern)",
+      "studentFields": {
+        "showRollNo": true,
+        "showName": true,
+        "showSection": true,
+        "showObtainedMarks": true
+      }
+    },
+    "objectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - A (OBJECTIVE TYPE)",
+      "titleUr": "حصہ اول (معروضی طرز)",
+      "totalMarks": 12,
+      "timeAllowed": "15 Minutes",
+      "instructionsEn": "Note: Four possible answers A, B, C and D to each question are given. Fill the correct bubble.",
+      "instructionsUr": "نوٹ: ہر سوال کے چار ممکنہ جوابات دیے گئے ہیں۔ درست جواب کے دائرے کو مارکر سے بھریں۔",
+      "questions": [
+        {
+          "id": "mcq-ai-1",
+          "qNo": 1,
+          "statementEn": "The branch of physics that deals with the study of elementary particles is:",
+          "statementUr": "فزکس کی وہ شاخ جس میں بنیادی ذرات کا مطالعہ کیا جاتا ہے، کہلاتی ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Nuclear Physics",
+              "textUr": "نیوکلیئر فزکس"
+            },
+            {
+              "key": "B",
+              "textEn": "Particle Physics",
+              "textUr": "پارٹیکل فزکس"
+            },
+            {
+              "key": "C",
+              "textEn": "Plasma Physics",
+              "textUr": "پلازما فزکس"
+            },
+            {
+              "key": "D",
+              "textEn": "Atomic Physics",
+              "textUr": "ایٹامک فزکس"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-2",
+          "qNo": 2,
+          "statementEn": "Which of the following is a base quantity?",
+          "statementUr": "درج ذیل میں سے بنیادی مقدار کون سی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Speed",
+              "textUr": "سپیڈ"
+            },
+            {
+              "key": "B",
+              "textEn": "Force",
+              "textUr": "قوت"
+            },
+            {
+              "key": "C",
+              "textEn": "Mass",
+              "textUr": "ماس"
+            },
+            {
+              "key": "D",
+              "textEn": "Velocity",
+              "textUr": "وائلوسٹی"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-3",
+          "qNo": 3,
+          "statementEn": "The SI unit of intensity of light is:",
+          "statementUr": "روشنی کی شدت کا ایس آئی (SI) یونٹ ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Mole",
+              "textUr": "مول"
+            },
+            {
+              "key": "B",
+              "textEn": "Kelvin",
+              "textUr": "کیلون"
+            },
+            {
+              "key": "C",
+              "textEn": "Ampere",
+              "textUr": "ایمپیئر"
+            },
+            {
+              "key": "D",
+              "textEn": "Candela",
+              "textUr": "کینڈیل"
+            }
+          ],
+          "correctOption": "D",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "p9-1-m1",
+          "statementEn": "The number of base units in System International (SI) is:",
+          "statementUr": "سسٹم انٹرنیشنل (SI) میں بنیادی یونٹس کی تعداد ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "3",
+              "textUr": "3"
+            },
+            {
+              "key": "B",
+              "textEn": "6",
+              "textUr": "6"
+            },
+            {
+              "key": "C",
+              "textEn": "7",
+              "textUr": "7"
+            },
+            {
+              "key": "D",
+              "textEn": "9",
+              "textUr": "9"
+            }
+          ],
+          "correctOption": "C",
+          "qNo": 4,
+          "chapterRef": 1,
+          "category": "Textbook Exercises"
+        },
+        {
+          "id": "mcq-ai-5",
+          "qNo": 5,
+          "statementEn": "A screw gauge has 50 divisions on its circular scale. The pitch of the screw gauge is 0.5 mm. Its least count is:",
+          "statementUr": "ایک اسکرو گیج کے سرکلر اسکیل پر 50 درجے ہیں۔ اسکرو گیج کی پچ 0.5 ملی میٹر ہے۔ اس کا لیسٹ کاؤنٹ ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "0.01 mm",
+              "textUr": "0.01 ملی میٹر"
+            },
+            {
+              "key": "B",
+              "textEn": "0.001 mm",
+              "textUr": "0.001 ملی میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "0.1 mm",
+              "textUr": "0.1 ملی میٹر"
+            },
+            {
+              "key": "D",
+              "textEn": "0.05 mm",
+              "textUr": "0.05 ملی میٹر"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-6",
+          "qNo": 6,
+          "statementEn": "Which of the following is the most precise instrument?",
+          "statementUr": "درج ذیل میں سے کون سا آلہ سب سے زیادہ درستگی والا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Metre rule",
+              "textUr": "میٹر رول"
+            },
+            {
+              "key": "B",
+              "textEn": "Measuring tape",
+              "textUr": "میژرنگ ٹیپ"
+            },
+            {
+              "key": "C",
+              "textEn": "Vernier calipers",
+              "textUr": "ورنیئر کیلیپرز"
+            },
+            {
+              "key": "D",
+              "textEn": "Screw gauge",
+              "textUr": "اسکرو گیج"
+            }
+          ],
+          "correctOption": "D",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-7",
+          "qNo": 7,
+          "statementEn": "An interval of 200 µs is equivalent to:",
+          "statementUr": "200 مائیکرو سیکنڈ کا وقفہ برابر ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "0.2 s",
+              "textUr": "0.2 سیکنڈ"
+            },
+            {
+              "key": "B",
+              "textEn": "0.02 s",
+              "textUr": "0.02 سیکنڈ"
+            },
+            {
+              "key": "C",
+              "textEn": "2 x 10^-4 s",
+              "textUr": "2 x 10^-4 سیکنڈ"
+            },
+            {
+              "key": "D",
+              "textEn": "2 x 10^-6 s",
+              "textUr": "2 x 10^-6 سیکنڈ"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-8",
+          "qNo": 8,
+          "statementEn": "A student claimed the diameter of a wire as 1.032 cm using a vernier calipers. Up to what extent is this measurement precise?",
+          "statementUr": "ایک طالب علم نے ورنیئر کیلیپرز کا استعمال کرتے ہوئے تار کا قطر 1.032 سینٹی میٹر بتایا۔ یہ پیمائش کس حد تک درست ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "1 mm",
+              "textUr": "1 ملی میٹر"
+            },
+            {
+              "key": "B",
+              "textEn": "0.1 mm",
+              "textUr": "0.1 ملی میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "0.01 mm",
+              "textUr": "0.01 ملی میٹر"
+            },
+            {
+              "key": "D",
+              "textEn": "0.001 mm",
+              "textUr": "0.001 ملی میٹر"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-9",
+          "qNo": 9,
+          "statementEn": "Which of the following is a unit of derived quantity?",
+          "statementUr": "درج ذیل میں سے کون سا ماخوذ مقدار کا یونٹ ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "kg",
+              "textUr": "کلوگرام"
+            },
+            {
+              "key": "B",
+              "textEn": "m",
+              "textUr": "میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "s",
+              "textUr": "سیکنڈ"
+            },
+            {
+              "key": "D",
+              "textEn": "Watt",
+              "textUr": "واٹ"
+            }
+          ],
+          "correctOption": "D",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-10",
+          "qNo": 10,
+          "statementEn": "Significant figures in 0.00580 are:",
+          "statementUr": "0.00580 میں اہم ہندسوں (Significant figures) کی تعداد ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "2",
+              "textUr": "2"
+            },
+            {
+              "key": "B",
+              "textEn": "3",
+              "textUr": "3"
+            },
+            {
+              "key": "C",
+              "textEn": "4",
+              "textUr": "4"
+            },
+            {
+              "key": "D",
+              "textEn": "5",
+              "textUr": "5"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-11",
+          "qNo": 11,
+          "statementEn": "The prefix 'peta' stands for:",
+          "statementUr": "پریفکس 'پیٹا' (peta) کی قیمت ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10^12",
+              "textUr": "10^12"
+            },
+            {
+              "key": "B",
+              "textEn": "10^15",
+              "textUr": "10^15"
+            },
+            {
+              "key": "C",
+              "textEn": "10^18",
+              "textUr": "10^18"
+            },
+            {
+              "key": "D",
+              "textEn": "10^-15",
+              "textUr": "10^-15"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-12",
+          "qNo": 12,
+          "statementEn": "Zero error in a measuring instrument is due to:",
+          "statementUr": "پیمائش کرنے والے آلے میں زیرو ایرر کی وجہ ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Faulty scale",
+              "textUr": "غلط اسکیل"
+            },
+            {
+              "key": "B",
+              "textEn": "User error",
+              "textUr": "استعمال کرنے والے کی غلطی"
+            },
+            {
+              "key": "C",
+              "textEn": "System design",
+              "textUr": "آلے کا ڈیزائن"
+            },
+            {
+              "key": "D",
+              "textEn": "Lack of cleaning",
+              "textUr": "صفائی کی کمی"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        }
+      ]
+    },
+    "subjectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - B & C (SUBJECTIVE TYPE)",
+      "titleUr": "حصہ دوم و سوم (انشائیہ طرز)",
+      "totalMarks": 48,
+      "timeAllowed": "1 Hour 45 Minutes",
+      "part1_shortQuestions": [
+        {
+          "id": "sq-grp-2",
+          "qNo": 2,
+          "instructionEn": "Attempt any five of the following:",
+          "instructionUr": "درج ذیل میں سے کسی پانچ کے جواب دیں:",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "sq-2-1",
+              "subNo": 1,
+              "statementEn": "Define Physics and distinguish between physical and derived quantities.",
+              "statementUr": "فزکس کی تعریف کریں اور بنیادی اور ماخوذ مقداروں میں فرق واضح کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-2",
+              "subNo": 2,
+              "statementEn": "What is the difference between base and derived units?",
+              "statementUr": "بنیادی اور ماخوذ یونٹس میں کیا فرق ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-3",
+              "subNo": 3,
+              "statementEn": "Define prefix. Give two examples.",
+              "statementUr": "پریفکس کی تعریف کریں اور دو مثالیں دیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-4",
+              "subNo": 4,
+              "statementEn": "How is scientific notation used for writing very large numbers?",
+              "statementUr": "بہت بڑی تعداد کو لکھنے کے لیے سائنسی نوٹیشن کا استعمال کیسے کیا جاتا ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "9th-physics-c1-sq-3",
+              "subNo": 5,
+              "statementEn": "[In-Text Box: Point to Ponder] Can a body moving with constant speed have an acceleration? Explain with an example.",
+              "statementUr": "[چیپٹر کے اندر سے: سوچنے کی بات] کیا مستقل سپیڈ سے حرکت کرتے ہوئے جسم میں ایکسلریشن ہو سکتا ہے؟ مثال سے وضاحت کریں۔",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "In-Text & Box Questions",
+              "pastBoardInfo": "RWP 2021 G-II"
+            },
+            {
+              "id": "9th-physics-c1-sq-6",
+              "subNo": 6,
+              "statementEn": "[Past Board Paper] State Newton's Second Law of Motion and derive the equation F = ma. (RWP 2025 G-I, SWL 2020, BWP 2022)",
+              "statementUr": "[سابقہ بورڈ پرچہ جات] نیوٹن کا موشن کا دوسرا قانون بیان کریں اور مساوات F = ma اخذ کریں۔ (RWP 2025 G-I, SWL 2020, BWP 2022)",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Past Board Papers",
+              "pastBoardInfo": "RWP 2025 G-I, SWL 2020, BWP 2022"
+            },
+            {
+              "id": "9th-physics-c1-sq-8",
+              "subNo": 7,
+              "statementEn": "[SLO Conceptual] How does rolling friction differ from sliding friction, and why is rolling friction ten times smaller?",
+              "statementUr": "[تصوراتی SLO سوال] رولنگ فرکشن اور سلائیڈنگ فرکشن میں کیا فرق ہے اور رولنگ فرکشن دس گنا کم کیوں ہوتی ہے؟",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "SLO Conceptual",
+              "pastBoardInfo": "DGK 2023 G-I, GRW 2021"
+            },
+            {
+              "id": "sq-2-8",
+              "subNo": 8,
+              "statementEn": "Why do we need significant figures in measurements?",
+              "statementUr": "پیمائش میں اہم ہندسوں (significant figures) کی ضرورت کیوں پیش آتی ہے؟",
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "id": "sq-grp-3",
+          "qNo": 3,
+          "instructionEn": "Attempt any five of the following:",
+          "instructionUr": "درج ذیل میں سے کسی پانچ کے جواب دیں:",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "9th-physics-c1-sq-ext-3",
+              "subNo": 1,
+              "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Physical Quantities and Measurement when initial magnitude is 30 units and time is 5 seconds. (MTN 2022 G-I, SGD 2024)",
+              "statementUr": "[حسابی مسئلہ] طبیعی مقداریں اور پیمائش کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (MTN 2022 G-I, SGD 2024)",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Numerical Problems",
+              "pastBoardInfo": "MTN 2022 G-I, SGD 2024"
+            },
+            {
+              "id": "sq-3-2",
+              "subNo": 2,
+              "statementEn": "What is the role of technology in physics?",
+              "statementUr": "فزکس میں ٹیکنالوجی کا کیا کردار ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-3",
+              "subNo": 3,
+              "statementEn": "Write down the names of seven base quantities and their SI units.",
+              "statementUr": "سات بنیادی مقداروں اور ان کے ایس آئی یونٹس کے نام لکھیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-4",
+              "subNo": 4,
+              "statementEn": "Distinguish between precision and accuracy.",
+              "statementUr": "درستگی (accuracy) اور درستگی (precision) میں فرق کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-5",
+              "subNo": 5,
+              "statementEn": "What is a physical balance? Where is it used?",
+              "statementUr": "فزیکل بیلنس کیا ہے؟ یہ کہاں استعمال ہوتا ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-6",
+              "subNo": 6,
+              "statementEn": "How can you differentiate between a stop watch and a digital clock?",
+              "statementUr": "آپ سٹاپ واچ اور ڈیجیٹل گھڑی میں فرق کیسے کر سکتے ہیں؟",
+              "marks": 2
+            },
+            {
+              "id": "9th-physics-c1-s10",
+              "subNo": 7,
+              "statementEn": "Solve the conceptual question based on textbook exercise of Unit 1.",
+              "statementUr": "یونٹ نمبر 1 کی ٹیکسٹ بک مشق میں موجود اہم تصوّراتی سوال کا جواب دیں۔",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "In-Text & Box Questions"
+            },
+            {
+              "id": "sq-3-8",
+              "subNo": 8,
+              "statementEn": "Express 1000 days in seconds using power of ten.",
+              "statementUr": "1000 دن کو سیکنڈز میں 10 کی طاقت کے ساتھ ظاہر کریں۔",
+              "marks": 2
+            }
+          ]
+        }
+      ],
+      "part2_longQuestions": {
+        "instructionEn": "Attempt any two questions.",
+        "instructionUr": "کوئی سے دو سوالات کے جوابات تحریر کریں۔",
+        "attemptCount": 2,
+        "totalCount": 0,
+        "questions": []
+      }
+    },
+    "userId": "user-admin-01",
+    "createdByUserId": "user-admin-01"
+  },
+  {
+    "id": "paper-1792056467601",
+    "createdAt": "2026-10-15T09:27:47.601Z",
+    "languageMode": "bilingual",
+    "difficulty": "standard",
+    "header": {
+      "instituteName": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "campusName": "Main Campus, Lahore",
+      "examTitle": "Evaluation Examination 2026",
+      "classLevel": "9th",
+      "subjectName": "Physics",
+      "syllabusCovered": "Unit 1: Physical Quantities and Measurement, Unit 2: Kinematics",
+      "dateStr": "15/10/2026",
+      "timeAllowed": "2 Hours 45 Minutes",
+      "totalMarks": 60,
+      "teacherName": "",
+      "showWatermark": true,
+      "watermarkText": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "logoType": "crest",
+      "boardPattern": "Punjab Textbook Board (PTBB / BISE Pattern)",
+      "studentFields": {
+        "showRollNo": true,
+        "showName": true,
+        "showSection": true,
+        "showObtainedMarks": true
+      }
+    },
+    "objectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - A (OBJECTIVE TYPE)",
+      "titleUr": "حصہ اول (معروضی طرز)",
+      "totalMarks": 12,
+      "timeAllowed": "15 Minutes",
+      "instructionsEn": "Note: Four possible answers A, B, C and D to each question are given. Fill the correct bubble.",
+      "instructionsUr": "نوٹ: ہر سوال کے چار ممکنہ جوابات دیے گئے ہیں۔ درست جواب کے دائرے کو مارکر سے بھریں۔",
+      "questions": [
+        {
+          "id": "mcq-ai-1",
+          "qNo": 1,
+          "statementEn": "The number of base units in SI is:",
+          "statementUr": "انٹرنیشنل سسٹم آف یونٹس (SI) میں بنیادی یونٹس کی تعداد ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "3",
+              "textUr": "3"
+            },
+            {
+              "key": "B",
+              "textEn": "5",
+              "textUr": "5"
+            },
+            {
+              "key": "C",
+              "textEn": "7",
+              "textUr": "7"
+            },
+            {
+              "key": "D",
+              "textEn": "9",
+              "textUr": "9"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "There are seven fundamental base units in the SI system.",
+          "explanationUr": "انٹرنیشنل سسٹم آف یونٹس میں بنیادی یونٹس کی کل تعداد 7 ہے۔"
+        },
+        {
+          "id": "mcq-ai-2",
+          "qNo": 2,
+          "statementEn": "Which one of the following is equivalent to the prefix 'nano'?",
+          "statementUr": "مندرجہ ذیل میں سے کون سا پریفکس 'نینو' کے مساوی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10^-3",
+              "textUr": "10^-3"
+            },
+            {
+              "key": "B",
+              "textEn": "10^-6",
+              "textUr": "10^-6"
+            },
+            {
+              "key": "C",
+              "textEn": "10^-9",
+              "textUr": "10^-9"
+            },
+            {
+              "key": "D",
+              "textEn": "10^-12",
+              "textUr": "10^-12"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "Nano corresponds to a sub-multiple of 10^-9.",
+          "explanationUr": "پریفکس نینو 10^-9 کے برابر ہوتا ہے۔"
+        },
+        {
+          "id": "mcq-ai-3",
+          "qNo": 3,
+          "statementEn": "The least count of a standard mechanical Vernier Callipers with 0.1 mm precision is:",
+          "statementUr": "ایک عام ورنیئر کیلیپرز کا لیسٹ کاؤنٹ کتنا ہوتا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "0.1 cm",
+              "textUr": "0.1 سینٹی میٹر"
+            },
+            {
+              "key": "B",
+              "textEn": "0.01 cm",
+              "textUr": "0.01 سینٹی میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "0.001 cm",
+              "textUr": "0.001 سینٹی میٹر"
+            },
+            {
+              "key": "D",
+              "textEn": "1 mm",
+              "textUr": "1 ملی میٹر"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "The least count of a metric Vernier Callipers is 0.1 mm or 0.01 cm.",
+          "explanationUr": "ورنیئر کیلیپرز کا لیسٹ کاؤنٹ 0.1 ملی میٹر یا 0.01 سینٹی میٹر ہوتا ہے۔"
+        },
+        {
+          "id": "mcq-ai-4",
+          "qNo": 4,
+          "statementEn": "Which of the following physical quantities is a derived quantity?",
+          "statementUr": "درج ذیل میں سے کون سی مقدار ماخوذ مقدار ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Mass",
+              "textUr": "ماس"
+            },
+            {
+              "key": "B",
+              "textEn": "Electric Current",
+              "textUr": "الیکٹرک کرنٹ"
+            },
+            {
+              "key": "C",
+              "textEn": "Force",
+              "textUr": "فورس"
+            },
+            {
+              "key": "D",
+              "textEn": "Length",
+              "textUr": "لمبائی"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "Force is derived from mass, length, and time (F = ma, kg m s^-2).",
+          "explanationUr": "فورس ایک ماخوذ مقدار ہے جو بنیادی مقداروں سے اخذ کی جاتی ہے۔"
+        },
+        {
+          "id": "mcq-ai-5",
+          "qNo": 5,
+          "statementEn": "In a laboratory, liquid volume is commonly measured using:",
+          "statementUr": "لیبارٹری میں مائع کا والیم معلوم کرنے کے لیے عام طور پر استعمال ہوتا ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Measuring cylinder",
+              "textUr": "پیمائشی سلنڈر"
+            },
+            {
+              "key": "B",
+              "textEn": "Physical balance",
+              "textUr": "فزیکل بیلنس"
+            },
+            {
+              "key": "C",
+              "textEn": "Screw gauge",
+              "textUr": "سکرو گیج"
+            },
+            {
+              "key": "D",
+              "textEn": "Meter rule",
+              "textUr": "میٹر راڈ"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "Measuring cylinders are graduated glass or plastic cylinders used to measure volumes.",
+          "explanationUr": "مائع کا حجم معلوم کرنے کے لیے پیمائشی سلنڈر استعمال کیا جاتا ہے۔"
+        },
+        {
+          "id": "mcq-ai-6",
+          "qNo": 6,
+          "statementEn": "The SI unit of intensity of light is:",
+          "statementUr": "روشنی کی شدت کا انٹرنیشنل سسٹم (SI) میں یونٹ ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Kelvin",
+              "textUr": "کیلون"
+            },
+            {
+              "key": "B",
+              "textEn": "Candela",
+              "textUr": "کینڈیلا"
+            },
+            {
+              "key": "C",
+              "textEn": "Ampere",
+              "textUr": "ایمپیئر"
+            },
+            {
+              "key": "D",
+              "textEn": "Mole",
+              "textUr": "مول"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "Candela (cd) is the base unit of luminous intensity in SI.",
+          "explanationUr": "روشنی کی شدت کا بنیادی یونٹ کینڈیلا ہے۔"
+        },
+        {
+          "id": "mcq-ai-7",
+          "qNo": 7,
+          "statementEn": "The motion of the blades of a moving electric fan is an example of:",
+          "statementUr": "چلتے ہوئے برقی پنکھے کے پروں کی حرکت کس کی مثال ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Linear motion",
+              "textUr": "لینیئر موشن"
+            },
+            {
+              "key": "B",
+              "textEn": "Rotatory motion",
+              "textUr": "روٹیٹری موشن"
+            },
+            {
+              "key": "C",
+              "textEn": "Vibratory motion",
+              "textUr": "وائبریٹری موشن"
+            },
+            {
+              "key": "D",
+              "textEn": "Random motion",
+              "textUr": "بے ترتیب موشن"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "The spinning of a body about its fixed axis is called rotatory motion.",
+          "explanationUr": "کسی جسم کا اپنے ایکسز کے گرد گھومنا روٹیٹری موشن کہلاتا ہے۔"
+        },
+        {
+          "id": "mcq-ai-8",
+          "qNo": 8,
+          "statementEn": "The area under a speed-time graph represents the:",
+          "statementUr": "سپیڈ ٹائم گراف کے نیچے کا احاطہ کردہ رقبہ ظاہر کرتا ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Speed",
+              "textUr": "سپیڈ"
+            },
+            {
+              "key": "B",
+              "textEn": "Acceleration",
+              "textUr": "ایکسلریشن"
+            },
+            {
+              "key": "C",
+              "textEn": "Distance traveled",
+              "textUr": "طے کردہ فاصلہ"
+            },
+            {
+              "key": "D",
+              "textEn": "Velocity",
+              "textUr": "وائلوسٹی"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "Area enclosed beneath a speed-time graph corresponds to the total distance covered.",
+          "explanationUr": "سپیڈ ٹائم گراف کے نیچے والا رقبہ جسم کے طے کردہ فاصلے کے برابر ہوتا ہے۔"
+        },
+        {
+          "id": "mcq-ai-9",
+          "qNo": 9,
+          "statementEn": "A car accelerates uniformly from rest to 20 m s^-1 in 5 s. Its acceleration is:",
+          "statementUr": "ایک کار ساکن حالت سے یکساں طور پر تیز ہو کر 5 سیکنڈ میں 20 m s^-1 کی رفتار حاصل کرتی ہے۔ اس کا ایکسلریشن ہوگا:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "2 m s^-2",
+              "textUr": "2 m s^-2"
+            },
+            {
+              "key": "B",
+              "textEn": "4 m s^-2",
+              "textUr": "4 m s^-2"
+            },
+            {
+              "key": "C",
+              "textEn": "5 m s^-2",
+              "textUr": "5 m s^-2"
+            },
+            {
+              "key": "D",
+              "textEn": "100 m s^-2",
+              "textUr": "100 m s^-2"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "a = (vf - vi) / t = (20 - 0) / 5 = 4 m s^-2.",
+          "explanationUr": "ایکسلریشن مساوی ہے: a = (20 - 0) / 5 = 4 m s^-2۔"
+        },
+        {
+          "id": "p9-1-m3",
+          "statementEn": "Which of the following is a derived unit?",
+          "statementUr": "مندرجہ ذیل میں سے ماخوذ یونٹ کون سا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Meter",
+              "textUr": "میٹر"
+            },
+            {
+              "key": "B",
+              "textEn": "Kilogram",
+              "textUr": "کلوگرام"
+            },
+            {
+              "key": "C",
+              "textEn": "Newton",
+              "textUr": "نیوٹن"
+            },
+            {
+              "key": "D",
+              "textEn": "Second",
+              "textUr": "سیکنڈ"
+            }
+          ],
+          "correctOption": "C",
+          "qNo": 10,
+          "chapterRef": 1,
+          "category": "Textbook Exercises"
+        },
+        {
+          "id": "mcq-ai-11",
+          "qNo": 11,
+          "statementEn": "The rate of displacement of a body with respect to time is called:",
+          "statementUr": "وقت کے لحاظ سے پوزیشن میں تبدیلی کی شرح (ڈس پلیسمنٹ کی شرح) کو کہتے ہیں:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Speed",
+              "textUr": "سپیڈ"
+            },
+            {
+              "key": "B",
+              "textEn": "Velocity",
+              "textUr": "ویلوسٹی"
+            },
+            {
+              "key": "C",
+              "textEn": "Acceleration",
+              "textUr": "ایکسلریشن"
+            },
+            {
+              "key": "D",
+              "textEn": "Distance",
+              "textUr": "فاصلہ"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "Velocity is defined as the rate of displacement of a moving body.",
+          "explanationUr": "ڈس پلیسمنٹ میں تبدیلی کی شرح کو ویلوسٹی کہتے ہیں۔"
+        },
+        {
+          "id": "9th-physics-c1-mcq-past-3",
+          "qNo": 12,
+          "statementEn": "The rate of change of momentum of an object is directly equal to: (BISE Lahore 2021 Group-I (Morning))",
+          "statementUr": "کسی جسم کے مومنٹم میں تبدیلی کی شرح براہ راست برابر ہوتی ہے: (BISE Lahore 2021 Group-I (Morning))",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Total Kinetic Energy",
+              "textUr": "کل کائنیٹک انرجی"
+            },
+            {
+              "key": "B",
+              "textEn": "Acceleration produced",
+              "textUr": "پیدا شدہ ایکسلریشن"
+            },
+            {
+              "key": "C",
+              "textEn": "Applied Net Force",
+              "textUr": "لگائی گئی نیٹ فورس"
+            },
+            {
+              "key": "D",
+              "textEn": "Inertia of the body",
+              "textUr": "جسم کا جمود (انرشیا)"
+            }
+          ],
+          "correctOption": "C",
+          "chapterRef": 1,
+          "category": "Past Board Papers",
+          "pastBoardInfo": "BISE Lahore 2021 Group-I (Morning)"
+        }
+      ]
+    },
+    "subjectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - B & C (SUBJECTIVE TYPE)",
+      "titleUr": "حصہ دوم و سوم (انشائیہ طرز)",
+      "totalMarks": 48,
+      "timeAllowed": "2 Hours 45 Minutes",
+      "part1_shortQuestions": [
+        {
+          "id": "sq-grp-2",
+          "qNo": 2,
+          "instructionEn": "Write short answers to any FIVE (5) of the following questions.",
+          "instructionUr": "مندرجہ ذیل میں سے کوئی سے پانچ (5) سوالات کے مختصر جوابات تحریر کریں۔",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "sq-2-1",
+              "subNo": 1,
+              "statementEn": "Differentiate between base quantities and derived quantities.",
+              "statementUr": "بنیادی مقداروں اور ماخوذ مقداروں میں فرق واضح کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-2",
+              "subNo": 2,
+              "statementEn": "What are prefixes? Give two suitable examples.",
+              "statementUr": "پریفکسز سے کیا مراد ہے؟ دو مناسب مثالیں دیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-3",
+              "subNo": 3,
+              "statementEn": "Define scientific notation and write 0.0000548 s in scientific notation.",
+              "statementUr": "سائنسی نوٹیشن کی تعریف کریں اور 0.0000548 سیکنڈ کو سائنسی نوٹیشن میں تحریر کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-4",
+              "subNo": 4,
+              "statementEn": "What is meant by the pitch of a screw gauge?",
+              "statementUr": "سکرو گیج کی پچ سے کیا مراد ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-5",
+              "subNo": 5,
+              "statementEn": "Briefly state the working principle of a physical balance.",
+              "statementUr": "فزیکل بیلنس کے کام کرنے کا بنیادی اصول مختصر بیان کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "p9-1-s3",
+              "statementEn": "What is zero error? Why is zero correction necessary in screw gauge?",
+              "statementUr": "زیرو ایرر کیا ہے؟ سکریو گیج میں زیرو کریکشن کیوں ضروری ہے؟",
+              "marks": 2,
+              "subNo": 6,
+              "chapterRef": 1,
+              "category": "Textbook Exercises"
+            },
+            {
+              "id": "sq-2-7",
+              "subNo": 7,
+              "statementEn": "State the correct method of reading the liquid meniscus in a measuring cylinder.",
+              "statementUr": "پیمائشی سلنڈر میں مائع کی سطح (مینسکس) کو درست طریقے سے پڑھنے کا اصول بیان کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-2-8",
+              "subNo": 8,
+              "statementEn": "State any two fundamental rules for identifying significant figures in a measurement.",
+              "statementUr": "پیمائش میں اہم ہندسوں (سگنیفیکینٹ فیگرز) کا تعین کرنے کے کوئی سے دو بنیادی اصول تحریر کریں۔",
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "id": "sq-grp-3",
+          "qNo": 3,
+          "instructionEn": "Write short answers to any FIVE (5) of the following questions.",
+          "instructionUr": "مندرجہ ذیل میں سے کوئی سے پانچ (5) سوالات کے مختصر جوابات تحریر کریں۔",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "sq-3-1",
+              "subNo": 1,
+              "statementEn": "Show how rest and motion are relative to each other with a suitable everyday example.",
+              "statementUr": "روزمرہ زندگی کی مثال سے واضح کریں کہ ریسٹ اور موشن کی حالتیں باہم اضافی (ریلیٹو) ہوتی ہیں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-2",
+              "subNo": 2,
+              "statementEn": "Distinguish between circular motion and rotatory motion.",
+              "statementUr": "سرکلر موشن اور روٹیٹری موشن میں واضح فرق بیان کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-3",
+              "subNo": 3,
+              "statementEn": "Define vibratory motion and cite two practical examples.",
+              "statementUr": "وائبریٹری موشن کی تعریف کریں اور اس کی دو عملی مثالیں تحریر کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "9th-physics-c1-sq-1",
+              "subNo": 4,
+              "statementEn": "[Textbook Exercise Review Q] Define Physical Quantities and Measurement. State its mathematical formula and SI unit.",
+              "statementUr": "[مشقی جائزہ سوال] طبیعی مقداریں اور پیمائش کی تعریف تحریر کریں اور اس کا حسابی فارمولا اور ایس آئی یونٹ لکھیں۔",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Textbook Exercises",
+              "pastBoardInfo": "SWL 2023 G-II"
+            },
+            {
+              "id": "sq-3-5",
+              "subNo": 5,
+              "statementEn": "How is a vector quantity represented symbolically and graphically?",
+              "statementUr": "کسی ویکٹر مقدار کو علامتی اور گراف کے ذریعے کیسے ظاہر کیا جاتا ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-6",
+              "subNo": 6,
+              "statementEn": "Define position. What is meant by a reference point?",
+              "statementUr": "پوزیشن کی تعریف کریں۔ حوالہ نقطہ (ریفرنس پوائنٹ) سے کیا مراد ہے؟",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-7",
+              "subNo": 7,
+              "statementEn": "Distinguish between distance and displacement with their respective SI units.",
+              "statementUr": "فاصلہ اور ڈس پلیسمنٹ میں فرق ان کے متعلقہ یونٹس کی مدد سے واضح کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "sq-3-8",
+              "subNo": 8,
+              "statementEn": "Can a body moving with a constant speed have acceleration? Give a brief reason.",
+              "statementUr": "کیا کانسٹنٹ سپیڈ سے حرکت کرنے والے جسم میں ایکسلریشن ہو سکتا ہے؟ مختصر وجہ بیان کریں۔",
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "id": "sq-grp-4",
+          "qNo": 4,
+          "instructionEn": "Write short answers to any FIVE (5) of the following questions.",
+          "instructionUr": "مندرجہ ذیل میں سے کوئی سے پانچ (5) سوالات کے مختصر جوابات تحریر کریں۔",
+          "attemptCount": 5,
+          "totalCount": 8,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "sq-4-1",
+              "subNo": 1,
+              "statementEn": "Define uniform velocity and variable velocity.",
+              "statementUr": "یونیفارم ویلوسٹی اور متغیر (ویری ایبل) ویلوسٹی کی تعریف کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "9th-physics-c1-sq-5",
+              "subNo": 2,
+              "statementEn": "[In-Text Box: Test Yourself] Why is the handle of a door fixed at its outer edge far from hinges?",
+              "statementUr": "[چیپٹر کے اندر سے: خود پرکھیں] دروازے کا دستہ قبضوں سے دور بیرونی کنارے پر کیوں لگایا جاتا ہے؟",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "In-Text & Box Questions",
+              "pastBoardInfo": "DGK 2026 G-II"
+            },
+            {
+              "id": "9th-physics-c1-sq-6",
+              "subNo": 3,
+              "statementEn": "[Past Board Paper] State Newton's Second Law of Motion and derive the equation F = ma. (RWP 2025 G-I, SWL 2020, BWP 2022)",
+              "statementUr": "[سابقہ بورڈ پرچہ جات] نیوٹن کا موشن کا دوسرا قانون بیان کریں اور مساوات F = ma اخذ کریں۔ (RWP 2025 G-I, SWL 2020, BWP 2022)",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Past Board Papers",
+              "pastBoardInfo": "RWP 2025 G-I, SWL 2020, BWP 2022"
+            },
+            {
+              "id": "sq-4-4",
+              "subNo": 4,
+              "statementEn": "State the First Equation of Motion and define each variable present in it.",
+              "statementUr": "حرکت کی پہلی مساوات تحریر کریں اور اس میں موجود تمام علامتوں کی وضاحت کریں۔",
+              "marks": 2
+            },
+            {
+              "id": "9th-physics-c1-sq-8",
+              "subNo": 5,
+              "statementEn": "[SLO Conceptual] How does rolling friction differ from sliding friction, and why is rolling friction ten times smaller?",
+              "statementUr": "[تصوراتی SLO سوال] رولنگ فرکشن اور سلائیڈنگ فرکشن میں کیا فرق ہے اور رولنگ فرکشن دس گنا کم کیوں ہوتی ہے؟",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "SLO Conceptual",
+              "pastBoardInfo": "DGK 2023 G-I, GRW 2021"
+            },
+            {
+              "id": "sq-4-6",
+              "subNo": 6,
+              "statementEn": "Why is an international system of standardized units necessary in science?",
+              "statementUr": "سائنس میں معیاری یونٹس کے بین الاقوامی نظام کی ضرورت کیوں پیش آئی؟",
+              "marks": 2
+            },
+            {
+              "id": "9th-physics-c2-sq-ext-3",
+              "subNo": 7,
+              "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Kinematics when initial magnitude is 30 units and time is 5 seconds. (RWP 2022 G-II)",
+              "statementUr": "[حسابی مسئلہ] کائینی میٹکس کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (RWP 2022 G-II)",
+              "marks": 2,
+              "chapterRef": 2,
+              "category": "Numerical Problems",
+              "pastBoardInfo": "RWP 2022 G-II"
+            },
+            {
+              "id": "9th-physics-c2-s2",
+              "subNo": 8,
+              "statementEn": "Differentiate between two main aspects or classifications discussed in Kinematics.",
+              "statementUr": "کائینی میٹکس میں زیرِ بحث دو اہم اقسام یا پہلوؤں کے مابین واضح فرق بیان کریں۔",
+              "marks": 2,
+              "chapterRef": 2,
+              "category": "In-Text & Box Questions"
+            }
+          ]
+        }
+      ],
+      "part2_longQuestions": {
+        "instructionEn": "Attempt any TWO (2) questions. Each question carries 9 marks.",
+        "instructionUr": "کوئی سے دو (2) سوالات کے تفصیلی جوابات تحریر کریں۔ ہر سوال کے 9 نمبر ہیں۔",
+        "attemptCount": 2,
+        "totalCount": 2,
+        "questions": [
+          {
+            "id": "p9-1-l1",
+            "qNo": 5,
+            "totalMarks": 9,
+            "parts": [
+              {
+                "partLabel": "a",
+                "statementEn": "Describe working of Vernier Calipers with neat diagram.",
+                "statementUr": "ورنیئر کیلیپرز کا طریقہ کار مع ڈایاگرام بیان کریں۔",
+                "marks": 5
+              },
+              {
+                "partLabel": "b",
+                "statementEn": "Calculate the volume of a sphere of radius 2.25 cm with correct significant figures.",
+                "statementUr": "2.25 سینٹی میٹر رداس کے کرے کا والیم درست اہم ہندسوں میں معلوم کریں۔",
+                "marks": 4
+              }
+            ],
+            "chapterRef": "Unit 1",
+            "category": "Past Board Papers"
+          },
+          {
+            "id": "9th-physics-c2-l2",
+            "qNo": 6,
+            "totalMarks": 9,
+            "parts": [
+              {
+                "partLabel": "a",
+                "statementEn": "Explain the experimental verification, graph analysis, and mathematical formulation related to Kinematics.",
+                "statementUr": "کائینی میٹکس سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔",
+                "marks": 5
+              },
+              {
+                "partLabel": "b",
+                "statementEn": "Numerical Problem: An experiment according to Unit 2 yielded 150 J of work in 5 seconds. Find the output efficiency.",
+                "statementUr": "حسابی سوال: یونٹ 2 کے اصول کے مطابق اگر 5 سیکنڈ میں 150 جول کام سرانجام پائے تو کارکردگی اور پاور معلوم کریں۔",
+                "marks": 4,
+                "isNumerical": true
+              }
+            ],
+            "chapterRef": "Unit 2",
+            "category": "Past Board Papers"
+          }
+        ]
+      }
+    },
+    "userId": "user-admin-01",
+    "createdByUserId": "user-admin-01"
+  },
+  {
     "id": "paper-1791966218806",
     "createdAt": "2026-10-14T08:23:38.806Z",
     "languageMode": "bilingual",
