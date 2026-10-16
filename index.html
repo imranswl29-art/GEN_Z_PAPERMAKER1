@@ -15,12 +15,12 @@
     <script type="module" crossorigin src="/assets/index-DAioIUjd.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-DIwX0F6R.css">
     <style>
-      /* Top Navigation Bar permanently sticky */
+      /* Top Navigation Bar in standard document flow (scrolls away naturally) */
       header,
       .main-header-bar {
-        position: sticky !important;
-        top: 0 !important;
-        z-index: 1000 !important;
+        position: relative !important;
+        top: auto !important;
+        z-index: 10 !important;
       }
 
       /* Perfect Multi-Line School Title Accommodation: 1 or 2 lines without clipping, shifting, or overlapping */
@@ -225,6 +225,35 @@
           justify-content: center !important;
           text-align: center !important;
           line-height: 1 !important;
+        }
+        /* Prevent overlapping text, clipped headers, broken tables, or crushed margins during export */
+        table {
+          page-break-inside: auto !important;
+        }
+        tr {
+          page-break-inside: avoid !important;
+          page-break-after: auto !important;
+        }
+        thead {
+          display: table-header-group !important;
+        }
+        tfoot {
+          display: table-footer-group !important;
+        }
+        .page-break-inside-avoid,
+        .question-block,
+        .item-card,
+        .marksheet-card {
+          break-inside: avoid !important;
+          page-break-inside: avoid !important;
+        }
+        .landscape-mode {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+        .portrait-mode {
+          width: 100% !important;
+          max-width: 100% !important;
         }
       }
     </style>

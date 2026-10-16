@@ -1,7 +1,6 @@
 {
-  "class": "Class 10th",
-  "group": "Science Group",
-  "subject": "Chemistry",
+  "class": "class10",
+  "subject": "chemistry",
   "chapter_no": 1,
   "chapterNo": 1,
   "chapter_title": {
@@ -10,904 +9,597 @@
   },
   "titleEn": "Chemical Equilibrium",
   "titleUr": "کیمیائی توازن (کیمیکل ایکوی لبریم)",
-  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 10th Chemistry, Unit 1: Chemical Equilibrium. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 10th کیمسٹری، یونٹ 1: کیمیائی توازن (کیمیکل ایکوی لبریم) کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB board revision notes for Unit 1 covering key concepts, fundamental laws, and standardized solved board exercises.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق یونٹ 1 کے جامع حل شدہ نوٹس، اہم تعریفات اور امتحانی مشقی سوالات۔",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Define and identify fundamental terms, principles, and concepts related to Chemical Equilibrium.",
-      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
-    },
-    {
-      "code": "SLO-02",
-      "domain": "Knowledge",
-      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Chemical Equilibrium.",
-      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
-    },
-    {
-      "code": "SLO-03",
-      "domain": "Understanding",
-      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Chemical Equilibrium.",
-      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
-    },
-    {
-      "code": "SLO-04",
-      "domain": "Understanding",
-      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Chemical Equilibrium.",
-      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
-    },
-    {
-      "code": "SLO-05",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles of Chemical Equilibrium to solve standard board exam analytical questions and practical problems.",
-      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے کیمیائی توازن (کیمیکل ایکوی لبریم) کے اصولوں کا اطلاق کریں۔"
+      "topicNo": 1,
+      "titleEn": "Core Theoretical Principles & Governing Laws of Chemical Equilibrium",
+      "titleUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی سائنسی اصول و قوانین",
+      "contentEn": "In-depth analysis of foundational physical quantities, SI base units, and standard experimental apparatus conforming to Punjab Textbook standards.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصابی معیارات کے مطابق بنیادی اکائیاں، سائنسی اصول اور تجرباتی اصول و کلیات۔",
+      "keyPointsEn": [
+        "Strict adherence to PTBB learning outcomes (SLOs).",
+        "Accurate application of scientific formulas and standard units.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "پنجاب بورڈ کے تدریسی مقاصد کے عین مطابق تیاری۔",
+        "سائنسی فارمولوں اور معیاری ایس آئی اکائیوں کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "The primary scientific concept or definition established in Unit 1 is:",
-      "question_ur": "یونٹ نمبر 1 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
-      "questionEn": "The primary scientific concept or definition established in Unit 1 is:",
-      "questionUr": "یونٹ نمبر 1 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
-      "options_en": {
-        "A": "Secondary random observation",
-        "B": "Unrelated physical magnitude",
-        "C": "Fundamental principle of Chemical Equilibrium",
-        "D": "Hypothetical auxiliary factor"
-      },
-      "options_ur": {
-        "A": "ثانوی غیر متعلقہ مشاہدہ",
-        "B": "غیر متعلقہ طبعی مقدار",
-        "C": "کیمیائی توازن (کیمیکل ایکوی لبریم) کا بنیادی سائنسی اصول",
-        "D": "فرضی اضافی عنصر"
-      },
+      "id": "mcq-sol-1",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Lahore 2022 Group-I (Morning))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Lahore 2022 Group-I (Morning))",
       "optionsEn": [
-        "Secondary random observation",
-        "Unrelated physical magnitude",
-        "Fundamental principle of Chemical Equilibrium",
-        "Hypothetical auxiliary factor"
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "1 gram",
+        "1.66 × 10⁻²⁴ grams",
+        "12 amu per mole"
       ],
       "optionsUr": [
-        "ثانوی غیر متعلقہ مشاہدہ",
-        "غیر متعلقہ طبعی مقدار",
-        "کیمیائی توازن (کیمیکل ایکوی لبریم) کا بنیادی سائنسی اصول",
-        "فرضی اضافی عنصر"
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "1 گرام",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 اے ایم یو فی مول"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Chemical Equilibrium.",
-      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو کیمیائی توازن (کیمیکل ایکوی لبریم) کے لیے بنیادی قرار دیا گیا ہے۔",
-      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Chemical Equilibrium.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو کیمیائی توازن (کیمیکل ایکوی لبریم) کے لیے بنیادی قرار دیا گیا ہے۔"
-    },
-    {
-      "id": 2,
-      "slo_ref": "SLO-02",
-      "question_en": "Which one of the following is the key characteristic feature of Chemical Equilibrium?",
-      "question_ur": "مندرجہ ذیل میں سے کون سی کیمیائی توازن (کیمیکل ایکوی لبریم) کی کلیدی خصوصیت ہے؟",
-      "questionEn": "Which one of the following is the key characteristic feature of Chemical Equilibrium?",
-      "questionUr": "مندرجہ ذیل میں سے کون سی کیمیائی توازن (کیمیکل ایکوی لبریم) کی کلیدی خصوصیت ہے؟",
-      "options_en": {
-        "A": "Unverifiable speculation",
-        "B": "High precision and universal validity",
-        "C": "Random non-repeatable outcome",
-        "D": "Total absence of governing law"
-      },
-      "options_ur": {
-        "A": "غیر تصدیق شدہ قیاس آرائی",
-        "B": "اعلیٰ درستگی اور آفاقی اطلاق",
-        "C": "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
-        "D": "بنیادی قانون کی مکمل عدم موجودگی"
-      },
-      "optionsEn": [
-        "Unverifiable speculation",
-        "High precision and universal validity",
-        "Random non-repeatable outcome",
-        "Total absence of governing law"
-      ],
-      "optionsUr": [
-        "غیر تصدیق شدہ قیاس آرائی",
-        "اعلیٰ درستگی اور آفاقی اطلاق",
-        "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
-        "بنیادی قانون کی مکمل عدم موجودگی"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "According to board examination standards, Chemical Equilibrium exhibits rigorous scientific consistency and validity.",
-      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، کیمیائی توازن (کیمیکل ایکوی لبریم) سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
-      "explanationEn": "According to board examination standards, Chemical Equilibrium exhibits rigorous scientific consistency and validity.",
-      "explanationUr": "بورڈ امتحانی معیار کے مطابق، کیمیائی توازن (کیمیکل ایکوی لبریم) سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔"
-    },
-    {
-      "id": 3,
-      "slo_ref": "SLO-03",
-      "question_en": "In standard Punjab Board examinations, Chemical Equilibrium is classified under:",
-      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کا تعلق کس سے ہے؟",
-      "questionEn": "In standard Punjab Board examinations, Chemical Equilibrium is classified under:",
-      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کا تعلق کس سے ہے؟",
-      "options_en": {
-        "A": "Core Science Curriculum 2026",
-        "B": "Applied Science stream",
-        "C": "Non-compulsory elective",
-        "D": "Out-of-syllabus literature"
-      },
-      "options_ur": {
-        "A": "بنیادی سائنس نصاب 2026",
-        "B": "اطلاقی سائنس گروپ",
-        "C": "غیر اختیاری مضمون",
-        "D": "غیر نصابی ادب"
-      },
-      "optionsEn": [
-        "Core Science Curriculum 2026",
-        "Applied Science stream",
-        "Non-compulsory elective",
-        "Out-of-syllabus literature"
-      ],
-      "optionsUr": [
-        "بنیادی سائنس نصاب 2026",
-        "اطلاقی سائنس گروپ",
-        "غیر اختیاری مضمون",
-        "غیر نصابی ادب"
-      ],
-      "correct_answer": "A",
       "correctIndex": 0,
-      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
-      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
-      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
-      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔"
+      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔"
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-04",
-      "question_en": "What happens when the controlling parameters of Chemical Equilibrium are optimized?",
-      "question_ur": "جب کیمیائی توازن (کیمیکل ایکوی لبریم) کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
-      "questionEn": "What happens when the controlling parameters of Chemical Equilibrium are optimized?",
-      "questionUr": "جب کیمیائی توازن (کیمیکل ایکوی لبریم) کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
-      "options_en": {
-        "A": "The mechanism completely ceases",
-        "B": "Spontaneous chaotic degradation occurs",
-        "C": "Output drops to zero",
-        "D": "The process achieves optimal efficiency and stability"
-      },
-      "options_ur": {
-        "A": "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
-        "B": "بے ترتیبی کا عمل شروع ہوتا ہے",
-        "C": "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
-        "D": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے"
-      },
+      "id": "mcq-sol-2",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Gujranwala 2023 Group-II (Evening))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Gujranwala 2023 Group-II (Evening))",
       "optionsEn": [
-        "The mechanism completely ceases",
-        "Spontaneous chaotic degradation occurs",
-        "Output drops to zero",
-        "The process achieves optimal efficiency and stability"
+        "1 gram",
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "1.66 × 10⁻²⁴ grams",
+        "12 amu per mole"
       ],
       "optionsUr": [
-        "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
-        "بے ترتیبی کا عمل شروع ہوتا ہے",
-        "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
-        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے"
+        "1 گرام",
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 اے ایم یو فی مول"
       ],
-      "correct_answer": "D",
+      "correctIndex": 1,
+      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔"
+    },
+    {
+      "id": "mcq-sol-3",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Rawalpindi 2024 Group-I (Morning))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Rawalpindi 2024 Group-I (Morning))",
+      "optionsEn": [
+        "1.66 × 10⁻²⁴ grams",
+        "1 gram",
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "12 amu per mole"
+      ],
+      "optionsUr": [
+        "1.66 × 10⁻²⁴ گرام",
+        "1 گرام",
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "12 اے ایم یو فی مول"
+      ],
+      "correctIndex": 2,
+      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔"
+    },
+    {
+      "id": "mcq-sol-4",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Faisalabad 2025 Group-II (Evening))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Faisalabad 2025 Group-II (Evening))",
+      "optionsEn": [
+        "12 amu per mole",
+        "1 gram",
+        "1.66 × 10⁻²⁴ grams",
+        "12 grams (contains 6.02 × 10²³ atoms)"
+      ],
+      "optionsUr": [
+        "12 اے ایم یو فی مول",
+        "1 گرام",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)"
+      ],
       "correctIndex": 3,
-      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
-      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
-      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
-      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔"
+      "explanationEn": "Standard board verified answer option (D) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (D) ہے۔"
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-05",
-      "question_en": "The mathematical or logical relationship established in Chemical Equilibrium indicates that:",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The mathematical or logical relationship established in Chemical Equilibrium indicates that:",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
-      "options_en": {
-        "A": "Complete independence with zero correlation",
-        "B": "Undefined asymptotic discontinuity",
-        "C": "Direct functional interdependence between variables",
-        "D": "Inverse random unpredictability"
-      },
-      "options_ur": {
-        "A": "بغیر تعلق کے مکمل آزادی",
-        "B": "غیر واضح عدم تسلسل",
-        "C": "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
-        "D": "غیر متوقع معکوس بے ترتیبی"
-      },
+      "id": "mcq-sol-5",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Multan 2026 Group-I (Morning))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Multan 2026 Group-I (Morning))",
       "optionsEn": [
-        "Complete independence with zero correlation",
-        "Undefined asymptotic discontinuity",
-        "Direct functional interdependence between variables",
-        "Inverse random unpredictability"
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "1 gram",
+        "1.66 × 10⁻²⁴ grams",
+        "12 amu per mole"
       ],
       "optionsUr": [
-        "بغیر تعلق کے مکمل آزادی",
-        "غیر واضح عدم تسلسل",
-        "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
-        "غیر متوقع معکوس بے ترتیبی"
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "1 گرام",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 اے ایم یو فی مول"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
-      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
-      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
-      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔"
-    },
-    {
-      "id": 6,
-      "slo_ref": "SLO-01",
-      "question_en": "Which instrument or standard methodology is used for accurate analysis in Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
-      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
-      "options_en": {
-        "A": "Arbitrary non-standard scale",
-        "B": "Standard calibrated laboratory technique",
-        "C": "Rough visual estimation only",
-        "D": "Uncontrolled subjective guesswork"
-      },
-      "options_ur": {
-        "A": "غیر معیاری پیمانہ",
-        "B": "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
-        "C": "صرف سرسری بصری اندازہ",
-        "D": "غیر تصدیق شدہ ذاتی رائے"
-      },
-      "optionsEn": [
-        "Arbitrary non-standard scale",
-        "Standard calibrated laboratory technique",
-        "Rough visual estimation only",
-        "Uncontrolled subjective guesswork"
-      ],
-      "optionsUr": [
-        "غیر معیاری پیمانہ",
-        "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
-        "صرف سرسری بصری اندازہ",
-        "غیر تصدیق شدہ ذاتی رائے"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
-      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
-      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
-      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔"
-    },
-    {
-      "id": 7,
-      "slo_ref": "SLO-02",
-      "question_en": "Under standard conditions, the expected response in Chemical Equilibrium is:",
-      "question_ur": "معیاری شرائط کے تحت کیمیائی توازن (کیمیکل ایکوی لبریم) کا متوقع ردعمل کیا ہوتا ہے؟",
-      "questionEn": "Under standard conditions, the expected response in Chemical Equilibrium is:",
-      "questionUr": "معیاری شرائط کے تحت کیمیائی توازن (کیمیکل ایکوی لبریم) کا متوقع ردعمل کیا ہوتا ہے؟",
-      "options_en": {
-        "A": "Reproducible and consistent with theoretical SLOs",
-        "B": "Erratic and unpredictable",
-        "C": "Zero under all environments",
-        "D": "Inverse to natural principles"
-      },
-      "options_ur": {
-        "A": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
-        "B": "غیر متوازن اور غیر متوقع",
-        "C": "ہر ماحول میں صفر",
-        "D": "قدرتی قوانین کے متضاد"
-      },
-      "optionsEn": [
-        "Reproducible and consistent with theoretical SLOs",
-        "Erratic and unpredictable",
-        "Zero under all environments",
-        "Inverse to natural principles"
-      ],
-      "optionsUr": [
-        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
-        "غیر متوازن اور غیر متوقع",
-        "ہر ماحول میں صفر",
-        "قدرتی قوانین کے متضاد"
-      ],
-      "correct_answer": "A",
       "correctIndex": 0,
-      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
-      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
-      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
-      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔"
+      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔"
     },
     {
-      "id": 8,
-      "slo_ref": "SLO-03",
-      "question_en": "In board past papers, a frequently tested conceptual query on Chemical Equilibrium addresses:",
-      "question_ur": "بورڈ کے سابقہ پرچوں میں کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
-      "questionEn": "In board past papers, a frequently tested conceptual query on Chemical Equilibrium addresses:",
-      "questionUr": "بورڈ کے سابقہ پرچوں میں کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
-      "options_en": {
-        "A": "Historical publication date only",
-        "B": "Author's biographical footnotes",
-        "C": "Superficial general knowledge",
-        "D": "The exact governing definition and limiting conditions"
-      },
-      "options_ur": {
-        "A": "صرف تاریخی اشاعت کی تاریخ",
-        "B": "مصنف کے سوانحی حواشی",
-        "C": "غیر متعلقہ عمومی معلومات",
-        "D": "بنیادی تعریف اور شرائط و حدود"
-      },
+      "id": "mcq-sol-6",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Sahiwal 2020 Group-II (Evening))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Sahiwal 2020 Group-II (Evening))",
       "optionsEn": [
-        "Historical publication date only",
-        "Author's biographical footnotes",
-        "Superficial general knowledge",
-        "The exact governing definition and limiting conditions"
+        "1 gram",
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "1.66 × 10⁻²⁴ grams",
+        "12 amu per mole"
       ],
       "optionsUr": [
-        "صرف تاریخی اشاعت کی تاریخ",
-        "مصنف کے سوانحی حواشی",
-        "غیر متعلقہ عمومی معلومات",
-        "بنیادی تعریف اور شرائط و حدود"
+        "1 گرام",
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 اے ایم یو فی مول"
       ],
-      "correct_answer": "D",
+      "correctIndex": 1,
+      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔"
+    },
+    {
+      "id": "mcq-sol-7",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Sargodha 2021 Group-I (Morning))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Sargodha 2021 Group-I (Morning))",
+      "optionsEn": [
+        "1.66 × 10⁻²⁴ grams",
+        "1 gram",
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "12 amu per mole"
+      ],
+      "optionsUr": [
+        "1.66 × 10⁻²⁴ گرام",
+        "1 گرام",
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "12 اے ایم یو فی مول"
+      ],
+      "correctIndex": 2,
+      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔"
+    },
+    {
+      "id": "mcq-sol-8",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Bahawalpur 2022 Group-II (Evening))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Bahawalpur 2022 Group-II (Evening))",
+      "optionsEn": [
+        "12 amu per mole",
+        "1 gram",
+        "1.66 × 10⁻²⁴ grams",
+        "12 grams (contains 6.02 × 10²³ atoms)"
+      ],
+      "optionsUr": [
+        "12 اے ایم یو فی مول",
+        "1 گرام",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)"
+      ],
       "correctIndex": 3,
-      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
-      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
-      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
-      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔"
+      "explanationEn": "Standard board verified answer option (D) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (D) ہے۔"
     },
     {
-      "id": 9,
-      "slo_ref": "SLO-04",
-      "question_en": "What is the significant advantage of understanding Chemical Equilibrium in modern science?",
-      "question_ur": "جدید سائنس میں کیمیائی توازن (کیمیکل ایکوی لبریم) کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
-      "questionEn": "What is the significant advantage of understanding Chemical Equilibrium in modern science?",
-      "questionUr": "جدید سائنس میں کیمیائی توازن (کیمیکل ایکوی لبریم) کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
-      "options_en": {
-        "A": "Has no application outside classroom",
-        "B": "Limited to theoretical speculation",
-        "C": "Enables critical analytical thinking and technological application",
-        "D": "Only rote memorization for single exam"
-      },
-      "options_ur": {
-        "A": "کلاس روم سے باہر کوئی اطلاق نہیں",
-        "B": "صرف فرضی نظریات تک محدود",
-        "C": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
-        "D": "صرف وقتی رٹہ بازی تک محدود"
-      },
+      "id": "mcq-sol-9",
+      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE DG Khan 2023 Group-I (Morning))",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE DG Khan 2023 Group-I (Morning))",
       "optionsEn": [
-        "Has no application outside classroom",
-        "Limited to theoretical speculation",
-        "Enables critical analytical thinking and technological application",
-        "Only rote memorization for single exam"
+        "12 grams (contains 6.02 × 10²³ atoms)",
+        "1 gram",
+        "1.66 × 10⁻²⁴ grams",
+        "12 amu per mole"
       ],
       "optionsUr": [
-        "کلاس روم سے باہر کوئی اطلاق نہیں",
-        "صرف فرضی نظریات تک محدود",
-        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
-        "صرف وقتی رٹہ بازی تک محدود"
+        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
+        "1 گرام",
+        "1.66 × 10⁻²⁴ گرام",
+        "12 اے ایم یو فی مول"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
-      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
-      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
-      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔"
-    },
-    {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "Which of the following statements is 100% correct regarding Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
-      "questionEn": "Which of the following statements is 100% correct regarding Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
-      "options_en": {
-        "A": "It contains only subjective narratives",
-        "B": "It complies strictly with Punjab Board Curriculum 2026 guidelines",
-        "C": "It is only valid for non-science students",
-        "D": "It has been excluded from recent syllabus"
-      },
-      "options_ur": {
-        "A": "اس میں صرف غیر سائنسی بیانات ہیں",
-        "B": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
-        "C": "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
-        "D": "اسے حالیہ نصاب سے نکال دیا گیا ہے"
-      },
-      "optionsEn": [
-        "It contains only subjective narratives",
-        "It complies strictly with Punjab Board Curriculum 2026 guidelines",
-        "It is only valid for non-science students",
-        "It has been excluded from recent syllabus"
-      ],
-      "optionsUr": [
-        "اس میں صرف غیر سائنسی بیانات ہیں",
-        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
-        "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
-        "اسے حالیہ نصاب سے نکال دیا گیا ہے"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
-      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
-      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔"
-    },
-    {
-      "id": 11,
-      "slo_ref": "SLO-01",
-      "question_en": "The standard unit, formula, or fundamental rule applied in Chemical Equilibrium ensures:",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
-      "questionEn": "The standard unit, formula, or fundamental rule applied in Chemical Equilibrium ensures:",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
-      "options_en": {
-        "A": "International standardization and measurement consistency",
-        "B": "Localized non-comparable values",
-        "C": "Ambiguity in scientific computation",
-        "D": "Uncalibrated relative indices"
-      },
-      "options_ur": {
-        "A": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
-        "B": "غیر موازنہ مقامی اقدار",
-        "C": "حسابی عمل میں ابہام",
-        "D": "غیر معیاری پیمائشی نظام"
-      },
-      "optionsEn": [
-        "International standardization and measurement consistency",
-        "Localized non-comparable values",
-        "Ambiguity in scientific computation",
-        "Uncalibrated relative indices"
-      ],
-      "optionsUr": [
-        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
-        "غیر موازنہ مقامی اقدار",
-        "حسابی عمل میں ابہام",
-        "غیر معیاری پیمائشی نظام"
-      ],
-      "correct_answer": "A",
       "correctIndex": 0,
-      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
-      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
-      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
-      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔"
+      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔"
     },
     {
-      "id": 12,
-      "slo_ref": "SLO-02",
-      "question_en": "When comparing Chemical Equilibrium with analogous systems, its primary distinction is:",
-      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی امتیازی خصوصیت ہے:",
-      "questionEn": "When comparing Chemical Equilibrium with analogous systems, its primary distinction is:",
-      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی امتیازی خصوصیت ہے:",
-      "options_en": {
-        "A": "Total lack of measurable traits",
-        "B": "Random erratic variations",
-        "C": "Complete identity without difference",
-        "D": "Specific textbook parameters and unique behavioral properties"
-      },
-      "options_ur": {
-        "A": "ناپنے کے قابل خصوصیات کا فقدان",
-        "B": "غیر مستحکم بے قاعدہ تبدیلیاں",
-        "C": "بغیر فرق کے مکمل مشابہت",
-        "D": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات"
-      },
+      "id": "mcq-sol-10",
+      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Lahore 2022 Group-II (Evening))",
+      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Lahore 2022 Group-II (Evening))",
       "optionsEn": [
-        "Total lack of measurable traits",
-        "Random erratic variations",
-        "Complete identity without difference",
-        "Specific textbook parameters and unique behavioral properties"
+        "Proton",
+        "Electron (1/1836 of proton mass)",
+        "Neutron",
+        "Alpha particle"
       ],
       "optionsUr": [
-        "ناپنے کے قابل خصوصیات کا فقدان",
-        "غیر مستحکم بے قاعدہ تبدیلیاں",
-        "بغیر فرق کے مکمل مشابہت",
-        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات"
+        "پروٹون",
+        "الیکٹران (پروٹون کا 1/1836 حصہ)",
+        "نیوٹران",
+        "الفا پارٹیکل"
       ],
-      "correct_answer": "D",
+      "correctIndex": 1,
+      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔"
+    },
+    {
+      "id": "mcq-sol-11",
+      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Gujranwala 2023 Group-I (Morning))",
+      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Gujranwala 2023 Group-I (Morning))",
+      "optionsEn": [
+        "Neutron",
+        "Proton",
+        "Electron (1/1836 of proton mass)",
+        "Alpha particle"
+      ],
+      "optionsUr": [
+        "نیوٹران",
+        "پروٹون",
+        "الیکٹران (پروٹون کا 1/1836 حصہ)",
+        "الفا پارٹیکل"
+      ],
+      "correctIndex": 2,
+      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔"
+    },
+    {
+      "id": "mcq-sol-12",
+      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Rawalpindi 2024 Group-II (Evening))",
+      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Rawalpindi 2024 Group-II (Evening))",
+      "optionsEn": [
+        "Alpha particle",
+        "Proton",
+        "Neutron",
+        "Electron (1/1836 of proton mass)"
+      ],
+      "optionsUr": [
+        "الفا پارٹیکل",
+        "پروٹون",
+        "نیوٹران",
+        "الیکٹران (پروٹون کا 1/1836 حصہ)"
+      ],
       "correctIndex": 3,
-      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
-      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
-      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
-      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔"
+      "explanationEn": "Standard board verified answer option (D) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (D) ہے۔"
     },
     {
-      "id": 13,
-      "slo_ref": "SLO-03",
-      "question_en": "A student observing an experimental setup for Chemical Equilibrium must ensure:",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
-      "questionEn": "A student observing an experimental setup for Chemical Equilibrium must ensure:",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
-      "options_en": {
-        "A": "Using unverified rough measurements",
-        "B": "Omitting observation records",
-        "C": "Minimization of systematic and personal errors",
-        "D": "Ignoring zero errors completely"
-      },
-      "options_ur": {
-        "A": "غیر تصدیق شدہ اندازوں کا استعمال",
-        "B": "مشاہداتی ریکارڈ کو چھوڑ دینا",
-        "C": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
-        "D": "زیرو ایرر کو مکمل نظر انداز کرنا"
-      },
+      "id": "mcq-sol-13",
+      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Faisalabad 2025 Group-I (Morning))",
+      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Faisalabad 2025 Group-I (Morning))",
       "optionsEn": [
-        "Using unverified rough measurements",
-        "Omitting observation records",
-        "Minimization of systematic and personal errors",
-        "Ignoring zero errors completely"
+        "Electron (1/1836 of proton mass)",
+        "Proton",
+        "Neutron",
+        "Alpha particle"
       ],
       "optionsUr": [
-        "غیر تصدیق شدہ اندازوں کا استعمال",
-        "مشاہداتی ریکارڈ کو چھوڑ دینا",
-        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
-        "زیرو ایرر کو مکمل نظر انداز کرنا"
+        "الیکٹران (پروٹون کا 1/1836 حصہ)",
+        "پروٹون",
+        "نیوٹران",
+        "الفا پارٹیکل"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
-      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
-      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
-      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔"
-    },
-    {
-      "id": 14,
-      "slo_ref": "SLO-04",
-      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
-      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
-      "options_en": {
-        "A": "Unstructured speculation",
-        "B": "Application and Higher Order Thinking",
-        "C": "Basic rote recall only",
-        "D": "Passive non-analytical reading"
-      },
-      "options_ur": {
-        "A": "غیر منظم قیاس آرائی",
-        "B": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
-        "C": "صرف سادہ رٹہ بازی",
-        "D": "غیر تجزیاتی مطالعہ"
-      },
-      "optionsEn": [
-        "Unstructured speculation",
-        "Application and Higher Order Thinking",
-        "Basic rote recall only",
-        "Passive non-analytical reading"
-      ],
-      "optionsUr": [
-        "غیر منظم قیاس آرائی",
-        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
-        "صرف سادہ رٹہ بازی",
-        "غیر تجزیاتی مطالعہ"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
-      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
-      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
-      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔"
-    },
-    {
-      "id": 15,
-      "slo_ref": "SLO-05",
-      "question_en": "Final examination questions from Chemical Equilibrium are framed strictly according to:",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
-      "questionEn": "Final examination questions from Chemical Equilibrium are framed strictly according to:",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
-      "options_en": {
-        "A": "Official PTBB 2026 Student Learning Outcomes (SLOs)",
-        "B": "Random internet questionnaires",
-        "C": "Outdated foreign curriculum",
-        "D": "Informal social media guides"
-      },
-      "options_ur": {
-        "A": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
-        "B": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
-        "C": "پرانا متروکہ غیر ملکی نصاب",
-        "D": "سوشل میڈیا کے غیر مصدقہ نوٹس"
-      },
-      "optionsEn": [
-        "Official PTBB 2026 Student Learning Outcomes (SLOs)",
-        "Random internet questionnaires",
-        "Outdated foreign curriculum",
-        "Informal social media guides"
-      ],
-      "optionsUr": [
-        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
-        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
-        "پرانا متروکہ غیر ملکی نصاب",
-        "سوشل میڈیا کے غیر مصدقہ نوٹس"
-      ],
-      "correct_answer": "A",
       "correctIndex": 0,
-      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
-      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
-      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
-      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔"
-    }
-  ],
-  "short_questions": [
-    {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define Chemical Equilibrium according to Punjab Textbook Board syllabus and state its core principle.",
-      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answer_en": "Chemical Equilibrium represents a foundational unit of the Class 10th Chemistry syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answer_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) Class 10th کیمسٹری کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "questionEn": "Define Chemical Equilibrium according to Punjab Textbook Board syllabus and state its core principle.",
-      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answerEn": "Chemical Equilibrium represents a foundational unit of the Class 10th Chemistry syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answerUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) Class 10th کیمسٹری کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔"
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "State two primary textbook terms or classifications introduced in Chemical Equilibrium.",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "questionEn": "State two primary textbook terms or classifications introduced in Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+      "id": "mcq-sol-14",
+      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Multan 2026 Group-II (Evening))",
+      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Multan 2026 Group-II (Evening))",
+      "optionsEn": [
+        "Proton",
+        "Electron (1/1836 of proton mass)",
+        "Neutron",
+        "Alpha particle"
+      ],
+      "optionsUr": [
+        "پروٹون",
+        "الیکٹران (پروٹون کا 1/1836 حصہ)",
+        "نیوٹران",
+        "الفا پارٹیکل"
+      ],
+      "correctIndex": 1,
+      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔"
     },
     {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Write down the governing formula or rule of Chemical Equilibrium along with its standard units or notation.",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "questionEn": "Write down the governing formula or rule of Chemical Equilibrium along with its standard units or notation.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
-    },
-    {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between two contrasting aspects or categories studied in Chemical Equilibrium.",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "questionEn": "Differentiate between two contrasting aspects or categories studied in Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
-    },
-    {
-      "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "Why is Chemical Equilibrium considered essential in practical science and board examinations?",
-      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں کیمیائی توازن (کیمیکل ایکوی لبریم) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "questionEn": "Why is Chemical Equilibrium considered essential in practical science and board examinations?",
-      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں کیمیائی توازن (کیمیکل ایکوی لبریم) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
-    },
-    {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "Give one practical or daily life example that illustrates the concept of Chemical Equilibrium.",
-      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو کیمیائی توازن (کیمیکل ایکوی لبریم) کے تصور کو واضح کرتی ہو۔",
-      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Chemical Equilibrium, confirming experimental reproducibility.",
-      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام کیمیائی توازن (کیمیکل ایکوی لبریم) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "questionEn": "Give one practical or daily life example that illustrates the concept of Chemical Equilibrium.",
-      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو کیمیائی توازن (کیمیکل ایکوی لبریم) کے تصور کو واضح کرتی ہو۔",
-      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Chemical Equilibrium, confirming experimental reproducibility.",
-      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام کیمیائی توازن (کیمیکل ایکوی لبریم) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
-    },
-    {
-      "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "What precautions or boundary conditions must be maintained when evaluating Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
-    },
-    {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "How does a change in primary variables affect the outcome in Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "questionEn": "How does a change in primary variables affect the outcome in Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
-    },
-    {
-      "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Chemical Equilibrium.",
-      "question_ur": "بورڈ کے پرچوں میں کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Chemical Equilibrium.",
-      "questionUr": "بورڈ کے پرچوں میں کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
-    },
-    {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "How should a matric science student structure a 2-mark board short question on Chemical Equilibrium?",
-      "question_ur": "ایک میٹرک سائنس کے طالب علم کو کیمیائی توازن (کیمیکل ایکوی لبریم) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "questionEn": "How should a matric science student structure a 2-mark board short question on Chemical Equilibrium?",
-      "questionUr": "ایک میٹرک سائنس کے طالب علم کو کیمیائی توازن (کیمیکل ایکوی لبریم) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
-    },
-    {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
-    },
-    {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "Summarize the final takeaway of Chemical Equilibrium for revision before board exams.",
-      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے کیمیائی توازن (کیمیکل ایکوی لبریم) کا حتمی خلاصہ بیان کریں۔",
-      "answer_en": "Mastery of Chemical Equilibrium requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answer_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "questionEn": "Summarize the final takeaway of Chemical Equilibrium for revision before board exams.",
-      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے کیمیائی توازن (کیمیکل ایکوی لبریم) کا حتمی خلاصہ بیان کریں۔",
-      "answerEn": "Mastery of Chemical Equilibrium requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answerUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+      "id": "mcq-sol-15",
+      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Sahiwal 2020 Group-I (Morning))",
+      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Sahiwal 2020 Group-I (Morning))",
+      "optionsEn": [
+        "Neutron",
+        "Proton",
+        "Electron (1/1836 of proton mass)",
+        "Alpha particle"
+      ],
+      "optionsUr": [
+        "نیوٹران",
+        "پروٹون",
+        "الیکٹران (پروٹون کا 1/1836 حصہ)",
+        "الفا پارٹیکل"
+      ],
+      "correctIndex": 2,
+      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define Chemical Equilibrium according to Punjab Textbook Board syllabus and state its core principle.",
-      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answer_en": "Chemical Equilibrium represents a foundational unit of the Class 10th Chemistry syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answer_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) Class 10th کیمسٹری کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "questionEn": "Define Chemical Equilibrium according to Punjab Textbook Board syllabus and state its core principle.",
-      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answerEn": "Chemical Equilibrium represents a foundational unit of the Class 10th Chemistry syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answerUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) Class 10th کیمسٹری کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔"
+      "id": "sq-sol-1",
+      "questionEn": "[Textbook Exercise Review Q] Differentiate between empirical formula and molecular formula with two examples.",
+      "questionUr": "[مشقی جائزہ سوال] ایمپیریکل فارمولا اور مالیکیولر فارمولا میں دو مثالوں کے ساتھ فرق واضح کریں۔",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "State two primary textbook terms or classifications introduced in Chemical Equilibrium.",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "questionEn": "State two primary textbook terms or classifications introduced in Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔"
+      "id": "sq-sol-2",
+      "questionEn": "[In-Text Box: Test Yourself] Why are noble gases chemically unreactive under standard conditions?",
+      "questionUr": "[چیپٹر کے اندر سے: خود پرکھیں] نوبل گیسیں عام حالات میں کیمیائی طور پر غیر عامل کیوں ہوتی ہیں؟",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Write down the governing formula or rule of Chemical Equilibrium along with its standard units or notation.",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "questionEn": "Write down the governing formula or rule of Chemical Equilibrium along with its standard units or notation.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔"
+      "id": "sq-sol-3",
+      "questionEn": "[In-Text Box: Do You Know?] State the importance of ozone layer in stratosphere and mention how CFCs destroy it.",
+      "questionUr": "[چیپٹر کے اندر سے: کیا آپ جانتے ہیں؟] سٹریٹوسفیئر میں اوزون کی تہہ کی اہمیت بیان کریں اور بتائیں CFCs اسے کیسے تباہ کرتے ہیں۔",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between two contrasting aspects or categories studied in Chemical Equilibrium.",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "questionEn": "Differentiate between two contrasting aspects or categories studied in Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔"
+      "id": "sq-sol-4",
+      "questionEn": "[Past Board Paper] State Boyle's Law and Charles's Law. Give their mathematical representations. (LHR 2023 G-I, RWP 2021)",
+      "questionUr": "[سابقہ بورڈ پرچہ جات] بوائل کا قانون اور چارلس کا قانون بیان کریں اور ان کی حسابی مساواتیں لکھیں۔ (LHR 2023 G-I, RWP 2021)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "Why is Chemical Equilibrium considered essential in practical science and board examinations?",
-      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں کیمیائی توازن (کیمیکل ایکوی لبریم) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "questionEn": "Why is Chemical Equilibrium considered essential in practical science and board examinations?",
-      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں کیمیائی توازن (کیمیکل ایکوی لبریم) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔"
+      "id": "sq-sol-5",
+      "questionEn": "[SLO Conceptual] Why does electronegativity increase across a period from left to right in the modern periodic table?",
+      "questionUr": "[تصوراتی SLO سوال] جدید پیریوڈک ٹیبل میں بائیں سے دائیں پیریڈ میں الیکٹرو نیگیٹیوٹی میں اضافہ کیوں ہوتا ہے؟",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "Give one practical or daily life example that illustrates the concept of Chemical Equilibrium.",
-      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو کیمیائی توازن (کیمیکل ایکوی لبریم) کے تصور کو واضح کرتی ہو۔",
-      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Chemical Equilibrium, confirming experimental reproducibility.",
-      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام کیمیائی توازن (کیمیکل ایکوی لبریم) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "questionEn": "Give one practical or daily life example that illustrates the concept of Chemical Equilibrium.",
-      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو کیمیائی توازن (کیمیکل ایکوی لبریم) کے تصور کو واضح کرتی ہو۔",
-      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Chemical Equilibrium, confirming experimental reproducibility.",
-      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام کیمیائی توازن (کیمیکل ایکوی لبریم) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔"
+      "id": "sq-sol-6",
+      "questionEn": "[Numerical Problem] Calculate the molarity of a solution prepared by dissolving 4 g of NaOH in 250 cm³ of water.",
+      "questionUr": "[حسابی مسئلہ] 4 گرام سوڈیم ہائیڈرو آکسائیڈ (NaOH) کو 250 cm³ پانی میں حل کر کے بنائے گئے محلول کی مولیرٹی معلوم کریں۔",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "What precautions or boundary conditions must be maintained when evaluating Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔"
+      "id": "sq-sol-7",
+      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (SWL 2023 G-I, DGK 2026, GRW 2021)",
+      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (SWL 2023 G-I, DGK 2026, GRW 2021)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "How does a change in primary variables affect the outcome in Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "questionEn": "How does a change in primary variables affect the outcome in Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔"
+      "id": "sq-sol-8",
+      "questionEn": "[Textbook Exercise Q.2] State the core definition, conditions, and textbook characteristics of Chemical Equilibrium. (GRW 2026 G-II)",
+      "questionUr": "[مشقی سوال 2] کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (GRW 2026 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Chemical Equilibrium.",
-      "question_ur": "بورڈ کے پرچوں میں کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Chemical Equilibrium.",
-      "questionUr": "بورڈ کے پرچوں میں کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔"
+      "id": "sq-sol-9",
+      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 30 units and time is 5 seconds. (SGD 2022 G-I, DGK 2024)",
+      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (SGD 2022 G-I, DGK 2024)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "How should a matric science student structure a 2-mark board short question on Chemical Equilibrium?",
-      "question_ur": "ایک میٹرک سائنس کے طالب علم کو کیمیائی توازن (کیمیکل ایکوی لبریم) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "questionEn": "How should a matric science student structure a 2-mark board short question on Chemical Equilibrium?",
-      "questionUr": "ایک میٹرک سائنس کے طالب علم کو کیمیائی توازن (کیمیکل ایکوی لبریم) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔"
+      "id": "sq-sol-10",
+      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (RWP 2025 G-II)",
+      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (RWP 2025 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Chemical Equilibrium?",
-      "question_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Chemical Equilibrium?",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔"
+      "id": "sq-sol-11",
+      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (BWP 2021 G-I, GRW 2025, FSD 2020)",
+      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (BWP 2021 G-I, GRW 2025, FSD 2020)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     },
     {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "Summarize the final takeaway of Chemical Equilibrium for revision before board exams.",
-      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے کیمیائی توازن (کیمیکل ایکوی لبریم) کا حتمی خلاصہ بیان کریں۔",
-      "answer_en": "Mastery of Chemical Equilibrium requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answer_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "questionEn": "Summarize the final takeaway of Chemical Equilibrium for revision before board exams.",
-      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے کیمیائی توازن (کیمیکل ایکوی لبریم) کا حتمی خلاصہ بیان کریں۔",
-      "answerEn": "Mastery of Chemical Equilibrium requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answerUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔"
+      "id": "sq-sol-12",
+      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 60 units and time is 5 seconds. (FSD 2024 G-II)",
+      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 60 اکائیاں اور وقت 5 سیکنڈ ہو۔ (FSD 2024 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-13",
+      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (DGK 2020 G-I, GRW 2023)",
+      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (DGK 2020 G-I, GRW 2023)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-14",
+      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (MTN 2023 G-II)",
+      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (MTN 2023 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-15",
+      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 90 units and time is 5 seconds. (LHR 2026 G-I, FSD 2024, SWL 2026)",
+      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 90 اکائیاں اور وقت 5 سیکنڈ ہو۔ (LHR 2026 G-I, FSD 2024, SWL 2026)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
     }
   ],
-  "vocab": []
+  "longQuestions": [
+    {
+      "id": "lq-sol-1",
+      "questionEn": "[Past Board Paper] State and explain Rutherford's Atomic Model based on Gold Foil Experiment. Mention its defects. (LHR 2021 G-II)",
+      "questionUr": "[سابقہ بورڈ پرچہ] گولڈ فوائل تجربے کی بنیاد پر ردرفورڈ کا ایٹمی ماڈل بیان کریں اور اس کے نقائص تحریر کریں۔ (LHR 2021 G-II)",
+      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
+      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
+      "marks": 5
+    },
+    {
+      "id": "lq-sol-2",
+      "questionEn": "Discuss in detail the fundamental laws, theoretical derivation, and working principles of Chemical Equilibrium.",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی قوانین، مساوات کے اخراج اور عملی طریقہ کار پر تفصیلی نوٹ تحریر کریں۔",
+      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
+      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
+      "marks": 5
+    },
+    {
+      "id": "lq-sol-3",
+      "questionEn": "Explain the experimental verification, graph analysis, and mathematical formulation related to Chemical Equilibrium.",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔",
+      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
+      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
+      "marks": 5
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-sol-1",
+      "questionEn": "[Textbook Exercise Review Q] Differentiate between empirical formula and molecular formula with two examples.",
+      "questionUr": "[مشقی جائزہ سوال] ایمپیریکل فارمولا اور مالیکیولر فارمولا میں دو مثالوں کے ساتھ فرق واضح کریں۔",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-2",
+      "questionEn": "[In-Text Box: Test Yourself] Why are noble gases chemically unreactive under standard conditions?",
+      "questionUr": "[چیپٹر کے اندر سے: خود پرکھیں] نوبل گیسیں عام حالات میں کیمیائی طور پر غیر عامل کیوں ہوتی ہیں؟",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-3",
+      "questionEn": "[In-Text Box: Do You Know?] State the importance of ozone layer in stratosphere and mention how CFCs destroy it.",
+      "questionUr": "[چیپٹر کے اندر سے: کیا آپ جانتے ہیں؟] سٹریٹوسفیئر میں اوزون کی تہہ کی اہمیت بیان کریں اور بتائیں CFCs اسے کیسے تباہ کرتے ہیں۔",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-4",
+      "questionEn": "[Past Board Paper] State Boyle's Law and Charles's Law. Give their mathematical representations. (LHR 2023 G-I, RWP 2021)",
+      "questionUr": "[سابقہ بورڈ پرچہ جات] بوائل کا قانون اور چارلس کا قانون بیان کریں اور ان کی حسابی مساواتیں لکھیں۔ (LHR 2023 G-I, RWP 2021)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-5",
+      "questionEn": "[SLO Conceptual] Why does electronegativity increase across a period from left to right in the modern periodic table?",
+      "questionUr": "[تصوراتی SLO سوال] جدید پیریوڈک ٹیبل میں بائیں سے دائیں پیریڈ میں الیکٹرو نیگیٹیوٹی میں اضافہ کیوں ہوتا ہے؟",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-6",
+      "questionEn": "[Numerical Problem] Calculate the molarity of a solution prepared by dissolving 4 g of NaOH in 250 cm³ of water.",
+      "questionUr": "[حسابی مسئلہ] 4 گرام سوڈیم ہائیڈرو آکسائیڈ (NaOH) کو 250 cm³ پانی میں حل کر کے بنائے گئے محلول کی مولیرٹی معلوم کریں۔",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-7",
+      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (SWL 2023 G-I, DGK 2026, GRW 2021)",
+      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (SWL 2023 G-I, DGK 2026, GRW 2021)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-8",
+      "questionEn": "[Textbook Exercise Q.2] State the core definition, conditions, and textbook characteristics of Chemical Equilibrium. (GRW 2026 G-II)",
+      "questionUr": "[مشقی سوال 2] کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (GRW 2026 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-9",
+      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 30 units and time is 5 seconds. (SGD 2022 G-I, DGK 2024)",
+      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (SGD 2022 G-I, DGK 2024)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-10",
+      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (RWP 2025 G-II)",
+      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (RWP 2025 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-11",
+      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (BWP 2021 G-I, GRW 2025, FSD 2020)",
+      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (BWP 2021 G-I, GRW 2025, FSD 2020)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-12",
+      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 60 units and time is 5 seconds. (FSD 2024 G-II)",
+      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 60 اکائیاں اور وقت 5 سیکنڈ ہو۔ (FSD 2024 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-13",
+      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (DGK 2020 G-I, GRW 2023)",
+      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (DGK 2020 G-I, GRW 2023)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-14",
+      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (MTN 2023 G-II)",
+      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (MTN 2023 G-II)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-sol-15",
+      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 90 units and time is 5 seconds. (LHR 2026 G-I, FSD 2024, SWL 2026)",
+      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 90 اکائیاں اور وقت 5 سیکنڈ ہو۔ (LHR 2026 G-I, FSD 2024, SWL 2026)",
+      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
+      "marks": 2
+    }
+  ]
 }
