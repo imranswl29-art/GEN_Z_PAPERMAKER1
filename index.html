@@ -80,6 +80,27 @@
         image-rendering: -webkit-optimize-contrast !important;
       }
 
+      /* School / Portal Monogram: Pure Black Stroke/Fill & High Contrast */
+      .school-monogram-container {
+        border-color: #000000 !important;
+      }
+      .paper-monogram-seal {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 1.5pt solid #000000 !important;
+      }
+      .school-monogram-container svg,
+      .school-monogram-box svg,
+      .paper-monogram-seal svg {
+        color: #000000 !important;
+        stroke: #000000 !important;
+        fill: #000000 !important;
+      }
+      .paper-monogram-seal span {
+        color: #000000 !important;
+        font-weight: 900 !important;
+      }
+
       /* OMR Bubble Sheet Typography & Circle Alignment: Perfectly centered */
       .omr-bubble,
       .bubble-circle {
@@ -107,12 +128,19 @@
         padding: 0 !important;
       }
 
-      /* Printable Paper Sets: Laser-printer friendly high-contrast monochrome badge */
+      /* Printable Paper Sets: Pure Black Extra Bold Badge in Solid Crisp Black Border */
+      .paper-set-box,
       .paper-set-badge,
       .print-set-badge {
         background-color: #ffffff !important;
         color: #000000 !important;
         border: 2px solid #000000 !important;
+      }
+      .paper-set-box span,
+      .paper-set-badge span,
+      .print-set-badge span {
+        color: #000000 !important;
+        font-weight: 900 !important;
       }
 
       @media print {
@@ -161,6 +189,38 @@
           -webkit-print-color-adjust: exact !important;
           print-color-adjust: exact !important;
           object-fit: contain !important;
+        }
+        .school-monogram-container {
+          border-color: #000000 !important;
+        }
+        .paper-monogram-seal {
+          border: 1.5pt solid #000000 !important;
+          background-color: #ffffff !important;
+          color: #000000 !important;
+        }
+        .school-monogram-container svg,
+        .school-monogram-box svg,
+        .paper-monogram-seal svg {
+          color: #000000 !important;
+          stroke: #000000 !important;
+          fill: #000000 !important;
+        }
+        .paper-monogram-seal span {
+          color: #000000 !important;
+          font-weight: 900 !important;
+        }
+        .paper-set-box,
+        .paper-set-badge,
+        .print-set-badge {
+          background-color: #ffffff !important;
+          color: #000000 !important;
+          border: 2pt solid #000000 !important;
+        }
+        .paper-set-box span,
+        .paper-set-badge span,
+        .print-set-badge span {
+          color: #000000 !important;
+          font-weight: 900 !important;
         }
         .omr-bubble,
         .bubble-circle {
