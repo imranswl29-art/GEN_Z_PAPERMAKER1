@@ -4399,78 +4399,78 @@ _Official PTBB Examination System_`;window.open(`https://api.whatsapp.com/send?t
     ]}),
     l.jsxs("div",{className:"grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-2.5 pb-1",children:[
       /* Hub 1: Paper Sections */
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(activeHubTab==="sections"?"":"sections"),className:"relative flex flex-col justify-between p-3 rounded-2xl text-left transition-all cursor-pointer " + (activeHubTab==="sections"?"bg-gradient-to-br from-blue-700 via-blue-800 to-indigo-900 text-white shadow-lg border-2 border-blue-400 translate-y-0.5":"bg-white text-slate-800 border-2 border-blue-200 hover:border-blue-400 shadow-sm hover:shadow"),style:{boxShadow:activeHubTab==="sections"?"0 2px 0 #1e3a8a, 0 8px 16px rgba(30,58,138,0.35)":"0 3.5px 0 #93c5fd, 0 4px 6px rgba(0,0,0,0.04)"},children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(activeHubTab==="sections"?"":"sections"),className:"hub-master-card " + (activeHubTab==="sections"?"hub-master-card-active-blue":""),children:[
         l.jsxs("div",{className:"flex items-center justify-between w-full mb-1",children:[
           l.jsx("span",{className:"text-lg",children:"📑"}),
-          l.jsx("span",{className:"text-[9px] font-black px-2 py-0.5 rounded-full uppercase tracking-wider " + (activeHubTab==="sections"?"bg-blue-950 text-blue-200 border border-blue-800":"bg-blue-100 text-blue-900 border border-blue-200"),children:o==="all"?"All":o==="objective"?"MCQs":o==="subjective"?"Subj":o==="key"?"Key":"OMR"})
+          l.jsx("span",{className:"hub-card-badge " + (activeHubTab==="sections"?"hub-card-badge-active":"hub-card-badge-inactive"),children:o==="all"?"All":o==="objective"?"MCQs":o==="subjective"?"Subj":o==="key"?"Key":"OMR"})
         ]}),
-        l.jsx("div",{className:"font-black text-xs sm:text-[13px] leading-tight",children:"Paper Sections"}),
-        l.jsx("div",{className:"text-[10px] font-semibold mt-0.5 " + (activeHubTab==="sections"?"text-blue-200":"text-slate-500"),children:"5 View Modes ▾"})
+        l.jsx("div",{className:"hub-card-title",children:"Paper Sections"}),
+        l.jsx("div",{className:"hub-card-subtitle " + (activeHubTab==="sections"?"hub-card-subtitle-active":"hub-card-subtitle-inactive"),children:"5 View Modes ▾"})
       ]}),
 
       /* Hub 2: Format & Sets */
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(["medium","sets","layout"].includes(activeHubTab)?"":"medium"),className:"relative flex flex-col justify-between p-3 rounded-2xl text-left transition-all cursor-pointer " + (["medium","sets","layout"].includes(activeHubTab)?"bg-gradient-to-br from-amber-600 via-amber-700 to-orange-800 text-white shadow-lg border-2 border-amber-400 translate-y-0.5":"bg-white text-slate-800 border-2 border-amber-200 hover:border-amber-400 shadow-sm hover:shadow"),style:{boxShadow:["medium","sets","layout"].includes(activeHubTab)?"0 2px 0 #78350f, 0 8px 16px rgba(120,53,15,0.35)":"0 3.5px 0 #fcd34d, 0 4px 6px rgba(0,0,0,0.04)"},children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(["medium","sets","layout"].includes(activeHubTab)?"":"medium"),className:"hub-master-card " + (["medium","sets","layout"].includes(activeHubTab)?"hub-master-card-active-amber":""),children:[
         l.jsxs("div",{className:"flex items-center justify-between w-full mb-1",children:[
           l.jsx("span",{className:"text-lg",children:"⚙️"}),
-          l.jsx("span",{className:"text-[9px] font-black px-2 py-0.5 rounded-full uppercase tracking-wider " + (["medium","sets","layout"].includes(activeHubTab)?"bg-amber-950 text-amber-200 border border-amber-800":"bg-amber-100 text-amber-900 border border-amber-200"),children:"Set " + (n.header.paperSet||"A")})
+          l.jsx("span",{className:"hub-card-badge " + (["medium","sets","layout"].includes(activeHubTab)?"hub-card-badge-active":"hub-card-badge-inactive"),children:"Set " + (n.header.paperSet||"A")})
         ]}),
-        l.jsx("div",{className:"font-black text-xs sm:text-[13px] leading-tight",children:"Format & Sets"}),
-        l.jsx("div",{className:"text-[10px] font-semibold mt-0.5 " + (["medium","sets","layout"].includes(activeHubTab)?"text-amber-200":"text-slate-500"),children:(D==="bilingual"?"Bilingual":D==="english"?"English":"Urdu") + " ▾"})
+        l.jsx("div",{className:"hub-card-title",children:"Format & Sets"}),
+        l.jsx("div",{className:"hub-card-subtitle " + (["medium","sets","layout"].includes(activeHubTab)?"hub-card-subtitle-active":"hub-card-subtitle-inactive"),children:(D==="bilingual"?"Bilingual":D==="english"?"English":"Urdu") + " ▾"})
       ]}),
 
       /* Hub 3: Branding & Tools */
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(["bubble","branding","editor"].includes(activeHubTab)?"":"bubble"),className:"relative flex flex-col justify-between p-3 rounded-2xl text-left transition-all cursor-pointer " + (["bubble","branding","editor"].includes(activeHubTab)?"bg-gradient-to-br from-emerald-600 via-teal-700 to-emerald-900 text-white shadow-lg border-2 border-emerald-400 translate-y-0.5":"bg-white text-slate-800 border-2 border-emerald-200 hover:border-emerald-400 shadow-sm hover:shadow"),style:{boxShadow:["bubble","branding","editor"].includes(activeHubTab)?"0 2px 0 #064e3b, 0 8px 16px rgba(6,78,59,0.35)":"0 3.5px 0 #6ee7b7, 0 4px 6px rgba(0,0,0,0.04)"},children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(["bubble","branding","editor"].includes(activeHubTab)?"":"bubble"),className:"hub-master-card " + (["bubble","branding","editor"].includes(activeHubTab)?"hub-master-card-active-emerald":""),children:[
         l.jsxs("div",{className:"flex items-center justify-between w-full mb-1",children:[
           l.jsx("span",{className:"text-lg",children:"🛡️"}),
-          l.jsx("span",{className:"text-[9px] font-black px-2 py-0.5 rounded-full uppercase tracking-wider " + (["bubble","branding","editor"].includes(activeHubTab)?"bg-emerald-950 text-emerald-200 border border-emerald-800":"bg-emerald-100 text-emerald-900 border border-emerald-200"),children:n.header.showWatermark?"Logo ON":"Logo OFF"})
+          l.jsx("span",{className:"hub-card-badge " + (["bubble","branding","editor"].includes(activeHubTab)?"hub-card-badge-active":"hub-card-badge-inactive"),children:n.header.showWatermark?"Logo ON":"Logo OFF"})
         ]}),
-        l.jsx("div",{className:"font-black text-xs sm:text-[13px] leading-tight",children:"Branding & Tools"}),
-        l.jsx("div",{className:"text-[10px] font-semibold mt-0.5 " + (["bubble","branding","editor"].includes(activeHubTab)?"text-emerald-200":"text-slate-500"),children:"Watermark, OMR, Edit ▾"})
+        l.jsx("div",{className:"hub-card-title",children:"Branding & Tools"}),
+        l.jsx("div",{className:"hub-card-subtitle " + (["bubble","branding","editor"].includes(activeHubTab)?"hub-card-subtitle-active":"hub-card-subtitle-inactive"),children:"Watermark, OMR, Edit ▾"})
       ]}),
 
       /* Hub 4: Export & Share */
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(["downloads","share"].includes(activeHubTab)?"":"downloads"),className:"relative flex flex-col justify-between p-3 rounded-2xl text-left transition-all cursor-pointer " + (["downloads","share"].includes(activeHubTab)?"bg-gradient-to-br from-rose-600 via-pink-700 to-purple-900 text-white shadow-lg border-2 border-rose-400 translate-y-0.5":"bg-white text-slate-800 border-2 border-rose-200 hover:border-rose-400 shadow-sm hover:shadow"),style:{boxShadow:["downloads","share"].includes(activeHubTab)?"0 2px 0 #881337, 0 8px 16px rgba(136,19,55,0.35)":"0 3.5px 0 #fda4af, 0 4px 6px rgba(0,0,0,0.04)"},children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab(["downloads","share"].includes(activeHubTab)?"":"downloads"),className:"hub-master-card " + (["downloads","share"].includes(activeHubTab)?"hub-master-card-active-rose":""),children:[
         l.jsxs("div",{className:"flex items-center justify-between w-full mb-1",children:[
           l.jsx("span",{className:"text-lg",children:"🚀"}),
-          l.jsx("span",{className:"text-[9px] font-black px-2 py-0.5 rounded-full uppercase tracking-wider " + (["downloads","share"].includes(activeHubTab)?"bg-rose-950 text-rose-200 border border-rose-800":"bg-rose-100 text-rose-900 border border-rose-200"),children:"Export"})
+          l.jsx("span",{className:"hub-card-badge " + (["downloads","share"].includes(activeHubTab)?"hub-card-badge-active":"hub-card-badge-inactive"),children:"Export"})
         ]}),
-        l.jsx("div",{className:"font-black text-xs sm:text-[13px] leading-tight",children:"Export & Share"}),
-        l.jsx("div",{className:"text-[10px] font-semibold mt-0.5 " + (["downloads","share"].includes(activeHubTab)?"text-rose-200":"text-slate-500"),children:"PDF, Word, WhatsApp ▾"})
+        l.jsx("div",{className:"hub-card-title",children:"Export & Share"}),
+        l.jsx("div",{className:"hub-card-subtitle " + (["downloads","share"].includes(activeHubTab)?"hub-card-subtitle-active":"hub-card-subtitle-inactive"),children:"PDF, Word, WhatsApp ▾"})
       ]})
     ]}),
 
     /* Quick Sub-Tab Switcher for Category 2: Format & Sets */
-    ["medium","sets","layout"].includes(activeHubTab)&&l.jsxs("div",{className:"flex items-center gap-1.5 p-1 bg-amber-50 rounded-xl border border-amber-200",children:[
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("medium"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="medium"?"bg-amber-600 text-white shadow":"text-amber-900 hover:bg-amber-100"),children:[
+    ["medium","sets","layout"].includes(activeHubTab)&&l.jsxs("div",{className:"hub-subtab-container",children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("medium"),className:"hub-subtab-btn " + (activeHubTab==="medium"?"hub-subtab-btn-active-amber":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"🌐 Language & Medium"})
       ]}),
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("sets"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="sets"?"bg-amber-600 text-white shadow":"text-amber-900 hover:bg-amber-100"),children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("sets"),className:"hub-subtab-btn " + (activeHubTab==="sets"?"hub-subtab-btn-active-amber":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"🎲 Paper Sets & Shuffle"})
       ]}),
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("layout"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="layout"?"bg-amber-600 text-white shadow":"text-amber-900 hover:bg-amber-100"),children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("layout"),className:"hub-subtab-btn " + (activeHubTab==="layout"?"hub-subtab-btn-active-amber":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"📐 Page & Layout"})
       ]})
     ]}),
 
     /* Quick Sub-Tab Switcher for Category 3: Branding & Tools */
-    ["bubble","branding","editor"].includes(activeHubTab)&&l.jsxs("div",{className:"flex items-center gap-1.5 p-1 bg-emerald-50 rounded-xl border border-emerald-200",children:[
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("bubble"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="bubble"?"bg-emerald-700 text-white shadow":"text-emerald-900 hover:bg-emerald-100"),children:[
+    ["bubble","branding","editor"].includes(activeHubTab)&&l.jsxs("div",{className:"hub-subtab-container",children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("bubble"),className:"hub-subtab-btn " + (activeHubTab==="bubble"?"hub-subtab-btn-active-emerald":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"⭕ OMR Bubble Sheet"})
       ]}),
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("branding"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="branding"?"bg-emerald-700 text-white shadow":"text-emerald-900 hover:bg-emerald-100"),children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("branding"),className:"hub-subtab-btn " + (activeHubTab==="branding"?"hub-subtab-btn-active-emerald":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"🛡️ Branding & Logo"})
       ]}),
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("editor"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="editor"?"bg-emerald-700 text-white shadow":"text-emerald-900 hover:bg-emerald-100"),children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("editor"),className:"hub-subtab-btn " + (activeHubTab==="editor"?"hub-subtab-btn-active-emerald":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"✏️ Edit Questions"})
       ]})
     ]}),
 
     /* Quick Sub-Tab Switcher for Category 4: Export & Share */
-    ["downloads","share"].includes(activeHubTab)&&l.jsxs("div",{className:"flex items-center gap-1.5 p-1 bg-rose-50 rounded-xl border border-rose-200",children:[
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("downloads"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="downloads"?"bg-rose-700 text-white shadow":"text-rose-900 hover:bg-rose-100"),children:[
+    ["downloads","share"].includes(activeHubTab)&&l.jsxs("div",{className:"hub-subtab-container",children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("downloads"),className:"hub-subtab-btn " + (activeHubTab==="downloads"?"hub-subtab-btn-active-rose":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"📥 Downloads & Export"})
       ]}),
-      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("share"),className:"flex-1 py-1.5 px-2 text-center text-xs font-black rounded-lg transition-all " + (activeHubTab==="share"?"bg-rose-700 text-white shadow":"text-rose-900 hover:bg-rose-100"),children:[
+      l.jsxs("button",{type:"button",onClick:()=>setActiveHubTab("share"),className:"hub-subtab-btn " + (activeHubTab==="share"?"hub-subtab-btn-active-rose":"hub-subtab-btn-inactive"),children:[
         l.jsx("span",{children:"📢 Share & Distribute"})
       ]})
     ]})
