@@ -240,30 +240,92 @@
           font-weight: 900 !important;
           line-height: 1 !important;
         }
+        /* Strictly hide all interactive chrome, buttons, navigation, headers, forms, toolbars, drawers, notifications, and menus */
         .no-print,
         button,
         .btn,
+        .btn-3d,
+        .btn-print-preview,
         .action-buttons,
         nav,
-        header {
+        header,
+        .main-header-bar,
+        footer,
+        aside,
+        .segmented-control,
+        .dropdown-menu-panel,
+        details,
+        summary,
+        input,
+        select,
+        textarea,
+        .fixed,
+        .sticky,
+        .hub-master-card,
+        .ticker-track,
+        .seamless-ticker-track,
+        [role="button"],
+        .toast-notification,
+        .breadcrumbs-bar,
+        .paper-settings-drawer,
+        .control-hub-container,
+        .floating-action-btn,
+        .hub-subtab-btn {
           display: none !important;
+          visibility: hidden !important;
+          height: 0 !important;
+          width: 0 !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          border: none !important;
+          opacity: 0 !important;
         }
+
+        /* Hide all outer card boxes that are NOT the document being printed */
+        .card-3d:not(#exam-paper-container):not(#exam-paper-objective-sheet):not(#exam-paper-subjective-sheet):not(#datesheet-print-container):not(#resultcard-print-container):not(#mastersheet-print-container):not(#answer-key-print-content):not(#bubble-sheet-print-container) {
+          display: none !important;
+          visibility: hidden !important;
+          height: 0 !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          border: none !important;
+        }
+
         body {
           background: #ffffff !important;
           color: #000000 !important;
           margin: 0 !important;
           padding: 0 !important;
+          -webkit-print-color-adjust: exact !important;
+          print-color-adjust: exact !important;
         }
+
+        /* Strictly Isolate & Focus ONLY on Printable Document Content: Zero clutter, zero cutting, zero overlapping */
         #printable-content,
         #exam-paper-container,
+        #exam-paper-objective-sheet,
+        #exam-paper-subjective-sheet,
+        #datesheet-print-container,
+        #resultcard-print-container,
+        #mastersheet-print-container,
+        #answer-key-print-content,
+        #bubble-sheet-print-container,
         .exam-paper {
+          display: block !important;
+          visibility: visible !important;
           width: 100% !important;
+          max-width: 100% !important;
+          min-width: 100% !important;
           margin: 0 auto !important;
           padding: 0 !important;
           box-shadow: none !important;
+          border: none !important;
           background-color: #ffffff !important;
           color: #000000 !important;
+          position: static !important;
+          overflow: visible !important;
         }
+
         /* Black & white laser printer optimization */
         .exam-paper table,
         .exam-paper th,
@@ -274,7 +336,16 @@
         .marksheet-table td,
         .date-sheet-table,
         .date-sheet-table th,
-        .date-sheet-table td {
+        .date-sheet-table td,
+        #datesheet-print-container table,
+        #datesheet-print-container th,
+        #datesheet-print-container td,
+        #resultcard-print-container table,
+        #resultcard-print-container th,
+        #resultcard-print-container td,
+        #mastersheet-print-container table,
+        #mastersheet-print-container th,
+        #mastersheet-print-container td {
           border-color: #000000 !important;
         }
         /* Ensure OMR bubbles are mathematically centered in print */

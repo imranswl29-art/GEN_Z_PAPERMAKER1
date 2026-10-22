@@ -1,5 +1,523 @@
 [
   {
+    "id": "paper-1792694247732",
+    "createdAt": "2026-10-22T18:37:27.732Z",
+    "languageMode": "bilingual",
+    "difficulty": "standard",
+    "header": {
+      "instituteName": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "campusName": "Main Campus, Lahore",
+      "examTitle": "Evaluation Examination 2026",
+      "classLevel": "9th",
+      "subjectName": "Physics",
+      "syllabusCovered": "Unit 1: Physical Quantities and Measurement",
+      "dateStr": "22/10/2026",
+      "timeAllowed": "2 Hours",
+      "totalMarks": 60,
+      "teacherName": "",
+      "showWatermark": true,
+      "watermarkText": "PUNJAB GROUP OF SCIENCE ACADEMIES",
+      "logoType": "crest",
+      "boardPattern": "Punjab Textbook Board (PTBB / BISE Pattern)",
+      "studentFields": {
+        "showRollNo": true,
+        "showName": true,
+        "showSection": true,
+        "showObtainedMarks": true
+      }
+    },
+    "objectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - A (OBJECTIVE TYPE)",
+      "titleUr": "حصہ اول (معروضی طرز)",
+      "totalMarks": 12,
+      "timeAllowed": "15 Minutes",
+      "instructionsEn": "Note: Four possible answers A, B, C and D to each question are given. Fill the correct bubble.",
+      "instructionsUr": "نوٹ: ہر سوال کے چار ممکنہ جوابات دیے گئے ہیں۔ درست جواب کے دائرے کو مارکر سے بھریں۔",
+      "questions": [
+        {
+          "id": "mcq-ai-1",
+          "qNo": 1,
+          "statementEn": "The branch of physics that deals with the study of motion of objects is:",
+          "statementUr": "طبیعیات کی وہ شاخ جو اجسام کی حرکت کے مطالعہ سے متعلق ہے، کہلاتی ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Mechanics",
+              "textUr": "مکینکس"
+            },
+            {
+              "key": "B",
+              "textEn": "Heat",
+              "textUr": "حرارت"
+            },
+            {
+              "key": "C",
+              "textEn": "Optics",
+              "textUr": "نوریات"
+            },
+            {
+              "key": "D",
+              "textEn": "Nuclear Physics",
+              "textUr": "نیوکلیائی طبیعیات"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-2",
+          "qNo": 2,
+          "statementEn": "SI unit of intensity of light is:",
+          "statementUr": "روشنی کی شدت (Intensity of light) کا SI یونٹ ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Mole",
+              "textUr": "مول"
+            },
+            {
+              "key": "B",
+              "textEn": "Candela",
+              "textUr": "کینڈیلہ"
+            },
+            {
+              "key": "C",
+              "textEn": "Ampere",
+              "textUr": "ایمپئیر"
+            },
+            {
+              "key": "D",
+              "textEn": "Kelvin",
+              "textUr": "کیلون"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-3",
+          "qNo": 3,
+          "statementEn": "The prefix 'pico' stands for:",
+          "statementUr": "پریفکس 'پیکو' (pico) کی قدر ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10^-9",
+              "textUr": "10^-9"
+            },
+            {
+              "key": "B",
+              "textEn": "10^-12",
+              "textUr": "10^-12"
+            },
+            {
+              "key": "C",
+              "textEn": "10^-15",
+              "textUr": "10^-15"
+            },
+            {
+              "key": "D",
+              "textEn": "10^12",
+              "textUr": "10^12"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-4",
+          "qNo": 4,
+          "statementEn": "How many millimeters are in 1 cm?",
+          "statementUr": "ایک سینٹی میٹر میں کتنے ملی میٹر ہوتے ہیں؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "1",
+              "textUr": "1"
+            },
+            {
+              "key": "B",
+              "textEn": "10",
+              "textUr": "10"
+            },
+            {
+              "key": "C",
+              "textEn": "100",
+              "textUr": "100"
+            },
+            {
+              "key": "D",
+              "textEn": "0.1",
+              "textUr": "0.1"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-5",
+          "qNo": 5,
+          "statementEn": "The least count of vernier callipers is:",
+          "statementUr": "ورنیئر کیلیپرز کا لیسٹ کاؤنٹ کتنا ہوتا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "0.1 mm",
+              "textUr": "0.1 ملی میٹر"
+            },
+            {
+              "key": "B",
+              "textEn": "0.01 mm",
+              "textUr": "0.01 ملی میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "0.1 cm",
+              "textUr": "0.1 سینٹی میٹر"
+            },
+            {
+              "key": "D",
+              "textEn": "0.01 cm",
+              "textUr": "0.01 سینٹی میٹر"
+            }
+          ],
+          "correctOption": "D",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-6",
+          "qNo": 6,
+          "statementEn": "Which one of the following is a base quantity?",
+          "statementUr": "مندرجہ ذیل میں سے کون سی بنیادی مقدار ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Speed",
+              "textUr": "سپیڈ"
+            },
+            {
+              "key": "B",
+              "textEn": "Force",
+              "textUr": "قوت"
+            },
+            {
+              "key": "C",
+              "textEn": "Mass",
+              "textUr": "ماس"
+            },
+            {
+              "key": "D",
+              "textEn": "Density",
+              "textUr": "کثافت"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-7",
+          "qNo": 7,
+          "statementEn": "The scientific notation of 0.00045 is:",
+          "statementUr": "0.00045 کی سائنسی نوٹیشن ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "4.5 x 10^-4",
+              "textUr": "4.5 x 10^-4"
+            },
+            {
+              "key": "B",
+              "textEn": "4.5 x 10^4",
+              "textUr": "4.5 x 10^4"
+            },
+            {
+              "key": "C",
+              "textEn": "45 x 10^-5",
+              "textUr": "45 x 10^-5"
+            },
+            {
+              "key": "D",
+              "textEn": "0.45 x 10^-3",
+              "textUr": "0.45 x 10^-3"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-8",
+          "qNo": 8,
+          "statementEn": "The zero error of a measuring instrument is a type of:",
+          "statementUr": "پیمائش کرنے والے آلے میں زیرو ایرر کس قسم کی غلطی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Systematic error",
+              "textUr": "سسٹمیٹک ایرر"
+            },
+            {
+              "key": "B",
+              "textEn": "Random error",
+              "textUr": "رینڈم ایرر"
+            },
+            {
+              "key": "C",
+              "textEn": "Human error",
+              "textUr": "انسانی غلطی"
+            },
+            {
+              "key": "D",
+              "textEn": "Instrument fault",
+              "textUr": "آلے کا نقص"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-9",
+          "qNo": 9,
+          "statementEn": "One femto is equal to:",
+          "statementUr": "ایک فیمٹو (femto) برابر ہے:",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "10^-15",
+              "textUr": "10^-15"
+            },
+            {
+              "key": "B",
+              "textEn": "10^15",
+              "textUr": "10^15"
+            },
+            {
+              "key": "C",
+              "textEn": "10^-12",
+              "textUr": "10^-12"
+            },
+            {
+              "key": "D",
+              "textEn": "10^18",
+              "textUr": "10^18"
+            }
+          ],
+          "correctOption": "A",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-10",
+          "qNo": 10,
+          "statementEn": "The number of significant figures in 0.00580 is:",
+          "statementUr": "0.00580 میں نمایاں ہندسوں (significant figures) کی تعداد کتنی ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "2",
+              "textUr": "2"
+            },
+            {
+              "key": "B",
+              "textEn": "3",
+              "textUr": "3"
+            },
+            {
+              "key": "C",
+              "textEn": "4",
+              "textUr": "4"
+            },
+            {
+              "key": "D",
+              "textEn": "5",
+              "textUr": "5"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-11",
+          "qNo": 11,
+          "statementEn": "Screw gauge is used to measure:",
+          "statementUr": "سکرو گیج کس کی پیمائش کے لیے استعمال ہوتا ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Length",
+              "textUr": "لمبائی"
+            },
+            {
+              "key": "B",
+              "textEn": "Small diameters",
+              "textUr": "چھوٹے قطر"
+            },
+            {
+              "key": "C",
+              "textEn": "Mass",
+              "textUr": "ماس"
+            },
+            {
+              "key": "D",
+              "textEn": "Time",
+              "textUr": "وقت"
+            }
+          ],
+          "correctOption": "B",
+          "explanationEn": "",
+          "explanationUr": ""
+        },
+        {
+          "id": "mcq-ai-12",
+          "qNo": 12,
+          "statementEn": "Which is a derived unit?",
+          "statementUr": "مندرجہ ذیل میں سے کون سا اخذ شدہ یونٹ ہے؟",
+          "options": [
+            {
+              "key": "A",
+              "textEn": "Kilogram",
+              "textUr": "کلوگرام"
+            },
+            {
+              "key": "B",
+              "textEn": "Meter",
+              "textUr": "میٹر"
+            },
+            {
+              "key": "C",
+              "textEn": "Newton",
+              "textUr": "نیوٹن"
+            },
+            {
+              "key": "D",
+              "textEn": "Second",
+              "textUr": "سیکنڈ"
+            }
+          ],
+          "correctOption": "C",
+          "explanationEn": "",
+          "explanationUr": ""
+        }
+      ]
+    },
+    "subjectiveSection": {
+      "enabled": true,
+      "titleEn": "SECTION - B & C (SUBJECTIVE TYPE)",
+      "titleUr": "حصہ دوم و سوم (انشائیہ طرز)",
+      "totalMarks": 48,
+      "timeAllowed": "2 Hours",
+      "part1_shortQuestions": [
+        {
+          "id": "sq-grp-2",
+          "qNo": 2,
+          "instructionEn": "Attempt any 5 of the following",
+          "instructionUr": "درج ذیل میں سے کوئی سے 5 سوالات کے جوابات دیں",
+          "attemptCount": 5,
+          "totalCount": 6,
+          "marksEach": 2,
+          "questions": [
+            {
+              "id": "p9-1-s1",
+              "statementEn": "Differentiate between base quantities and derived quantities with two examples.",
+              "statementUr": "بنیادی اور ماخوذ مقداروں میں فرق واضح کریں اور ہر ایک کی دو مثالیں دیں۔",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Textbook Exercises",
+              "subNo": 1
+            },
+            {
+              "id": "9th-physics-c1-sq-1",
+              "subNo": 2,
+              "statementEn": "[Textbook Exercise Review Q] Define Physical Quantities and Measurement. State its mathematical formula and SI unit.",
+              "statementUr": "[مشقی جائزہ سوال] طبیعی مقداریں اور پیمائش کی تعریف تحریر کریں اور اس کا حسابی فارمولا اور ایس آئی یونٹ لکھیں۔",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Textbook Exercises",
+              "pastBoardInfo": "SWL 2023 G-II"
+            },
+            {
+              "id": "9th-physics-c1-sq-3",
+              "subNo": 3,
+              "statementEn": "[In-Text Box: Point to Ponder] Can a body moving with constant speed have an acceleration? Explain with an example.",
+              "statementUr": "[چیپٹر کے اندر سے: سوچنے کی بات] کیا مستقل سپیڈ سے حرکت کرتے ہوئے جسم میں ایکسلریشن ہو سکتا ہے؟ مثال سے وضاحت کریں۔",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "In-Text & Box Questions",
+              "pastBoardInfo": "RWP 2021 G-II"
+            },
+            {
+              "id": "9th-physics-c1-sq-6",
+              "subNo": 4,
+              "statementEn": "[Past Board Paper] State Newton's Second Law of Motion and derive the equation F = ma. (RWP 2025 G-I, SWL 2020, BWP 2022)",
+              "statementUr": "[سابقہ بورڈ پرچہ جات] نیوٹن کا موشن کا دوسرا قانون بیان کریں اور مساوات F = ma اخذ کریں۔ (RWP 2025 G-I, SWL 2020, BWP 2022)",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "Past Board Papers",
+              "pastBoardInfo": "RWP 2025 G-I, SWL 2020, BWP 2022"
+            },
+            {
+              "id": "9th-physics-c1-sq-8",
+              "subNo": 5,
+              "statementEn": "[SLO Conceptual] How does rolling friction differ from sliding friction, and why is rolling friction ten times smaller?",
+              "statementUr": "[تصوراتی SLO سوال] رولنگ فرکشن اور سلائیڈنگ فرکشن میں کیا فرق ہے اور رولنگ فرکشن دس گنا کم کیوں ہوتی ہے؟",
+              "marks": 2,
+              "chapterRef": 1,
+              "category": "SLO Conceptual",
+              "pastBoardInfo": "DGK 2023 G-I, GRW 2021"
+            },
+            {
+              "id": "sq-2-7",
+              "subNo": 6,
+              "statementEn": "What is Vernier constant?",
+              "statementUr": "ورنیئر کانسٹنٹ (Vernier constant) کیا ہے؟",
+              "marks": 2
+            }
+          ]
+        }
+      ],
+      "part2_longQuestions": {
+        "instructionEn": "Attempt any 2 of the following",
+        "instructionUr": "درج ذیل میں سے کوئی سے 2 سوالات کے جوابات دیں",
+        "attemptCount": 2,
+        "totalCount": 1,
+        "questions": [
+          {
+            "id": "p9-1-l1",
+            "totalMarks": 9,
+            "parts": [
+              {
+                "partLabel": "a",
+                "statementEn": "Describe working of Vernier Calipers with neat diagram.",
+                "statementUr": "ورنیئر کیلیپرز کا طریقہ کار مع ڈایاگرام بیان کریں۔",
+                "marks": 5
+              },
+              {
+                "partLabel": "b",
+                "statementEn": "Calculate the volume of a sphere of radius 2.25 cm with correct significant figures.",
+                "statementUr": "2.25 سینٹی میٹر رداس کے کرے کا والیم درست اہم ہندسوں میں معلوم کریں۔",
+                "marks": 4
+              }
+            ],
+            "chapterRef": "Unit 1",
+            "category": "Past Board Papers",
+            "qNo": 5
+          }
+        ]
+      }
+    },
+    "userId": "user-admin-01",
+    "createdByUserId": "user-admin-01"
+  },
+  {
     "id": "paper-1792056488675",
     "createdAt": "2026-10-15T09:28:08.675Z",
     "languageMode": "bilingual",
