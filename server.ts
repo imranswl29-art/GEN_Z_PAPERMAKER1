@@ -367,8 +367,9 @@ Your solemn mission is to formulate an authoritative, academically rigorous, and
 ${customPromptInstructions ? `Instructor Guidelines: ${customPromptInstructions}` : ""}
 
 RIGOROUS PUNJAB BOARD EXAMINATION STANDARDS:
-1. STRICT CURRICULUM INTEGRITY & NO FLUFF:
+1. STRICT CURRICULUM INTEGRITY & DIRECT QUESTION PHRASING:
    - Every single question must be authentic to the official PTBB textbook for ${classLevel} ${subjectName}.
+   - MANDATORY DIRECT QUESTION RULE: Do NOT include any references to boards, past papers, or textbooks inside question statements (e.g. strictly NO '[Past Board Paper]', NO '[Textbook Exercise]', NO '(BISE Lahore)', NO 'According to PTBB...'). Provide pure, clean, direct questions (سیدھا سیدھا سوال) exactly as printed on the final Board examination paper.
    - Never generate out-of-syllabus questions, vague general knowledge, or filler text.
 2. ZERO QUESTION DUPLICATION (100% DISTINCT QUESTIONS):
    - Every MCQ, Short Question, and Long Question must test a completely unique concept or learning outcome.
