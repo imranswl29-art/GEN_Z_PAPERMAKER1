@@ -1,6 +1,7 @@
 {
-  "class": "class10",
-  "subject": "chemistry",
+  "class": "Class 10th",
+  "group": "Science Group",
+  "subject": "Chemistry",
   "chapter_no": 1,
   "chapterNo": 1,
   "chapter_title": {
@@ -9,805 +10,1048 @@
   },
   "titleEn": "Chemical Equilibrium",
   "titleUr": "کیمیائی توازن (کیمیکل ایکوی لبریم)",
-  "summaryEn": "Comprehensive PTBB board revision notes for Unit 1 covering key concepts, fundamental laws, and standardized solved board exercises.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق یونٹ 1 کے جامع حل شدہ نوٹس، اہم تعریفات اور امتحانی مشقی سوالات۔",
-  "comprehensive_topics": [
+  "summaryEn": "Authoritative PTBB board revision notes for Chemical Equilibrium. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
+  "curriculum": "PTBB Curriculum 2026",
+  "slos": [
     {
-      "topicNo": 1,
-      "titleEn": "Core Theoretical Principles & Governing Laws of Chemical Equilibrium",
-      "titleUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی سائنسی اصول و قوانین",
-      "contentEn": "In-depth analysis of foundational physical quantities, SI base units, and standard experimental apparatus conforming to Punjab Textbook standards.",
-      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصابی معیارات کے مطابق بنیادی اکائیاں، سائنسی اصول اور تجرباتی اصول و کلیات۔",
-      "keyPointsEn": [
-        "Strict adherence to PTBB learning outcomes (SLOs).",
-        "Accurate application of scientific formulas and standard units.",
-        "High-yield board examination preparation points."
-      ],
-      "keyPointsUr": [
-        "پنجاب بورڈ کے تدریسی مقاصد کے عین مطابق تیاری۔",
-        "سائنسی فارمولوں اور معیاری ایس آئی اکائیوں کا درست اطلاق۔",
-        "سالانہ بورڈ امتحانات کے لیے اہم ترین نکات۔"
-      ]
+      "code": "SLO-01",
+      "domain": "Knowledge",
+      "text_en": "Understand core principles of Chemical Equilibrium.",
+      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی اصول سمجھیں۔"
+    },
+    {
+      "code": "SLO-02",
+      "domain": "Understanding",
+      "text_en": "Explain theoretical mechanisms and laws of Chemical Equilibrium.",
+      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے سائنسی قوانین کی وضاحت کریں۔"
+    },
+    {
+      "code": "SLO-03",
+      "domain": "Application",
+      "text_en": "Apply theoretical principles to solve board examination questions for Chemical Equilibrium.",
+      "text_ur": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
     }
   ],
   "mcqs": [
     {
-      "id": "mcq-sol-1",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Lahore 2022 Group-I (Morning))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Lahore 2022 Group-I (Morning))",
+      "id": 1,
+      "qNo": 1,
+      "statementEn": "What is the foundational definition of Reversible and Irreversible Reactions?",
+      "statementUr": "Reversible and Irreversible Reactions کی بنیادی تعریف کیا ہے؟",
+      "questionEn": "What is the foundational definition of Reversible and Irreversible Reactions?",
+      "questionUr": "Reversible and Irreversible Reactions کی بنیادی تعریف کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Core scientific principle",
+          "textUr": "بنیادی سائنسی اصول"
+        },
+        {
+          "key": "B",
+          "textEn": "Unrelated secondary effect",
+          "textUr": "غیر متعلقہ ثانوی اثر"
+        },
+        {
+          "key": "C",
+          "textEn": "Random fluctuation",
+          "textUr": "اتفاقی تبدیلی"
+        },
+        {
+          "key": "D",
+          "textEn": "Arbitrary assumption",
+          "textUr": "فرضی مفروضہ"
+        }
+      ],
       "optionsEn": [
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "1 gram",
-        "1.66 × 10⁻²⁴ grams",
-        "12 amu per mole"
+        "Core scientific principle",
+        "Unrelated secondary effect",
+        "Random fluctuation",
+        "Arbitrary assumption"
       ],
       "optionsUr": [
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "1 گرام",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 اے ایم یو فی مول"
+        "بنیادی سائنسی اصول",
+        "غیر متعلقہ ثانوی اثر",
+        "اتفاقی تبدیلی",
+        "فرضی مفروضہ"
       ],
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Lahore 2022 Group-I (Morning))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Lahore 2022 Group-I (Morning))"
+      "explanationEn": "Standard textbook concept for Reversible and Irreversible Reactions in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Reversible and Irreversible Reactions کا مستند نصابی جواب۔"
     },
     {
-      "id": "mcq-sol-2",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Gujranwala 2023 Group-II (Evening))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Gujranwala 2023 Group-II (Evening))",
+      "id": 2,
+      "qNo": 2,
+      "statementEn": "Identify the standard governing formula or equation for Dynamic Equilibrium State:",
+      "statementUr": "Dynamic Equilibrium State کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "questionEn": "Identify the standard governing formula or equation for Dynamic Equilibrium State:",
+      "questionUr": "Dynamic Equilibrium State کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Primary governing equation",
+          "textUr": "بنیادی حسابی مساوات"
+        },
+        {
+          "key": "B",
+          "textEn": "Inverse square law only",
+          "textUr": "صرف معکوس مربع کا کلیہ"
+        },
+        {
+          "key": "C",
+          "textEn": "Constant ratio product",
+          "textUr": "مستقل تناسب کا حاصل ضرب"
+        },
+        {
+          "key": "D",
+          "textEn": "Linear approximation",
+          "textUr": "لینیئر تخمینہ"
+        }
+      ],
       "optionsEn": [
-        "1 gram",
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "1.66 × 10⁻²⁴ grams",
-        "12 amu per mole"
+        "Primary governing equation",
+        "Inverse square law only",
+        "Constant ratio product",
+        "Linear approximation"
       ],
       "optionsUr": [
-        "1 گرام",
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 اے ایم یو فی مول"
+        "بنیادی حسابی مساوات",
+        "صرف معکوس مربع کا کلیہ",
+        "مستقل تناسب کا حاصل ضرب",
+        "لینیئر تخمینہ"
       ],
-      "correctIndex": 1,
-      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Gujranwala 2023 Group-II (Evening))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Gujranwala 2023 Group-II (Evening))"
-    },
-    {
-      "id": "mcq-sol-3",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Rawalpindi 2024 Group-I (Morning))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Rawalpindi 2024 Group-I (Morning))",
-      "optionsEn": [
-        "1.66 × 10⁻²⁴ grams",
-        "1 gram",
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "12 amu per mole"
-      ],
-      "optionsUr": [
-        "1.66 × 10⁻²⁴ گرام",
-        "1 گرام",
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "12 اے ایم یو فی مول"
-      ],
-      "correctIndex": 2,
-      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Rawalpindi 2024 Group-I (Morning))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Rawalpindi 2024 Group-I (Morning))"
-    },
-    {
-      "id": "mcq-sol-4",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Faisalabad 2025 Group-II (Evening))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Faisalabad 2025 Group-II (Evening))",
-      "optionsEn": [
-        "12 amu per mole",
-        "1 gram",
-        "1.66 × 10⁻²⁴ grams",
-        "12 grams (contains 6.02 × 10²³ atoms)"
-      ],
-      "optionsUr": [
-        "12 اے ایم یو فی مول",
-        "1 گرام",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)"
-      ],
-      "correctIndex": 3,
-      "explanationEn": "Standard board verified answer option (D) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (D) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Faisalabad 2025 Group-II (Evening))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Faisalabad 2025 Group-II (Evening))"
-    },
-    {
-      "id": "mcq-sol-5",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Multan 2026 Group-I (Morning))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Multan 2026 Group-I (Morning))",
-      "optionsEn": [
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "1 gram",
-        "1.66 × 10⁻²⁴ grams",
-        "12 amu per mole"
-      ],
-      "optionsUr": [
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "1 گرام",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 اے ایم یو فی مول"
-      ],
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Multan 2026 Group-I (Morning))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Multan 2026 Group-I (Morning))"
+      "explanationEn": "Standard textbook concept for Dynamic Equilibrium State in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Dynamic Equilibrium State کا مستند نصابی جواب۔"
     },
     {
-      "id": "mcq-sol-6",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Sahiwal 2020 Group-II (Evening))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Sahiwal 2020 Group-II (Evening))",
+      "id": 3,
+      "qNo": 3,
+      "statementEn": "The standard SI unit or characteristic measure associated with Macroscopic Characteristics of Forward and Reverse Reactions is:",
+      "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "questionEn": "The standard SI unit or characteristic measure associated with Macroscopic Characteristics of Forward and Reverse Reactions is:",
+      "questionUr": "Macroscopic Characteristics of Forward and Reverse Reactions سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard derived SI unit",
+          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+        },
+        {
+          "key": "B",
+          "textEn": "Non-standard ancient unit",
+          "textUr": "غیر معیاری پرانا یونٹ"
+        },
+        {
+          "key": "C",
+          "textEn": "Arbitrary dimension",
+          "textUr": "فرضی مقدار"
+        },
+        {
+          "key": "D",
+          "textEn": "Dimensionless zero",
+          "textUr": "بے سمت صفر"
+        }
+      ],
       "optionsEn": [
-        "1 gram",
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "1.66 × 10⁻²⁴ grams",
-        "12 amu per mole"
+        "Standard derived SI unit",
+        "Non-standard ancient unit",
+        "Arbitrary dimension",
+        "Dimensionless zero"
       ],
       "optionsUr": [
-        "1 گرام",
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 اے ایم یو فی مول"
+        "معیاری ماخوذ ایس آئی یونٹ",
+        "غیر معیاری پرانا یونٹ",
+        "فرضی مقدار",
+        "بے سمت صفر"
       ],
-      "correctIndex": 1,
-      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Sahiwal 2020 Group-II (Evening))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Sahiwal 2020 Group-II (Evening))"
-    },
-    {
-      "id": "mcq-sol-7",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Sargodha 2021 Group-I (Morning))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Sargodha 2021 Group-I (Morning))",
-      "optionsEn": [
-        "1.66 × 10⁻²⁴ grams",
-        "1 gram",
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "12 amu per mole"
-      ],
-      "optionsUr": [
-        "1.66 × 10⁻²⁴ گرام",
-        "1 گرام",
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "12 اے ایم یو فی مول"
-      ],
-      "correctIndex": 2,
-      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Sargodha 2021 Group-I (Morning))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Sargodha 2021 Group-I (Morning))"
-    },
-    {
-      "id": "mcq-sol-8",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Bahawalpur 2022 Group-II (Evening))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Bahawalpur 2022 Group-II (Evening))",
-      "optionsEn": [
-        "12 amu per mole",
-        "1 gram",
-        "1.66 × 10⁻²⁴ grams",
-        "12 grams (contains 6.02 × 10²³ atoms)"
-      ],
-      "optionsUr": [
-        "12 اے ایم یو فی مول",
-        "1 گرام",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)"
-      ],
-      "correctIndex": 3,
-      "explanationEn": "Standard board verified answer option (D) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (D) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE Bahawalpur 2022 Group-II (Evening))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE Bahawalpur 2022 Group-II (Evening))"
-    },
-    {
-      "id": "mcq-sol-9",
-      "questionEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE DG Khan 2023 Group-I (Morning))",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE DG Khan 2023 Group-I (Morning))",
-      "optionsEn": [
-        "12 grams (contains 6.02 × 10²³ atoms)",
-        "1 gram",
-        "1.66 × 10⁻²⁴ grams",
-        "12 amu per mole"
-      ],
-      "optionsUr": [
-        "12 گرام (جس میں 6.02 × 10²³ ایٹمز ہوتے ہیں)",
-        "1 گرام",
-        "1.66 × 10⁻²⁴ گرام",
-        "12 اے ایم یو فی مول"
-      ],
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔",
-      "statementEn": "In Chemical Equilibrium, the standard mass of 1 mole of carbon-12 atoms is exactly: (BISE DG Khan 2023 Group-I (Morning))",
-      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) میں کاربن-12 ایٹمز کے 1 مول کا معیاری ماس ہے: (BISE DG Khan 2023 Group-I (Morning))"
+      "explanationEn": "Standard textbook concept for Macroscopic Characteristics of Forward and Reverse Reactions in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Macroscopic Characteristics of Forward and Reverse Reactions کا مستند نصابی جواب۔"
     },
     {
-      "id": "mcq-sol-10",
-      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Lahore 2022 Group-II (Evening))",
-      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Lahore 2022 Group-II (Evening))",
+      "id": 4,
+      "qNo": 4,
+      "statementEn": "What is the primary practical function or biological role of Law of Mass Action (Guldberg & Waage)?",
+      "statementUr": "Law of Mass Action (Guldberg & Waage) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "questionEn": "What is the primary practical function or biological role of Law of Mass Action (Guldberg & Waage)?",
+      "questionUr": "Law of Mass Action (Guldberg & Waage) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Essential functional mechanism",
+          "textUr": "لازمی فعلیاتی طریقہ کار"
+        },
+        {
+          "key": "B",
+          "textEn": "Harmful degradation",
+          "textUr": "نقصان دہ عمل"
+        },
+        {
+          "key": "C",
+          "textEn": "Passive stationary state",
+          "textUr": "غیر متحرک ساکن حالت"
+        },
+        {
+          "key": "D",
+          "textEn": "Random displacement",
+          "textUr": "اتفاقی تبدیلی"
+        }
+      ],
       "optionsEn": [
-        "Proton",
-        "Electron (1/1836 of proton mass)",
-        "Neutron",
-        "Alpha particle"
+        "Essential functional mechanism",
+        "Harmful degradation",
+        "Passive stationary state",
+        "Random displacement"
       ],
       "optionsUr": [
-        "پروٹون",
-        "الیکٹران (پروٹون کا 1/1836 حصہ)",
-        "نیوٹران",
-        "الفا پارٹیکل"
+        "لازمی فعلیاتی طریقہ کار",
+        "نقصان دہ عمل",
+        "غیر متحرک ساکن حالت",
+        "اتفاقی تبدیلی"
       ],
-      "correctIndex": 1,
-      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔",
-      "statementEn": "Which subatomic particle has the least mass in an atom? (BISE Lahore 2022 Group-II (Evening))",
-      "statementUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Lahore 2022 Group-II (Evening))"
-    },
-    {
-      "id": "mcq-sol-11",
-      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Gujranwala 2023 Group-I (Morning))",
-      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Gujranwala 2023 Group-I (Morning))",
-      "optionsEn": [
-        "Neutron",
-        "Proton",
-        "Electron (1/1836 of proton mass)",
-        "Alpha particle"
-      ],
-      "optionsUr": [
-        "نیوٹران",
-        "پروٹون",
-        "الیکٹران (پروٹون کا 1/1836 حصہ)",
-        "الفا پارٹیکل"
-      ],
-      "correctIndex": 2,
-      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔",
-      "statementEn": "Which subatomic particle has the least mass in an atom? (BISE Gujranwala 2023 Group-I (Morning))",
-      "statementUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Gujranwala 2023 Group-I (Morning))"
-    },
-    {
-      "id": "mcq-sol-12",
-      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Rawalpindi 2024 Group-II (Evening))",
-      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Rawalpindi 2024 Group-II (Evening))",
-      "optionsEn": [
-        "Alpha particle",
-        "Proton",
-        "Neutron",
-        "Electron (1/1836 of proton mass)"
-      ],
-      "optionsUr": [
-        "الفا پارٹیکل",
-        "پروٹون",
-        "نیوٹران",
-        "الیکٹران (پروٹون کا 1/1836 حصہ)"
-      ],
-      "correctIndex": 3,
-      "explanationEn": "Standard board verified answer option (D) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (D) ہے۔",
-      "statementEn": "Which subatomic particle has the least mass in an atom? (BISE Rawalpindi 2024 Group-II (Evening))",
-      "statementUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Rawalpindi 2024 Group-II (Evening))"
-    },
-    {
-      "id": "mcq-sol-13",
-      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Faisalabad 2025 Group-I (Morning))",
-      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Faisalabad 2025 Group-I (Morning))",
-      "optionsEn": [
-        "Electron (1/1836 of proton mass)",
-        "Proton",
-        "Neutron",
-        "Alpha particle"
-      ],
-      "optionsUr": [
-        "الیکٹران (پروٹون کا 1/1836 حصہ)",
-        "پروٹون",
-        "نیوٹران",
-        "الفا پارٹیکل"
-      ],
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard board verified answer option (A) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (A) ہے۔",
-      "statementEn": "Which subatomic particle has the least mass in an atom? (BISE Faisalabad 2025 Group-I (Morning))",
-      "statementUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Faisalabad 2025 Group-I (Morning))"
+      "explanationEn": "Standard textbook concept for Law of Mass Action (Guldberg & Waage) in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Law of Mass Action (Guldberg & Waage) کا مستند نصابی جواب۔"
     },
     {
-      "id": "mcq-sol-14",
-      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Multan 2026 Group-II (Evening))",
-      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Multan 2026 Group-II (Evening))",
+      "id": 5,
+      "qNo": 5,
+      "statementEn": "What is the underlying scientific cause of Derivation of Equilibrium Constant Expression (Kc)?",
+      "statementUr": "Derivation of Equilibrium Constant Expression (Kc) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "questionEn": "What is the underlying scientific cause of Derivation of Equilibrium Constant Expression (Kc)?",
+      "questionUr": "Derivation of Equilibrium Constant Expression (Kc) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Governing law of nature",
+          "textUr": "قدرت کا بنیادی قانون"
+        },
+        {
+          "key": "B",
+          "textEn": "Spontaneous chance",
+          "textUr": "اتفاقی عمل"
+        },
+        {
+          "key": "C",
+          "textEn": "External disturbance only",
+          "textUr": "صرف بیرونی خلل"
+        },
+        {
+          "key": "D",
+          "textEn": "Unstable measurement",
+          "textUr": "غیر مستحکم پیمائش"
+        }
+      ],
       "optionsEn": [
-        "Proton",
-        "Electron (1/1836 of proton mass)",
-        "Neutron",
-        "Alpha particle"
+        "Governing law of nature",
+        "Spontaneous chance",
+        "External disturbance only",
+        "Unstable measurement"
       ],
       "optionsUr": [
-        "پروٹون",
-        "الیکٹران (پروٹون کا 1/1836 حصہ)",
-        "نیوٹران",
-        "الفا پارٹیکل"
+        "قدرت کا بنیادی قانون",
+        "اتفاقی عمل",
+        "صرف بیرونی خلل",
+        "غیر مستحکم پیمائش"
       ],
-      "correctIndex": 1,
-      "explanationEn": "Standard board verified answer option (B) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (B) ہے۔",
-      "statementEn": "Which subatomic particle has the least mass in an atom? (BISE Multan 2026 Group-II (Evening))",
-      "statementUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Multan 2026 Group-II (Evening))"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Derivation of Equilibrium Constant Expression (Kc) in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Derivation of Equilibrium Constant Expression (Kc) کا مستند نصابی جواب۔"
     },
     {
-      "id": "mcq-sol-15",
-      "questionEn": "Which subatomic particle has the least mass in an atom? (BISE Sahiwal 2020 Group-I (Morning))",
-      "questionUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Sahiwal 2020 Group-I (Morning))",
+      "id": 6,
+      "qNo": 6,
+      "statementEn": "Which factor directly influences the rate or magnitude of Units of Equilibrium Constant?",
+      "statementUr": "Units of Equilibrium Constant کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "questionEn": "Which factor directly influences the rate or magnitude of Units of Equilibrium Constant?",
+      "questionUr": "Units of Equilibrium Constant کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Concentration / Force / Temperature",
+          "textUr": "ارتکاز / فورس / درجہ حرارت"
+        },
+        {
+          "key": "B",
+          "textEn": "Surface color only",
+          "textUr": "صرف سطحی رنگ"
+        },
+        {
+          "key": "C",
+          "textEn": "Surrounding atmosphere only",
+          "textUr": "صرف بیرونی ماحول"
+        },
+        {
+          "key": "D",
+          "textEn": "Cosmic radiation",
+          "textUr": "کائناتی شعاعیں"
+        }
+      ],
       "optionsEn": [
-        "Neutron",
-        "Proton",
-        "Electron (1/1836 of proton mass)",
-        "Alpha particle"
+        "Concentration / Force / Temperature",
+        "Surface color only",
+        "Surrounding atmosphere only",
+        "Cosmic radiation"
       ],
       "optionsUr": [
-        "نیوٹران",
-        "پروٹون",
-        "الیکٹران (پروٹون کا 1/1836 حصہ)",
-        "الفا پارٹیکل"
+        "ارتکاز / فورس / درجہ حرارت",
+        "صرف سطحی رنگ",
+        "صرف بیرونی ماحول",
+        "کائناتی شعاعیں"
       ],
-      "correctIndex": 2,
-      "explanationEn": "Standard board verified answer option (C) according to PTBB textbook.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کی نصابی کتاب کے مطابق درست ترین جواب (C) ہے۔",
-      "statementEn": "Which subatomic particle has the least mass in an atom? (BISE Sahiwal 2020 Group-I (Morning))",
-      "statementUr": "ایٹم میں سب سے کم ماس رکھنے والا ذرہ کون سا ہے؟ (BISE Sahiwal 2020 Group-I (Morning))"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Units of Equilibrium Constant in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Units of Equilibrium Constant کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 7,
+      "qNo": 7,
+      "statementEn": "The graphical representation between key variables in Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) demonstrates:",
+      "statementUr": "Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "questionEn": "The graphical representation between key variables in Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) demonstrates:",
+      "questionUr": "Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Direct proportion curve",
+          "textUr": "براہ راست تناسب کا خط"
+        },
+        {
+          "key": "B",
+          "textEn": "Inverse parabolic fall",
+          "textUr": "معکوس پیرابولک زوال"
+        },
+        {
+          "key": "C",
+          "textEn": "Constant horizontal line",
+          "textUr": "مستقل افقی لکیر"
+        },
+        {
+          "key": "D",
+          "textEn": "Discontinuous wave",
+          "textUr": "غیر مسلسل لہر"
+        }
+      ],
+      "optionsEn": [
+        "Direct proportion curve",
+        "Inverse parabolic fall",
+        "Constant horizontal line",
+        "Discontinuous wave"
+      ],
+      "optionsUr": [
+        "براہ راست تناسب کا خط",
+        "معکوس پیرابولک زوال",
+        "مستقل افقی لکیر",
+        "غیر مسلسل لہر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 8,
+      "qNo": 8,
+      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Reversible and Irreversible Reactions?",
+      "statementUr": "Reversible and Irreversible Reactions کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Reversible and Irreversible Reactions?",
+      "questionUr": "Reversible and Irreversible Reactions کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard calibrated laboratory apparatus",
+          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+        },
+        {
+          "key": "B",
+          "textEn": "General measuring tape only",
+          "textUr": "صرف پیمائشی فیتہ"
+        },
+        {
+          "key": "C",
+          "textEn": "Chemical indicator only",
+          "textUr": "صرف کیمیائی انڈیکیٹر"
+        },
+        {
+          "key": "D",
+          "textEn": "Voltmeter only",
+          "textUr": "صرف وولٹ میٹر"
+        }
+      ],
+      "optionsEn": [
+        "Standard calibrated laboratory apparatus",
+        "General measuring tape only",
+        "Chemical indicator only",
+        "Voltmeter only"
+      ],
+      "optionsUr": [
+        "معیاری لیبارٹری کا پیمائشی آلہ",
+        "صرف پیمائشی فیتہ",
+        "صرف کیمیائی انڈیکیٹر",
+        "صرف وولٹ میٹر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Reversible and Irreversible Reactions in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Reversible and Irreversible Reactions کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 9,
+      "qNo": 9,
+      "statementEn": "What is the most distinctive characteristic property of Dynamic Equilibrium State?",
+      "statementUr": "Dynamic Equilibrium State کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "questionEn": "What is the most distinctive characteristic property of Dynamic Equilibrium State?",
+      "questionUr": "Dynamic Equilibrium State کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Specific intrinsic physical/chemical property",
+          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+        },
+        {
+          "key": "B",
+          "textEn": "Temporary exterior trait",
+          "textUr": "عارضی بیرونی علامت"
+        },
+        {
+          "key": "C",
+          "textEn": "Random variable property",
+          "textUr": "اتفاقی متغیر خاصیت"
+        },
+        {
+          "key": "D",
+          "textEn": "Inert passive nature",
+          "textUr": "غیر فعال بے اثر حالت"
+        }
+      ],
+      "optionsEn": [
+        "Specific intrinsic physical/chemical property",
+        "Temporary exterior trait",
+        "Random variable property",
+        "Inert passive nature"
+      ],
+      "optionsUr": [
+        "مخصوص اندرونی سائنسی خصوصیت",
+        "عارضی بیرونی علامت",
+        "اتفاقی متغیر خاصیت",
+        "غیر فعال بے اثر حالت"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Dynamic Equilibrium State in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Dynamic Equilibrium State کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 10,
+      "qNo": 10,
+      "statementEn": "A major real-world technological application of Macroscopic Characteristics of Forward and Reverse Reactions in everyday life is:",
+      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Macroscopic Characteristics of Forward and Reverse Reactions کا اہم ترین عملی اطلاق ہے:",
+      "questionEn": "A major real-world technological application of Macroscopic Characteristics of Forward and Reverse Reactions in everyday life is:",
+      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Macroscopic Characteristics of Forward and Reverse Reactions کا اہم ترین عملی اطلاق ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Modern engineering & medical device application",
+          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+        },
+        {
+          "key": "B",
+          "textEn": "Traditional decorative craft only",
+          "textUr": "صرف روایتی سجاوٹ"
+        },
+        {
+          "key": "C",
+          "textEn": "Theoretical discussion only",
+          "textUr": "صرف نظریاتی بحث"
+        },
+        {
+          "key": "D",
+          "textEn": "Agricultural pest creation",
+          "textUr": "زرعی کیڑوں کی افزائش"
+        }
+      ],
+      "optionsEn": [
+        "Modern engineering & medical device application",
+        "Traditional decorative craft only",
+        "Theoretical discussion only",
+        "Agricultural pest creation"
+      ],
+      "optionsUr": [
+        "جدید انجینئرنگ و طبی آلات میں استعمال",
+        "صرف روایتی سجاوٹ",
+        "صرف نظریاتی بحث",
+        "زرعی کیڑوں کی افزائش"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Macroscopic Characteristics of Forward and Reverse Reactions in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Macroscopic Characteristics of Forward and Reverse Reactions کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 11,
+      "qNo": 11,
+      "statementEn": "What happens when the primary parameter of Law of Mass Action (Guldberg & Waage) is doubled?",
+      "statementUr": "اگر Law of Mass Action (Guldberg & Waage) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "questionEn": "What happens when the primary parameter of Law of Mass Action (Guldberg & Waage) is doubled?",
+      "questionUr": "اگر Law of Mass Action (Guldberg & Waage) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "The resulting quantity doubles proportionally",
+          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+        },
+        {
+          "key": "B",
+          "textEn": "It becomes fourfold",
+          "textUr": "چار گنا بڑھ جائے گی"
+        },
+        {
+          "key": "C",
+          "textEn": "It reduces to half",
+          "textUr": "نصف رہ جائے گی"
+        },
+        {
+          "key": "D",
+          "textEn": "It remains completely unchanged",
+          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        }
+      ],
+      "optionsEn": [
+        "The resulting quantity doubles proportionally",
+        "It becomes fourfold",
+        "It reduces to half",
+        "It remains completely unchanged"
+      ],
+      "optionsUr": [
+        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
+        "چار گنا بڑھ جائے گی",
+        "نصف رہ جائے گی",
+        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Law of Mass Action (Guldberg & Waage) in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Law of Mass Action (Guldberg & Waage) کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 12,
+      "qNo": 12,
+      "statementEn": "According to official curriculum classification, the main types of Derivation of Equilibrium Constant Expression (Kc) are:",
+      "statementUr": "نصابی درجہ بندی کے مطابق Derivation of Equilibrium Constant Expression (Kc) کی بنیادی اقسام ہیں:",
+      "questionEn": "According to official curriculum classification, the main types of Derivation of Equilibrium Constant Expression (Kc) are:",
+      "questionUr": "نصابی درجہ بندی کے مطابق Derivation of Equilibrium Constant Expression (Kc) کی بنیادی اقسام ہیں:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard textbook classifications",
+          "textUr": "نصابی و معیاری اقسام"
+        },
+        {
+          "key": "B",
+          "textEn": "Arbitrary categories",
+          "textUr": "فرضی درجہ بندیاں"
+        },
+        {
+          "key": "C",
+          "textEn": "Unrelated groupings",
+          "textUr": "غیر متعلقہ گروہ"
+        },
+        {
+          "key": "D",
+          "textEn": "Single indivisible type",
+          "textUr": "صرف ایک ناقابل تقسیم قسم"
+        }
+      ],
+      "optionsEn": [
+        "Standard textbook classifications",
+        "Arbitrary categories",
+        "Unrelated groupings",
+        "Single indivisible type"
+      ],
+      "optionsUr": [
+        "نصابی و معیاری اقسام",
+        "فرضی درجہ بندیاں",
+        "غیر متعلقہ گروہ",
+        "صرف ایک ناقابل تقسیم قسم"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Derivation of Equilibrium Constant Expression (Kc) in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Derivation of Equilibrium Constant Expression (Kc) کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 13,
+      "qNo": 13,
+      "statementEn": "How does Units of Equilibrium Constant differ fundamentally from its counterpart?",
+      "statementUr": "Units of Equilibrium Constant اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "questionEn": "How does Units of Equilibrium Constant differ fundamentally from its counterpart?",
+      "questionUr": "Units of Equilibrium Constant اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Distinct direction, magnitude and physical nature",
+          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+        },
+        {
+          "key": "B",
+          "textEn": "Identical in every respect",
+          "textUr": "ہر لحاظ سے بالکل یکساں"
+        },
+        {
+          "key": "C",
+          "textEn": "Different only in name",
+          "textUr": "صرف نام کا فرق"
+        },
+        {
+          "key": "D",
+          "textEn": "No physical distinction exists",
+          "textUr": "کوئی طبعی فرق موجود نہیں"
+        }
+      ],
+      "optionsEn": [
+        "Distinct direction, magnitude and physical nature",
+        "Identical in every respect",
+        "Different only in name",
+        "No physical distinction exists"
+      ],
+      "optionsUr": [
+        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
+        "ہر لحاظ سے بالکل یکساں",
+        "صرف نام کا فرق",
+        "کوئی طبعی فرق موجود نہیں"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Units of Equilibrium Constant in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Units of Equilibrium Constant کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 14,
+      "qNo": 14,
+      "statementEn": "The quantitative value or constant established for Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) is:",
+      "statementUr": "Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "questionEn": "The quantitative value or constant established for Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) is:",
+      "questionUr": "Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard experimentally verified constant",
+          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+        },
+        {
+          "key": "B",
+          "textEn": "Variable unpredictable number",
+          "textUr": "متغیر غیر یقینی عدد"
+        },
+        {
+          "key": "C",
+          "textEn": "Zero at all times",
+          "textUr": "ہمیشہ صفر"
+        },
+        {
+          "key": "D",
+          "textEn": "Infinite undefined magnitude",
+          "textUr": "لامحدود غیر معین مقدار"
+        }
+      ],
+      "optionsEn": [
+        "Standard experimentally verified constant",
+        "Variable unpredictable number",
+        "Zero at all times",
+        "Infinite undefined magnitude"
+      ],
+      "optionsUr": [
+        "معیاری تجرباتی ثابت شدہ قیمت",
+        "متغیر غیر یقینی عدد",
+        "ہمیشہ صفر",
+        "لامحدود غیر معین مقدار"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کا مستند نصابی جواب۔"
+    },
+    {
+      "id": 15,
+      "qNo": 15,
+      "statementEn": "Which governing scientific law directly regulates the behavior of Reversible and Irreversible Reactions?",
+      "statementUr": "کون سا بنیادی سائنسی قانون Reversible and Irreversible Reactions کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "questionEn": "Which governing scientific law directly regulates the behavior of Reversible and Irreversible Reactions?",
+      "questionUr": "کون سا بنیادی سائنسی قانون Reversible and Irreversible Reactions کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Fundamental Conservation & Equilibrium Law",
+          "textUr": "بنیادی قانونِ بقا و توازن"
+        },
+        {
+          "key": "B",
+          "textEn": "Spontaneous reaction law",
+          "textUr": "خود بخود تعامل کا اصول"
+        },
+        {
+          "key": "C",
+          "textEn": "Random motion theorem",
+          "textUr": "بے قاعدہ حرکت کا کلیہ"
+        },
+        {
+          "key": "D",
+          "textEn": "Empirical assumption",
+          "textUr": "تجرباتی قیاس"
+        }
+      ],
+      "optionsEn": [
+        "Fundamental Conservation & Equilibrium Law",
+        "Spontaneous reaction law",
+        "Random motion theorem",
+        "Empirical assumption"
+      ],
+      "optionsUr": [
+        "بنیادی قانونِ بقا و توازن",
+        "خود بخود تعامل کا اصول",
+        "بے قاعدہ حرکت کا کلیہ",
+        "تجرباتی قیاس"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for Reversible and Irreversible Reactions in Chemical Equilibrium.",
+      "explanationUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت Reversible and Irreversible Reactions کا مستند نصابی جواب۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": "sq-sol-1",
-      "questionEn": "[Textbook Exercise Review Q] Differentiate between empirical formula and molecular formula with two examples.",
-      "questionUr": "[مشقی جائزہ سوال] ایمپیریکل فارمولا اور مالیکیولر فارمولا میں دو مثالوں کے ساتھ فرق واضح کریں۔",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Textbook Exercise Review Q] Differentiate between empirical formula and molecular formula with two examples.",
-      "statementUr": "[مشقی جائزہ سوال] ایمپیریکل فارمولا اور مالیکیولر فارمولا میں دو مثالوں کے ساتھ فرق واضح کریں۔"
+      "id": 1,
+      "subNo": 1,
+      "statementEn": "Define Reversible and Irreversible Reactions and write its governing mathematical formula or scientific definition.",
+      "statementUr": "Reversible and Irreversible Reactions کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "questionEn": "Define Reversible and Irreversible Reactions and write its governing mathematical formula or scientific definition.",
+      "questionUr": "Reversible and Irreversible Reactions کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for Reversible and Irreversible Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Reversible and Irreversible Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-2",
-      "questionEn": "[In-Text Box: Test Yourself] Why are noble gases chemically unreactive under standard conditions?",
-      "questionUr": "[چیپٹر کے اندر سے: خود پرکھیں] نوبل گیسیں عام حالات میں کیمیائی طور پر غیر عامل کیوں ہوتی ہیں؟",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box: Test Yourself] Why are noble gases chemically unreactive under standard conditions?",
-      "statementUr": "[چیپٹر کے اندر سے: خود پرکھیں] نوبل گیسیں عام حالات میں کیمیائی طور پر غیر عامل کیوں ہوتی ہیں؟"
+      "id": 2,
+      "subNo": 2,
+      "statementEn": "Differentiate between Dynamic Equilibrium State and its related counterpart with two clear distinctions.",
+      "statementUr": "Dynamic Equilibrium State اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "questionEn": "Differentiate between Dynamic Equilibrium State and its related counterpart with two clear distinctions.",
+      "questionUr": "Dynamic Equilibrium State اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Dynamic Equilibrium State conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Dynamic Equilibrium State کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-3",
-      "questionEn": "[In-Text Box: Do You Know?] State the importance of ozone layer in stratosphere and mention how CFCs destroy it.",
-      "questionUr": "[چیپٹر کے اندر سے: کیا آپ جانتے ہیں؟] سٹریٹوسفیئر میں اوزون کی تہہ کی اہمیت بیان کریں اور بتائیں CFCs اسے کیسے تباہ کرتے ہیں۔",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box: Do You Know?] State the importance of ozone layer in stratosphere and mention how CFCs destroy it.",
-      "statementUr": "[چیپٹر کے اندر سے: کیا آپ جانتے ہیں؟] سٹریٹوسفیئر میں اوزون کی تہہ کی اہمیت بیان کریں اور بتائیں CFCs اسے کیسے تباہ کرتے ہیں۔"
+      "id": 3,
+      "subNo": 3,
+      "statementEn": "Explain the scientific reason behind the natural phenomenon of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "questionEn": "Explain the scientific reason behind the natural phenomenon of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "questionUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Macroscopic Characteristics of Forward and Reverse Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Macroscopic Characteristics of Forward and Reverse Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-4",
-      "questionEn": "[Past Board Paper] State Boyle's Law and Charles's Law. Give their mathematical representations. (LHR 2023 G-I, RWP 2021)",
-      "questionUr": "[سابقہ بورڈ پرچہ جات] بوائل کا قانون اور چارلس کا قانون بیان کریں اور ان کی حسابی مساواتیں لکھیں۔ (LHR 2023 G-I, RWP 2021)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] State Boyle's Law and Charles's Law. Give their mathematical representations. (LHR 2023 G-I, RWP 2021)",
-      "statementUr": "[سابقہ بورڈ پرچہ جات] بوائل کا قانون اور چارلس کا قانون بیان کریں اور ان کی حسابی مساواتیں لکھیں۔ (LHR 2023 G-I, RWP 2021)"
+      "id": 4,
+      "subNo": 4,
+      "statementEn": "State the necessary conditions and rules required for Law of Mass Action (Guldberg & Waage) to occur.",
+      "statementUr": "Law of Mass Action (Guldberg & Waage) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "questionEn": "State the necessary conditions and rules required for Law of Mass Action (Guldberg & Waage) to occur.",
+      "questionUr": "Law of Mass Action (Guldberg & Waage) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "answerEn": "Standard textbook solution and definition for Law of Mass Action (Guldberg & Waage) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Law of Mass Action (Guldberg & Waage) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-5",
-      "questionEn": "[SLO Conceptual] Why does electronegativity increase across a period from left to right in the modern periodic table?",
-      "questionUr": "[تصوراتی SLO سوال] جدید پیریوڈک ٹیبل میں بائیں سے دائیں پیریڈ میں الیکٹرو نیگیٹیوٹی میں اضافہ کیوں ہوتا ہے؟",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[SLO Conceptual] Why does electronegativity increase across a period from left to right in the modern periodic table?",
-      "statementUr": "[تصوراتی SLO سوال] جدید پیریوڈک ٹیبل میں بائیں سے دائیں پیریڈ میں الیکٹرو نیگیٹیوٹی میں اضافہ کیوں ہوتا ہے؟"
+      "id": 5,
+      "subNo": 5,
+      "statementEn": "Write down the standard SI units and dimensional properties of Derivation of Equilibrium Constant Expression (Kc).",
+      "statementUr": "Derivation of Equilibrium Constant Expression (Kc) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "questionEn": "Write down the standard SI units and dimensional properties of Derivation of Equilibrium Constant Expression (Kc).",
+      "questionUr": "Derivation of Equilibrium Constant Expression (Kc) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "answerEn": "Standard textbook solution and definition for Derivation of Equilibrium Constant Expression (Kc) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Derivation of Equilibrium Constant Expression (Kc) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-6",
-      "questionEn": "[Numerical Problem] Calculate the molarity of a solution prepared by dissolving 4 g of NaOH in 250 cm³ of water.",
-      "questionUr": "[حسابی مسئلہ] 4 گرام سوڈیم ہائیڈرو آکسائیڈ (NaOH) کو 250 cm³ پانی میں حل کر کے بنائے گئے محلول کی مولیرٹی معلوم کریں۔",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Calculate the molarity of a solution prepared by dissolving 4 g of NaOH in 250 cm³ of water.",
-      "statementUr": "[حسابی مسئلہ] 4 گرام سوڈیم ہائیڈرو آکسائیڈ (NaOH) کو 250 cm³ پانی میں حل کر کے بنائے گئے محلول کی مولیرٹی معلوم کریں۔"
+      "id": 6,
+      "subNo": 6,
+      "statementEn": "Give two practical everyday applications of Units of Equilibrium Constant in modern technology or society.",
+      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Units of Equilibrium Constant کے دو عملی اطلاقات بیان کریں۔",
+      "questionEn": "Give two practical everyday applications of Units of Equilibrium Constant in modern technology or society.",
+      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Units of Equilibrium Constant کے دو عملی اطلاقات بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Units of Equilibrium Constant conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Units of Equilibrium Constant کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-7",
-      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (SWL 2023 G-I, DGK 2026, GRW 2021)",
-      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (SWL 2023 G-I, DGK 2026, GRW 2021)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (SWL 2023 G-I, DGK 2026, GRW 2021)",
-      "statementUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (SWL 2023 G-I, DGK 2026, GRW 2021)"
+      "id": 7,
+      "subNo": 7,
+      "statementEn": "What effect is observed when parameters of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) are doubled or halved? Explain briefly.",
+      "statementUr": "اگر Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "questionEn": "What effect is observed when parameters of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) are doubled or halved? Explain briefly.",
+      "questionUr": "اگر Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "answerEn": "Standard textbook solution and definition for Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-8",
-      "questionEn": "[Textbook Exercise Q.2] State the core definition, conditions, and textbook characteristics of Chemical Equilibrium. (GRW 2026 G-II)",
-      "questionUr": "[مشقی سوال 2] کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (GRW 2026 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Textbook Exercise Q.2] State the core definition, conditions, and textbook characteristics of Chemical Equilibrium. (GRW 2026 G-II)",
-      "statementUr": "[مشقی سوال 2] کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (GRW 2026 G-II)"
+      "id": 8,
+      "subNo": 8,
+      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Reversible and Irreversible Reactions.",
+      "statementUr": "Reversible and Irreversible Reactions کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Reversible and Irreversible Reactions.",
+      "questionUr": "Reversible and Irreversible Reactions کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "answerEn": "Standard textbook solution and definition for Reversible and Irreversible Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Reversible and Irreversible Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-9",
-      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 30 units and time is 5 seconds. (SGD 2022 G-I, DGK 2024)",
-      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (SGD 2022 G-I, DGK 2024)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 30 units and time is 5 seconds. (SGD 2022 G-I, DGK 2024)",
-      "statementUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (SGD 2022 G-I, DGK 2024)"
+      "id": 9,
+      "subNo": 9,
+      "statementEn": "Explain the conceptual significance of studying Dynamic Equilibrium State according to textbook learning outcomes.",
+      "statementUr": "نصابی مقاصد کے مطابق Dynamic Equilibrium State کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "questionEn": "Explain the conceptual significance of studying Dynamic Equilibrium State according to textbook learning outcomes.",
+      "questionUr": "نصابی مقاصد کے مطابق Dynamic Equilibrium State کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Dynamic Equilibrium State conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Dynamic Equilibrium State کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-10",
-      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (RWP 2025 G-II)",
-      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (RWP 2025 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (RWP 2025 G-II)",
-      "statementUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (RWP 2025 G-II)"
+      "id": 10,
+      "subNo": 10,
+      "statementEn": "Name the key factors that increase or decrease the efficiency of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "questionEn": "Name the key factors that increase or decrease the efficiency of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "questionUr": "Macroscopic Characteristics of Forward and Reverse Reactions کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for Macroscopic Characteristics of Forward and Reverse Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Macroscopic Characteristics of Forward and Reverse Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-11",
-      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (BWP 2021 G-I, GRW 2025, FSD 2020)",
-      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (BWP 2021 G-I, GRW 2025, FSD 2020)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (BWP 2021 G-I, GRW 2025, FSD 2020)",
-      "statementUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (BWP 2021 G-I, GRW 2025, FSD 2020)"
+      "id": 11,
+      "subNo": 11,
+      "statementEn": "How does Law of Mass Action (Guldberg & Waage) contribute to environmental balance or industrial processes?",
+      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Law of Mass Action (Guldberg & Waage) کیا کردار ادا کرتا ہے؟",
+      "questionEn": "How does Law of Mass Action (Guldberg & Waage) contribute to environmental balance or industrial processes?",
+      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Law of Mass Action (Guldberg & Waage) کیا کردار ادا کرتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for Law of Mass Action (Guldberg & Waage) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Law of Mass Action (Guldberg & Waage) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-12",
-      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 60 units and time is 5 seconds. (FSD 2024 G-II)",
-      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 60 اکائیاں اور وقت 5 سیکنڈ ہو۔ (FSD 2024 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 60 units and time is 5 seconds. (FSD 2024 G-II)",
-      "statementUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 60 اکائیاں اور وقت 5 سیکنڈ ہو۔ (FSD 2024 G-II)"
-    },
-    {
-      "id": "sq-sol-13",
-      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (DGK 2020 G-I, GRW 2023)",
-      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (DGK 2020 G-I, GRW 2023)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (DGK 2020 G-I, GRW 2023)",
-      "statementUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (DGK 2020 G-I, GRW 2023)"
-    },
-    {
-      "id": "sq-sol-14",
-      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (MTN 2023 G-II)",
-      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (MTN 2023 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (MTN 2023 G-II)",
-      "statementUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (MTN 2023 G-II)"
-    },
-    {
-      "id": "sq-sol-15",
-      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 90 units and time is 5 seconds. (LHR 2026 G-I, FSD 2024, SWL 2026)",
-      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 90 اکائیاں اور وقت 5 سیکنڈ ہو۔ (LHR 2026 G-I, FSD 2024, SWL 2026)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 90 units and time is 5 seconds. (LHR 2026 G-I, FSD 2024, SWL 2026)",
-      "statementUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 90 اکائیاں اور وقت 5 سیکنڈ ہو۔ (LHR 2026 G-I, FSD 2024, SWL 2026)"
-    }
-  ],
-  "longQuestions": [
-    {
-      "id": "lq-sol-1",
-      "questionEn": "[Past Board Paper] State and explain Rutherford's Atomic Model based on Gold Foil Experiment. Mention its defects. (LHR 2021 G-II)",
-      "questionUr": "[سابقہ بورڈ پرچہ] گولڈ فوائل تجربے کی بنیاد پر ردرفورڈ کا ایٹمی ماڈل بیان کریں اور اس کے نقائص تحریر کریں۔ (LHR 2021 G-II)",
-      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
-      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
-      "marks": 5,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "[Past Board Paper] State and explain Rutherford's Atomic Model based on Gold Foil Experiment. Mention its defects. (LHR 2021 G-II)",
-          "statementUr": "[سابقہ بورڈ پرچہ] گولڈ فوائل تجربے کی بنیاد پر ردرفورڈ کا ایٹمی ماڈل بیان کریں اور اس کے نقائص تحریر کریں۔ (LHR 2021 G-II)",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Solve numerical/analytical problem on Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اہم حسابی یا تجزیاتی سوال حل کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    },
-    {
-      "id": "lq-sol-2",
-      "questionEn": "Discuss in detail the fundamental laws, theoretical derivation, and working principles of Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی قوانین، مساوات کے اخراج اور عملی طریقہ کار پر تفصیلی نوٹ تحریر کریں۔",
-      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
-      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
-      "marks": 5,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Discuss in detail the fundamental laws, theoretical derivation, and working principles of Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی قوانین، مساوات کے اخراج اور عملی طریقہ کار پر تفصیلی نوٹ تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Solve numerical/analytical problem on Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اہم حسابی یا تجزیاتی سوال حل کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    },
-    {
-      "id": "lq-sol-3",
-      "questionEn": "Explain the experimental verification, graph analysis, and mathematical formulation related to Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔",
-      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
-      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
-      "marks": 5,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain the experimental verification, graph analysis, and mathematical formulation related to Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Solve numerical/analytical problem on Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اہم حسابی یا تجزیاتی سوال حل کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
+      "id": 12,
+      "subNo": 12,
+      "statementEn": "Solve the conceptual problem: State what happens to a system when Derivation of Equilibrium Constant Expression (Kc) reaches equilibrium.",
+      "statementUr": "تصوراتی سوال کا جواب دیں: جب Derivation of Equilibrium Constant Expression (Kc) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "questionEn": "Solve the conceptual problem: State what happens to a system when Derivation of Equilibrium Constant Expression (Kc) reaches equilibrium.",
+      "questionUr": "تصوراتی سوال کا جواب دیں: جب Derivation of Equilibrium Constant Expression (Kc) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for Derivation of Equilibrium Constant Expression (Kc) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Derivation of Equilibrium Constant Expression (Kc) کا مستند ماڈل جواب۔",
+      "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": "sq-sol-1",
-      "questionEn": "[Textbook Exercise Review Q] Differentiate between empirical formula and molecular formula with two examples.",
-      "questionUr": "[مشقی جائزہ سوال] ایمپیریکل فارمولا اور مالیکیولر فارمولا میں دو مثالوں کے ساتھ فرق واضح کریں۔",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Textbook Exercise Review Q] Differentiate between empirical formula and molecular formula with two examples.",
-      "statementUr": "[مشقی جائزہ سوال] ایمپیریکل فارمولا اور مالیکیولر فارمولا میں دو مثالوں کے ساتھ فرق واضح کریں۔"
+      "id": 1,
+      "subNo": 1,
+      "statementEn": "Define Reversible and Irreversible Reactions and write its governing mathematical formula or scientific definition.",
+      "statementUr": "Reversible and Irreversible Reactions کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "questionEn": "Define Reversible and Irreversible Reactions and write its governing mathematical formula or scientific definition.",
+      "questionUr": "Reversible and Irreversible Reactions کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for Reversible and Irreversible Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Reversible and Irreversible Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-2",
-      "questionEn": "[In-Text Box: Test Yourself] Why are noble gases chemically unreactive under standard conditions?",
-      "questionUr": "[چیپٹر کے اندر سے: خود پرکھیں] نوبل گیسیں عام حالات میں کیمیائی طور پر غیر عامل کیوں ہوتی ہیں؟",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box: Test Yourself] Why are noble gases chemically unreactive under standard conditions?",
-      "statementUr": "[چیپٹر کے اندر سے: خود پرکھیں] نوبل گیسیں عام حالات میں کیمیائی طور پر غیر عامل کیوں ہوتی ہیں؟"
+      "id": 2,
+      "subNo": 2,
+      "statementEn": "Differentiate between Dynamic Equilibrium State and its related counterpart with two clear distinctions.",
+      "statementUr": "Dynamic Equilibrium State اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "questionEn": "Differentiate between Dynamic Equilibrium State and its related counterpart with two clear distinctions.",
+      "questionUr": "Dynamic Equilibrium State اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Dynamic Equilibrium State conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Dynamic Equilibrium State کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-3",
-      "questionEn": "[In-Text Box: Do You Know?] State the importance of ozone layer in stratosphere and mention how CFCs destroy it.",
-      "questionUr": "[چیپٹر کے اندر سے: کیا آپ جانتے ہیں؟] سٹریٹوسفیئر میں اوزون کی تہہ کی اہمیت بیان کریں اور بتائیں CFCs اسے کیسے تباہ کرتے ہیں۔",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box: Do You Know?] State the importance of ozone layer in stratosphere and mention how CFCs destroy it.",
-      "statementUr": "[چیپٹر کے اندر سے: کیا آپ جانتے ہیں؟] سٹریٹوسفیئر میں اوزون کی تہہ کی اہمیت بیان کریں اور بتائیں CFCs اسے کیسے تباہ کرتے ہیں۔"
+      "id": 3,
+      "subNo": 3,
+      "statementEn": "Explain the scientific reason behind the natural phenomenon of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "questionEn": "Explain the scientific reason behind the natural phenomenon of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "questionUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Macroscopic Characteristics of Forward and Reverse Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Macroscopic Characteristics of Forward and Reverse Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-4",
-      "questionEn": "[Past Board Paper] State Boyle's Law and Charles's Law. Give their mathematical representations. (LHR 2023 G-I, RWP 2021)",
-      "questionUr": "[سابقہ بورڈ پرچہ جات] بوائل کا قانون اور چارلس کا قانون بیان کریں اور ان کی حسابی مساواتیں لکھیں۔ (LHR 2023 G-I, RWP 2021)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] State Boyle's Law and Charles's Law. Give their mathematical representations. (LHR 2023 G-I, RWP 2021)",
-      "statementUr": "[سابقہ بورڈ پرچہ جات] بوائل کا قانون اور چارلس کا قانون بیان کریں اور ان کی حسابی مساواتیں لکھیں۔ (LHR 2023 G-I, RWP 2021)"
+      "id": 4,
+      "subNo": 4,
+      "statementEn": "State the necessary conditions and rules required for Law of Mass Action (Guldberg & Waage) to occur.",
+      "statementUr": "Law of Mass Action (Guldberg & Waage) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "questionEn": "State the necessary conditions and rules required for Law of Mass Action (Guldberg & Waage) to occur.",
+      "questionUr": "Law of Mass Action (Guldberg & Waage) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "answerEn": "Standard textbook solution and definition for Law of Mass Action (Guldberg & Waage) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Law of Mass Action (Guldberg & Waage) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-5",
-      "questionEn": "[SLO Conceptual] Why does electronegativity increase across a period from left to right in the modern periodic table?",
-      "questionUr": "[تصوراتی SLO سوال] جدید پیریوڈک ٹیبل میں بائیں سے دائیں پیریڈ میں الیکٹرو نیگیٹیوٹی میں اضافہ کیوں ہوتا ہے؟",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[SLO Conceptual] Why does electronegativity increase across a period from left to right in the modern periodic table?",
-      "statementUr": "[تصوراتی SLO سوال] جدید پیریوڈک ٹیبل میں بائیں سے دائیں پیریڈ میں الیکٹرو نیگیٹیوٹی میں اضافہ کیوں ہوتا ہے؟"
+      "id": 5,
+      "subNo": 5,
+      "statementEn": "Write down the standard SI units and dimensional properties of Derivation of Equilibrium Constant Expression (Kc).",
+      "statementUr": "Derivation of Equilibrium Constant Expression (Kc) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "questionEn": "Write down the standard SI units and dimensional properties of Derivation of Equilibrium Constant Expression (Kc).",
+      "questionUr": "Derivation of Equilibrium Constant Expression (Kc) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "answerEn": "Standard textbook solution and definition for Derivation of Equilibrium Constant Expression (Kc) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Derivation of Equilibrium Constant Expression (Kc) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-6",
-      "questionEn": "[Numerical Problem] Calculate the molarity of a solution prepared by dissolving 4 g of NaOH in 250 cm³ of water.",
-      "questionUr": "[حسابی مسئلہ] 4 گرام سوڈیم ہائیڈرو آکسائیڈ (NaOH) کو 250 cm³ پانی میں حل کر کے بنائے گئے محلول کی مولیرٹی معلوم کریں۔",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Calculate the molarity of a solution prepared by dissolving 4 g of NaOH in 250 cm³ of water.",
-      "statementUr": "[حسابی مسئلہ] 4 گرام سوڈیم ہائیڈرو آکسائیڈ (NaOH) کو 250 cm³ پانی میں حل کر کے بنائے گئے محلول کی مولیرٹی معلوم کریں۔"
+      "id": 6,
+      "subNo": 6,
+      "statementEn": "Give two practical everyday applications of Units of Equilibrium Constant in modern technology or society.",
+      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Units of Equilibrium Constant کے دو عملی اطلاقات بیان کریں۔",
+      "questionEn": "Give two practical everyday applications of Units of Equilibrium Constant in modern technology or society.",
+      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Units of Equilibrium Constant کے دو عملی اطلاقات بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Units of Equilibrium Constant conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Units of Equilibrium Constant کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-7",
-      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (SWL 2023 G-I, DGK 2026, GRW 2021)",
-      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (SWL 2023 G-I, DGK 2026, GRW 2021)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (SWL 2023 G-I, DGK 2026, GRW 2021)",
-      "statementUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (SWL 2023 G-I, DGK 2026, GRW 2021)"
+      "id": 7,
+      "subNo": 7,
+      "statementEn": "What effect is observed when parameters of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) are doubled or halved? Explain briefly.",
+      "statementUr": "اگر Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "questionEn": "What effect is observed when parameters of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) are doubled or halved? Explain briefly.",
+      "questionUr": "اگر Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "answerEn": "Standard textbook solution and definition for Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-8",
-      "questionEn": "[Textbook Exercise Q.2] State the core definition, conditions, and textbook characteristics of Chemical Equilibrium. (GRW 2026 G-II)",
-      "questionUr": "[مشقی سوال 2] کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (GRW 2026 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Textbook Exercise Q.2] State the core definition, conditions, and textbook characteristics of Chemical Equilibrium. (GRW 2026 G-II)",
-      "statementUr": "[مشقی سوال 2] کیمیائی توازن (کیمیکل ایکوی لبریم) کی بنیادی تعریف، شرائط اور درسی خصوصیات تحریر کریں۔ (GRW 2026 G-II)"
+      "id": 8,
+      "subNo": 8,
+      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Reversible and Irreversible Reactions.",
+      "statementUr": "Reversible and Irreversible Reactions کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Reversible and Irreversible Reactions.",
+      "questionUr": "Reversible and Irreversible Reactions کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "answerEn": "Standard textbook solution and definition for Reversible and Irreversible Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Reversible and Irreversible Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-9",
-      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 30 units and time is 5 seconds. (SGD 2022 G-I, DGK 2024)",
-      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (SGD 2022 G-I, DGK 2024)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 30 units and time is 5 seconds. (SGD 2022 G-I, DGK 2024)",
-      "statementUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 30 اکائیاں اور وقت 5 سیکنڈ ہو۔ (SGD 2022 G-I, DGK 2024)"
+      "id": 9,
+      "subNo": 9,
+      "statementEn": "Explain the conceptual significance of studying Dynamic Equilibrium State according to textbook learning outcomes.",
+      "statementUr": "نصابی مقاصد کے مطابق Dynamic Equilibrium State کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "questionEn": "Explain the conceptual significance of studying Dynamic Equilibrium State according to textbook learning outcomes.",
+      "questionUr": "نصابی مقاصد کے مطابق Dynamic Equilibrium State کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for Dynamic Equilibrium State conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Dynamic Equilibrium State کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-10",
-      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (RWP 2025 G-II)",
-      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (RWP 2025 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (RWP 2025 G-II)",
-      "statementUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (RWP 2025 G-II)"
+      "id": 10,
+      "subNo": 10,
+      "statementEn": "Name the key factors that increase or decrease the efficiency of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "questionEn": "Name the key factors that increase or decrease the efficiency of Macroscopic Characteristics of Forward and Reverse Reactions.",
+      "questionUr": "Macroscopic Characteristics of Forward and Reverse Reactions کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for Macroscopic Characteristics of Forward and Reverse Reactions conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Macroscopic Characteristics of Forward and Reverse Reactions کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-11",
-      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (BWP 2021 G-I, GRW 2025, FSD 2020)",
-      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (BWP 2021 G-I, GRW 2025, FSD 2020)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (BWP 2021 G-I, GRW 2025, FSD 2020)",
-      "statementUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (BWP 2021 G-I, GRW 2025, FSD 2020)"
+      "id": 11,
+      "subNo": 11,
+      "statementEn": "How does Law of Mass Action (Guldberg & Waage) contribute to environmental balance or industrial processes?",
+      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Law of Mass Action (Guldberg & Waage) کیا کردار ادا کرتا ہے؟",
+      "questionEn": "How does Law of Mass Action (Guldberg & Waage) contribute to environmental balance or industrial processes?",
+      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Law of Mass Action (Guldberg & Waage) کیا کردار ادا کرتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for Law of Mass Action (Guldberg & Waage) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Law of Mass Action (Guldberg & Waage) کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
-      "id": "sq-sol-12",
-      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 60 units and time is 5 seconds. (FSD 2024 G-II)",
-      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 60 اکائیاں اور وقت 5 سیکنڈ ہو۔ (FSD 2024 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 60 units and time is 5 seconds. (FSD 2024 G-II)",
-      "statementUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 60 اکائیاں اور وقت 5 سیکنڈ ہو۔ (FSD 2024 G-II)"
-    },
-    {
-      "id": "sq-sol-13",
-      "questionEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (DGK 2020 G-I, GRW 2023)",
-      "questionUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (DGK 2020 G-I, GRW 2023)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Past Board Paper] Give scientific reason and two key points regarding Chemical Equilibrium as asked in recent examinations. (DGK 2020 G-I, GRW 2023)",
-      "statementUr": "[سابقہ بورڈ پرچہ] کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق سابقہ امتحانات میں پوچھا گیا سائنسی استدلال اور دو اہم نکات تحریر کریں۔ (DGK 2020 G-I, GRW 2023)"
-    },
-    {
-      "id": "sq-sol-14",
-      "questionEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (MTN 2023 G-II)",
-      "questionUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (MTN 2023 G-II)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[In-Text Box / Point to Ponder] State the scientific reasoning behind the box fact observed in Chemical Equilibrium. (MTN 2023 G-II)",
-      "statementUr": "[چیپٹر کے اندر سے: معلوماتی بکس] کیمیائی توازن (کیمیکل ایکوی لبریم) کے درسی معلوماتی باکس سے متعلق سائنسی و منطقی وجہ بیان کریں۔ (MTN 2023 G-II)"
-    },
-    {
-      "id": "sq-sol-15",
-      "questionEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 90 units and time is 5 seconds. (LHR 2026 G-I, FSD 2024, SWL 2026)",
-      "questionUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 90 اکائیاں اور وقت 5 سیکنڈ ہو۔ (LHR 2026 G-I, FSD 2024, SWL 2026)",
-      "answerEn": "Standard textbook definition, governing formula, and board-level solution according to PTBB curriculum.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق جامع و مستند ماڈل جواب اور متعلقہ کلیہ۔",
-      "marks": 2,
-      "statementEn": "[Numerical Problem] Solve and calculate the required textbook value in Chemical Equilibrium when initial magnitude is 90 units and time is 5 seconds. (LHR 2026 G-I, FSD 2024, SWL 2026)",
-      "statementUr": "[حسابی مسئلہ] کیمیائی توازن (کیمیکل ایکوی لبریم) کے تحت حسابی سوال حل کریں جب ابتدائی قیمت 90 اکائیاں اور وقت 5 سیکنڈ ہو۔ (LHR 2026 G-I, FSD 2024, SWL 2026)"
+      "id": 12,
+      "subNo": 12,
+      "statementEn": "Solve the conceptual problem: State what happens to a system when Derivation of Equilibrium Constant Expression (Kc) reaches equilibrium.",
+      "statementUr": "تصوراتی سوال کا جواب دیں: جب Derivation of Equilibrium Constant Expression (Kc) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "questionEn": "Solve the conceptual problem: State what happens to a system when Derivation of Equilibrium Constant Expression (Kc) reaches equilibrium.",
+      "questionUr": "تصوراتی سوال کا جواب دیں: جب Derivation of Equilibrium Constant Expression (Kc) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for Derivation of Equilibrium Constant Expression (Kc) conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Derivation of Equilibrium Constant Expression (Kc) کا مستند ماڈل جواب۔",
+      "marks": 2
     }
   ],
-  "long_questions": [
+  "longQuestions": [
     {
-      "id": "lq-sol-1",
-      "questionEn": "[Past Board Paper] State and explain Rutherford's Atomic Model based on Gold Foil Experiment. Mention its defects. (LHR 2021 G-II)",
-      "questionUr": "[سابقہ بورڈ پرچہ] گولڈ فوائل تجربے کی بنیاد پر ردرفورڈ کا ایٹمی ماڈل بیان کریں اور اس کے نقائص تحریر کریں۔ (LHR 2021 G-II)",
-      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
-      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
-      "marks": 5,
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "[Past Board Paper] State and explain Rutherford's Atomic Model based on Gold Foil Experiment. Mention its defects. (LHR 2021 G-II)",
-          "statementUr": "[سابقہ بورڈ پرچہ] گولڈ فوائل تجربے کی بنیاد پر ردرفورڈ کا ایٹمی ماڈل بیان کریں اور اس کے نقائص تحریر کریں۔ (LHR 2021 G-II)",
+          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Reversible and Irreversible Reactions.",
+          "statementUr": "Reversible and Irreversible Reactions کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Solve numerical/analytical problem on Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اہم حسابی یا تجزیاتی سوال حل کریں۔",
+          "statementEn": "Calculate the concentration or solve the stoichiometric problem related to Dynamic Equilibrium State.",
+          "statementUr": "Dynamic Equilibrium State سے متعلق مولر کنسنٹریشن کا حسابی سوال حل کریں۔",
           "marks": 4,
           "isNumerical": true
         }
       ]
     },
     {
-      "id": "lq-sol-2",
-      "questionEn": "Discuss in detail the fundamental laws, theoretical derivation, and working principles of Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی قوانین، مساوات کے اخراج اور عملی طریقہ کار پر تفصیلی نوٹ تحریر کریں۔",
-      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
-      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
-      "marks": 5,
+      "id": 2,
+      "qNo": 6,
+      "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Discuss in detail the fundamental laws, theoretical derivation, and working principles of Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی قوانین، مساوات کے اخراج اور عملی طریقہ کار پر تفصیلی نوٹ تحریر کریں۔",
+          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Macroscopic Characteristics of Forward and Reverse Reactions.",
+          "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Solve numerical/analytical problem on Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اہم حسابی یا تجزیاتی سوال حل کریں۔",
+          "statementEn": "Calculate the concentration or solve the stoichiometric problem related to Law of Mass Action (Guldberg & Waage).",
+          "statementUr": "Law of Mass Action (Guldberg & Waage) سے متعلق مولر کنسنٹریشن کا حسابی سوال حل کریں۔",
           "marks": 4,
           "isNumerical": true
         }
       ]
     },
     {
-      "id": "lq-sol-3",
-      "questionEn": "Explain the experimental verification, graph analysis, and mathematical formulation related to Chemical Equilibrium.",
-      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔",
-      "detailedAnswerEn": "Comprehensive theoretical derivation with neat labeled schematic and complete numerical steps with standard SI units.",
-      "detailedAnswerUr": "مکمل تفصیلی وضاحت، حسابی مسئلہ کا فارمولا اور ایس آئی یونٹس کے ساتھ مستند حل۔",
-      "marks": 5,
+      "id": 3,
+      "qNo": 7,
+      "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Explain the experimental verification, graph analysis, and mathematical formulation related to Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق تجرباتی تصدیق، گرافیکل تجزیہ اور ریاضیاتی کلیہ کی مکمل وضاحت کریں۔",
+          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Derivation of Equilibrium Constant Expression (Kc).",
+          "statementUr": "Derivation of Equilibrium Constant Expression (Kc) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Solve numerical/analytical problem on Chemical Equilibrium.",
-          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق اہم حسابی یا تجزیاتی سوال حل کریں۔",
+          "statementEn": "Calculate the concentration or solve the stoichiometric problem related to Units of Equilibrium Constant.",
+          "statementUr": "Units of Equilibrium Constant سے متعلق مولر کنسنٹریشن کا حسابی سوال حل کریں۔",
           "marks": 4,
           "isNumerical": true
         }

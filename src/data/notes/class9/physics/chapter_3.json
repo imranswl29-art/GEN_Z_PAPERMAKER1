@@ -10,1108 +10,964 @@
   },
   "titleEn": "Dynamics",
   "titleUr": "ڈائنامکس (قوت اور حرکت)",
-  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 9th Physics, Unit 3: Dynamics. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 9th طبیعیات، یونٹ 3: ڈائنامکس (قوت اور حرکت) کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
+  "summaryEn": "Dynamics studies the causes of motion and changes in motion. Covers force, inertia, momentum, Newton's three laws of motion, mass and weight, tension and acceleration in string (Atwood machine), law of conservation of momentum, friction, and centripetal force.",
+  "summaryUr": "ڈائنامکس میں حرکت کے اسباب اور فورس کا مطالعہ کیا جاتا ہے۔ اس باب میں فورس، انرشیا، مومنٹم، نیوٹن کے قوانینِ حرکت، ماس اور وزن میں فرق، سٹرنگ میں ٹینشن، بقائے مومنٹم کا قانون، فرکشن اور سینٹری پیٹل فورس شامل ہیں۔",
   "curriculum": "PTBB Curriculum 2026",
   "slos": [
     {
       "code": "SLO-01",
       "domain": "Knowledge",
-      "text_en": "Define and identify fundamental terms, principles, and concepts related to Dynamics.",
-      "text_ur": "ڈائنامکس (قوت اور حرکت) کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
+      "text_en": "Understand core principles of Dynamics.",
+      "text_ur": "ڈائنامکس (قوت اور حرکت) کے بنیادی اصول سمجھیں۔"
     },
     {
       "code": "SLO-02",
-      "domain": "Knowledge",
-      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Dynamics.",
-      "text_ur": "ڈائنامکس (قوت اور حرکت) کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
+      "domain": "Understanding",
+      "text_en": "Explain theoretical mechanisms and laws of Dynamics.",
+      "text_ur": "ڈائنامکس (قوت اور حرکت) کے سائنسی قوانین کی وضاحت کریں۔"
     },
     {
       "code": "SLO-03",
-      "domain": "Understanding",
-      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Dynamics.",
-      "text_ur": "ڈائنامکس (قوت اور حرکت) کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
-    },
-    {
-      "code": "SLO-04",
-      "domain": "Understanding",
-      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Dynamics.",
-      "text_ur": "ڈائنامکس (قوت اور حرکت) کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
-    },
-    {
-      "code": "SLO-05",
       "domain": "Application",
-      "text_en": "Apply theoretical principles of Dynamics to solve standard board exam analytical questions and practical problems.",
-      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے ڈائنامکس (قوت اور حرکت) کے اصولوں کا اطلاق کریں۔"
+      "text_en": "Apply theoretical principles to solve board examination questions for Dynamics.",
+      "text_ur": "ڈائنامکس (قوت اور حرکت) کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
     }
   ],
   "mcqs": [
     {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "The primary scientific concept or definition established in Unit 3 is:",
-      "question_ur": "یونٹ نمبر 3 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
-      "questionEn": "The primary scientific concept or definition established in Unit 3 is:",
-      "questionUr": "یونٹ نمبر 3 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
-      "options_en": {
-        "A": "Fundamental principle of Dynamics",
-        "B": "Hypothetical auxiliary factor",
-        "C": "Secondary random observation",
-        "D": "Unrelated physical magnitude"
-      },
-      "options_ur": {
-        "A": "ڈائنامکس (قوت اور حرکت) کا بنیادی سائنسی اصول",
-        "B": "فرضی اضافی عنصر",
-        "C": "ثانوی غیر متعلقہ مشاہدہ",
-        "D": "غیر متعلقہ طبعی مقدار"
-      },
+      "statementEn": "The property of a body to resist any change in its state of rest or motion is called:",
+      "statementUr": "کسی جسم کی وہ خاصیت جس کی وجہ سے وہ اپنی ریسٹ یا حرکت کی حالت میں تبدیلی کی مخالفت کرے، کہلاتی ہے:",
+      "questionEn": "The property of a body to resist any change in its state of rest or motion is called:",
+      "questionUr": "کسی جسم کی وہ خاصیت جس کی وجہ سے وہ اپنی ریسٹ یا حرکت کی حالت میں تبدیلی کی مخالفت کرے، کہلاتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Inertia",
+          "textUr": "انرشیا (جمود)"
+        },
+        {
+          "key": "B",
+          "textEn": "Momentum",
+          "textUr": "مومنٹم"
+        },
+        {
+          "key": "C",
+          "textEn": "Force",
+          "textUr": "فورس"
+        },
+        {
+          "key": "D",
+          "textEn": "Friction",
+          "textUr": "فرکشن"
+        }
+      ],
       "optionsEn": [
-        "Fundamental principle of Dynamics",
-        "Hypothetical auxiliary factor",
-        "Secondary random observation",
-        "Unrelated physical magnitude"
+        "Inertia",
+        "Momentum",
+        "Force",
+        "Friction"
       ],
       "optionsUr": [
-        "ڈائنامکس (قوت اور حرکت) کا بنیادی سائنسی اصول",
-        "فرضی اضافی عنصر",
-        "ثانوی غیر متعلقہ مشاہدہ",
-        "غیر متعلقہ طبعی مقدار"
+        "انرشیا (جمود)",
+        "مومنٹم",
+        "فورس",
+        "فرکشن"
       ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Dynamics.",
-      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو ڈائنامکس (قوت اور حرکت) کے لیے بنیادی قرار دیا گیا ہے۔",
-      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Dynamics.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو ڈائنامکس (قوت اور حرکت) کے لیے بنیادی قرار دیا گیا ہے۔",
-      "statementEn": "The primary scientific concept or definition established in Unit 3 is:",
-      "statementUr": "یونٹ نمبر 3 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:"
+      "explanationEn": "Inertia depends on the mass of the body and resists state change.",
+      "explanationUr": "انرشیا جسم کے ماس پر منحصر ہے اور حالت کی تبدیلی کی مخالفت کرتا ہے۔"
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-02",
-      "question_en": "Which one of the following is the key characteristic feature of Dynamics?",
-      "question_ur": "مندرجہ ذیل میں سے کون سی ڈائنامکس (قوت اور حرکت) کی کلیدی خصوصیت ہے؟",
-      "questionEn": "Which one of the following is the key characteristic feature of Dynamics?",
-      "questionUr": "مندرجہ ذیل میں سے کون سی ڈائنامکس (قوت اور حرکت) کی کلیدی خصوصیت ہے؟",
-      "options_en": {
-        "A": "Random non-repeatable outcome",
-        "B": "Total absence of governing law",
-        "C": "Unverifiable speculation",
-        "D": "High precision and universal validity"
-      },
-      "options_ur": {
-        "A": "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
-        "B": "بنیادی قانون کی مکمل عدم موجودگی",
-        "C": "غیر تصدیق شدہ قیاس آرائی",
-        "D": "اعلیٰ درستگی اور آفاقی اطلاق"
-      },
+      "statementEn": "Newton's first law of motion is also known as the law of:",
+      "statementUr": "نیوٹن کا پہلا قانونِ حرکت کیا کہلاتا ہے:",
+      "questionEn": "Newton's first law of motion is also known as the law of:",
+      "questionUr": "نیوٹن کا پہلا قانونِ حرکت کیا کہلاتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Inertia",
+          "textUr": "قانونِ جمود (انرشیا)"
+        },
+        {
+          "key": "B",
+          "textEn": "Conservation",
+          "textUr": "قانونِ بقا"
+        },
+        {
+          "key": "C",
+          "textEn": "Acceleration",
+          "textUr": "قانونِ ایکسلریشن"
+        },
+        {
+          "key": "D",
+          "textEn": "Gravitation",
+          "textUr": "قانونِ کششِ ثقل"
+        }
+      ],
       "optionsEn": [
-        "Random non-repeatable outcome",
-        "Total absence of governing law",
-        "Unverifiable speculation",
-        "High precision and universal validity"
+        "Inertia",
+        "Conservation",
+        "Acceleration",
+        "Gravitation"
       ],
       "optionsUr": [
-        "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
-        "بنیادی قانون کی مکمل عدم موجودگی",
-        "غیر تصدیق شدہ قیاس آرائی",
-        "اعلیٰ درستگی اور آفاقی اطلاق"
+        "قانونِ جمود (انرشیا)",
+        "قانونِ بقا",
+        "قانونِ ایکسلریشن",
+        "قانونِ کششِ ثقل"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "According to board examination standards, Dynamics exhibits rigorous scientific consistency and validity.",
-      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، ڈائنامکس (قوت اور حرکت) سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
-      "explanationEn": "According to board examination standards, Dynamics exhibits rigorous scientific consistency and validity.",
-      "explanationUr": "بورڈ امتحانی معیار کے مطابق، ڈائنامکس (قوت اور حرکت) سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
-      "statementEn": "Which one of the following is the key characteristic feature of Dynamics?",
-      "statementUr": "مندرجہ ذیل میں سے کون سی ڈائنامکس (قوت اور حرکت) کی کلیدی خصوصیت ہے؟"
-    },
-    {
-      "id": 3,
-      "slo_ref": "SLO-03",
-      "question_en": "In standard Punjab Board examinations, Dynamics is classified under:",
-      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق ڈائنامکس (قوت اور حرکت) کا تعلق کس سے ہے؟",
-      "questionEn": "In standard Punjab Board examinations, Dynamics is classified under:",
-      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق ڈائنامکس (قوت اور حرکت) کا تعلق کس سے ہے؟",
-      "options_en": {
-        "A": "Non-compulsory elective",
-        "B": "Out-of-syllabus literature",
-        "C": "Core Science Curriculum 2026",
-        "D": "Applied Science stream"
-      },
-      "options_ur": {
-        "A": "غیر اختیاری مضمون",
-        "B": "غیر نصابی ادب",
-        "C": "بنیادی سائنس نصاب 2026",
-        "D": "اطلاقی سائنس گروپ"
-      },
-      "optionsEn": [
-        "Non-compulsory elective",
-        "Out-of-syllabus literature",
-        "Core Science Curriculum 2026",
-        "Applied Science stream"
-      ],
-      "optionsUr": [
-        "غیر اختیاری مضمون",
-        "غیر نصابی ادب",
-        "بنیادی سائنس نصاب 2026",
-        "اطلاقی سائنس گروپ"
-      ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
-      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
-      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
-      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
-      "statementEn": "In standard Punjab Board examinations, Dynamics is classified under:",
-      "statementUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق ڈائنامکس (قوت اور حرکت) کا تعلق کس سے ہے؟"
-    },
-    {
-      "id": 4,
-      "slo_ref": "SLO-04",
-      "question_en": "What happens when the controlling parameters of Dynamics are optimized?",
-      "question_ur": "جب ڈائنامکس (قوت اور حرکت) کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
-      "questionEn": "What happens when the controlling parameters of Dynamics are optimized?",
-      "questionUr": "جب ڈائنامکس (قوت اور حرکت) کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
-      "options_en": {
-        "A": "Output drops to zero",
-        "B": "The process achieves optimal efficiency and stability",
-        "C": "The mechanism completely ceases",
-        "D": "Spontaneous chaotic degradation occurs"
-      },
-      "options_ur": {
-        "A": "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
-        "B": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
-        "C": "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
-        "D": "بے ترتیبی کا عمل شروع ہوتا ہے"
-      },
-      "optionsEn": [
-        "Output drops to zero",
-        "The process achieves optimal efficiency and stability",
-        "The mechanism completely ceases",
-        "Spontaneous chaotic degradation occurs"
-      ],
-      "optionsUr": [
-        "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
-        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے",
-        "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
-        "بے ترتیبی کا عمل شروع ہوتا ہے"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
-      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
-      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
-      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
-      "statementEn": "What happens when the controlling parameters of Dynamics are optimized?",
-      "statementUr": "جب ڈائنامکس (قوت اور حرکت) کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟"
-    },
-    {
-      "id": 5,
-      "slo_ref": "SLO-05",
-      "question_en": "The mathematical or logical relationship established in Dynamics indicates that:",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The mathematical or logical relationship established in Dynamics indicates that:",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
-      "options_en": {
-        "A": "Direct functional interdependence between variables",
-        "B": "Inverse random unpredictability",
-        "C": "Complete independence with zero correlation",
-        "D": "Undefined asymptotic discontinuity"
-      },
-      "options_ur": {
-        "A": "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
-        "B": "غیر متوقع معکوس بے ترتیبی",
-        "C": "بغیر تعلق کے مکمل آزادی",
-        "D": "غیر واضح عدم تسلسل"
-      },
-      "optionsEn": [
-        "Direct functional interdependence between variables",
-        "Inverse random unpredictability",
-        "Complete independence with zero correlation",
-        "Undefined asymptotic discontinuity"
-      ],
-      "optionsUr": [
-        "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
-        "غیر متوقع معکوس بے ترتیبی",
-        "بغیر تعلق کے مکمل آزادی",
-        "غیر واضح عدم تسلسل"
-      ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
-      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
-      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
-      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
-      "statementEn": "The mathematical or logical relationship established in Dynamics indicates that:",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟"
+      "explanationEn": "Newton's first law is the Law of Inertia.",
+      "explanationUr": "نیوٹن کے پہلے قانون کو قانونِ جمود بھی کہتے ہیں۔"
     },
     {
-      "id": 6,
-      "slo_ref": "SLO-01",
-      "question_en": "Which instrument or standard methodology is used for accurate analysis in Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
-      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
-      "options_en": {
-        "A": "Rough visual estimation only",
-        "B": "Uncontrolled subjective guesswork",
-        "C": "Arbitrary non-standard scale",
-        "D": "Standard calibrated laboratory technique"
-      },
-      "options_ur": {
-        "A": "صرف سرسری بصری اندازہ",
-        "B": "غیر تصدیق شدہ ذاتی رائے",
-        "C": "غیر معیاری پیمانہ",
-        "D": "معیاری کیلیبریٹڈ لیبارٹری تکنیک"
-      },
+      "statementEn": "The SI unit of momentum is:",
+      "statementUr": "مومنٹم کا ایس آئی یونٹ ہے:",
+      "questionEn": "The SI unit of momentum is:",
+      "questionUr": "مومنٹم کا ایس آئی یونٹ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "kg m s⁻¹ (or N s)",
+          "textUr": "کلوگرام میٹر فی سیکنڈ (نیوٹن سیکنڈ)"
+        },
+        {
+          "key": "B",
+          "textEn": "N m",
+          "textUr": "نیوٹن میٹر"
+        },
+        {
+          "key": "C",
+          "textEn": "kg m s⁻²",
+          "textUr": "کلوگرام میٹر فی سیکنڈ مربع"
+        },
+        {
+          "key": "D",
+          "textEn": "J s",
+          "textUr": "جول سیکنڈ"
+        }
+      ],
       "optionsEn": [
-        "Rough visual estimation only",
-        "Uncontrolled subjective guesswork",
-        "Arbitrary non-standard scale",
-        "Standard calibrated laboratory technique"
+        "kg m s⁻¹ (or N s)",
+        "N m",
+        "kg m s⁻²",
+        "J s"
       ],
       "optionsUr": [
-        "صرف سرسری بصری اندازہ",
-        "غیر تصدیق شدہ ذاتی رائے",
-        "غیر معیاری پیمانہ",
-        "معیاری کیلیبریٹڈ لیبارٹری تکنیک"
+        "کلوگرام میٹر فی سیکنڈ (نیوٹن سیکنڈ)",
+        "نیوٹن میٹر",
+        "کلوگرام میٹر فی سیکنڈ مربع",
+        "جول سیکنڈ"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
-      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
-      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
-      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
-      "statementEn": "Which instrument or standard methodology is used for accurate analysis in Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟"
-    },
-    {
-      "id": 7,
-      "slo_ref": "SLO-02",
-      "question_en": "Under standard conditions, the expected response in Dynamics is:",
-      "question_ur": "معیاری شرائط کے تحت ڈائنامکس (قوت اور حرکت) کا متوقع ردعمل کیا ہوتا ہے؟",
-      "questionEn": "Under standard conditions, the expected response in Dynamics is:",
-      "questionUr": "معیاری شرائط کے تحت ڈائنامکس (قوت اور حرکت) کا متوقع ردعمل کیا ہوتا ہے؟",
-      "options_en": {
-        "A": "Zero under all environments",
-        "B": "Inverse to natural principles",
-        "C": "Reproducible and consistent with theoretical SLOs",
-        "D": "Erratic and unpredictable"
-      },
-      "options_ur": {
-        "A": "ہر ماحول میں صفر",
-        "B": "قدرتی قوانین کے متضاد",
-        "C": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
-        "D": "غیر متوازن اور غیر متوقع"
-      },
-      "optionsEn": [
-        "Zero under all environments",
-        "Inverse to natural principles",
-        "Reproducible and consistent with theoretical SLOs",
-        "Erratic and unpredictable"
-      ],
-      "optionsUr": [
-        "ہر ماحول میں صفر",
-        "قدرتی قوانین کے متضاد",
-        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
-        "غیر متوازن اور غیر متوقع"
-      ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
-      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
-      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
-      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
-      "statementEn": "Under standard conditions, the expected response in Dynamics is:",
-      "statementUr": "معیاری شرائط کے تحت ڈائنامکس (قوت اور حرکت) کا متوقع ردعمل کیا ہوتا ہے؟"
-    },
-    {
-      "id": 8,
-      "slo_ref": "SLO-03",
-      "question_en": "In board past papers, a frequently tested conceptual query on Dynamics addresses:",
-      "question_ur": "بورڈ کے سابقہ پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
-      "questionEn": "In board past papers, a frequently tested conceptual query on Dynamics addresses:",
-      "questionUr": "بورڈ کے سابقہ پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
-      "options_en": {
-        "A": "Superficial general knowledge",
-        "B": "The exact governing definition and limiting conditions",
-        "C": "Historical publication date only",
-        "D": "Author's biographical footnotes"
-      },
-      "options_ur": {
-        "A": "غیر متعلقہ عمومی معلومات",
-        "B": "بنیادی تعریف اور شرائط و حدود",
-        "C": "صرف تاریخی اشاعت کی تاریخ",
-        "D": "مصنف کے سوانحی حواشی"
-      },
-      "optionsEn": [
-        "Superficial general knowledge",
-        "The exact governing definition and limiting conditions",
-        "Historical publication date only",
-        "Author's biographical footnotes"
-      ],
-      "optionsUr": [
-        "غیر متعلقہ عمومی معلومات",
-        "بنیادی تعریف اور شرائط و حدود",
-        "صرف تاریخی اشاعت کی تاریخ",
-        "مصنف کے سوانحی حواشی"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
-      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
-      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
-      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
-      "statementEn": "In board past papers, a frequently tested conceptual query on Dynamics addresses:",
-      "statementUr": "بورڈ کے سابقہ پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:"
-    },
-    {
-      "id": 9,
-      "slo_ref": "SLO-04",
-      "question_en": "What is the significant advantage of understanding Dynamics in modern science?",
-      "question_ur": "جدید سائنس میں ڈائنامکس (قوت اور حرکت) کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
-      "questionEn": "What is the significant advantage of understanding Dynamics in modern science?",
-      "questionUr": "جدید سائنس میں ڈائنامکس (قوت اور حرکت) کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
-      "options_en": {
-        "A": "Enables critical analytical thinking and technological application",
-        "B": "Only rote memorization for single exam",
-        "C": "Has no application outside classroom",
-        "D": "Limited to theoretical speculation"
-      },
-      "options_ur": {
-        "A": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
-        "B": "صرف وقتی رٹہ بازی تک محدود",
-        "C": "کلاس روم سے باہر کوئی اطلاق نہیں",
-        "D": "صرف فرضی نظریات تک محدود"
-      },
-      "optionsEn": [
-        "Enables critical analytical thinking and technological application",
-        "Only rote memorization for single exam",
-        "Has no application outside classroom",
-        "Limited to theoretical speculation"
-      ],
-      "optionsUr": [
-        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
-        "صرف وقتی رٹہ بازی تک محدود",
-        "کلاس روم سے باہر کوئی اطلاق نہیں",
-        "صرف فرضی نظریات تک محدود"
-      ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
-      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
-      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
-      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
-      "statementEn": "What is the significant advantage of understanding Dynamics in modern science?",
-      "statementUr": "جدید سائنس میں ڈائنامکس (قوت اور حرکت) کے ادراک کا سب سے بڑا فائدہ کیا ہے؟"
+      "explanationEn": "Momentum p = mv has units kg·m/s = N·s.",
+      "explanationUr": "مومنٹم p = mv کا یونٹ کلوگرام میٹر فی سیکنڈ یعنی نیوٹن سیکنڈ ہے۔"
     },
     {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "Which of the following statements is 100% correct regarding Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
-      "questionEn": "Which of the following statements is 100% correct regarding Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
-      "options_en": {
-        "A": "It is only valid for non-science students",
-        "B": "It has been excluded from recent syllabus",
-        "C": "It contains only subjective narratives",
-        "D": "It complies strictly with Punjab Board Curriculum 2026 guidelines"
-      },
-      "options_ur": {
-        "A": "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
-        "B": "اسے حالیہ نصاب سے نکال دیا گیا ہے",
-        "C": "اس میں صرف غیر سائنسی بیانات ہیں",
-        "D": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے"
-      },
+      "statementEn": "The rate of change of momentum of an object is equal to the applied:",
+      "statementUr": "کسی جسم کے مومنٹم میں تبدیلی کی شرح برابر ہوتی ہے:",
+      "questionEn": "The rate of change of momentum of an object is equal to the applied:",
+      "questionUr": "کسی جسم کے مومنٹم میں تبدیلی کی شرح برابر ہوتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Net Force",
+          "textUr": "نیٹ فورس کے"
+        },
+        {
+          "key": "B",
+          "textEn": "Acceleration",
+          "textUr": "ایکسلریشن کے"
+        },
+        {
+          "key": "C",
+          "textEn": "Velocity",
+          "textUr": "ویلوسٹی کے"
+        },
+        {
+          "key": "D",
+          "textEn": "Kinetic Energy",
+          "textUr": "کائنیٹک انرجی کے"
+        }
+      ],
       "optionsEn": [
-        "It is only valid for non-science students",
-        "It has been excluded from recent syllabus",
-        "It contains only subjective narratives",
-        "It complies strictly with Punjab Board Curriculum 2026 guidelines"
+        "Net Force",
+        "Acceleration",
+        "Velocity",
+        "Kinetic Energy"
       ],
       "optionsUr": [
-        "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
-        "اسے حالیہ نصاب سے نکال دیا گیا ہے",
-        "اس میں صرف غیر سائنسی بیانات ہیں",
-        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے"
+        "نیٹ فورس کے",
+        "ایکسلریشن کے",
+        "ویلوسٹی کے",
+        "کائنیٹک انرجی کے"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
-      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
-      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
-      "statementEn": "Which of the following statements is 100% correct regarding Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟"
-    },
-    {
-      "id": 11,
-      "slo_ref": "SLO-01",
-      "question_en": "The standard unit, formula, or fundamental rule applied in Dynamics ensures:",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
-      "questionEn": "The standard unit, formula, or fundamental rule applied in Dynamics ensures:",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
-      "options_en": {
-        "A": "Ambiguity in scientific computation",
-        "B": "Uncalibrated relative indices",
-        "C": "International standardization and measurement consistency",
-        "D": "Localized non-comparable values"
-      },
-      "options_ur": {
-        "A": "حسابی عمل میں ابہام",
-        "B": "غیر معیاری پیمائشی نظام",
-        "C": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
-        "D": "غیر موازنہ مقامی اقدار"
-      },
-      "optionsEn": [
-        "Ambiguity in scientific computation",
-        "Uncalibrated relative indices",
-        "International standardization and measurement consistency",
-        "Localized non-comparable values"
-      ],
-      "optionsUr": [
-        "حسابی عمل میں ابہام",
-        "غیر معیاری پیمائشی نظام",
-        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
-        "غیر موازنہ مقامی اقدار"
-      ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
-      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
-      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
-      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
-      "statementEn": "The standard unit, formula, or fundamental rule applied in Dynamics ensures:",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟"
-    },
-    {
-      "id": 12,
-      "slo_ref": "SLO-02",
-      "question_en": "When comparing Dynamics with analogous systems, its primary distinction is:",
-      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت ڈائنامکس (قوت اور حرکت) کی بنیادی امتیازی خصوصیت ہے:",
-      "questionEn": "When comparing Dynamics with analogous systems, its primary distinction is:",
-      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت ڈائنامکس (قوت اور حرکت) کی بنیادی امتیازی خصوصیت ہے:",
-      "options_en": {
-        "A": "Complete identity without difference",
-        "B": "Specific textbook parameters and unique behavioral properties",
-        "C": "Total lack of measurable traits",
-        "D": "Random erratic variations"
-      },
-      "options_ur": {
-        "A": "بغیر فرق کے مکمل مشابہت",
-        "B": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
-        "C": "ناپنے کے قابل خصوصیات کا فقدان",
-        "D": "غیر مستحکم بے قاعدہ تبدیلیاں"
-      },
-      "optionsEn": [
-        "Complete identity without difference",
-        "Specific textbook parameters and unique behavioral properties",
-        "Total lack of measurable traits",
-        "Random erratic variations"
-      ],
-      "optionsUr": [
-        "بغیر فرق کے مکمل مشابہت",
-        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات",
-        "ناپنے کے قابل خصوصیات کا فقدان",
-        "غیر مستحکم بے قاعدہ تبدیلیاں"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
-      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
-      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
-      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
-      "statementEn": "When comparing Dynamics with analogous systems, its primary distinction is:",
-      "statementUr": "مماثل نظاموں سے موازنہ کرتے وقت ڈائنامکس (قوت اور حرکت) کی بنیادی امتیازی خصوصیت ہے:"
-    },
-    {
-      "id": 13,
-      "slo_ref": "SLO-03",
-      "question_en": "A student observing an experimental setup for Dynamics must ensure:",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
-      "questionEn": "A student observing an experimental setup for Dynamics must ensure:",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
-      "options_en": {
-        "A": "Minimization of systematic and personal errors",
-        "B": "Ignoring zero errors completely",
-        "C": "Using unverified rough measurements",
-        "D": "Omitting observation records"
-      },
-      "options_ur": {
-        "A": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
-        "B": "زیرو ایرر کو مکمل نظر انداز کرنا",
-        "C": "غیر تصدیق شدہ اندازوں کا استعمال",
-        "D": "مشاہداتی ریکارڈ کو چھوڑ دینا"
-      },
-      "optionsEn": [
-        "Minimization of systematic and personal errors",
-        "Ignoring zero errors completely",
-        "Using unverified rough measurements",
-        "Omitting observation records"
-      ],
-      "optionsUr": [
-        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
-        "زیرو ایرر کو مکمل نظر انداز کرنا",
-        "غیر تصدیق شدہ اندازوں کا استعمال",
-        "مشاہداتی ریکارڈ کو چھوڑ دینا"
-      ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
-      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
-      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
-      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
-      "statementEn": "A student observing an experimental setup for Dynamics must ensure:",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟"
+      "explanationEn": "F = Δp / Δt: Rate of change of momentum equals applied net force.",
+      "explanationUr": "مومنٹم میں تبدیلی کی شرح لگائی گئی فورس کے برابر ہوتی ہے۔"
     },
     {
-      "id": 14,
-      "slo_ref": "SLO-04",
-      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
-      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
-      "options_en": {
-        "A": "Basic rote recall only",
-        "B": "Passive non-analytical reading",
-        "C": "Unstructured speculation",
-        "D": "Application and Higher Order Thinking"
-      },
-      "options_ur": {
-        "A": "صرف سادہ رٹہ بازی",
-        "B": "غیر تجزیاتی مطالعہ",
-        "C": "غیر منظم قیاس آرائی",
-        "D": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں"
-      },
+      "statementEn": "The mass of an object is 10 kg. Its weight on Earth (g = 10 m/s²) is:",
+      "statementUr": "ایک جسم کا ماس 10 کلوگرام ہے۔ زمین پر اس کا وزن کیا ہوگا:",
+      "questionEn": "The mass of an object is 10 kg. Its weight on Earth (g = 10 m/s²) is:",
+      "questionUr": "ایک جسم کا ماس 10 کلوگرام ہے۔ زمین پر اس کا وزن کیا ہوگا:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "100 N",
+          "textUr": "100 نیوٹن"
+        },
+        {
+          "key": "B",
+          "textEn": "10 N",
+          "textUr": "10 نیوٹن"
+        },
+        {
+          "key": "C",
+          "textEn": "1 N",
+          "textUr": "1 نیوٹن"
+        },
+        {
+          "key": "D",
+          "textEn": "980 N",
+          "textUr": "980 نیوٹن"
+        }
+      ],
       "optionsEn": [
-        "Basic rote recall only",
-        "Passive non-analytical reading",
-        "Unstructured speculation",
-        "Application and Higher Order Thinking"
+        "100 N",
+        "10 N",
+        "1 N",
+        "980 N"
       ],
       "optionsUr": [
-        "صرف سادہ رٹہ بازی",
-        "غیر تجزیاتی مطالعہ",
-        "غیر منظم قیاس آرائی",
-        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں"
+        "100 نیوٹن",
+        "10 نیوٹن",
+        "1 نیوٹن",
+        "980 نیوٹن"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
-      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
-      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
-      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
-      "statementEn": "Which SLO cognitive domain is primarily targeted by problem solving in Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Weight W = mg = 10 kg × 10 m/s² = 100 N.",
+      "explanationUr": "وزن W = mg یعنی 10 ضرب 10 = 100 نیوٹن۔"
     },
     {
-      "id": 15,
-      "slo_ref": "SLO-05",
-      "question_en": "Final examination questions from Dynamics are framed strictly according to:",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
-      "questionEn": "Final examination questions from Dynamics are framed strictly according to:",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
-      "options_en": {
-        "A": "Outdated foreign curriculum",
-        "B": "Informal social media guides",
-        "C": "Official PTBB 2026 Student Learning Outcomes (SLOs)",
-        "D": "Random internet questionnaires"
-      },
-      "options_ur": {
-        "A": "پرانا متروکہ غیر ملکی نصاب",
-        "B": "سوشل میڈیا کے غیر مصدقہ نوٹس",
-        "C": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
-        "D": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے"
-      },
+      "statementEn": "Action and reaction are always equal in magnitude but opposite in direction. This is Newton's:",
+      "statementUr": "ایکشن اور ری ایکشن ہمیشہ مقدار میں برابر لیکن سمت میں مخالف ہوتے ہیں، یہ نیوٹن کا کون سا قانون ہے:",
+      "questionEn": "Action and reaction are always equal in magnitude but opposite in direction. This is Newton's:",
+      "questionUr": "ایکشن اور ری ایکشن ہمیشہ مقدار میں برابر لیکن سمت میں مخالف ہوتے ہیں، یہ نیوٹن کا کون سا قانون ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Third Law",
+          "textUr": "تیسرا قانون"
+        },
+        {
+          "key": "B",
+          "textEn": "First Law",
+          "textUr": "پہلا قانون"
+        },
+        {
+          "key": "C",
+          "textEn": "Second Law",
+          "textUr": "دوسرا قانون"
+        },
+        {
+          "key": "D",
+          "textEn": "Law of Gravitation",
+          "textUr": "گریویٹیشن کا قانون"
+        }
+      ],
       "optionsEn": [
-        "Outdated foreign curriculum",
-        "Informal social media guides",
-        "Official PTBB 2026 Student Learning Outcomes (SLOs)",
-        "Random internet questionnaires"
+        "Third Law",
+        "First Law",
+        "Second Law",
+        "Law of Gravitation"
       ],
       "optionsUr": [
-        "پرانا متروکہ غیر ملکی نصاب",
-        "سوشل میڈیا کے غیر مصدقہ نوٹس",
-        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
-        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے"
+        "تیسرا قانون",
+        "پہلا قانون",
+        "دوسرا قانون",
+        "گریویٹیشن کا قانون"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
-      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
-      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
-      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
-      "statementEn": "Final examination questions from Dynamics are framed strictly according to:",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟"
-    }
-  ],
-  "short_questions": [
-    {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define Dynamics according to Punjab Textbook Board syllabus and state its core principle.",
-      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ڈائنامکس (قوت اور حرکت) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answer_en": "Dynamics represents a foundational unit of the Class 9th Physics syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answer_ur": "ڈائنامکس (قوت اور حرکت) Class 9th طبیعیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "questionEn": "Define Dynamics according to Punjab Textbook Board syllabus and state its core principle.",
-      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ڈائنامکس (قوت اور حرکت) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answerEn": "Dynamics represents a foundational unit of the Class 9th Physics syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answerUr": "ڈائنامکس (قوت اور حرکت) Class 9th طبیعیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "statementEn": "Define Dynamics according to Punjab Textbook Board syllabus and state its core principle.",
-      "statementUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ڈائنامکس (قوت اور حرکت) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Newton's Third Law states every action has an equal and opposite reaction.",
+      "explanationUr": "نیوٹن کا تیسرا قانون ایکشن اور ری ایکشن کی مساوات بیان کرتا ہے۔"
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "State two primary textbook terms or classifications introduced in Dynamics.",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "questionEn": "State two primary textbook terms or classifications introduced in Dynamics.",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "statementEn": "State two primary textbook terms or classifications introduced in Dynamics.",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔"
+      "statementEn": "A force of 20 N produces an acceleration of 5 m/s² in a body. The mass of the body is:",
+      "statementUr": "20 نیوٹن کی فورس کسی جسم میں 5 میٹر فی سیکنڈ مربع کا ایکسلریشن پیدا کرتی ہے، جسم کا ماس ہے:",
+      "questionEn": "A force of 20 N produces an acceleration of 5 m/s² in a body. The mass of the body is:",
+      "questionUr": "20 نیوٹن کی فورس کسی جسم میں 5 میٹر فی سیکنڈ مربع کا ایکسلریشن پیدا کرتی ہے، جسم کا ماس ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "4 kg",
+          "textUr": "4 کلوگرام"
+        },
+        {
+          "key": "B",
+          "textEn": "100 kg",
+          "textUr": "100 کلوگرام"
+        },
+        {
+          "key": "C",
+          "textEn": "15 kg",
+          "textUr": "15 کلوگرام"
+        },
+        {
+          "key": "D",
+          "textEn": "0.25 kg",
+          "textUr": "0.25 کلوگرام"
+        }
+      ],
+      "optionsEn": [
+        "4 kg",
+        "100 kg",
+        "15 kg",
+        "0.25 kg"
+      ],
+      "optionsUr": [
+        "4 کلوگرام",
+        "100 کلوگرام",
+        "15 کلوگرام",
+        "0.25 کلوگرام"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "m = F / a = 20 / 5 = 4 kg.",
+      "explanationUr": "ماس m = F / a یعنی 20 تقسیم 5 = 4 کلوگرام۔"
     },
     {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Write down the governing formula or rule of Dynamics along with its standard units or notation.",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "questionEn": "Write down the governing formula or rule of Dynamics along with its standard units or notation.",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "statementEn": "Write down the governing formula or rule of Dynamics along with its standard units or notation.",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔"
+      "statementEn": "Rolling friction is approximately how much smaller than sliding friction?",
+      "statementUr": "رولنگ فرکشن سلائیڈنگ فرکشن سے تقریباً کتنی گنا کم ہوتی ہے:",
+      "questionEn": "Rolling friction is approximately how much smaller than sliding friction?",
+      "questionUr": "رولنگ فرکشن سلائیڈنگ فرکشن سے تقریباً کتنی گنا کم ہوتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "100 times",
+          "textUr": "100 گنا"
+        },
+        {
+          "key": "B",
+          "textEn": "10 times",
+          "textUr": "10 گنا"
+        },
+        {
+          "key": "C",
+          "textEn": "2 times",
+          "textUr": "2 گنا"
+        },
+        {
+          "key": "D",
+          "textEn": "Equal",
+          "textUr": "برابر"
+        }
+      ],
+      "optionsEn": [
+        "100 times",
+        "10 times",
+        "2 times",
+        "Equal"
+      ],
+      "optionsUr": [
+        "100 گنا",
+        "10 گنا",
+        "2 گنا",
+        "برابر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Rolling friction is roughly 100 times smaller than sliding friction.",
+      "explanationUr": "رولنگ فرکشن سلائیڈنگ فرکشن کی نسبت تقریباً 100 گنا کم ہوتی ہے۔"
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between two contrasting aspects or categories studied in Dynamics.",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "questionEn": "Differentiate between two contrasting aspects or categories studied in Dynamics.",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "statementEn": "Differentiate between two contrasting aspects or categories studied in Dynamics.",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔"
+      "statementEn": "The force that keeps a body moving in a circular path is called:",
+      "statementUr": "کسی جسم کو دائروی راستے پر گھمانے والی فورس کہلاتی ہے:",
+      "questionEn": "The force that keeps a body moving in a circular path is called:",
+      "questionUr": "کسی جسم کو دائروی راستے پر گھمانے والی فورس کہلاتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Centripetal force",
+          "textUr": "سینٹری پیٹل فورس"
+        },
+        {
+          "key": "B",
+          "textEn": "Centrifugal force",
+          "textUr": "سینٹری فیوگل فورس"
+        },
+        {
+          "key": "C",
+          "textEn": "Gravitational force",
+          "textUr": "گریویٹیشنل فورس"
+        },
+        {
+          "key": "D",
+          "textEn": "Frictional force",
+          "textUr": "فرکشنل فورس"
+        }
+      ],
+      "optionsEn": [
+        "Centripetal force",
+        "Centrifugal force",
+        "Gravitational force",
+        "Frictional force"
+      ],
+      "optionsUr": [
+        "سینٹری پیٹل فورس",
+        "سینٹری فیوگل فورس",
+        "گریویٹیشنل فورس",
+        "فرکشنل فورس"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Centripetal force Fc = mv²/r directs towards the center of circle.",
+      "explanationUr": "سینٹری پیٹل فورس جسم کو دائرے کے مرکز کی طرف کھینچتی ہے۔"
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "Why is Dynamics considered essential in practical science and board examinations?",
-      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں ڈائنامکس (قوت اور حرکت) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "questionEn": "Why is Dynamics considered essential in practical science and board examinations?",
-      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں ڈائنامکس (قوت اور حرکت) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "statementEn": "Why is Dynamics considered essential in practical science and board examinations?",
-      "statementUr": "عملی سائنس اور بورڈ کے امتحانات میں ڈائنامکس (قوت اور حرکت) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟"
+      "statementEn": "The formula for centripetal acceleration is:",
+      "statementUr": "سینٹری پیٹل ایکسلریشن کا کلیہ ہے:",
+      "questionEn": "The formula for centripetal acceleration is:",
+      "questionUr": "سینٹری پیٹل ایکسلریشن کا کلیہ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "v² / r",
+          "textUr": "v² / r"
+        },
+        {
+          "key": "B",
+          "textEn": "v / r",
+          "textUr": "v / r²"
+        },
+        {
+          "key": "C",
+          "textEn": "r / v²",
+          "textUr": "r / v²"
+        },
+        {
+          "key": "D",
+          "textEn": "v² r",
+          "textUr": "v² r"
+        }
+      ],
+      "optionsEn": [
+        "v² / r",
+        "v / r",
+        "r / v²",
+        "v² r"
+      ],
+      "optionsUr": [
+        "v² / r",
+        "v / r²",
+        "r / v²",
+        "v² r"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Centripetal acceleration ac = v² / r.",
+      "explanationUr": "سینٹری پیٹل ایکسلریشن کا کلیہ v² / r ہے۔"
     },
     {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "Give one practical or daily life example that illustrates the concept of Dynamics.",
-      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو ڈائنامکس (قوت اور حرکت) کے تصور کو واضح کرتی ہو۔",
-      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Dynamics, confirming experimental reproducibility.",
-      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام ڈائنامکس (قوت اور حرکت) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "questionEn": "Give one practical or daily life example that illustrates the concept of Dynamics.",
-      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو ڈائنامکس (قوت اور حرکت) کے تصور کو واضح کرتی ہو۔",
-      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Dynamics, confirming experimental reproducibility.",
-      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام ڈائنامکس (قوت اور حرکت) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "statementEn": "Give one practical or daily life example that illustrates the concept of Dynamics.",
-      "statementUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو ڈائنامکس (قوت اور حرکت) کے تصور کو واضح کرتی ہو۔"
+      "statementEn": "Banking of road prevents skidding by providing necessary:",
+      "statementUr": "سڑکوں کی بین کنگ کس لیے ضروری فورس فراہم کرتی ہے:",
+      "questionEn": "Banking of road prevents skidding by providing necessary:",
+      "questionUr": "سڑکوں کی بین کنگ کس لیے ضروری فورس فراہم کرتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Centripetal force",
+          "textUr": "سینٹری پیٹل فورس"
+        },
+        {
+          "key": "B",
+          "textEn": "Gravitational force",
+          "textUr": "گریویٹیشنل فورس"
+        },
+        {
+          "key": "C",
+          "textEn": "Nuclear force",
+          "textUr": "نیوکلیئر فورس"
+        },
+        {
+          "key": "D",
+          "textEn": "Centrifugal force",
+          "textUr": "سینٹری فیوگل فورس"
+        }
+      ],
+      "optionsEn": [
+        "Centripetal force",
+        "Gravitational force",
+        "Nuclear force",
+        "Centrifugal force"
+      ],
+      "optionsUr": [
+        "سینٹری پیٹل فورس",
+        "گریویٹیشنل فورس",
+        "نیوکلیئر فورس",
+        "سینٹری فیوگل فورس"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Banking provides horizontal component of normal reaction as centripetal force.",
+      "explanationUr": "بینکنگ گاڑیوں کے پھسلنے سے بچاؤ کے لیے سینٹری پیٹل فورس فراہم کرتی ہے۔"
     },
     {
-      "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "What precautions or boundary conditions must be maintained when evaluating Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "statementEn": "What precautions or boundary conditions must be maintained when evaluating Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟"
+      "statementEn": "Which of the following reduces friction between moving parts of machines?",
+      "statementUr": "مشینوں کے متحرک حصوں کے درمیان رگڑ کم کرنے کے لیے کیا استعمال ہوتا ہے:",
+      "questionEn": "Which of the following reduces friction between moving parts of machines?",
+      "questionUr": "مشینوں کے متحرک حصوں کے درمیان رگڑ کم کرنے کے لیے کیا استعمال ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Lubricants",
+          "textUr": "لیوبریکنٹس (تیل / چکنائی)"
+        },
+        {
+          "key": "B",
+          "textEn": "Sand",
+          "textUr": "ریت"
+        },
+        {
+          "key": "C",
+          "textEn": "Rough surfaces",
+          "textUr": "کھردری سطح"
+        },
+        {
+          "key": "D",
+          "textEn": "Cold welds",
+          "textUr": "کولڈ ویلڈز"
+        }
+      ],
+      "optionsEn": [
+        "Lubricants",
+        "Sand",
+        "Rough surfaces",
+        "Cold welds"
+      ],
+      "optionsUr": [
+        "لیوبریکنٹس (تیل / چکنائی)",
+        "ریت",
+        "کھردری سطح",
+        "کولڈ ویلڈز"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Lubricants create thin layer between moving parts to reduce friction.",
+      "explanationUr": "لیوبریکنٹس سطحوں کے مابین رگڑ کو کم کرتے ہیں۔"
     },
     {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "How does a change in primary variables affect the outcome in Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "questionEn": "How does a change in primary variables affect the outcome in Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "statementEn": "How does a change in primary variables affect the outcome in Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟"
+      "statementEn": "The maximum static friction is called:",
+      "statementUr": "زیادہ سے زیادہ جامد فرکشن کہلاتی ہے:",
+      "questionEn": "The maximum static friction is called:",
+      "questionUr": "زیادہ سے زیادہ جامد فرکشن کہلاتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Limiting friction",
+          "textUr": "لمٹنگ فرکشن"
+        },
+        {
+          "key": "B",
+          "textEn": "Rolling friction",
+          "textUr": "رولنگ فرکشن"
+        },
+        {
+          "key": "C",
+          "textEn": "Sliding friction",
+          "textUr": "سلائیڈنگ فرکشن"
+        },
+        {
+          "key": "D",
+          "textEn": "Kinetic friction",
+          "textUr": "کائنیٹک فرکشن"
+        }
+      ],
+      "optionsEn": [
+        "Limiting friction",
+        "Rolling friction",
+        "Sliding friction",
+        "Kinetic friction"
+      ],
+      "optionsUr": [
+        "لمٹنگ فرکشن",
+        "رولنگ فرکشن",
+        "سلائیڈنگ فرکشن",
+        "کائنیٹک فرکشن"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Maximum value of static friction is limiting friction (Fs = μs R).",
+      "explanationUr": "زیادہ سے زیادہ سٹیٹک فرکشن کو لمٹنگ فرکشن کہتے ہیں۔"
     },
     {
-      "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Dynamics.",
-      "question_ur": "بورڈ کے پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Dynamics.",
-      "questionUr": "بورڈ کے پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "statementEn": "State a conceptual reasoning problem frequently asked in board papers regarding Dynamics.",
-      "statementUr": "بورڈ کے پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔"
+      "statementEn": "Mass of a body is a scalar quantity, whereas weight is a:",
+      "statementUr": "کسی جسم کا ماس سکیلر مقدار ہے جبکہ اس کا وزن ہے:",
+      "questionEn": "Mass of a body is a scalar quantity, whereas weight is a:",
+      "questionUr": "کسی جسم کا ماس سکیلر مقدار ہے جبکہ اس کا وزن ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Vector quantity",
+          "textUr": "ویکٹر مقدار"
+        },
+        {
+          "key": "B",
+          "textEn": "Scalar quantity",
+          "textUr": "سکیلر مقدار"
+        },
+        {
+          "key": "C",
+          "textEn": "Base quantity",
+          "textUr": "بنیادی مقدار"
+        },
+        {
+          "key": "D",
+          "textEn": "Constant everywhere",
+          "textUr": "ہر جگہ مستقل"
+        }
+      ],
+      "optionsEn": [
+        "Vector quantity",
+        "Scalar quantity",
+        "Base quantity",
+        "Constant everywhere"
+      ],
+      "optionsUr": [
+        "ویکٹر مقدار",
+        "سکیلر مقدار",
+        "بنیادی مقدار",
+        "ہر جگہ مستقل"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Weight is a gravitational downward force, hence a vector.",
+      "explanationUr": "وزن کششِ ثقل کی طرف عمل کرنے والی فورس ہے اس لیے ویکٹر ہے۔"
     },
     {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "How should a matric science student structure a 2-mark board short question on Dynamics?",
-      "question_ur": "ایک میٹرک سائنس کے طالب علم کو ڈائنامکس (قوت اور حرکت) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "questionEn": "How should a matric science student structure a 2-mark board short question on Dynamics?",
-      "questionUr": "ایک میٹرک سائنس کے طالب علم کو ڈائنامکس (قوت اور حرکت) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "statementEn": "How should a matric science student structure a 2-mark board short question on Dynamics?",
-      "statementUr": "ایک میٹرک سائنس کے طالب علم کو ڈائنامکس (قوت اور حرکت) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟"
-    },
-    {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "statementEn": "What key terminology must be explicitly highlighted in the exam answer for Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟"
-    },
-    {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "Summarize the final takeaway of Dynamics for revision before board exams.",
-      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے ڈائنامکس (قوت اور حرکت) کا حتمی خلاصہ بیان کریں۔",
-      "answer_en": "Mastery of Dynamics requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answer_ur": "ڈائنامکس (قوت اور حرکت) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "questionEn": "Summarize the final takeaway of Dynamics for revision before board exams.",
-      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے ڈائنامکس (قوت اور حرکت) کا حتمی خلاصہ بیان کریں۔",
-      "answerEn": "Mastery of Dynamics requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answerUr": "ڈائنامکس (قوت اور حرکت) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "statementEn": "Summarize the final takeaway of Dynamics for revision before board exams.",
-      "statementUr": "بورڈ امتحانات سے قبل دہرائی کے لیے ڈائنامکس (قوت اور حرکت) کا حتمی خلاصہ بیان کریں۔"
+      "statementEn": "In an isolated system, the total momentum of colliding bodies:",
+      "statementUr": "کسی آئسولیٹڈ سسٹم میں باہم ٹکرانے والے اجسام کا کل مومنٹم:",
+      "questionEn": "In an isolated system, the total momentum of colliding bodies:",
+      "questionUr": "کسی آئسولیٹڈ سسٹم میں باہم ٹکرانے والے اجسام کا کل مومنٹم:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Remains constant",
+          "textUr": "مستقل رہتا ہے"
+        },
+        {
+          "key": "B",
+          "textEn": "Increases",
+          "textUr": "بڑھ جاتا ہے"
+        },
+        {
+          "key": "C",
+          "textEn": "Decreases",
+          "textUr": "کم ہو جاتا ہے"
+        },
+        {
+          "key": "D",
+          "textEn": "Becomes zero",
+          "textUr": "صفر ہو جاتا ہے"
+        }
+      ],
+      "optionsEn": [
+        "Remains constant",
+        "Increases",
+        "Decreases",
+        "Becomes zero"
+      ],
+      "optionsUr": [
+        "مستقل رہتا ہے",
+        "بڑھ جاتا ہے",
+        "کم ہو جاتا ہے",
+        "صفر ہو جاتا ہے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Law of conservation of momentum: total momentum before = after collision.",
+      "explanationUr": "بقائے مومنٹم کے مطابق کل مومنٹم ہمیشہ یکساں رہتا ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define Dynamics according to Punjab Textbook Board syllabus and state its core principle.",
-      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ڈائنامکس (قوت اور حرکت) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answer_en": "Dynamics represents a foundational unit of the Class 9th Physics syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answer_ur": "ڈائنامکس (قوت اور حرکت) Class 9th طبیعیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "questionEn": "Define Dynamics according to Punjab Textbook Board syllabus and state its core principle.",
-      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ڈائنامکس (قوت اور حرکت) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answerEn": "Dynamics represents a foundational unit of the Class 9th Physics syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answerUr": "ڈائنامکس (قوت اور حرکت) Class 9th طبیعیات کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "statementEn": "Define Dynamics according to Punjab Textbook Board syllabus and state its core principle.",
-      "statementUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق ڈائنامکس (قوت اور حرکت) کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔"
+      "statementEn": "State Newton's first law of motion and explain why it is called law of inertia.",
+      "statementUr": "نیوٹن کا پہلا قانونِ حرکت بیان کریں اور بتائیں کہ اسے قانونِ جمود کیوں کہتے ہیں۔",
+      "questionEn": "State Newton's first law of motion and explain why it is called law of inertia.",
+      "questionUr": "نیوٹن کا پہلا قانونِ حرکت بیان کریں اور بتائیں کہ اسے قانونِ جمود کیوں کہتے ہیں۔",
+      "answerEn": "A body continues its state of rest or uniform motion in a straight line unless acted upon by a net force. It is called law of inertia because it deals with the inertial property of matter to resist change.",
+      "answerUr": "اگر کسی جسم پر نیٹ فورس عمل نہ کرے تو وہ اپنی ریسٹ یا یونیفارم موشن کو برقرار رکھتا ہے۔ چونکہ یہ مادے کی انرشیا کی خاصیت پر مبنی ہے اس لیے قانونِ جمود کہلاتا ہے۔",
+      "marks": 2
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "State two primary textbook terms or classifications introduced in Dynamics.",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "questionEn": "State two primary textbook terms or classifications introduced in Dynamics.",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "statementEn": "State two primary textbook terms or classifications introduced in Dynamics.",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔"
+      "statementEn": "State Newton's second law of motion and write its mathematical formula.",
+      "statementUr": "نیوٹن کا دوسرا قانونِ حرکت بیان کریں اور اس کا حسابی کلیہ لکھیں۔",
+      "questionEn": "State Newton's second law of motion and write its mathematical formula.",
+      "questionUr": "نیوٹن کا دوسرا قانونِ حرکت بیان کریں اور اس کا حسابی کلیہ لکھیں۔",
+      "answerEn": "When a net force acts on a body, it produces acceleration in the direction of the force proportional to force and inversely proportional to mass: F = ma.",
+      "answerUr": "جب کسی جسم پر نیٹ فورس عمل کرتی ہے تو وہ فورس کی سمت میں ایکسلریشن پیدا کرتی ہے جو فورس کے ڈائریکٹلی اور ماس کے انورسلی پروپورشنل ہوتا ہے: F = ma۔",
+      "marks": 2
     },
     {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Write down the governing formula or rule of Dynamics along with its standard units or notation.",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "questionEn": "Write down the governing formula or rule of Dynamics along with its standard units or notation.",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "statementEn": "Write down the governing formula or rule of Dynamics along with its standard units or notation.",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔"
+      "statementEn": "State Newton's third law of motion with two everyday examples.",
+      "statementUr": "نیوٹن کا تیسرا قانونِ حرکت دو روزمرہ مثالوں کے ساتھ بیان کریں۔",
+      "questionEn": "State Newton's third law of motion with two everyday examples.",
+      "questionUr": "نیوٹن کا تیسرا قانونِ حرکت دو روزمرہ مثالوں کے ساتھ بیان کریں۔",
+      "answerEn": "To every action there is always an equal and opposite reaction. Examples: (1) Walking on ground (foot pushes backward, ground pushes forward); (2) Rocket propulsion.",
+      "answerUr": "ہر ایکشن کا ایک مساوی لیکن مخالف سمت میں ری ایکشن ہوتا ہے۔ مثلاً زمین پر چلنا اور راکٹ کا اوپر جانا۔",
+      "marks": 2
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between two contrasting aspects or categories studied in Dynamics.",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "questionEn": "Differentiate between two contrasting aspects or categories studied in Dynamics.",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "statementEn": "Differentiate between two contrasting aspects or categories studied in Dynamics.",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔"
+      "statementEn": "Differentiate between mass and weight.",
+      "statementUr": "ماس اور وزن میں فرق واضح کریں۔",
+      "questionEn": "Differentiate between mass and weight.",
+      "questionUr": "ماس اور وزن میں فرق واضح کریں۔",
+      "answerEn": "Mass is the quantity of matter in a body (scalar, measured in kg, constant everywhere). Weight is the gravitational pull on the body (vector, measured in Newtons, varies with g: W = mg).",
+      "answerUr": "ماس مادے کی مقدار ہے (سکیلر، کلوگرام، ہر جگہ مستقل)۔ وزن زمین کی کشش کی فورس ہے (ویکٹر، نیوٹن، مقام کے لحاظ سے تبدیل ہوتا ہے: W = mg)۔",
+      "marks": 2
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "Why is Dynamics considered essential in practical science and board examinations?",
-      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں ڈائنامکس (قوت اور حرکت) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "questionEn": "Why is Dynamics considered essential in practical science and board examinations?",
-      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں ڈائنامکس (قوت اور حرکت) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "statementEn": "Why is Dynamics considered essential in practical science and board examinations?",
-      "statementUr": "عملی سائنس اور بورڈ کے امتحانات میں ڈائنامکس (قوت اور حرکت) کو کیوں انتہائی اہم تصور کیا جاتا ہے؟"
+      "statementEn": "Define momentum and write its SI unit.",
+      "statementUr": "مومنٹم کی تعریف کریں اور اس کا ایس آئی یونٹ لکھیں۔",
+      "questionEn": "Define momentum and write its SI unit.",
+      "questionUr": "مومنٹم کی تعریف کریں اور اس کا ایس آئی یونٹ لکھیں۔",
+      "answerEn": "Momentum of a body is the quantity of motion it possesses, calculated as product of its mass and velocity: p = mv. Unit: kg m s⁻¹ or N s.",
+      "answerUr": "کسی جسم میں حرکت کی مقدار کو مومنٹم کہتے ہیں، جو ماس اور ویلوسٹی کا حاصل ضرب ہے (p = mv)۔ اس کا یونٹ کلوگرام میٹر فی سیکنڈ یا نیوٹن سیکنڈ ہے۔",
+      "marks": 2
     },
     {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "Give one practical or daily life example that illustrates the concept of Dynamics.",
-      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو ڈائنامکس (قوت اور حرکت) کے تصور کو واضح کرتی ہو۔",
-      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Dynamics, confirming experimental reproducibility.",
-      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام ڈائنامکس (قوت اور حرکت) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "questionEn": "Give one practical or daily life example that illustrates the concept of Dynamics.",
-      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو ڈائنامکس (قوت اور حرکت) کے تصور کو واضح کرتی ہو۔",
-      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Dynamics, confirming experimental reproducibility.",
-      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام ڈائنامکس (قوت اور حرکت) کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "statementEn": "Give one practical or daily life example that illustrates the concept of Dynamics.",
-      "statementUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو ڈائنامکس (قوت اور حرکت) کے تصور کو واضح کرتی ہو۔"
+      "statementEn": "State the law of conservation of momentum.",
+      "statementUr": "بقائے مومنٹم کا قانون بیان کریں۔",
+      "questionEn": "State the law of conservation of momentum.",
+      "questionUr": "بقائے مومنٹم کا قانون بیان کریں۔",
+      "answerEn": "The total momentum of an isolated system of two or more interacting bodies remains constant.",
+      "answerUr": "کسی آئسولیٹڈ سسٹم کے اندر باہم عمل کرنے والے تمام اجسام کا کل مومنٹم ہمیشہ مستقل رہتا ہے۔",
+      "marks": 2
     },
     {
-      "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "What precautions or boundary conditions must be maintained when evaluating Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "statementEn": "What precautions or boundary conditions must be maintained when evaluating Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟"
+      "statementEn": "What is friction? Why is rolling friction smaller than sliding friction?",
+      "statementUr": "فرکشن کیا ہے؟ رولنگ فرکشن سلائیڈنگ فرکشن سے کم کیوں ہوتی ہے؟",
+      "questionEn": "What is friction? Why is rolling friction smaller than sliding friction?",
+      "questionUr": "فرکشن کیا ہے؟ رولنگ فرکشن سلائیڈنگ فرکشن سے کم کیوں ہوتی ہے؟",
+      "answerEn": "Friction is the opposing force between two contact surfaces. Rolling friction is much smaller because the contact area is microscopic and cold welds do not rupture violently.",
+      "answerUr": "دو باہم مس کرتی سطحوں کے درمیان حرکت کی مزاحمت کو فرکشن کہتے ہیں۔ رولنگ فرکشن میں سطحی رابطہ بہت کم ہوتا ہے اس لیے رولنگ فرکشن کم ہوتی ہے۔",
+      "marks": 2
     },
     {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "How does a change in primary variables affect the outcome in Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "questionEn": "How does a change in primary variables affect the outcome in Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "statementEn": "How does a change in primary variables affect the outcome in Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟"
+      "statementEn": "Write any four methods to reduce friction in machinery.",
+      "statementUr": "مشینری میں رگڑ (فرکشن) کم کرنے کے چار طریقے لکھیں۔",
+      "questionEn": "Write any four methods to reduce friction in machinery.",
+      "questionUr": "مشینری میں رگڑ (فرکشن) کم کرنے کے چار طریقے لکھیں۔",
+      "answerEn": "(1) Using lubricants like oil/grease; (2) Using ball bearings or roller bearings; (3) Polishing sliding surfaces; (4) Making aerodynamic streamlined shapes.",
+      "answerUr": "(1) لیوبریکنٹس (تیل و گریس) کا استعمال؛ (2) بال بیئرنگز کا استعمال؛ (3) سطحوں کو چمکدار ہموار بنانا؛ (4) ایروڈائنامک ساخت بنانا۔",
+      "marks": 2
     },
     {
-      "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Dynamics.",
-      "question_ur": "بورڈ کے پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Dynamics.",
-      "questionUr": "بورڈ کے پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "statementEn": "State a conceptual reasoning problem frequently asked in board papers regarding Dynamics.",
-      "statementUr": "بورڈ کے پرچوں میں ڈائنامکس (قوت اور حرکت) سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔"
+      "statementEn": "Define centripetal force and write its mathematical formula.",
+      "statementUr": "سینٹری پیٹل فورس کی تعریف کریں اور اس کا حسابی فارمولا لکھیں۔",
+      "questionEn": "Define centripetal force and write its mathematical formula.",
+      "questionUr": "سینٹری پیٹل فورس کی تعریف کریں اور اس کا حسابی فارمولا لکھیں۔",
+      "answerEn": "Centripetal force is the force that keeps a body moving in a circular path by continuously bending its direction towards the center. Formula: Fc = m v² / r.",
+      "answerUr": "وہ فورس جو کسی جسم کو دائرے میں حرکت کرنے پر مجبور کرے سینٹری پیٹل فورس کہلاتی ہے۔ اس کا فارمولا Fc = m v² / r ہے۔",
+      "marks": 2
     },
     {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "How should a matric science student structure a 2-mark board short question on Dynamics?",
-      "question_ur": "ایک میٹرک سائنس کے طالب علم کو ڈائنامکس (قوت اور حرکت) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "questionEn": "How should a matric science student structure a 2-mark board short question on Dynamics?",
-      "questionUr": "ایک میٹرک سائنس کے طالب علم کو ڈائنامکس (قوت اور حرکت) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "statementEn": "How should a matric science student structure a 2-mark board short question on Dynamics?",
-      "statementUr": "ایک میٹرک سائنس کے طالب علم کو ڈائنامکس (قوت اور حرکت) پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟"
+      "statementEn": "What is banking of roads and why is it necessary on sharp turns?",
+      "statementUr": "سڑکوں کی بینکنگ سے کیا مراد ہے اور یہ تیز موڑوں پر کیوں ضروری ہے؟",
+      "questionEn": "What is banking of roads and why is it necessary on sharp turns?",
+      "questionUr": "سڑکوں کی بینکنگ سے کیا مراد ہے اور یہ تیز موڑوں پر کیوں ضروری ہے؟",
+      "answerEn": "Banking means raising the outer edge of a curved road above the inner edge. It provides the required centripetal force to prevent vehicles from skidding at high speeds.",
+      "answerUr": "موڑ پر سڑک کے بیرونی کنارے کو اندرونی کنارے سے اونچا بنانا بینکنگ کہلاتا ہے۔ یہ تیز رفتار گاڑیوں کو مطلوبہ سینٹری پیٹل فورس دے کر پھسلنے سے بچاتا ہے۔",
+      "marks": 2
     },
     {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Dynamics?",
-      "question_ur": "ڈائنامکس (قوت اور حرکت) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Dynamics?",
-      "questionUr": "ڈائنامکس (قوت اور حرکت) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "statementEn": "What key terminology must be explicitly highlighted in the exam answer for Dynamics?",
-      "statementUr": "ڈائنامکس (قوت اور حرکت) کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟"
+      "statementEn": "Why does a gun recoil when a bullet is fired?",
+      "statementUr": "بندوق سے گولی چلنے پر بندوق پیچھے کی طرف کیوں جھٹکا کھاتی ہے؟",
+      "questionEn": "Why does a gun recoil when a bullet is fired?",
+      "questionUr": "بندوق سے گولی چلنے پر بندوق پیچھے کی طرف کیوں جھٹکا کھاتی ہے؟",
+      "answerEn": "According to momentum conservation, the forward momentum of the fast bullet is balanced by the backward recoil momentum of the heavier gun (m1 v1 = -m2 v2).",
+      "answerUr": "بقائے مومنٹم کے قانون کے مطابق گولی کے آگے کی طرف مومنٹم کو متوازن کرنے کے لیے بندوق الٹی سمت میں پیچھے کی طرف حرکت کرتی ہے۔",
+      "marks": 2
     },
     {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "Summarize the final takeaway of Dynamics for revision before board exams.",
-      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے ڈائنامکس (قوت اور حرکت) کا حتمی خلاصہ بیان کریں۔",
-      "answer_en": "Mastery of Dynamics requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answer_ur": "ڈائنامکس (قوت اور حرکت) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "questionEn": "Summarize the final takeaway of Dynamics for revision before board exams.",
-      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے ڈائنامکس (قوت اور حرکت) کا حتمی خلاصہ بیان کریں۔",
-      "answerEn": "Mastery of Dynamics requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answerUr": "ڈائنامکس (قوت اور حرکت) پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "statementEn": "Summarize the final takeaway of Dynamics for revision before board exams.",
-      "statementUr": "بورڈ امتحانات سے قبل دہرائی کے لیے ڈائنامکس (قوت اور حرکت) کا حتمی خلاصہ بیان کریں۔"
+      "statementEn": "What are cold welds?",
+      "statementUr": "کولڈ ویلڈز (Cold Welds) کیا ہوتے ہیں؟",
+      "questionEn": "What are cold welds?",
+      "questionUr": "کولڈ ویلڈز (Cold Welds) کیا ہوتے ہیں؟",
+      "answerEn": "Microscopic contact points between two flat-looking rough surfaces adhere together under pressure forming tiny welds known as cold welds.",
+      "answerUr": "بظاہر ہموار نظر آنے والی سطحوں کے مائیکروسکوپک ابھار جب آپس میں ملتے ہیں تو دباؤ کے تحت بننے والے جوڑوں کو کولڈ ویلڈز کہتے ہیں۔",
+      "marks": 2
     }
   ],
-  "vocab": [],
+  "short_questions": [
+    {
+      "statementEn": "State Newton's first law of motion and explain why it is called law of inertia.",
+      "statementUr": "نیوٹن کا پہلا قانونِ حرکت بیان کریں اور بتائیں کہ اسے قانونِ جمود کیوں کہتے ہیں۔",
+      "questionEn": "State Newton's first law of motion and explain why it is called law of inertia.",
+      "questionUr": "نیوٹن کا پہلا قانونِ حرکت بیان کریں اور بتائیں کہ اسے قانونِ جمود کیوں کہتے ہیں۔",
+      "answerEn": "A body continues its state of rest or uniform motion in a straight line unless acted upon by a net force. It is called law of inertia because it deals with the inertial property of matter to resist change.",
+      "answerUr": "اگر کسی جسم پر نیٹ فورس عمل نہ کرے تو وہ اپنی ریسٹ یا یونیفارم موشن کو برقرار رکھتا ہے۔ چونکہ یہ مادے کی انرشیا کی خاصیت پر مبنی ہے اس لیے قانونِ جمود کہلاتا ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "State Newton's second law of motion and write its mathematical formula.",
+      "statementUr": "نیوٹن کا دوسرا قانونِ حرکت بیان کریں اور اس کا حسابی کلیہ لکھیں۔",
+      "questionEn": "State Newton's second law of motion and write its mathematical formula.",
+      "questionUr": "نیوٹن کا دوسرا قانونِ حرکت بیان کریں اور اس کا حسابی کلیہ لکھیں۔",
+      "answerEn": "When a net force acts on a body, it produces acceleration in the direction of the force proportional to force and inversely proportional to mass: F = ma.",
+      "answerUr": "جب کسی جسم پر نیٹ فورس عمل کرتی ہے تو وہ فورس کی سمت میں ایکسلریشن پیدا کرتی ہے جو فورس کے ڈائریکٹلی اور ماس کے انورسلی پروپورشنل ہوتا ہے: F = ma۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "State Newton's third law of motion with two everyday examples.",
+      "statementUr": "نیوٹن کا تیسرا قانونِ حرکت دو روزمرہ مثالوں کے ساتھ بیان کریں۔",
+      "questionEn": "State Newton's third law of motion with two everyday examples.",
+      "questionUr": "نیوٹن کا تیسرا قانونِ حرکت دو روزمرہ مثالوں کے ساتھ بیان کریں۔",
+      "answerEn": "To every action there is always an equal and opposite reaction. Examples: (1) Walking on ground (foot pushes backward, ground pushes forward); (2) Rocket propulsion.",
+      "answerUr": "ہر ایکشن کا ایک مساوی لیکن مخالف سمت میں ری ایکشن ہوتا ہے۔ مثلاً زمین پر چلنا اور راکٹ کا اوپر جانا۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Differentiate between mass and weight.",
+      "statementUr": "ماس اور وزن میں فرق واضح کریں۔",
+      "questionEn": "Differentiate between mass and weight.",
+      "questionUr": "ماس اور وزن میں فرق واضح کریں۔",
+      "answerEn": "Mass is the quantity of matter in a body (scalar, measured in kg, constant everywhere). Weight is the gravitational pull on the body (vector, measured in Newtons, varies with g: W = mg).",
+      "answerUr": "ماس مادے کی مقدار ہے (سکیلر، کلوگرام، ہر جگہ مستقل)۔ وزن زمین کی کشش کی فورس ہے (ویکٹر، نیوٹن، مقام کے لحاظ سے تبدیل ہوتا ہے: W = mg)۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Define momentum and write its SI unit.",
+      "statementUr": "مومنٹم کی تعریف کریں اور اس کا ایس آئی یونٹ لکھیں۔",
+      "questionEn": "Define momentum and write its SI unit.",
+      "questionUr": "مومنٹم کی تعریف کریں اور اس کا ایس آئی یونٹ لکھیں۔",
+      "answerEn": "Momentum of a body is the quantity of motion it possesses, calculated as product of its mass and velocity: p = mv. Unit: kg m s⁻¹ or N s.",
+      "answerUr": "کسی جسم میں حرکت کی مقدار کو مومنٹم کہتے ہیں، جو ماس اور ویلوسٹی کا حاصل ضرب ہے (p = mv)۔ اس کا یونٹ کلوگرام میٹر فی سیکنڈ یا نیوٹن سیکنڈ ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "State the law of conservation of momentum.",
+      "statementUr": "بقائے مومنٹم کا قانون بیان کریں۔",
+      "questionEn": "State the law of conservation of momentum.",
+      "questionUr": "بقائے مومنٹم کا قانون بیان کریں۔",
+      "answerEn": "The total momentum of an isolated system of two or more interacting bodies remains constant.",
+      "answerUr": "کسی آئسولیٹڈ سسٹم کے اندر باہم عمل کرنے والے تمام اجسام کا کل مومنٹم ہمیشہ مستقل رہتا ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "What is friction? Why is rolling friction smaller than sliding friction?",
+      "statementUr": "فرکشن کیا ہے؟ رولنگ فرکشن سلائیڈنگ فرکشن سے کم کیوں ہوتی ہے؟",
+      "questionEn": "What is friction? Why is rolling friction smaller than sliding friction?",
+      "questionUr": "فرکشن کیا ہے؟ رولنگ فرکشن سلائیڈنگ فرکشن سے کم کیوں ہوتی ہے؟",
+      "answerEn": "Friction is the opposing force between two contact surfaces. Rolling friction is much smaller because the contact area is microscopic and cold welds do not rupture violently.",
+      "answerUr": "دو باہم مس کرتی سطحوں کے درمیان حرکت کی مزاحمت کو فرکشن کہتے ہیں۔ رولنگ فرکشن میں سطحی رابطہ بہت کم ہوتا ہے اس لیے رولنگ فرکشن کم ہوتی ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Write any four methods to reduce friction in machinery.",
+      "statementUr": "مشینری میں رگڑ (فرکشن) کم کرنے کے چار طریقے لکھیں۔",
+      "questionEn": "Write any four methods to reduce friction in machinery.",
+      "questionUr": "مشینری میں رگڑ (فرکشن) کم کرنے کے چار طریقے لکھیں۔",
+      "answerEn": "(1) Using lubricants like oil/grease; (2) Using ball bearings or roller bearings; (3) Polishing sliding surfaces; (4) Making aerodynamic streamlined shapes.",
+      "answerUr": "(1) لیوبریکنٹس (تیل و گریس) کا استعمال؛ (2) بال بیئرنگز کا استعمال؛ (3) سطحوں کو چمکدار ہموار بنانا؛ (4) ایروڈائنامک ساخت بنانا۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Define centripetal force and write its mathematical formula.",
+      "statementUr": "سینٹری پیٹل فورس کی تعریف کریں اور اس کا حسابی فارمولا لکھیں۔",
+      "questionEn": "Define centripetal force and write its mathematical formula.",
+      "questionUr": "سینٹری پیٹل فورس کی تعریف کریں اور اس کا حسابی فارمولا لکھیں۔",
+      "answerEn": "Centripetal force is the force that keeps a body moving in a circular path by continuously bending its direction towards the center. Formula: Fc = m v² / r.",
+      "answerUr": "وہ فورس جو کسی جسم کو دائرے میں حرکت کرنے پر مجبور کرے سینٹری پیٹل فورس کہلاتی ہے۔ اس کا فارمولا Fc = m v² / r ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "What is banking of roads and why is it necessary on sharp turns?",
+      "statementUr": "سڑکوں کی بینکنگ سے کیا مراد ہے اور یہ تیز موڑوں پر کیوں ضروری ہے؟",
+      "questionEn": "What is banking of roads and why is it necessary on sharp turns?",
+      "questionUr": "سڑکوں کی بینکنگ سے کیا مراد ہے اور یہ تیز موڑوں پر کیوں ضروری ہے؟",
+      "answerEn": "Banking means raising the outer edge of a curved road above the inner edge. It provides the required centripetal force to prevent vehicles from skidding at high speeds.",
+      "answerUr": "موڑ پر سڑک کے بیرونی کنارے کو اندرونی کنارے سے اونچا بنانا بینکنگ کہلاتا ہے۔ یہ تیز رفتار گاڑیوں کو مطلوبہ سینٹری پیٹل فورس دے کر پھسلنے سے بچاتا ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Why does a gun recoil when a bullet is fired?",
+      "statementUr": "بندوق سے گولی چلنے پر بندوق پیچھے کی طرف کیوں جھٹکا کھاتی ہے؟",
+      "questionEn": "Why does a gun recoil when a bullet is fired?",
+      "questionUr": "بندوق سے گولی چلنے پر بندوق پیچھے کی طرف کیوں جھٹکا کھاتی ہے؟",
+      "answerEn": "According to momentum conservation, the forward momentum of the fast bullet is balanced by the backward recoil momentum of the heavier gun (m1 v1 = -m2 v2).",
+      "answerUr": "بقائے مومنٹم کے قانون کے مطابق گولی کے آگے کی طرف مومنٹم کو متوازن کرنے کے لیے بندوق الٹی سمت میں پیچھے کی طرف حرکت کرتی ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "What are cold welds?",
+      "statementUr": "کولڈ ویلڈز (Cold Welds) کیا ہوتے ہیں؟",
+      "questionEn": "What are cold welds?",
+      "questionUr": "کولڈ ویلڈز (Cold Welds) کیا ہوتے ہیں؟",
+      "answerEn": "Microscopic contact points between two flat-looking rough surfaces adhere together under pressure forming tiny welds known as cold welds.",
+      "answerUr": "بظاہر ہموار نظر آنے والی سطحوں کے مائیکروسکوپک ابھار جب آپس میں ملتے ہیں تو دباؤ کے تحت بننے والے جوڑوں کو کولڈ ویلڈز کہتے ہیں۔",
+      "marks": 2
+    }
+  ],
   "longQuestions": [
     {
-      "id": "lq-class9-physics-ch3-1",
-      "qNo": 5,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Explain the fundamental concepts, governing principles, and standard laws of Dynamics in detail.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) کے بنیادی تصورات، سائنسی اصول و قوانین کی تفصیلی وضاحت کریں۔",
+          "statementEn": "State Newton's second law of motion and derive the mathematical equation F = ma.",
+          "statementUr": "نیوٹن کا دوسرا قانونِ حرکت بیان کریں اور مساوات F = ma اخذ کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Solve the textbook board-pattern numerical problem related to Dynamics with given data, formula, and standard SI units.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) سے متعلق درسی کتاب کا اہم حسابی مسئلہ (نومیریکل) فارمولا اور معیاری ایس آئی اکائیوں کے ساتھ حل کریں۔",
+          "statementEn": "A force of 100 N acts on a body of mass 20 kg. Find the acceleration produced and the velocity after 5 seconds starting from rest.",
+          "statementUr": "100 نیوٹن کی فورس 20 کلوگرام ماس کے جسم پر عمل کرتی ہے۔ پیدا شدہ ایکسلریشن اور 5 سیکنڈ بعد ویلوسٹی معلوم کریں۔",
           "marks": 4,
           "isNumerical": true
         }
       ]
     },
     {
-      "id": "lq-class9-physics-ch3-2",
-      "qNo": 6,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "State and prove the standard governing mathematical equation or formula for Dynamics with step-by-step derivation.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) سے متعلق بنیادی حسابی مساوات یا کلیہ کو مرحلہ وار ریاضیاتی ثبوت کے ساتھ اخذ کریں۔",
+          "statementEn": "State the law of conservation of momentum and prove it for two colliding spheres.",
+          "statementUr": "بقائے مومنٹم کا قانون بیان کریں اور دو باہم ٹکرانے والی گیندوں کے لیے اسے ثابت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Calculate the unknown quantity in an experiment involving Dynamics when standard parameters are provided.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) سے متعلق تجرباتی حسابی سوال میں دیے گئے اعداد و شمار کی مدد سے نامعلوم مقدار معلوم کریں۔",
+          "statementEn": "A bullet of mass 20 g is fired from a gun of mass 5 kg with a velocity of 100 m s⁻¹. Find the recoil velocity of the gun.",
+          "statementUr": "20 گرام کی گولی 5 کلوگرام کی بندوق سے 100 میٹر فی سیکنڈ کی ویلوسٹی سے فائر کی جاتی ہے۔ بندوق کی ریکوئل ویلوسٹی معلوم کریں۔",
           "marks": 4,
           "isNumerical": true
         }
       ]
     },
     {
-      "id": "lq-class9-physics-ch3-3",
-      "qNo": 7,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "[Past Board Papers & SLO Comprehensive] Write a comprehensive analytical essay/note on Dynamics strictly according to Punjab Board standard.",
-          "statementUr": "[سابقہ بورڈ پرچہ جات و ایس ایل او] پنجاب بورڈ کے امتحانی معیار کے مطابق ڈائنامکس (قوت اور حرکت) پر ایک جامع تفصیلی نوٹ تحریر کریں۔",
+          "statementEn": "Define centripetal force. Derive its formula Fc = m v² / r and explain banking of roads.",
+          "statementUr": "سینٹری پیٹل فورس کی تعریف کریں۔ اس کا کلیہ Fc = m v² / r اخذ کریں اور سڑکوں کی بینکنگ کی وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "A textbook exercise problem requires computing operational efficiency and final magnitude for Dynamics. Solve with all derivation steps.",
-          "statementUr": "درسی کتاب کی مشق سے متعلق حسابی مسئلے میں حتمی مقدار اور کارکردگی معلوم کریں۔ مکمل مراحل درج کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    }
-  ],
-  "long_questions": [
-    {
-      "id": "lq-class9-physics-ch3-1",
-      "qNo": 5,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain the fundamental concepts, governing principles, and standard laws of Dynamics in detail.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) کے بنیادی تصورات، سائنسی اصول و قوانین کی تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Solve the textbook board-pattern numerical problem related to Dynamics with given data, formula, and standard SI units.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) سے متعلق درسی کتاب کا اہم حسابی مسئلہ (نومیریکل) فارمولا اور معیاری ایس آئی اکائیوں کے ساتھ حل کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    },
-    {
-      "id": "lq-class9-physics-ch3-2",
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "State and prove the standard governing mathematical equation or formula for Dynamics with step-by-step derivation.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) سے متعلق بنیادی حسابی مساوات یا کلیہ کو مرحلہ وار ریاضیاتی ثبوت کے ساتھ اخذ کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Calculate the unknown quantity in an experiment involving Dynamics when standard parameters are provided.",
-          "statementUr": "ڈائنامکس (قوت اور حرکت) سے متعلق تجرباتی حسابی سوال میں دیے گئے اعداد و شمار کی مدد سے نامعلوم مقدار معلوم کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    },
-    {
-      "id": "lq-class9-physics-ch3-3",
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "[Past Board Papers & SLO Comprehensive] Write a comprehensive analytical essay/note on Dynamics strictly according to Punjab Board standard.",
-          "statementUr": "[سابقہ بورڈ پرچہ جات و ایس ایل او] پنجاب بورڈ کے امتحانی معیار کے مطابق ڈائنامکس (قوت اور حرکت) پر ایک جامع تفصیلی نوٹ تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "A textbook exercise problem requires computing operational efficiency and final magnitude for Dynamics. Solve with all derivation steps.",
-          "statementUr": "درسی کتاب کی مشق سے متعلق حسابی مسئلے میں حتمی مقدار اور کارکردگی معلوم کریں۔ مکمل مراحل درج کریں۔",
+          "statementEn": "A car of mass 1000 kg takes a turn on a circular road of radius 50 m with a speed of 10 m s⁻¹. Find the required centripetal force.",
+          "statementUr": "1000 کلوگرام کی کار 50 میٹر ریڈیس کے موڑ پر 10 میٹر فی سیکنڈ سے مڑتی ہے۔ مطلوبہ سینٹری پیٹل فورس معلوم کریں۔",
           "marks": 4,
           "isNumerical": true
         }

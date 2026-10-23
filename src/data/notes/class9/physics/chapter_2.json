@@ -10,101 +10,101 @@
   },
   "titleEn": "Kinematics",
   "titleUr": "کائینی میٹکس",
-  "summaryEn": "Study of motion of an object without discussing the cause of motion. Covers rest and motion, types of motion (translatory, rotatory, vibratory), scalars and vectors, position, distance, displacement, speed, velocity, uniform and non-uniform acceleration, distance-time and speed-time graphs, equations of motion, and motion under gravity (free fall).",
-  "summaryUr": "حرکت کی وجوہات (قوت) پر بحث کیے بغیر اجسام کی حرکت کا مطالعہ کائینی میٹکس کہلاتا ہے۔ اس باب میں ریسٹ اور موشن، موشن کی اقسام، سکیلرز اور ویکٹرز، پوزیشن، فاصلہ، ڈسپلیسمنٹ، سپیڈ، ویلوسٹی، ایکسلریشن، فاصلہ-وقت اور سپیڈ-وقت گراف، حرکت کی مساواتیں اور گریویٹیشنل ایکسلریشن شامل ہیں۔",
+  "summaryEn": "Kinematics studies motion without considering its causes. Key concepts include rest and motion, types of motion (translatory, rotatory, vibratory), scalars and vectors, position, distance, displacement, speed, velocity, uniform and non-uniform acceleration, distance-time and speed-time graphs, equations of motion, and free fall under gravity.",
+  "summaryUr": "کائینی میٹکس میں حرکت کی وجوہات جانے بغیر موشن کا مطالعہ کیا جاتا ہے۔ اس باب میں ریسٹ اور موشن، موشن کی اقسام، سکیلر اور ویکٹر، فاصلہ، ڈسپلیسمنٹ، سپیڈ، ویلوسٹی، ایکسلریشن، حرکت کی مساواتیں اور کششِ ثقل کے زیر اثر حرکت شامل ہیں۔",
   "curriculum": "PTBB Curriculum 2026",
   "slos": [
     {
       "code": "SLO-01",
       "domain": "Knowledge",
-      "text_en": "Define rest, motion, and classify translatory (linear, circular, random), rotatory, and vibratory motions.",
-      "text_ur": "ریسٹ، موشن اور ٹرانسلیٹری (لینیئر، سرکولر، رینڈم)، روٹیٹری اور وائبریٹری موشن کی درجہ بندی کریں۔"
+      "text_en": "Understand core principles of Kinematics.",
+      "text_ur": "کائینی میٹکس کے بنیادی اصول سمجھیں۔"
     },
     {
       "code": "SLO-02",
       "domain": "Understanding",
-      "text_en": "Differentiate between scalar and vector quantities, distance and displacement, speed and velocity, uniform and variable acceleration.",
-      "text_ur": "سکیلر اور ویکٹر، فاصلہ اور ڈسپلیسمنٹ، سپیڈ اور ویلوسٹی، یکساں اور متغیر ایکسلریشن کے درمیان فرق واضح کریں۔"
+      "text_en": "Explain theoretical mechanisms and laws of Kinematics.",
+      "text_ur": "کائینی میٹکس کے سائنسی قوانین کی وضاحت کریں۔"
     },
     {
       "code": "SLO-03",
       "domain": "Application",
-      "text_en": "Plot and interpret distance-time and speed-time graphs and calculate speed, acceleration, and total distance.",
-      "text_ur": "فاصلہ-وقت اور سپیڈ-وقت گراف بنائیں، ان کا تجزیہ کریں اور سپیڈ، ایکسلریشن اور کل طے شدہ فاصلہ معلوم کریں۔"
-    },
-    {
-      "code": "SLO-04",
-      "domain": "Application",
-      "text_en": "Derive the three equations of motion for uniformly accelerated body using speed-time graph and solve numerical problems.",
-      "text_ur": "سپیڈ-وقت گراف کی مدد سے حرکت کی تینوں مساواتیں اخذ کریں اور حسابی سوالات حل کریں۔"
-    },
-    {
-      "code": "SLO-05",
-      "domain": "Application",
-      "text_en": "Solve problems involving motion of freely falling bodies under gravitational acceleration (g = 9.8 or 10 m/s²).",
-      "text_ur": "گریویٹیشنل ایکسلریشن کے تحت گرتے ہوئے اجسام سے متعلق حسابی سوالات حل کریں۔"
+      "text_en": "Apply theoretical principles to solve board examination questions for Kinematics.",
+      "text_ur": "کائینی میٹکس کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
     }
   ],
   "mcqs": [
     {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "A body is said to be in motion if it changes its position with respect to its:",
-      "question_ur": "ایک جسم اس وقت حرکت میں کہلاتا ہے جب وہ اپنے مقام کو تبدیل کرے اپنے:",
-      "questionEn": "A body is said to be in motion if it changes its position with respect to its:",
-      "questionUr": "ایک جسم اس وقت حرکت میں کہلاتا ہے جب وہ اپنے مقام کو تبدیل کرے اپنے:",
-      "options_en": {
-        "A": "Mass",
-        "B": "Surroundings",
-        "C": "Color",
-        "D": "Temperature"
-      },
-      "options_ur": {
-        "A": "ماس کے لحاظ سے",
-        "B": "ارد گرد (ماحول) کے لحاظ سے",
-        "C": "رنگ کے لحاظ سے",
-        "D": "ٹمپریچر کے لحاظ سے"
-      },
+      "statementEn": "A body is said to be at rest if it does not change its position with respect to its:",
+      "statementUr": "ایک جسم اس وقت ریسٹ کی حالت میں ہوتا ہے جب وہ اپنے مقام کو تبدیل نہ کرے اپنے:",
+      "questionEn": "A body is said to be at rest if it does not change its position with respect to its:",
+      "questionUr": "ایک جسم اس وقت ریسٹ کی حالت میں ہوتا ہے جب وہ اپنے مقام کو تبدیل نہ کرے اپنے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Surroundings",
+          "textUr": "گردوپیش کے لحاظ سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Weight",
+          "textUr": "وزن کے لحاظ سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Shape",
+          "textUr": "شکل کے لحاظ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Mass",
+          "textUr": "ماس کے لحاظ سے"
+        }
+      ],
       "optionsEn": [
-        "Mass",
         "Surroundings",
-        "Color",
-        "Temperature"
+        "Weight",
+        "Shape",
+        "Mass"
       ],
       "optionsUr": [
-        "ماس کے لحاظ سے",
-        "ارد گرد (ماحول) کے لحاظ سے",
-        "رنگ کے لحاظ سے",
-        "ٹمپریچر کے لحاظ سے"
+        "گردوپیش کے لحاظ سے",
+        "وزن کے لحاظ سے",
+        "شکل کے لحاظ سے",
+        "ماس کے لحاظ سے"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Motion is relative; a body is in motion if it continuously changes its position with respect to an observer or its surroundings.",
-      "explanation_ur": "موشن ایک اضافی تصور ہے؛ جسم حرکت میں تب کہلاتا ہے جب وہ اپنے گرد و پیش کے مشاہدہ کار کے لحاظ سے اپنی پوزیشن تبدیل کر رہا ہو۔",
-      "explanationEn": "Motion is relative; a body is in motion if it continuously changes its position with respect to an observer or its surroundings.",
-      "explanationUr": "موشن ایک اضافی تصور ہے؛ جسم حرکت میں تب کہلاتا ہے جب وہ اپنے گرد و پیش کے مشاہدہ کار کے لحاظ سے اپنی پوزیشن تبدیل کر رہا ہو۔",
-      "statementEn": "A body is said to be in motion if it changes its position with respect to its:",
-      "statementUr": "ایک جسم اس وقت حرکت میں کہلاتا ہے جب وہ اپنے مقام کو تبدیل کرے اپنے:"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Rest is defined relative to the surroundings of the observer.",
+      "explanationUr": "ریسٹ کی تعریف گردوپیش کے مشاہدے سے کی جاتی ہے۔"
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "The motion of a spinning top is an example of:",
-      "question_ur": "گھومتے ہوئے لٹو (Spinning Top) کی حرکت کس کی مثال ہے؟",
-      "questionEn": "The motion of a spinning top is an example of:",
-      "questionUr": "گھومتے ہوئے لٹو (Spinning Top) کی حرکت کس کی مثال ہے؟",
-      "options_en": {
-        "A": "Linear motion",
-        "B": "Circular motion",
-        "C": "Rotatory motion",
-        "D": "Vibratory motion"
-      },
-      "options_ur": {
-        "A": "لینیئر موشن",
-        "B": "سرکولر موشن",
-        "C": "روٹیٹری موشن",
-        "D": "وائبریٹری موشن"
-      },
+      "statementEn": "Motion of a body along a straight line without any rotation is called:",
+      "statementUr": "کسی جسم کی بالکل سیدھی لائن میں بغیر گھومے حرکت کہلاتی ہے:",
+      "questionEn": "Motion of a body along a straight line without any rotation is called:",
+      "questionUr": "کسی جسم کی بالکل سیدھی لائن میں بغیر گھومے حرکت کہلاتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Linear motion",
+          "textUr": "لینیئر موشن"
+        },
+        {
+          "key": "B",
+          "textEn": "Circular motion",
+          "textUr": "سرکولر موشن"
+        },
+        {
+          "key": "C",
+          "textEn": "Rotatory motion",
+          "textUr": "روٹیٹری موشن"
+        },
+        {
+          "key": "D",
+          "textEn": "Vibratory motion",
+          "textUr": "وائبریٹری موشن"
+        }
+      ],
       "optionsEn": [
         "Linear motion",
         "Circular motion",
@@ -117,34 +117,38 @@
         "روٹیٹری موشن",
         "وائبریٹری موشن"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Spinning top rotates about its own fixed axis passing through it, which is the definition of rotatory motion.",
-      "explanation_ur": "لٹو اپنے ہی اندر سے گزرنے والے فکسڈ ایکسس کے گرد گھومتا ہے، جو کہ روٹیٹری موشن کی تعریف ہے۔",
-      "explanationEn": "Spinning top rotates about its own fixed axis passing through it, which is the definition of rotatory motion.",
-      "explanationUr": "لٹو اپنے ہی اندر سے گزرنے والے فکسڈ ایکسس کے گرد گھومتا ہے، جو کہ روٹیٹری موشن کی تعریف ہے۔",
-      "statementEn": "The motion of a spinning top is an example of:",
-      "statementUr": "گھومتے ہوئے لٹو (Spinning Top) کی حرکت کس کی مثال ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Straight-line motion is linear motion.",
+      "explanationUr": "سیدھے راستے پر حرکت کو لینیئر موشن کہتے ہیں۔"
     },
     {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Which of the following is a vector quantity?",
-      "question_ur": "مندرجہ ذیل میں سے کون سی ویکٹر مقدار ہے؟",
+      "statementEn": "Which of the following is a vector quantity?",
+      "statementUr": "درج ذیل میں سے ویکٹر مقدار کون سی ہے؟",
       "questionEn": "Which of the following is a vector quantity?",
-      "questionUr": "مندرجہ ذیل میں سے کون سی ویکٹر مقدار ہے؟",
-      "options_en": {
-        "A": "Speed",
-        "B": "Distance",
-        "C": "Displacement",
-        "D": "Work"
-      },
-      "options_ur": {
-        "A": "سپیڈ",
-        "B": "فاصلہ",
-        "C": "ڈسپلیسمنٹ",
-        "D": "ورک"
-      },
+      "questionUr": "درج ذیل میں سے ویکٹر مقدار کون سی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Speed",
+          "textUr": "سپیڈ"
+        },
+        {
+          "key": "B",
+          "textEn": "Distance",
+          "textUr": "فاصلہ"
+        },
+        {
+          "key": "C",
+          "textEn": "Displacement",
+          "textUr": "ڈسپلیسمنٹ"
+        },
+        {
+          "key": "D",
+          "textEn": "Work",
+          "textUr": "ورک"
+        }
+      ],
       "optionsEn": [
         "Speed",
         "Distance",
@@ -157,960 +161,813 @@
         "ڈسپلیسمنٹ",
         "ورک"
       ],
-      "correct_answer": "C",
+      "correctOption": "C",
       "correctIndex": 2,
-      "explanation_en": "Displacement has both magnitude and a specific direction from the initial point to the final point, making it a vector quantity.",
-      "explanation_ur": "ڈسپلیسمنٹ کی عددی قیمت کے ساتھ ساتھ ابتدائی سے آخری مقام تک ایک مخصوص سمت ہوتی ہے، لہٰذا یہ ویکٹر مقدار ہے۔",
-      "explanationEn": "Displacement has both magnitude and a specific direction from the initial point to the final point, making it a vector quantity.",
-      "explanationUr": "ڈسپلیسمنٹ کی عددی قیمت کے ساتھ ساتھ ابتدائی سے آخری مقام تک ایک مخصوص سمت ہوتی ہے، لہٰذا یہ ویکٹر مقدار ہے۔",
-      "statementEn": "Which of the following is a vector quantity?",
-      "statementUr": "مندرجہ ذیل میں سے کون سی ویکٹر مقدار ہے؟"
+      "explanationEn": "Displacement has both magnitude and direction.",
+      "explanationUr": "ڈسپلیسمنٹ مقدار اور سمت دونوں رکھتا ہے۔"
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "The SI unit of acceleration is:",
-      "question_ur": "ایکسلریشن کا ایس آئی (SI) یونٹ ہے:",
-      "questionEn": "The SI unit of acceleration is:",
-      "questionUr": "ایکسلریشن کا ایس آئی (SI) یونٹ ہے:",
-      "options_en": {
-        "A": "m s⁻¹",
-        "B": "m s⁻²",
-        "C": "m² s",
-        "D": "km h⁻¹"
-      },
-      "options_ur": {
-        "A": "m s⁻¹",
-        "B": "m s⁻²",
-        "C": "m² s",
-        "D": "km h⁻¹"
-      },
+      "statementEn": "The shortest distance between two points has magnitude and direction, called:",
+      "statementUr": "دو نقاط کے درمیان کم سے کم فاصلہ جو سمت بھی رکھتا ہو، کہلاتا ہے:",
+      "questionEn": "The shortest distance between two points has magnitude and direction, called:",
+      "questionUr": "دو نقاط کے درمیان کم سے کم فاصلہ جو سمت بھی رکھتا ہو، کہلاتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Displacement",
+          "textUr": "ڈسپلیسمنٹ"
+        },
+        {
+          "key": "B",
+          "textEn": "Distance",
+          "textUr": "فاصلہ"
+        },
+        {
+          "key": "C",
+          "textEn": "Speed",
+          "textUr": "سپیڈ"
+        },
+        {
+          "key": "D",
+          "textEn": "Velocity",
+          "textUr": "ویلوسٹی"
+        }
+      ],
+      "optionsEn": [
+        "Displacement",
+        "Distance",
+        "Speed",
+        "Velocity"
+      ],
+      "optionsUr": [
+        "ڈسپلیسمنٹ",
+        "فاصلہ",
+        "سپیڈ",
+        "ویلوسٹی"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Displacement is the shortest directed distance between two points.",
+      "explanationUr": "ڈسپلیسمنٹ دو نقاط کے مابین کم ترین فاصلہ ہے۔"
+    },
+    {
+      "statementEn": "The SI unit of speed and velocity is:",
+      "statementUr": "سپیڈ اور ویلوسٹی کا ایس آئی یونٹ ہے:",
+      "questionEn": "The SI unit of speed and velocity is:",
+      "questionUr": "سپیڈ اور ویلوسٹی کا ایس آئی یونٹ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "m s⁻¹",
+          "textUr": "میٹر فی سیکنڈ"
+        },
+        {
+          "key": "B",
+          "textEn": "m s⁻²",
+          "textUr": "میٹر فی سیکنڈ فی سیکنڈ"
+        },
+        {
+          "key": "C",
+          "textEn": "km h⁻¹",
+          "textUr": "کلومیٹر فی گھنٹہ"
+        },
+        {
+          "key": "D",
+          "textEn": "N s",
+          "textUr": "نیوٹن سیکنڈ"
+        }
+      ],
       "optionsEn": [
         "m s⁻¹",
         "m s⁻²",
-        "m² s",
-        "km h⁻¹"
+        "km h⁻¹",
+        "N s"
       ],
       "optionsUr": [
-        "m s⁻¹",
-        "m s⁻²",
-        "m² s",
-        "km h⁻¹"
+        "میٹر فی سیکنڈ",
+        "میٹر فی سیکنڈ فی سیکنڈ",
+        "کلومیٹر فی گھنٹہ",
+        "نیوٹن سیکنڈ"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Acceleration is rate of change of velocity (Δv/Δt = (m/s)/s = m s⁻²).",
-      "explanation_ur": "ایکسلریشن ویلوسٹی میں تبدیلی کی شرح ہے، جس کا یونٹ میٹر فی سیکنڈ فی سیکنڈ (m s⁻²) ہے۔",
-      "explanationEn": "Acceleration is rate of change of velocity (Δv/Δt = (m/s)/s = m s⁻²).",
-      "explanationUr": "ایکسلریشن ویلوسٹی میں تبدیلی کی شرح ہے، جس کا یونٹ میٹر فی سیکنڈ فی سیکنڈ (m s⁻²) ہے۔",
-      "statementEn": "The SI unit of acceleration is:",
-      "statementUr": "ایکسلریشن کا ایس آئی (SI) یونٹ ہے:"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Speed = distance / time, so unit is m/s (m s⁻¹).",
+      "explanationUr": "سپیڈ کا یونٹ میٹر فی سیکنڈ ہے۔"
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "A horizontal straight line on a speed-time graph indicates that the object is:",
-      "question_ur": "سپیڈ-وقت گراف پر افقی سیدھی لائن ظاہر کرتی ہے کہ جسم:",
-      "questionEn": "A horizontal straight line on a speed-time graph indicates that the object is:",
-      "questionUr": "سپیڈ-وقت گراف پر افقی سیدھی لائن ظاہر کرتی ہے کہ جسم:",
-      "options_en": {
-        "A": "At rest",
-        "B": "Moving with constant speed",
-        "C": "Accelerating uniformly",
-        "D": "Decelerating"
-      },
-      "options_ur": {
-        "A": "حالتِ سکون (ریسٹ) میں ہے",
-        "B": "مستقل سپیڈ سے حرکت کر رہا ہے",
-        "C": "یکساں ایکسلریشن سے حرکت میں ہے",
-        "D": "ریٹارڈیشن میں ہے"
-      },
-      "optionsEn": [
-        "At rest",
-        "Moving with constant speed",
-        "Accelerating uniformly",
-        "Decelerating"
+      "statementEn": "Rate of change of velocity of a body is known as:",
+      "statementUr": "کسی جسم کی ویلوسٹی میں تبدیلی کی شرح کو کہتے ہیں:",
+      "questionEn": "Rate of change of velocity of a body is known as:",
+      "questionUr": "کسی جسم کی ویلوسٹی میں تبدیلی کی شرح کو کہتے ہیں:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Acceleration",
+          "textUr": "ایکسلریشن"
+        },
+        {
+          "key": "B",
+          "textEn": "Speed",
+          "textUr": "سپیڈ"
+        },
+        {
+          "key": "C",
+          "textEn": "Displacement",
+          "textUr": "ڈسپلیسمنٹ"
+        },
+        {
+          "key": "D",
+          "textEn": "Force",
+          "textUr": "فورس"
+        }
       ],
-      "optionsUr": [
-        "حالتِ سکون (ریسٹ) میں ہے",
-        "مستقل سپیڈ سے حرکت کر رہا ہے",
-        "یکساں ایکسلریشن سے حرکت میں ہے",
-        "ریٹارڈیشن میں ہے"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "A horizontal line parallel to time axis means speed remains constant as time passes (acceleration = 0).",
-      "explanation_ur": "ٹائم ایکسس کے متوازی افقی لائن کا مطلب ہے کہ وقت گزرنے کے ساتھ سپیڈ تبدیل نہیں ہو رہی یعنی سپیڈ مستقل ہے۔",
-      "explanationEn": "A horizontal line parallel to time axis means speed remains constant as time passes (acceleration = 0).",
-      "explanationUr": "ٹائم ایکسس کے متوازی افقی لائن کا مطلب ہے کہ وقت گزرنے کے ساتھ سپیڈ تبدیل نہیں ہو رہی یعنی سپیڈ مستقل ہے۔",
-      "statementEn": "A horizontal straight line on a speed-time graph indicates that the object is:",
-      "statementUr": "سپیڈ-وقت گراف پر افقی سیدھی لائن ظاہر کرتی ہے کہ جسم:"
-    },
-    {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "The area under a speed-time graph represents:",
-      "question_ur": "سپیڈ-وقت گراف کے نیچے کا رقبہ کیا ظاہر کرتا ہے؟",
-      "questionEn": "The area under a speed-time graph represents:",
-      "questionUr": "سپیڈ-وقت گراف کے نیچے کا رقبہ کیا ظاہر کرتا ہے؟",
-      "options_en": {
-        "A": "Acceleration",
-        "B": "Total distance traveled",
-        "C": "Time taken",
-        "D": "Force"
-      },
-      "options_ur": {
-        "A": "ایکسلریشن",
-        "B": "کل طے شدہ فاصلہ",
-        "C": "صرف شدہ وقت",
-        "D": "فورس"
-      },
       "optionsEn": [
         "Acceleration",
-        "Total distance traveled",
-        "Time taken",
+        "Speed",
+        "Displacement",
         "Force"
       ],
       "optionsUr": [
         "ایکسلریشن",
-        "کل طے شدہ فاصلہ",
-        "صرف شدہ وقت",
+        "سپیڈ",
+        "ڈسپلیسمنٹ",
         "فورس"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Area = speed × time = distance traveled by the object.",
-      "explanation_ur": "سپیڈ-وقت گراف کے نیچے کا رقبہ فاصلہ = سپیڈ × وقت کے برابر ہوتا ہے۔",
-      "explanationEn": "Area = speed × time = distance traveled by the object.",
-      "explanationUr": "سپیڈ-وقت گراف کے نیچے کا رقبہ فاصلہ = سپیڈ × وقت کے برابر ہوتا ہے۔",
-      "statementEn": "The area under a speed-time graph represents:",
-      "statementUr": "سپیڈ-وقت گراف کے نیچے کا رقبہ کیا ظاہر کرتا ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Acceleration is the time rate of change of velocity.",
+      "explanationUr": "ویلوسٹی میں تبدیلی کی شرح ایکسلریشن کہلاتی ہے۔"
     },
     {
-      "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "Which equation of motion is independent of time 't'?",
-      "question_ur": "حرکت کی کون سی مساوات وقت 't' سے آزاد (مستثنیٰ) ہے؟",
-      "questionEn": "Which equation of motion is independent of time 't'?",
-      "questionUr": "حرکت کی کون سی مساوات وقت 't' سے آزاد (مستثنیٰ) ہے؟",
-      "options_en": {
-        "A": "vf = vi + at",
-        "B": "S = vi t + ½ at²",
-        "C": "2aS = vf² - vi²",
-        "D": "S = vt"
-      },
-      "options_ur": {
-        "A": "vf = vi + at",
-        "B": "S = vi t + ½ at²",
-        "C": "2aS = vf² - vi²",
-        "D": "S = vt"
-      },
-      "optionsEn": [
-        "vf = vi + at",
-        "S = vi t + ½ at²",
-        "2aS = vf² - vi²",
-        "S = vt"
+      "statementEn": "If a body covers equal distances in equal intervals of time, its speed is:",
+      "statementUr": "اگر کوئی جسم وقت کے مساوی وقفوں میں مساوی فاصلہ طے کرے تو اس کی سپیڈ ہوگی:",
+      "questionEn": "If a body covers equal distances in equal intervals of time, its speed is:",
+      "questionUr": "اگر کوئی جسم وقت کے مساوی وقفوں میں مساوی فاصلہ طے کرے تو اس کی سپیڈ ہوگی:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Uniform",
+          "textUr": "یکساں (یونیفارم)"
+        },
+        {
+          "key": "B",
+          "textEn": "Variable",
+          "textUr": "متغیر"
+        },
+        {
+          "key": "C",
+          "textEn": "Zero",
+          "textUr": "صفر"
+        },
+        {
+          "key": "D",
+          "textEn": "Negative",
+          "textUr": "منفی"
+        }
       ],
-      "optionsUr": [
-        "vf = vi + at",
-        "S = vi t + ½ at²",
-        "2aS = vf² - vi²",
-        "S = vt"
-      ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "The third equation of motion, 2aS = vf² - vi², relates acceleration, displacement, and velocities without containing time.",
-      "explanation_ur": "حرکت کی تیسری مساوات 2aS = vf² - vi² میں وقت 't' شامل نہیں ہوتا۔",
-      "explanationEn": "The third equation of motion, 2aS = vf² - vi², relates acceleration, displacement, and velocities without containing time.",
-      "explanationUr": "حرکت کی تیسری مساوات 2aS = vf² - vi² میں وقت 't' شامل نہیں ہوتا۔",
-      "statementEn": "Which equation of motion is independent of time 't'?",
-      "statementUr": "حرکت کی کون سی مساوات وقت 't' سے آزاد (مستثنیٰ) ہے؟"
-    },
-    {
-      "id": 8,
-      "slo_ref": "SLO-05",
-      "question_en": "When a body is thrown vertically upwards, its velocity at the highest point is:",
-      "question_ur": "جب کسی جسم کو عموداً اوپر پھینکا جائے تو بلند ترین مقام پر اس کی ویلوسٹی ہوتی ہے:",
-      "questionEn": "When a body is thrown vertically upwards, its velocity at the highest point is:",
-      "questionUr": "جب کسی جسم کو عموداً اوپر پھینکا جائے تو بلند ترین مقام پر اس کی ویلوسٹی ہوتی ہے:",
-      "options_en": {
-        "A": "Maximum",
-        "B": "Zero",
-        "C": "9.8 m s⁻¹",
-        "D": "-9.8 m s⁻¹"
-      },
-      "options_ur": {
-        "A": "زیادہ سے زیادہ",
-        "B": "صفر (Zero)",
-        "C": "9.8 میٹر فی سیکنڈ",
-        "D": "-9.8 میٹر فی سیکنڈ"
-      },
       "optionsEn": [
-        "Maximum",
+        "Uniform",
+        "Variable",
         "Zero",
-        "9.8 m s⁻¹",
-        "-9.8 m s⁻¹"
+        "Negative"
       ],
       "optionsUr": [
-        "زیادہ سے زیادہ",
-        "صفر (Zero)",
-        "9.8 میٹر فی سیکنڈ",
-        "-9.8 میٹر فی سیکنڈ"
+        "یکساں (یونیفارم)",
+        "متغیر",
+        "صفر",
+        "منفی"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "At the peak of upward flight, the body momentarily comes to rest before falling back down, so vf = 0.",
-      "explanation_ur": "بلند ترین مقام پر جسم لمحہ بھر کے لیے رکتا ہے اور پھر نیچے آنا شروع ہوتا ہے، اس لیے آخری ویلوسٹی صفر ہوتی ہے۔",
-      "explanationEn": "At the peak of upward flight, the body momentarily comes to rest before falling back down, so vf = 0.",
-      "explanationUr": "بلند ترین مقام پر جسم لمحہ بھر کے لیے رکتا ہے اور پھر نیچے آنا شروع ہوتا ہے، اس لیے آخری ویلوسٹی صفر ہوتی ہے۔",
-      "statementEn": "When a body is thrown vertically upwards, its velocity at the highest point is:",
-      "statementUr": "جب کسی جسم کو عموداً اوپر پھینکا جائے تو بلند ترین مقام پر اس کی ویلوسٹی ہوتی ہے:"
-    },
-    {
-      "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "The value of gravitational acceleration 'g' near the surface of Earth is approximately:",
-      "question_ur": "زمین کی سطح کے قریب گریویٹیشنل ایکسلریشن 'g' کی قیمت تقریباً ہے:",
-      "questionEn": "The value of gravitational acceleration 'g' near the surface of Earth is approximately:",
-      "questionUr": "زمین کی سطح کے قریب گریویٹیشنل ایکسلریشن 'g' کی قیمت تقریباً ہے:",
-      "options_en": {
-        "A": "10 m s⁻¹",
-        "B": "10 m s⁻²",
-        "C": "100 m s⁻²",
-        "D": "1 m s⁻²"
-      },
-      "options_ur": {
-        "A": "10 m s⁻¹",
-        "B": "10 m s⁻²",
-        "C": "100 m s⁻²",
-        "D": "1 m s⁻²"
-      },
-      "optionsEn": [
-        "10 m s⁻¹",
-        "10 m s⁻²",
-        "100 m s⁻²",
-        "1 m s⁻²"
-      ],
-      "optionsUr": [
-        "10 m s⁻¹",
-        "10 m s⁻²",
-        "100 m s⁻²",
-        "1 m s⁻²"
-      ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "In PTBB 2026 textbook, g is taken as 9.8 m s⁻² or 10 m s⁻² directed downwards.",
-      "explanation_ur": "نصاب کے مطابق زمین کی سطح پر گریویٹیشنل ایکسلریشن تقریباً 9.8 یا 10 m s⁻² ہوتا ہے۔",
-      "explanationEn": "In PTBB 2026 textbook, g is taken as 9.8 m s⁻² or 10 m s⁻² directed downwards.",
-      "explanationUr": "نصاب کے مطابق زمین کی سطح پر گریویٹیشنل ایکسلریشن تقریباً 9.8 یا 10 m s⁻² ہوتا ہے۔",
-      "statementEn": "The value of gravitational acceleration 'g' near the surface of Earth is approximately:",
-      "statementUr": "زمین کی سطح کے قریب گریویٹیشنل ایکسلریشن 'g' کی قیمت تقریباً ہے:"
-    },
-    {
-      "id": 10,
-      "slo_ref": "SLO-02",
-      "question_en": "Deceleration or negative acceleration is also termed as:",
-      "question_ur": "منفی ایکسلریشن (Deceleration) کو یہ بھی کہا جاتا ہے:",
-      "questionEn": "Deceleration or negative acceleration is also termed as:",
-      "questionUr": "منفی ایکسلریشن (Deceleration) کو یہ بھی کہا جاتا ہے:",
-      "options_en": {
-        "A": "Retardation",
-        "B": "Instantaneous speed",
-        "C": "Scalar motion",
-        "D": "Terminal velocity"
-      },
-      "options_ur": {
-        "A": "ریٹارڈیشن (Retardation)",
-        "B": "لمحاتی سپیڈ",
-        "C": "سکیلر موشن",
-        "D": "ٹرمینل ویلوسٹی"
-      },
-      "optionsEn": [
-        "Retardation",
-        "Instantaneous speed",
-        "Scalar motion",
-        "Terminal velocity"
-      ],
-      "optionsUr": [
-        "ریٹارڈیشن (Retardation)",
-        "لمحاتی سپیڈ",
-        "سکیلر موشن",
-        "ٹرمینل ویلوسٹی"
-      ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "When velocity decreases with time, acceleration is in the opposite direction and is called retardation or deceleration.",
-      "explanation_ur": "جب ویلوسٹی میں کمی واقع ہو رہی ہو تو ایکسلریشن ویلوسٹی کی مخالف سمت میں ہوتا ہے جسے ریٹارڈیشن کہتے ہیں۔",
-      "explanationEn": "When velocity decreases with time, acceleration is in the opposite direction and is called retardation or deceleration.",
-      "explanationUr": "جب ویلوسٹی میں کمی واقع ہو رہی ہو تو ایکسلریشن ویلوسٹی کی مخالف سمت میں ہوتا ہے جسے ریٹارڈیشن کہتے ہیں۔",
-      "statementEn": "Deceleration or negative acceleration is also termed as:",
-      "statementUr": "منفی ایکسلریشن (Deceleration) کو یہ بھی کہا جاتا ہے:"
+      "explanationEn": "Equal distances in equal times defines uniform speed.",
+      "explanationUr": "مساوی وقت میں مساوی فاصلہ یونیفارم سپیڈ کہلاتا ہے۔"
     },
     {
-      "id": 11,
-      "slo_ref": "SLO-01",
-      "question_en": "The motion of riders in a Ferris wheel is an example of:",
-      "question_ur": "بڑے جھولے (Ferris Wheel) میں سواروں کی حرکت کس قسم کی موشن ہے؟",
-      "questionEn": "The motion of riders in a Ferris wheel is an example of:",
-      "questionUr": "بڑے جھولے (Ferris Wheel) میں سواروں کی حرکت کس قسم کی موشن ہے؟",
-      "options_en": {
-        "A": "Circular motion",
-        "B": "Rotatory motion",
-        "C": "Linear motion",
-        "D": "Random motion"
-      },
-      "options_ur": {
-        "A": "سرکولر موشن",
-        "B": "روٹیٹری موشن",
-        "C": "لینیئر موشن",
-        "D": "رینڈم موشن"
-      },
-      "optionsEn": [
-        "Circular motion",
-        "Rotatory motion",
-        "Linear motion",
-        "Random motion"
+      "statementEn": "The slope of distance-time graph represents:",
+      "statementUr": "فاصلہ-وقت گراف کی ڈھلوان (سلوپ) ظاہر کرتی ہے:",
+      "questionEn": "The slope of distance-time graph represents:",
+      "questionUr": "فاصلہ-وقت گراف کی ڈھلوان (سلوپ) ظاہر کرتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Speed",
+          "textUr": "سپیڈ"
+        },
+        {
+          "key": "B",
+          "textEn": "Acceleration",
+          "textUr": "ایکسلریشن"
+        },
+        {
+          "key": "C",
+          "textEn": "Distance",
+          "textUr": "فاصلہ"
+        },
+        {
+          "key": "D",
+          "textEn": "Force",
+          "textUr": "فورس"
+        }
       ],
-      "optionsUr": [
-        "سرکولر موشن",
-        "روٹیٹری موشن",
-        "لینیئر موشن",
-        "رینڈم موشن"
-      ],
-      "correct_answer": "A",
-      "correctIndex": 0,
-      "explanation_en": "The riders move around an external circular path without spinning about their own axis, representing circular motion.",
-      "explanation_ur": "سوار بیرونی دائرے میں حرکت کرتے ہیں نہ کہ اپنے ذاتی ایکسس کے گرد، اس لیے یہ سرکولر موشن ہے۔",
-      "explanationEn": "The riders move around an external circular path without spinning about their own axis, representing circular motion.",
-      "explanationUr": "سوار بیرونی دائرے میں حرکت کرتے ہیں نہ کہ اپنے ذاتی ایکسس کے گرد، اس لیے یہ سرکولر موشن ہے۔",
-      "statementEn": "The motion of riders in a Ferris wheel is an example of:",
-      "statementUr": "بڑے جھولے (Ferris Wheel) میں سواروں کی حرکت کس قسم کی موشن ہے؟"
-    },
-    {
-      "id": 12,
-      "slo_ref": "SLO-02",
-      "question_en": "Displacement divided by time taken yields:",
-      "question_ur": "ڈسپلیسمنٹ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے:",
-      "questionEn": "Displacement divided by time taken yields:",
-      "questionUr": "ڈسپلیسمنٹ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے:",
-      "options_en": {
-        "A": "Speed",
-        "B": "Velocity",
-        "C": "Acceleration",
-        "D": "Distance"
-      },
-      "options_ur": {
-        "A": "سپیڈ",
-        "B": "ویلوسٹی",
-        "C": "ایکسلریشن",
-        "D": "فاصلہ"
-      },
       "optionsEn": [
         "Speed",
-        "Velocity",
         "Acceleration",
-        "Distance"
+        "Distance",
+        "Force"
       ],
       "optionsUr": [
         "سپیڈ",
-        "ویلوسٹی",
         "ایکسلریشن",
-        "فاصلہ"
+        "فاصلہ",
+        "فورس"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Velocity = Displacement / Time. It is the rate of change of displacement.",
-      "explanation_ur": "ڈسپلیسمنٹ میں تبدیلی کی شرح کو ویلوسٹی کہتے ہیں (ویلوسٹی = ڈسپلیسمنٹ / وقت)۔",
-      "explanationEn": "Velocity = Displacement / Time. It is the rate of change of displacement.",
-      "explanationUr": "ڈسپلیسمنٹ میں تبدیلی کی شرح کو ویلوسٹی کہتے ہیں (ویلوسٹی = ڈسپلیسمنٹ / وقت)۔",
-      "statementEn": "Displacement divided by time taken yields:",
-      "statementUr": "ڈسپلیسمنٹ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے:"
-    },
-    {
-      "id": 13,
-      "slo_ref": "SLO-02",
-      "question_en": "A car accelerates from rest to 20 m s⁻¹ in 5 seconds. Its acceleration is:",
-      "question_ur": "ایک کار ساکن حالت سے 5 سیکنڈ میں 20 m s⁻¹ سپیڈ حاصل کرتی ہے۔ اس کا ایکسلریشن ہوگا:",
-      "questionEn": "A car accelerates from rest to 20 m s⁻¹ in 5 seconds. Its acceleration is:",
-      "questionUr": "ایک کار ساکن حالت سے 5 سیکنڈ میں 20 m s⁻¹ سپیڈ حاصل کرتی ہے۔ اس کا ایکسلریشن ہوگا:",
-      "options_en": {
-        "A": "4 m s⁻²",
-        "B": "2 m s⁻²",
-        "C": "100 m s⁻²",
-        "D": "0.25 m s⁻²"
-      },
-      "options_ur": {
-        "A": "4 m s⁻²",
-        "B": "2 m s⁻²",
-        "C": "100 m s⁻²",
-        "D": "0.25 m s⁻²"
-      },
-      "optionsEn": [
-        "4 m s⁻²",
-        "2 m s⁻²",
-        "100 m s⁻²",
-        "0.25 m s⁻²"
-      ],
-      "optionsUr": [
-        "4 m s⁻²",
-        "2 m s⁻²",
-        "100 m s⁻²",
-        "0.25 m s⁻²"
-      ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "a = (vf - vi)/t = (20 - 0)/5 = 4 m s⁻².",
-      "explanation_ur": "a = (vf - vi)/t = (20 - 0)/5 = 4 میٹر فی سیکنڈ اسکوائر۔",
-      "explanationEn": "a = (vf - vi)/t = (20 - 0)/5 = 4 m s⁻².",
-      "explanationUr": "a = (vf - vi)/t = (20 - 0)/5 = 4 میٹر فی سیکنڈ اسکوائر۔",
-      "statementEn": "A car accelerates from rest to 20 m s⁻¹ in 5 seconds. Its acceleration is:",
-      "statementUr": "ایک کار ساکن حالت سے 5 سیکنڈ میں 20 m s⁻¹ سپیڈ حاصل کرتی ہے۔ اس کا ایکسلریشن ہوگا:"
+      "explanationEn": "Slope of distance-time graph gives speed (v = Δs / Δt).",
+      "explanationUr": "فاصلہ-وقت گراف کی سلوپ سپیڈ دیتی ہے۔"
     },
     {
-      "id": 14,
-      "slo_ref": "SLO-04",
-      "question_en": "If initial velocity vi = 0, the distance covered in time 't' with acceleration 'a' is:",
-      "question_ur": "اگر ابتدائی ویلوسٹی vi = 0 ہو، تو ایکسلریشن 'a' کے ساتھ 't' وقت میں طے شدہ فاصلہ ہوگا:",
-      "questionEn": "If initial velocity vi = 0, the distance covered in time 't' with acceleration 'a' is:",
-      "questionUr": "اگر ابتدائی ویلوسٹی vi = 0 ہو، تو ایکسلریشن 'a' کے ساتھ 't' وقت میں طے شدہ فاصلہ ہوگا:",
-      "options_en": {
-        "A": "at",
-        "B": "½ at²",
-        "C": "2at²",
-        "D": "at²"
-      },
-      "options_ur": {
-        "A": "at",
-        "B": "½ at²",
-        "C": "2at²",
-        "D": "at²"
-      },
+      "statementEn": "The slope of velocity-time graph represents:",
+      "statementUr": "ویلوسٹی-وقت گراف کی ڈھلوان ظاہر کرتی ہے:",
+      "questionEn": "The slope of velocity-time graph represents:",
+      "questionUr": "ویلوسٹی-وقت گراف کی ڈھلوان ظاہر کرتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Acceleration",
+          "textUr": "ایکسلریشن"
+        },
+        {
+          "key": "B",
+          "textEn": "Speed",
+          "textUr": "سپیڈ"
+        },
+        {
+          "key": "C",
+          "textEn": "Distance",
+          "textUr": "فاصلہ"
+        },
+        {
+          "key": "D",
+          "textEn": "Momentum",
+          "textUr": "مومنٹم"
+        }
+      ],
       "optionsEn": [
-        "at",
-        "½ at²",
-        "2at²",
-        "at²"
+        "Acceleration",
+        "Speed",
+        "Distance",
+        "Momentum"
       ],
       "optionsUr": [
-        "at",
-        "½ at²",
-        "2at²",
-        "at²"
+        "ایکسلریشن",
+        "سپیڈ",
+        "فاصلہ",
+        "مومنٹم"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "S = vi t + ½ at². When vi = 0, S = 0 + ½ at² = ½ at².",
-      "explanation_ur": "دوسری مساوات S = vi t + ½ at² کے مطابق vi = 0 رکھنے پر S = ½ at² بن جاتا ہے۔",
-      "explanationEn": "S = vi t + ½ at². When vi = 0, S = 0 + ½ at² = ½ at².",
-      "explanationUr": "دوسری مساوات S = vi t + ½ at² کے مطابق vi = 0 رکھنے پر S = ½ at² بن جاتا ہے۔",
-      "statementEn": "If initial velocity vi = 0, the distance covered in time 't' with acceleration 'a' is:",
-      "statementUr": "اگر ابتدائی ویلوسٹی vi = 0 ہو، تو ایکسلریشن 'a' کے ساتھ 't' وقت میں طے شدہ فاصلہ ہوگا:"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Slope of velocity-time graph gives acceleration (a = Δv / Δt).",
+      "explanationUr": "ویلوسٹی-وقت گراف کی سلوپ ایکسلریشن دیتی ہے۔"
     },
     {
-      "id": 15,
-      "slo_ref": "SLO-01",
-      "question_en": "Brownian motion of smoke particles or gas molecules is an example of:",
-      "question_ur": "دھوئیں کے ذرات یا گیس مالیکیولز کی براؤنین موشن کس کی مثال ہے؟",
-      "questionEn": "Brownian motion of smoke particles or gas molecules is an example of:",
-      "questionUr": "دھوئیں کے ذرات یا گیس مالیکیولز کی براؤنین موشن کس کی مثال ہے؟",
-      "options_en": {
-        "A": "Linear motion",
-        "B": "Random motion",
-        "C": "Rotatory motion",
-        "D": "Circular motion"
-      },
-      "options_ur": {
-        "A": "لینیئر موشن",
-        "B": "رینڈم موشن",
-        "C": "روٹیٹری موشن",
-        "D": "سرکولر موشن"
-      },
+      "statementEn": "Area under a speed-time graph represents:",
+      "statementUr": "سپیڈ-وقت گراف کے نیچے کا رقبہ ظاہر کرتا ہے:",
+      "questionEn": "Area under a speed-time graph represents:",
+      "questionUr": "سپیڈ-وقت گراف کے نیچے کا رقبہ ظاہر کرتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Distance traveled",
+          "textUr": "طے شدہ فاصلہ"
+        },
+        {
+          "key": "B",
+          "textEn": "Speed",
+          "textUr": "سپیڈ"
+        },
+        {
+          "key": "C",
+          "textEn": "Acceleration",
+          "textUr": "ایکسلریشن"
+        },
+        {
+          "key": "D",
+          "textEn": "Time elapsed",
+          "textUr": "گزرنے والا وقت"
+        }
+      ],
       "optionsEn": [
-        "Linear motion",
-        "Random motion",
-        "Rotatory motion",
-        "Circular motion"
+        "Distance traveled",
+        "Speed",
+        "Acceleration",
+        "Time elapsed"
       ],
       "optionsUr": [
-        "لینیئر موشن",
-        "رینڈم موشن",
-        "روٹیٹری موشن",
-        "سرکولر موشن"
+        "طے شدہ فاصلہ",
+        "سپیڈ",
+        "ایکسلریشن",
+        "گزرنے والا وقت"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "The irregular, zig-zag, disordered motion of particles is termed random motion.",
-      "explanation_ur": "کسی جسم کی بے ترتیبی اور ٹیڑھی میڑھی حرکت کو رینڈم موشن کہتے ہیں۔",
-      "explanationEn": "The irregular, zig-zag, disordered motion of particles is termed random motion.",
-      "explanationUr": "کسی جسم کی بے ترتیبی اور ٹیڑھی میڑھی حرکت کو رینڈم موشن کہتے ہیں۔",
-      "statementEn": "Brownian motion of smoke particles or gas molecules is an example of:",
-      "statementUr": "دھوئیں کے ذرات یا گیس مالیکیولز کی براؤنین موشن کس کی مثال ہے؟"
-    }
-  ],
-  "short_questions": [
-    {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define rest and motion. Explain how a passenger sitting in a moving bus is at rest and in motion simultaneously.",
-      "question_ur": "ریسٹ اور موشن کی تعریف کریں۔ وضاحت کریں کہ چلتی بس میں بیٹھا مسافر بیک وقت ریسٹ اور موشن میں کیسے ہے؟",
-      "questionEn": "Define rest and motion. Explain how a passenger sitting in a moving bus is at rest and in motion simultaneously.",
-      "questionUr": "ریسٹ اور موشن کی تعریف کریں۔ وضاحت کریں کہ چلتی بس میں بیٹھا مسافر بیک وقت ریسٹ اور موشن میں کیسے ہے؟",
-      "answer_en": "A body is at rest if it does not change its position with respect to its surroundings. A body is in motion if it changes its position with respect to its surroundings. A passenger sitting in a moving bus is at rest with respect to the other passengers and objects inside the bus because his position relative to them remains constant. However, with respect to an observer outside the bus on the road, he is continuously changing position and is therefore in motion.",
-      "answer_ur": "اگر کوئی جسم اپنے ارد گرد کے ماحول کے لحاظ سے اپنی پوزیشن تبدیل نہ کر رہا ہو تو وہ حالتِ ریسٹ میں ہوتا ہے۔ اگر جسم گرد و پیش کے لحاظ سے پوزیشن تبدیل کرے تو وہ حالتِ موشن میں ہوتا ہے۔ چلتی بس میں بیٹھا شخص بس کے دوسرے مسافروں کے لحاظ سے ریسٹ میں ہے کیونکہ ان کے مقابلے میں اس کی پوزیشن تبدیل نہیں ہو رہی، لیکن باہر سڑک پر کھڑے شخص کے لحاظ سے وہ حرکت میں ہے۔",
-      "answerEn": "A body is at rest if it does not change its position with respect to its surroundings. A body is in motion if it changes its position with respect to its surroundings. A passenger sitting in a moving bus is at rest with respect to the other passengers and objects inside the bus because his position relative to them remains constant. However, with respect to an observer outside the bus on the road, he is continuously changing position and is therefore in motion.",
-      "answerUr": "اگر کوئی جسم اپنے ارد گرد کے ماحول کے لحاظ سے اپنی پوزیشن تبدیل نہ کر رہا ہو تو وہ حالتِ ریسٹ میں ہوتا ہے۔ اگر جسم گرد و پیش کے لحاظ سے پوزیشن تبدیل کرے تو وہ حالتِ موشن میں ہوتا ہے۔ چلتی بس میں بیٹھا شخص بس کے دوسرے مسافروں کے لحاظ سے ریسٹ میں ہے کیونکہ ان کے مقابلے میں اس کی پوزیشن تبدیل نہیں ہو رہی، لیکن باہر سڑک پر کھڑے شخص کے لحاظ سے وہ حرکت میں ہے۔",
-      "statementEn": "Define rest and motion. Explain how a passenger sitting in a moving bus is at rest and in motion simultaneously.",
-      "statementUr": "ریسٹ اور موشن کی تعریف کریں۔ وضاحت کریں کہ چلتی بس میں بیٹھا مسافر بیک وقت ریسٹ اور موشن میں کیسے ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Area under speed-time graph gives distance: s = v × t.",
+      "explanationUr": "سپیڈ-وقت گراف کا رقبہ فاصلے کو ظاہر کرتا ہے۔"
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "Differentiate between rotatory motion and circular motion with one example of each.",
-      "question_ur": "روٹیٹری موشن اور سرکولر موشن کے درمیان فرق واضح کریں اور ہر ایک کی ایک مثال دیں۔",
-      "questionEn": "Differentiate between rotatory motion and circular motion with one example of each.",
-      "questionUr": "روٹیٹری موشن اور سرکولر موشن کے درمیان فرق واضح کریں اور ہر ایک کی ایک مثال دیں۔",
-      "answer_en": "In rotatory motion, a body spins about a fixed internal axis passing through its own body (e.g. motion of an electric fan or spinning top). In circular motion, a body moves along an external circular curved path around a center outside the body (e.g. motion of Earth around the Sun or a stone whirled by a string).",
-      "answer_ur": "روٹیٹری موشن میں کوئی جسم اپنے ہی اندر سے گزرنے والے فکسڈ ایکسس کے گرد گھومتا ہے (مثلاً چھت کے پنکھے یا لٹو کی حرکت)۔ جبکہ سرکولر موشن میں کوئی جسم اپنے جسم سے باہر واقع کسی مرکز کے گرد دائرے میں حرکت کرتا ہے (مثلاً زمین کی سورج کے گرد حرکت یا ڈوری سے بندھے پتھر کی حرکت)۔",
-      "answerEn": "In rotatory motion, a body spins about a fixed internal axis passing through its own body (e.g. motion of an electric fan or spinning top). In circular motion, a body moves along an external circular curved path around a center outside the body (e.g. motion of Earth around the Sun or a stone whirled by a string).",
-      "answerUr": "روٹیٹری موشن میں کوئی جسم اپنے ہی اندر سے گزرنے والے فکسڈ ایکسس کے گرد گھومتا ہے (مثلاً چھت کے پنکھے یا لٹو کی حرکت)۔ جبکہ سرکولر موشن میں کوئی جسم اپنے جسم سے باہر واقع کسی مرکز کے گرد دائرے میں حرکت کرتا ہے (مثلاً زمین کی سورج کے گرد حرکت یا ڈوری سے بندھے پتھر کی حرکت)۔",
-      "statementEn": "Differentiate between rotatory motion and circular motion with one example of each.",
-      "statementUr": "روٹیٹری موشن اور سرکولر موشن کے درمیان فرق واضح کریں اور ہر ایک کی ایک مثال دیں۔"
+      "statementEn": "A car starts from rest and acquires a velocity of 20 m/s in 5 s. Its acceleration is:",
+      "statementUr": "ایک کار ریسٹ سے چل کر 5 سیکنڈ میں 20 میٹر فی سیکنڈ ویلوسٹی حاصل کرتی ہے، اس کا ایکسلریشن ہے:",
+      "questionEn": "A car starts from rest and acquires a velocity of 20 m/s in 5 s. Its acceleration is:",
+      "questionUr": "ایک کار ریسٹ سے چل کر 5 سیکنڈ میں 20 میٹر فی سیکنڈ ویلوسٹی حاصل کرتی ہے، اس کا ایکسلریشن ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "4 m s⁻²",
+          "textUr": "4 m s⁻²"
+        },
+        {
+          "key": "B",
+          "textEn": "100 m s⁻²",
+          "textUr": "100 m s⁻²"
+        },
+        {
+          "key": "C",
+          "textEn": "2 m s⁻²",
+          "textUr": "2 m s⁻²"
+        },
+        {
+          "key": "D",
+          "textEn": "0.25 m s⁻²",
+          "textUr": "0.25 m s⁻²"
+        }
+      ],
+      "optionsEn": [
+        "4 m s⁻²",
+        "100 m s⁻²",
+        "2 m s⁻²",
+        "0.25 m s⁻²"
+      ],
+      "optionsUr": [
+        "4 m s⁻²",
+        "100 m s⁻²",
+        "2 m s⁻²",
+        "0.25 m s⁻²"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "a = (vf - vi) / t = (20 - 0) / 5 = 4 m s⁻².",
+      "explanationUr": "ایکسلریشن برابر ہے (20 - 0) تقسیم 5 یعنی 4 میٹر فی سیکنڈ مربع۔"
     },
     {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between distance and displacement.",
-      "question_ur": "فاصلہ (Distance) اور ڈسپلیسمنٹ (Displacement) میں دو اہم فرق تحریر کریں۔",
-      "questionEn": "Differentiate between distance and displacement.",
-      "questionUr": "فاصلہ (Distance) اور ڈسپلیسمنٹ (Displacement) میں دو اہم فرق تحریر کریں۔",
-      "answer_en": "1. Nature: Distance is the total actual length of the path traveled between two points (scalar quantity), while displacement is the shortest straight-line distance directed from initial to final position (vector quantity).\n2. Value: Distance is always positive and never zero for a moving body; displacement can be positive, negative, or zero if the body returns to its starting point.",
-      "answer_ur": "۱۔ نوعیت: دو مقامات کے درمیان طے کردہ راستے کی اصل لمبائی فاصلہ کہلاتی ہے جو کہ سکیلر مقدار ہے، جبکہ دو پوائنٹس کے درمیان کم سے کم سیدھا خط ڈسپلیسمنٹ کہلاتا ہے جو کہ ویکٹر مقدار ہے۔\n۲۔ قیمت: فاصلہ ہمیشہ مثبت ہوتا ہے، جبکہ ڈسپلیسمنٹ مثبت، منفی یا ابتدائی مقام پر واپس آنے کی صورت میں صفر بھی ہو سکتا ہے۔",
-      "answerEn": "1. Nature: Distance is the total actual length of the path traveled between two points (scalar quantity), while displacement is the shortest straight-line distance directed from initial to final position (vector quantity).\n2. Value: Distance is always positive and never zero for a moving body; displacement can be positive, negative, or zero if the body returns to its starting point.",
-      "answerUr": "۱۔ نوعیت: دو مقامات کے درمیان طے کردہ راستے کی اصل لمبائی فاصلہ کہلاتی ہے جو کہ سکیلر مقدار ہے، جبکہ دو پوائنٹس کے درمیان کم سے کم سیدھا خط ڈسپلیسمنٹ کہلاتا ہے جو کہ ویکٹر مقدار ہے۔\n۲۔ قیمت: فاصلہ ہمیشہ مثبت ہوتا ہے، جبکہ ڈسپلیسمنٹ مثبت، منفی یا ابتدائی مقام پر واپس آنے کی صورت میں صفر بھی ہو سکتا ہے۔",
-      "statementEn": "Differentiate between distance and displacement.",
-      "statementUr": "فاصلہ (Distance) اور ڈسپلیسمنٹ (Displacement) میں دو اہم فرق تحریر کریں۔"
+      "statementEn": "The value of acceleration due to gravity near Earth's surface is approximately:",
+      "statementUr": "زمین کی سطح کے قریب گریویٹیشنل ایکسلریشن کی قیمت تقریباً ہوتی ہے:",
+      "questionEn": "The value of acceleration due to gravity near Earth's surface is approximately:",
+      "questionUr": "زمین کی سطح کے قریب گریویٹیشنل ایکسلریشن کی قیمت تقریباً ہوتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "10 m s⁻²",
+          "textUr": "10 m s⁻²"
+        },
+        {
+          "key": "B",
+          "textEn": "9.8 km s⁻¹",
+          "textUr": "9.8 km s⁻¹"
+        },
+        {
+          "key": "C",
+          "textEn": "1.6 m s⁻²",
+          "textUr": "1.6 m s⁻²"
+        },
+        {
+          "key": "D",
+          "textEn": "6.67 m s⁻²",
+          "textUr": "6.67 m s⁻²"
+        }
+      ],
+      "optionsEn": [
+        "10 m s⁻²",
+        "9.8 km s⁻¹",
+        "1.6 m s⁻²",
+        "6.67 m s⁻²"
+      ],
+      "optionsUr": [
+        "10 m s⁻²",
+        "9.8 km s⁻¹",
+        "1.6 m s⁻²",
+        "6.67 m s⁻²"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "g = 9.8 m/s² (commonly rounded to 10 m/s²).",
+      "explanationUr": "گریویٹیشنل ایکسلریشن کی قیمت 9.8 یا تقریباً 10 میٹر فی سیکنڈ مربع ہے۔"
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between speed and velocity. Write their SI units.",
-      "question_ur": "سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔",
-      "questionEn": "Differentiate between speed and velocity. Write their SI units.",
-      "questionUr": "سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔",
-      "answer_en": "Speed is the distance covered by an object per unit time (v = S/t) and is a scalar quantity. Velocity is the rate of displacement of a body (v = d/t) and is a vector quantity having direction. Both have the same SI unit: meter per second (m s⁻¹).",
-      "answer_ur": "اکائی وقت میں طے کردہ فاصلہ سپیڈ کہلاتا ہے (v = S/t) جو کہ سکیلر مقدار ہے۔ جبکہ ڈسپلیسمنٹ میں تبدیلی کی شرح ویلوسٹی کہلاتی ہے (v = d/t) جو کہ ویکٹر مقدار ہے۔ دونوں کا ایس آئی یونٹ میٹر فی سیکنڈ (m s⁻¹) ہے۔",
-      "answerEn": "Speed is the distance covered by an object per unit time (v = S/t) and is a scalar quantity. Velocity is the rate of displacement of a body (v = d/t) and is a vector quantity having direction. Both have the same SI unit: meter per second (m s⁻¹).",
-      "answerUr": "اکائی وقت میں طے کردہ فاصلہ سپیڈ کہلاتا ہے (v = S/t) جو کہ سکیلر مقدار ہے۔ جبکہ ڈسپلیسمنٹ میں تبدیلی کی شرح ویلوسٹی کہلاتی ہے (v = d/t) جو کہ ویکٹر مقدار ہے۔ دونوں کا ایس آئی یونٹ میٹر فی سیکنڈ (m s⁻¹) ہے۔",
-      "statementEn": "Differentiate between speed and velocity. Write their SI units.",
-      "statementUr": "سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔"
+      "statementEn": "When a ball is thrown vertically upward, its velocity at the highest point is:",
+      "statementUr": "جب کسی گیند کو عموداً اوپر پھینکا جائے تو بلند ترین مقام پر اس کی ویلوسٹی ہوگی:",
+      "questionEn": "When a ball is thrown vertically upward, its velocity at the highest point is:",
+      "questionUr": "جب کسی گیند کو عموداً اوپر پھینکا جائے تو بلند ترین مقام پر اس کی ویلوسٹی ہوگی:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Zero",
+          "textUr": "صفر"
+        },
+        {
+          "key": "B",
+          "textEn": "Maximum",
+          "textUr": "زیادہ سے زیادہ"
+        },
+        {
+          "key": "C",
+          "textEn": "9.8 m s⁻¹",
+          "textUr": "9.8 m s⁻¹"
+        },
+        {
+          "key": "D",
+          "textEn": "Infinite",
+          "textUr": "لامحدود"
+        }
+      ],
+      "optionsEn": [
+        "Zero",
+        "Maximum",
+        "9.8 m s⁻¹",
+        "Infinite"
+      ],
+      "optionsUr": [
+        "صفر",
+        "زیادہ سے زیادہ",
+        "9.8 m s⁻¹",
+        "لامحدود"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "At highest point, upward motion momentarily halts before falling: v = 0.",
+      "explanationUr": "بلند ترین مقام پر جسم ایک لمحے کے لیے رکتا ہے اس لیے ویلوسٹی صفر ہوتی ہے۔"
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-02",
-      "question_en": "Define uniform acceleration and negative acceleration (retardation).",
-      "question_ur": "یکساں ایکسلریشن (Uniform Acceleration) اور ریٹارڈیشن (Retardation) کی تعریف کریں۔",
-      "questionEn": "Define uniform acceleration and negative acceleration (retardation).",
-      "questionUr": "یکساں ایکسلریشن (Uniform Acceleration) اور ریٹارڈیشن (Retardation) کی تعریف کریں۔",
-      "answer_en": "Uniform acceleration: A body has uniform acceleration if it has equal changes in velocity in equal intervals of time, however short the intervals may be. Retardation: When the velocity of an object decreases with time, its acceleration is negative and is directed opposite to the velocity.",
-      "answer_ur": "یکساں ایکسلریشن: اگر کسی جسم کی ویلوسٹی میں برابر وقفوں میں برابر تبدیلی واقع ہو، چاہے وقفے کتنے ہی مختصر ہوں، تو اس کا ایکسلریشن یونیفارم کہلاتا ہے۔ ریٹارڈیشن: جب وقت کے ساتھ جسم کی ویلوسٹی کم ہو رہی ہو تو اس کا ایکسلریشن منفی ہوتا ہے جسے ریٹارڈیشن کہتے ہیں۔",
-      "answerEn": "Uniform acceleration: A body has uniform acceleration if it has equal changes in velocity in equal intervals of time, however short the intervals may be. Retardation: When the velocity of an object decreases with time, its acceleration is negative and is directed opposite to the velocity.",
-      "answerUr": "یکساں ایکسلریشن: اگر کسی جسم کی ویلوسٹی میں برابر وقفوں میں برابر تبدیلی واقع ہو، چاہے وقفے کتنے ہی مختصر ہوں، تو اس کا ایکسلریشن یونیفارم کہلاتا ہے۔ ریٹارڈیشن: جب وقت کے ساتھ جسم کی ویلوسٹی کم ہو رہی ہو تو اس کا ایکسلریشن منفی ہوتا ہے جسے ریٹارڈیشن کہتے ہیں۔",
-      "statementEn": "Define uniform acceleration and negative acceleration (retardation).",
-      "statementUr": "یکساں ایکسلریشن (Uniform Acceleration) اور ریٹارڈیشن (Retardation) کی تعریف کریں۔"
+      "statementEn": "Which of the following is the third equation of motion?",
+      "statementUr": "درج ذیل میں سے حرکت کی تیسری مساوات کون سی ہے؟",
+      "questionEn": "Which of the following is the third equation of motion?",
+      "questionUr": "درج ذیل میں سے حرکت کی تیسری مساوات کون سی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "2aS = vf² - vi²",
+          "textUr": "2aS = vf² - vi²"
+        },
+        {
+          "key": "B",
+          "textEn": "S = vit + 1/2 at²",
+          "textUr": "S = vit + 1/2 at²"
+        },
+        {
+          "key": "C",
+          "textEn": "vf = vi + at",
+          "textUr": "vf = vi + at"
+        },
+        {
+          "key": "D",
+          "textEn": "F = ma",
+          "textUr": "F = ma"
+        }
+      ],
+      "optionsEn": [
+        "2aS = vf² - vi²",
+        "S = vit + 1/2 at²",
+        "vf = vi + at",
+        "F = ma"
+      ],
+      "optionsUr": [
+        "2aS = vf² - vi²",
+        "S = vit + 1/2 at²",
+        "vf = vi + at",
+        "F = ma"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "The third equation of motion relates distance, acceleration and velocities: 2aS = vf² - vi².",
+      "explanationUr": "حرکت کی تیسری مساوات 2aS = vf² - vi² ہے۔"
     },
     {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "How can the slope of a distance-time graph be used to determine the speed of a moving object?",
-      "question_ur": "فاصلہ-وقت گراف کا سلوپ (Slope) متحرک جسم کی سپیڈ معلوم کرنے کے لیے کیسے استعمال ہوتا ہے؟",
-      "questionEn": "How can the slope of a distance-time graph be used to determine the speed of a moving object?",
-      "questionUr": "فاصلہ-وقت گراف کا سلوپ (Slope) متحرک جسم کی سپیڈ معلوم کرنے کے لیے کیسے استعمال ہوتا ہے؟",
-      "answer_en": "The slope of a distance-time graph is defined as the vertical rise (change in distance ΔS) divided by the horizontal run (change in time Δt). Slope = ΔS / Δt = Speed (v). Therefore, a steeper slope indicates higher speed, and a zero slope (horizontal line) indicates speed is zero (body is at rest).",
-      "answer_ur": "فاصلہ-وقت گراف کی سلوپ عمودی تبدیلی (فاصلہ ΔS) کو افقی تبدیلی (وقت Δt) پر تقسیم کرنے سے حاصل ہوتی ہے۔ سلوپ = ΔS / Δt = سپیڈ۔ پس گراف کی سلوپ جتنی زیادہ ڈھلوان ہوگی سپیڈ اتنی زیادہ ہوگی، اور افقی لائن پر سلوپ صفر ہونے کا مطلب ہے جسم ساکن ہے۔",
-      "answerEn": "The slope of a distance-time graph is defined as the vertical rise (change in distance ΔS) divided by the horizontal run (change in time Δt). Slope = ΔS / Δt = Speed (v). Therefore, a steeper slope indicates higher speed, and a zero slope (horizontal line) indicates speed is zero (body is at rest).",
-      "answerUr": "فاصلہ-وقت گراف کی سلوپ عمودی تبدیلی (فاصلہ ΔS) کو افقی تبدیلی (وقت Δt) پر تقسیم کرنے سے حاصل ہوتی ہے۔ سلوپ = ΔS / Δt = سپیڈ۔ پس گراف کی سلوپ جتنی زیادہ ڈھلوان ہوگی سپیڈ اتنی زیادہ ہوگی، اور افقی لائن پر سلوپ صفر ہونے کا مطلب ہے جسم ساکن ہے۔",
-      "statementEn": "How can the slope of a distance-time graph be used to determine the speed of a moving object?",
-      "statementUr": "فاصلہ-وقت گراف کا سلوپ (Slope) متحرک جسم کی سپیڈ معلوم کرنے کے لیے کیسے استعمال ہوتا ہے؟"
-    },
-    {
-      "id": 7,
-      "slo_ref": "SLO-03",
-      "question_en": "What two important quantities can be calculated from a speed-time graph?",
-      "question_ur": "سپیڈ-وقت گراف سے کون سی دو اہم مقداریں معلوم کی جا سکتی ہیں؟",
-      "questionEn": "What two important quantities can be calculated from a speed-time graph?",
-      "questionUr": "سپیڈ-وقت گراف سے کون سی دو اہم مقداریں معلوم کی جا سکتی ہیں؟",
-      "answer_en": "1. Acceleration: Determined from the slope of the speed-time graph (Slope = Δv / Δt = a).\n2. Total Distance Traveled: Determined by calculating the total area under the speed-time graph and the time axis (Distance = Area under graph).",
-      "answer_ur": "۱۔ ایکسلریشن: سپیڈ-وقت گراف کے سلوپ سے ایکسلریشن معلوم ہوتا ہے (سلوپ = Δv / Δt = a)۔\n۲۔ کل فاصلہ: سپیڈ-وقت گراف کے نیچے اور ٹائم ایکسس کے درمیانی رقبے سے کل طے شدہ فاصلہ معلوم ہوتا ہے۔",
-      "answerEn": "1. Acceleration: Determined from the slope of the speed-time graph (Slope = Δv / Δt = a).\n2. Total Distance Traveled: Determined by calculating the total area under the speed-time graph and the time axis (Distance = Area under graph).",
-      "answerUr": "۱۔ ایکسلریشن: سپیڈ-وقت گراف کے سلوپ سے ایکسلریشن معلوم ہوتا ہے (سلوپ = Δv / Δt = a)۔\n۲۔ کل فاصلہ: سپیڈ-وقت گراف کے نیچے اور ٹائم ایکسس کے درمیانی رقبے سے کل طے شدہ فاصلہ معلوم ہوتا ہے۔",
-      "statementEn": "What two important quantities can be calculated from a speed-time graph?",
-      "statementUr": "سپیڈ-وقت گراف سے کون سی دو اہم مقداریں معلوم کی جا سکتی ہیں؟"
-    },
-    {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "Write down the three standard equations of motion for uniformly accelerated body.",
-      "question_ur": "یکساں ایکسلریشن کے تحت حرکت کرتے ہوئے جسم کے لیے حرکت کی تینوں مساواتیں تحریر کریں۔",
-      "questionEn": "Write down the three standard equations of motion for uniformly accelerated body.",
-      "questionUr": "یکساں ایکسلریشن کے تحت حرکت کرتے ہوئے جسم کے لیے حرکت کی تینوں مساواتیں تحریر کریں۔",
-      "answer_en": "1. First equation: vf = vi + at\n2. Second equation: S = vi t + ½ at²\n3. Third equation: 2aS = vf² - vi²\nWhere vi = initial velocity, vf = final velocity, a = uniform acceleration, t = time interval, and S = distance traveled.",
-      "answer_ur": "۱۔ پہلی مساوات: vf = vi + at\n۲۔ دوسری مساوات: S = vi t + ½ at²\n۳۔ تیسری مساوات: 2aS = vf² - vi²\nجہاں vi = ابتدائی ویلوسٹی، vf = آخری ویلوسٹی، a = یونیفارم ایکسلریشن، t = وقت، اور S = فاصلہ ہے۔",
-      "answerEn": "1. First equation: vf = vi + at\n2. Second equation: S = vi t + ½ at²\n3. Third equation: 2aS = vf² - vi²\nWhere vi = initial velocity, vf = final velocity, a = uniform acceleration, t = time interval, and S = distance traveled.",
-      "answerUr": "۱۔ پہلی مساوات: vf = vi + at\n۲۔ دوسری مساوات: S = vi t + ½ at²\n۳۔ تیسری مساوات: 2aS = vf² - vi²\nجہاں vi = ابتدائی ویلوسٹی، vf = آخری ویلوسٹی، a = یونیفارم ایکسلریشن، t = وقت، اور S = فاصلہ ہے۔",
-      "statementEn": "Write down the three standard equations of motion for uniformly accelerated body.",
-      "statementUr": "یکساں ایکسلریشن کے تحت حرکت کرتے ہوئے جسم کے لیے حرکت کی تینوں مساواتیں تحریر کریں۔"
-    },
-    {
-      "id": 9,
-      "slo_ref": "SLO-04",
-      "question_en": "A train starts from rest with uniform acceleration of 0.5 m s⁻². Find its speed in km h⁻¹ after 100 seconds.",
-      "question_ur": "ایک ٹرین 0.5 m s⁻² ایکسلریشن کے ساتھ ساکن حالت سے چلتی ہے۔ 100 سیکنڈ بعد اس کی سپیڈ کلومیٹر فی گھنٹہ میں معلوم کریں۔",
-      "questionEn": "A train starts from rest with uniform acceleration of 0.5 m s⁻². Find its speed in km h⁻¹ after 100 seconds.",
-      "questionUr": "ایک ٹرین 0.5 m s⁻² ایکسلریشن کے ساتھ ساکن حالت سے چلتی ہے۔ 100 سیکنڈ بعد اس کی سپیڈ کلومیٹر فی گھنٹہ میں معلوم کریں۔",
-      "answer_en": "Given data: vi = 0, a = 0.5 m s⁻², t = 100 s. Using 1st equation of motion: vf = vi + at = 0 + (0.5 × 100) = 50 m s⁻¹. Converting to km h⁻¹: vf = 50 × (3600 / 1000) = 180 km h⁻¹.",
-      "answer_ur": "معلوم کوائف: vi = 0, a = 0.5 m s⁻², t = 100 s۔ پہلی مساوات vf = vi + at کے استعمال سے: vf = 0 + (0.5 × 100) = 50 m s⁻¹۔ کلومیٹر فی گھنٹہ میں تبدیلی: 50 × 3600 / 1000 = 180 کلومیٹر فی گھنٹہ۔",
-      "answerEn": "Given data: vi = 0, a = 0.5 m s⁻², t = 100 s. Using 1st equation of motion: vf = vi + at = 0 + (0.5 × 100) = 50 m s⁻¹. Converting to km h⁻¹: vf = 50 × (3600 / 1000) = 180 km h⁻¹.",
-      "answerUr": "معلوم کوائف: vi = 0, a = 0.5 m s⁻², t = 100 s۔ پہلی مساوات vf = vi + at کے استعمال سے: vf = 0 + (0.5 × 100) = 50 m s⁻¹۔ کلومیٹر فی گھنٹہ میں تبدیلی: 50 × 3600 / 1000 = 180 کلومیٹر فی گھنٹہ۔",
-      "statementEn": "A train starts from rest with uniform acceleration of 0.5 m s⁻². Find its speed in km h⁻¹ after 100 seconds.",
-      "statementUr": "ایک ٹرین 0.5 m s⁻² ایکسلریشن کے ساتھ ساکن حالت سے چلتی ہے۔ 100 سیکنڈ بعد اس کی سپیڈ کلومیٹر فی گھنٹہ میں معلوم کریں۔"
-    },
-    {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "What sign convention is adopted for gravitational acceleration 'g' for upward and downward vertical motions?",
-      "question_ur": "عمودی حرکت میں اوپر جاتے اور نیچے گرتے ہوئے جسم کے لیے گریویٹیشنل ایکسلریشن 'g' کی علامتوں کے اصول کیا ہیں؟",
-      "questionEn": "What sign convention is adopted for gravitational acceleration 'g' for upward and downward vertical motions?",
-      "questionUr": "عمودی حرکت میں اوپر جاتے اور نیچے گرتے ہوئے جسم کے لیے گریویٹیشنل ایکسلریشن 'g' کی علامتوں کے اصول کیا ہیں؟",
-      "answer_en": "1. For downward motion (falling freely): Velocity increases, so gravitational acceleration is positive (+g = +9.8 m s⁻² or +10 m s⁻²).\n2. For upward motion: Velocity decreases as the body moves against gravity, so gravitational acceleration is negative (-g = -9.8 m s⁻² or -10 m s⁻²).",
-      "answer_ur": "۱۔ نیچے گرتے ہوئے جسم کے لیے: ویلوسٹی میں اضافہ ہوتا ہے اس لیے گریویٹیشنل ایکسلریشن مثبت (+g = +10 m s⁻²) لیا جاتا ہے۔\n۲۔ اوپر پھینکے گئے جسم کے لیے: ویلوسٹی میں کمی واقع ہوتی ہے اس لیے گریویٹیشنل ایکسلریشن منفی (-g = -10 m s⁻²) لیا جاتا ہے۔",
-      "answerEn": "1. For downward motion (falling freely): Velocity increases, so gravitational acceleration is positive (+g = +9.8 m s⁻² or +10 m s⁻²).\n2. For upward motion: Velocity decreases as the body moves against gravity, so gravitational acceleration is negative (-g = -9.8 m s⁻² or -10 m s⁻²).\n",
-      "answerUr": "۱۔ نیچے گرتے ہوئے جسم کے لیے: ویلوسٹی میں اضافہ ہوتا ہے اس لیے گریویٹیشنل ایکسلریشن مثبت (+g = +10 m s⁻²) لیا جاتا ہے۔\n۲۔ اوپر پھینکے گئے جسم کے لیے: ویلوسٹی میں کمی واقع ہوتی ہے اس لیے گریویٹیشنل ایکسلریشن منفی (-g = -10 m s⁻²) لیا جاتا ہے۔",
-      "statementEn": "What sign convention is adopted for gravitational acceleration 'g' for upward and downward vertical motions?",
-      "statementUr": "عمودی حرکت میں اوپر جاتے اور نیچے گرتے ہوئے جسم کے لیے گریویٹیشنل ایکسلریشن 'g' کی علامتوں کے اصول کیا ہیں؟"
-    },
-    {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "A stone is dropped from the top of a tower 45 m high. How long will it take to reach the ground? (Take g = 10 m s⁻²)",
-      "question_ur": "45 میٹر اونچے ٹاور کی چوٹی سے ایک پتھر گرایا جاتا ہے۔ پتھر کو زمین تک پہنچنے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)",
-      "questionEn": "A stone is dropped from the top of a tower 45 m high. How long will it take to reach the ground? (Take g = 10 m s⁻²)",
-      "questionUr": "45 میٹر اونچے ٹاور کی چوٹی سے ایک پتھر گرایا جاتا ہے۔ پتھر کو زمین تک پہنچنے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)",
-      "answer_en": "Given data: vi = 0, h = 45 m, g = 10 m s⁻². Using 2nd equation of motion under gravity: h = vi t + ½ gt² => 45 = 0 + ½ (10) t² => 45 = 5 t² => t² = 9 => t = 3 seconds. The stone takes 3 seconds to reach the ground.",
-      "answer_ur": "معلوم کوائف: vi = 0, h = 45 میٹر، g = 10 m s⁻²۔ حرکت کی دوسری مساوات: h = vi t + ½ gt² => 45 = 0 + ½(10)t² => 45 = 5 t² => t² = 9 => t = 3 سیکنڈ۔ پتھر کو زمین تک پہنچنے میں 3 سیکنڈ لگیں گے۔",
-      "answerEn": "Given data: vi = 0, h = 45 m, g = 10 m s⁻². Using 2nd equation of motion under gravity: h = vi t + ½ gt² => 45 = 0 + ½ (10) t² => 45 = 5 t² => t² = 9 => t = 3 seconds. The stone takes 3 seconds to reach the ground.",
-      "answerUr": "معلوم کوائف: vi = 0, h = 45 میٹر، g = 10 m s⁻²۔ حرکت کی دوسری مساوات: h = vi t + ½ gt² => 45 = 0 + ½(10)t² => 45 = 5 t² => t² = 9 => t = 3 سیکنڈ۔ پتھر کو زمین تک پہنچنے میں 3 سیکنڈ لگیں گے۔",
-      "statementEn": "A stone is dropped from the top of a tower 45 m high. How long will it take to reach the ground? (Take g = 10 m s⁻²)",
-      "statementUr": "45 میٹر اونچے ٹاور کی چوٹی سے ایک پتھر گرایا جاتا ہے۔ پتھر کو زمین تک پہنچنے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)"
-    },
-    {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "A ball is thrown vertically upward with a speed of 30 m s⁻¹. Calculate the maximum height reached by the ball.",
-      "question_ur": "ایک گیند کو 30 m s⁻¹ کی سپیڈ سے عموداً اوپر پھینکا گیا۔ گیند کی زیادہ سے زیادہ اونچائی معلوم کریں۔",
-      "questionEn": "A ball is thrown vertically upward with a speed of 30 m s⁻¹. Calculate the maximum height reached by the ball.",
-      "questionUr": "ایک گیند کو 30 m s⁻¹ کی سپیڈ سے عموداً اوپر پھینکا گیا۔ گیند کی زیادہ سے زیادہ اونچائی معلوم کریں۔",
-      "answer_en": "Given data: vi = 30 m s⁻¹, at maximum height vf = 0, g = -10 m s⁻². Using 3rd equation of motion: 2gh = vf² - vi² => 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 meters. Maximum height reached is 45 m.",
-      "answer_ur": "معلوم کوائف: vi = 30 m s⁻¹, vf = 0 (بلند ترین مقام پر), g = -10 m s⁻²۔ تیسری مساوات 2gh = vf² - vi² کے استعمال سے: 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 میٹر۔ زیادہ سے زیادہ اونچائی 45 میٹر ہے۔",
-      "answerEn": "Given data: vi = 30 m s⁻¹, at maximum height vf = 0, g = -10 m s⁻². Using 3rd equation of motion: 2gh = vf² - vi² => 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 meters. Maximum height reached is 45 m.",
-      "answerUr": "معلوم کوائف: vi = 30 m s⁻¹, vf = 0 (بلند ترین مقام پر), g = -10 m s⁻²۔ تیسری مساوات 2gh = vf² - vi² کے استعمال سے: 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 میٹر۔ زیادہ سے زیادہ اونچائی 45 میٹر ہے۔",
-      "statementEn": "A ball is thrown vertically upward with a speed of 30 m s⁻¹. Calculate the maximum height reached by the ball.",
-      "statementUr": "ایک گیند کو 30 m s⁻¹ کی سپیڈ سے عموداً اوپر پھینکا گیا۔ گیند کی زیادہ سے زیادہ اونچائی معلوم کریں۔"
+      "statementEn": "A body moving with uniform velocity has an acceleration equal to:",
+      "statementUr": "یکساں ویلوسٹی سے حرکت کرنے والے جسم کا ایکسلریشن ہوتا ہے:",
+      "questionEn": "A body moving with uniform velocity has an acceleration equal to:",
+      "questionUr": "یکساں ویلوسٹی سے حرکت کرنے والے جسم کا ایکسلریشن ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Zero",
+          "textUr": "صفر"
+        },
+        {
+          "key": "B",
+          "textEn": "Constant positive",
+          "textUr": "مستقل مثبت"
+        },
+        {
+          "key": "C",
+          "textEn": "Variable",
+          "textUr": "متغیر"
+        },
+        {
+          "key": "D",
+          "textEn": "Infinite",
+          "textUr": "لامحدود"
+        }
+      ],
+      "optionsEn": [
+        "Zero",
+        "Constant positive",
+        "Variable",
+        "Infinite"
+      ],
+      "optionsUr": [
+        "صفر",
+        "مستقل مثبت",
+        "متغیر",
+        "لامحدود"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Since Δv = 0, acceleration a = 0.",
+      "explanationUr": "چونکہ ویلوسٹی تبدیل نہیں ہوتی اس لیے ایکسلریشن صفر ہوتا ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define rest and motion. Explain how a passenger sitting in a moving bus is at rest and in motion simultaneously.",
-      "question_ur": "ریسٹ اور موشن کی تعریف کریں۔ وضاحت کریں کہ چلتی بس میں بیٹھا مسافر بیک وقت ریسٹ اور موشن میں کیسے ہے؟",
-      "questionEn": "Define rest and motion. Explain how a passenger sitting in a moving bus is at rest and in motion simultaneously.",
-      "questionUr": "ریسٹ اور موشن کی تعریف کریں۔ وضاحت کریں کہ چلتی بس میں بیٹھا مسافر بیک وقت ریسٹ اور موشن میں کیسے ہے؟",
-      "answer_en": "A body is at rest if it does not change its position with respect to its surroundings. A body is in motion if it changes its position with respect to its surroundings. A passenger sitting in a moving bus is at rest with respect to the other passengers and objects inside the bus because his position relative to them remains constant. However, with respect to an observer outside the bus on the road, he is continuously changing position and is therefore in motion.",
-      "answer_ur": "اگر کوئی جسم اپنے ارد گرد کے ماحول کے لحاظ سے اپنی پوزیشن تبدیل نہ کر رہا ہو تو وہ حالتِ ریسٹ میں ہوتا ہے۔ اگر جسم گرد و پیش کے لحاظ سے پوزیشن تبدیل کرے تو وہ حالتِ موشن میں ہوتا ہے۔ چلتی بس میں بیٹھا شخص بس کے دوسرے مسافروں کے لحاظ سے ریسٹ میں ہے کیونکہ ان کے مقابلے میں اس کی پوزیشن تبدیل نہیں ہو رہی، لیکن باہر سڑک پر کھڑے شخص کے لحاظ سے وہ حرکت میں ہے۔",
-      "answerEn": "A body is at rest if it does not change its position with respect to its surroundings. A body is in motion if it changes its position with respect to its surroundings. A passenger sitting in a moving bus is at rest with respect to the other passengers and objects inside the bus because his position relative to them remains constant. However, with respect to an observer outside the bus on the road, he is continuously changing position and is therefore in motion.",
-      "answerUr": "اگر کوئی جسم اپنے ارد گرد کے ماحول کے لحاظ سے اپنی پوزیشن تبدیل نہ کر رہا ہو تو وہ حالتِ ریسٹ میں ہوتا ہے۔ اگر جسم گرد و پیش کے لحاظ سے پوزیشن تبدیل کرے تو وہ حالتِ موشن میں ہوتا ہے۔ چلتی بس میں بیٹھا شخص بس کے دوسرے مسافروں کے لحاظ سے ریسٹ میں ہے کیونکہ ان کے مقابلے میں اس کی پوزیشن تبدیل نہیں ہو رہی، لیکن باہر سڑک پر کھڑے شخص کے لحاظ سے وہ حرکت میں ہے۔",
-      "statementEn": "Define rest and motion. Explain how a passenger sitting in a moving bus is at rest and in motion simultaneously.",
-      "statementUr": "ریسٹ اور موشن کی تعریف کریں۔ وضاحت کریں کہ چلتی بس میں بیٹھا مسافر بیک وقت ریسٹ اور موشن میں کیسے ہے؟"
+      "statementEn": "Differentiate between rest and motion with an example.",
+      "statementUr": "ریسٹ اور موشن میں فرق ایک مثال سے واضح کریں۔",
+      "questionEn": "Differentiate between rest and motion with an example.",
+      "questionUr": "ریسٹ اور موشن میں فرق ایک مثال سے واضح کریں۔",
+      "answerEn": "A body is in state of rest if it does not change its position with respect to its surroundings. If it changes position, it is in motion. A passenger sitting in a moving bus is at rest relative to fellow passengers, but in motion relative to outside trees.",
+      "answerUr": "اگر کوئی جسم اپنے گردوپیش کے لحاظ سے پوزیشن نہ بدلے تو ریسٹ میں ہے، اگر پوزیشن بدلے تو موشن میں ہے۔ بس میں بیٹھا مسافر بس کے لحاظ سے ریسٹ میں اور باہر کے لحاظ سے موشن میں ہے۔",
+      "marks": 2
     },
     {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "Differentiate between rotatory motion and circular motion with one example of each.",
-      "question_ur": "روٹیٹری موشن اور سرکولر موشن کے درمیان فرق واضح کریں اور ہر ایک کی ایک مثال دیں۔",
-      "questionEn": "Differentiate between rotatory motion and circular motion with one example of each.",
-      "questionUr": "روٹیٹری موشن اور سرکولر موشن کے درمیان فرق واضح کریں اور ہر ایک کی ایک مثال دیں۔",
-      "answer_en": "In rotatory motion, a body spins about a fixed internal axis passing through its own body (e.g. motion of an electric fan or spinning top). In circular motion, a body moves along an external circular curved path around a center outside the body (e.g. motion of Earth around the Sun or a stone whirled by a string).",
-      "answer_ur": "روٹیٹری موشن میں کوئی جسم اپنے ہی اندر سے گزرنے والے فکسڈ ایکسس کے گرد گھومتا ہے (مثلاً چھت کے پنکھے یا لٹو کی حرکت)۔ جبکہ سرکولر موشن میں کوئی جسم اپنے جسم سے باہر واقع کسی مرکز کے گرد دائرے میں حرکت کرتا ہے (مثلاً زمین کی سورج کے گرد حرکت یا ڈوری سے بندھے پتھر کی حرکت)۔",
-      "answerEn": "In rotatory motion, a body spins about a fixed internal axis passing through its own body (e.g. motion of an electric fan or spinning top). In circular motion, a body moves along an external circular curved path around a center outside the body (e.g. motion of Earth around the Sun or a stone whirled by a string).",
-      "answerUr": "روٹیٹری موشن میں کوئی جسم اپنے ہی اندر سے گزرنے والے فکسڈ ایکسس کے گرد گھومتا ہے (مثلاً چھت کے پنکھے یا لٹو کی حرکت)۔ جبکہ سرکولر موشن میں کوئی جسم اپنے جسم سے باہر واقع کسی مرکز کے گرد دائرے میں حرکت کرتا ہے (مثلاً زمین کی سورج کے گرد حرکت یا ڈوری سے بندھے پتھر کی حرکت)۔",
-      "statementEn": "Differentiate between rotatory motion and circular motion with one example of each.",
-      "statementUr": "روٹیٹری موشن اور سرکولر موشن کے درمیان فرق واضح کریں اور ہر ایک کی ایک مثال دیں۔"
-    },
-    {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between distance and displacement.",
-      "question_ur": "فاصلہ (Distance) اور ڈسپلیسمنٹ (Displacement) میں دو اہم فرق تحریر کریں۔",
-      "questionEn": "Differentiate between distance and displacement.",
-      "questionUr": "فاصلہ (Distance) اور ڈسپلیسمنٹ (Displacement) میں دو اہم فرق تحریر کریں۔",
-      "answer_en": "1. Nature: Distance is the total actual length of the path traveled between two points (scalar quantity), while displacement is the shortest straight-line distance directed from initial to final position (vector quantity).\n2. Value: Distance is always positive and never zero for a moving body; displacement can be positive, negative, or zero if the body returns to its starting point.",
-      "answer_ur": "۱۔ نوعیت: دو مقامات کے درمیان طے کردہ راستے کی اصل لمبائی فاصلہ کہلاتی ہے جو کہ سکیلر مقدار ہے، جبکہ دو پوائنٹس کے درمیان کم سے کم سیدھا خط ڈسپلیسمنٹ کہلاتا ہے جو کہ ویکٹر مقدار ہے۔\n۲۔ قیمت: فاصلہ ہمیشہ مثبت ہوتا ہے، جبکہ ڈسپلیسمنٹ مثبت، منفی یا ابتدائی مقام پر واپس آنے کی صورت میں صفر بھی ہو سکتا ہے۔",
-      "answerEn": "1. Nature: Distance is the total actual length of the path traveled between two points (scalar quantity), while displacement is the shortest straight-line distance directed from initial to final position (vector quantity).\n2. Value: Distance is always positive and never zero for a moving body; displacement can be positive, negative, or zero if the body returns to its starting point.",
-      "answerUr": "۱۔ نوعیت: دو مقامات کے درمیان طے کردہ راستے کی اصل لمبائی فاصلہ کہلاتی ہے جو کہ سکیلر مقدار ہے، جبکہ دو پوائنٹس کے درمیان کم سے کم سیدھا خط ڈسپلیسمنٹ کہلاتا ہے جو کہ ویکٹر مقدار ہے۔\n۲۔ قیمت: فاصلہ ہمیشہ مثبت ہوتا ہے، جبکہ ڈسپلیسمنٹ مثبت، منفی یا ابتدائی مقام پر واپس آنے کی صورت میں صفر بھی ہو سکتا ہے۔",
       "statementEn": "Differentiate between distance and displacement.",
-      "statementUr": "فاصلہ (Distance) اور ڈسپلیسمنٹ (Displacement) میں دو اہم فرق تحریر کریں۔"
+      "statementUr": "فاصلہ اور ڈسپلیسمنٹ کے مابین فرق بیان کریں۔",
+      "questionEn": "Differentiate between distance and displacement.",
+      "questionUr": "فاصلہ اور ڈسپلیسمنٹ کے مابین فرق بیان کریں۔",
+      "answerEn": "Distance is the actual length of path traveled by an object (scalar). Displacement is the shortest straight-line distance between initial and final points (vector).",
+      "answerUr": "دو نقاط کے درمیان راستے کی کل لمبائی کو فاصلہ کہتے ہیں (سکیلر) جبکہ ابتدائی اور آخری مقام کے درمیان کم ترین فاصلہ ڈسپلیسمنٹ کہلاتا ہے (ویکٹر)۔",
+      "marks": 2
     },
     {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between speed and velocity. Write their SI units.",
-      "question_ur": "سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔",
-      "questionEn": "Differentiate between speed and velocity. Write their SI units.",
-      "questionUr": "سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔",
-      "answer_en": "Speed is the distance covered by an object per unit time (v = S/t) and is a scalar quantity. Velocity is the rate of displacement of a body (v = d/t) and is a vector quantity having direction. Both have the same SI unit: meter per second (m s⁻¹).",
-      "answer_ur": "اکائی وقت میں طے کردہ فاصلہ سپیڈ کہلاتا ہے (v = S/t) جو کہ سکیلر مقدار ہے۔ جبکہ ڈسپلیسمنٹ میں تبدیلی کی شرح ویلوسٹی کہلاتی ہے (v = d/t) جو کہ ویکٹر مقدار ہے۔ دونوں کا ایس آئی یونٹ میٹر فی سیکنڈ (m s⁻¹) ہے۔",
-      "answerEn": "Speed is the distance covered by an object per unit time (v = S/t) and is a scalar quantity. Velocity is the rate of displacement of a body (v = d/t) and is a vector quantity having direction. Both have the same SI unit: meter per second (m s⁻¹).",
-      "answerUr": "اکائی وقت میں طے کردہ فاصلہ سپیڈ کہلاتا ہے (v = S/t) جو کہ سکیلر مقدار ہے۔ جبکہ ڈسپلیسمنٹ میں تبدیلی کی شرح ویلوسٹی کہلاتی ہے (v = d/t) جو کہ ویکٹر مقدار ہے۔ دونوں کا ایس آئی یونٹ میٹر فی سیکنڈ (m s⁻¹) ہے۔",
-      "statementEn": "Differentiate between speed and velocity. Write their SI units.",
-      "statementUr": "سپیڈ اور ویلوسٹی میں فرق بیان کریں اور ان کے ایس آئی یونٹس تحریر کریں۔"
+      "statementEn": "Differentiate between speed and velocity.",
+      "statementUr": "سپیڈ اور ویلوسٹی میں فرق واضح کریں۔",
+      "questionEn": "Differentiate between speed and velocity.",
+      "questionUr": "سپیڈ اور ویلوسٹی میں فرق واضح کریں۔",
+      "answerEn": "Speed is the distance covered per unit time (scalar quantity, v = s/t). Velocity is the rate of displacement per unit time in a specified direction (vector quantity, v = d/t).",
+      "answerUr": "اکائی وقت میں طے کردہ فاصلے کو سپیڈ کہتے ہیں (سکیلر)، جبکہ اکائی وقت میں طے کردہ ڈسپلیسمنٹ کو ویلوسٹی کہتے ہیں (ویکٹر)۔",
+      "marks": 2
     },
     {
-      "id": 5,
-      "slo_ref": "SLO-02",
-      "question_en": "Define uniform acceleration and negative acceleration (retardation).",
-      "question_ur": "یکساں ایکسلریشن (Uniform Acceleration) اور ریٹارڈیشن (Retardation) کی تعریف کریں۔",
-      "questionEn": "Define uniform acceleration and negative acceleration (retardation).",
-      "questionUr": "یکساں ایکسلریشن (Uniform Acceleration) اور ریٹارڈیشن (Retardation) کی تعریف کریں۔",
-      "answer_en": "Uniform acceleration: A body has uniform acceleration if it has equal changes in velocity in equal intervals of time, however short the intervals may be. Retardation: When the velocity of an object decreases with time, its acceleration is negative and is directed opposite to the velocity.",
-      "answer_ur": "یکساں ایکسلریشن: اگر کسی جسم کی ویلوسٹی میں برابر وقفوں میں برابر تبدیلی واقع ہو، چاہے وقفے کتنے ہی مختصر ہوں، تو اس کا ایکسلریشن یونیفارم کہلاتا ہے۔ ریٹارڈیشن: جب وقت کے ساتھ جسم کی ویلوسٹی کم ہو رہی ہو تو اس کا ایکسلریشن منفی ہوتا ہے جسے ریٹارڈیشن کہتے ہیں۔",
-      "answerEn": "Uniform acceleration: A body has uniform acceleration if it has equal changes in velocity in equal intervals of time, however short the intervals may be. Retardation: When the velocity of an object decreases with time, its acceleration is negative and is directed opposite to the velocity.",
-      "answerUr": "یکساں ایکسلریشن: اگر کسی جسم کی ویلوسٹی میں برابر وقفوں میں برابر تبدیلی واقع ہو، چاہے وقفے کتنے ہی مختصر ہوں، تو اس کا ایکسلریشن یونیفارم کہلاتا ہے۔ ریٹارڈیشن: جب وقت کے ساتھ جسم کی ویلوسٹی کم ہو رہی ہو تو اس کا ایکسلریشن منفی ہوتا ہے جسے ریٹارڈیشن کہتے ہیں۔",
-      "statementEn": "Define uniform acceleration and negative acceleration (retardation).",
-      "statementUr": "یکساں ایکسلریشن (Uniform Acceleration) اور ریٹارڈیشن (Retardation) کی تعریف کریں۔"
+      "statementEn": "Define uniform acceleration and give its formula.",
+      "statementUr": "یکساں (یونیفارم) ایکسلریشن کی تعریف کریں اور اس کا کلیہ لکھیں۔",
+      "questionEn": "Define uniform acceleration and give its formula.",
+      "questionUr": "یکساں (یونیفارم) ایکسلریشن کی تعریف کریں اور اس کا کلیہ لکھیں۔",
+      "answerEn": "A body has uniform acceleration if it has equal changes in velocity in equal intervals of time. Formula: a = (vf - vi) / t.",
+      "answerUr": "اگر کسی جسم کی ویلوسٹی میں مساوی وقفوں میں مساوی تبدیلی واقع ہو تو اس کا ایکسلریشن یکساں ہوتا ہے۔ فارمولا: a = (vf - vi) / t۔",
+      "marks": 2
     },
     {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "How can the slope of a distance-time graph be used to determine the speed of a moving object?",
-      "question_ur": "فاصلہ-وقت گراف کا سلوپ (Slope) متحرک جسم کی سپیڈ معلوم کرنے کے لیے کیسے استعمال ہوتا ہے؟",
-      "questionEn": "How can the slope of a distance-time graph be used to determine the speed of a moving object?",
-      "questionUr": "فاصلہ-وقت گراف کا سلوپ (Slope) متحرک جسم کی سپیڈ معلوم کرنے کے لیے کیسے استعمال ہوتا ہے؟",
-      "answer_en": "The slope of a distance-time graph is defined as the vertical rise (change in distance ΔS) divided by the horizontal run (change in time Δt). Slope = ΔS / Δt = Speed (v). Therefore, a steeper slope indicates higher speed, and a zero slope (horizontal line) indicates speed is zero (body is at rest).",
-      "answer_ur": "فاصلہ-وقت گراف کی سلوپ عمودی تبدیلی (فاصلہ ΔS) کو افقی تبدیلی (وقت Δt) پر تقسیم کرنے سے حاصل ہوتی ہے۔ سلوپ = ΔS / Δt = سپیڈ۔ پس گراف کی سلوپ جتنی زیادہ ڈھلوان ہوگی سپیڈ اتنی زیادہ ہوگی، اور افقی لائن پر سلوپ صفر ہونے کا مطلب ہے جسم ساکن ہے۔",
-      "answerEn": "The slope of a distance-time graph is defined as the vertical rise (change in distance ΔS) divided by the horizontal run (change in time Δt). Slope = ΔS / Δt = Speed (v). Therefore, a steeper slope indicates higher speed, and a zero slope (horizontal line) indicates speed is zero (body is at rest).",
-      "answerUr": "فاصلہ-وقت گراف کی سلوپ عمودی تبدیلی (فاصلہ ΔS) کو افقی تبدیلی (وقت Δt) پر تقسیم کرنے سے حاصل ہوتی ہے۔ سلوپ = ΔS / Δt = سپیڈ۔ پس گراف کی سلوپ جتنی زیادہ ڈھلوان ہوگی سپیڈ اتنی زیادہ ہوگی، اور افقی لائن پر سلوپ صفر ہونے کا مطلب ہے جسم ساکن ہے۔",
-      "statementEn": "How can the slope of a distance-time graph be used to determine the speed of a moving object?",
-      "statementUr": "فاصلہ-وقت گراف کا سلوپ (Slope) متحرک جسم کی سپیڈ معلوم کرنے کے لیے کیسے استعمال ہوتا ہے؟"
+      "statementEn": "What is deceleration or negative acceleration?",
+      "statementUr": "منفی ایکسلریشن (ریٹارڈیشن) سے کیا مراد ہے؟",
+      "questionEn": "What is deceleration or negative acceleration?",
+      "questionUr": "منفی ایکسلریشن (ریٹارڈیشن) سے کیا مراد ہے؟",
+      "answerEn": "If the velocity of a body decreases with time, its acceleration is negative, also called deceleration or retardation.",
+      "answerUr": "اگر کسی جسم کی ویلوسٹی وقت کے ساتھ کم ہو رہی ہو تو پیدا ہونے والے ایکسلریشن کو منفی ایکسلریشن یا ریٹارڈیشن کہتے ہیں۔",
+      "marks": 2
     },
     {
-      "id": 7,
-      "slo_ref": "SLO-03",
-      "question_en": "What two important quantities can be calculated from a speed-time graph?",
-      "question_ur": "سپیڈ-وقت گراف سے کون سی دو اہم مقداریں معلوم کی جا سکتی ہیں؟",
-      "questionEn": "What two important quantities can be calculated from a speed-time graph?",
-      "questionUr": "سپیڈ-وقت گراف سے کون سی دو اہم مقداریں معلوم کی جا سکتی ہیں؟",
-      "answer_en": "1. Acceleration: Determined from the slope of the speed-time graph (Slope = Δv / Δt = a).\n2. Total Distance Traveled: Determined by calculating the total area under the speed-time graph and the time axis (Distance = Area under graph).",
-      "answer_ur": "۱۔ ایکسلریشن: سپیڈ-وقت گراف کے سلوپ سے ایکسلریشن معلوم ہوتا ہے (سلوپ = Δv / Δt = a)۔\n۲۔ کل فاصلہ: سپیڈ-وقت گراف کے نیچے اور ٹائم ایکسس کے درمیانی رقبے سے کل طے شدہ فاصلہ معلوم ہوتا ہے۔",
-      "answerEn": "1. Acceleration: Determined from the slope of the speed-time graph (Slope = Δv / Δt = a).\n2. Total Distance Traveled: Determined by calculating the total area under the speed-time graph and the time axis (Distance = Area under graph).",
-      "answerUr": "۱۔ ایکسلریشن: سپیڈ-وقت گراف کے سلوپ سے ایکسلریشن معلوم ہوتا ہے (سلوپ = Δv / Δt = a)۔\n۲۔ کل فاصلہ: سپیڈ-وقت گراف کے نیچے اور ٹائم ایکسس کے درمیانی رقبے سے کل طے شدہ فاصلہ معلوم ہوتا ہے۔",
-      "statementEn": "What two important quantities can be calculated from a speed-time graph?",
-      "statementUr": "سپیڈ-وقت گراف سے کون سی دو اہم مقداریں معلوم کی جا سکتی ہیں؟"
+      "statementEn": "Can a body moving with constant speed have acceleration? Explain.",
+      "statementUr": "کیا کوئی جسم یکساں سپیڈ کے ساتھ حرکت کرتے ہوئے ایکسلریشن رکھ سکتا ہے؟ وضاحت کریں۔",
+      "questionEn": "Can a body moving with constant speed have acceleration? Explain.",
+      "questionUr": "کیا کوئی جسم یکساں سپیڈ کے ساتھ حرکت کرتے ہوئے ایکسلریشن رکھ سکتا ہے؟ وضاحت کریں۔",
+      "answerEn": "Yes. In circular motion, a body moves with constant speed but its direction changes continuously, producing centripetal acceleration.",
+      "answerUr": "جی ہاں! دائروی راستے پر حرکت کرتے ہوئے جسم کی سپیڈ یکساں رہ سکتی ہے لیکن سمت مسلسل بدلنے سے ایکسلریشن پیدا ہوتا ہے۔",
+      "marks": 2
     },
     {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "Write down the three standard equations of motion for uniformly accelerated body.",
-      "question_ur": "یکساں ایکسلریشن کے تحت حرکت کرتے ہوئے جسم کے لیے حرکت کی تینوں مساواتیں تحریر کریں۔",
-      "questionEn": "Write down the three standard equations of motion for uniformly accelerated body.",
-      "questionUr": "یکساں ایکسلریشن کے تحت حرکت کرتے ہوئے جسم کے لیے حرکت کی تینوں مساواتیں تحریر کریں۔",
-      "answer_en": "1. First equation: vf = vi + at\n2. Second equation: S = vi t + ½ at²\n3. Third equation: 2aS = vf² - vi²\nWhere vi = initial velocity, vf = final velocity, a = uniform acceleration, t = time interval, and S = distance traveled.",
-      "answer_ur": "۱۔ پہلی مساوات: vf = vi + at\n۲۔ دوسری مساوات: S = vi t + ½ at²\n۳۔ تیسری مساوات: 2aS = vf² - vi²\nجہاں vi = ابتدائی ویلوسٹی، vf = آخری ویلوسٹی، a = یونیفارم ایکسلریشن، t = وقت، اور S = فاصلہ ہے۔",
-      "answerEn": "1. First equation: vf = vi + at\n2. Second equation: S = vi t + ½ at²\n3. Third equation: 2aS = vf² - vi²\nWhere vi = initial velocity, vf = final velocity, a = uniform acceleration, t = time interval, and S = distance traveled.",
-      "answerUr": "۱۔ پہلی مساوات: vf = vi + at\n۲۔ دوسری مساوات: S = vi t + ½ at²\n۳۔ تیسری مساوات: 2aS = vf² - vi²\nجہاں vi = ابتدائی ویلوسٹی، vf = آخری ویلوسٹی، a = یونیفارم ایکسلریشن، t = وقت، اور S = فاصلہ ہے۔",
-      "statementEn": "Write down the three standard equations of motion for uniformly accelerated body.",
-      "statementUr": "یکساں ایکسلریشن کے تحت حرکت کرتے ہوئے جسم کے لیے حرکت کی تینوں مساواتیں تحریر کریں۔"
+      "statementEn": "State the three equations of motion for uniformly accelerated body.",
+      "statementUr": "یکساں ایکسلریشن کے تحت حرکت کی تینوں بنیادی مساواتیں تحریر کریں۔",
+      "questionEn": "State the three equations of motion for uniformly accelerated body.",
+      "questionUr": "یکساں ایکسلریشن کے تحت حرکت کی تینوں بنیادی مساواتیں تحریر کریں۔",
+      "answerEn": "(1) vf = vi + at, (2) S = vi t + 1/2 at², (3) 2aS = vf² - vi².",
+      "answerUr": "(1) vf = vi + at, (2) S = vi t + 1/2 at², (3) 2aS = vf² - vi²۔",
+      "marks": 2
     },
     {
-      "id": 9,
-      "slo_ref": "SLO-04",
-      "question_en": "A train starts from rest with uniform acceleration of 0.5 m s⁻². Find its speed in km h⁻¹ after 100 seconds.",
-      "question_ur": "ایک ٹرین 0.5 m s⁻² ایکسلریشن کے ساتھ ساکن حالت سے چلتی ہے۔ 100 سیکنڈ بعد اس کی سپیڈ کلومیٹر فی گھنٹہ میں معلوم کریں۔",
-      "questionEn": "A train starts from rest with uniform acceleration of 0.5 m s⁻². Find its speed in km h⁻¹ after 100 seconds.",
-      "questionUr": "ایک ٹرین 0.5 m s⁻² ایکسلریشن کے ساتھ ساکن حالت سے چلتی ہے۔ 100 سیکنڈ بعد اس کی سپیڈ کلومیٹر فی گھنٹہ میں معلوم کریں۔",
-      "answer_en": "Given data: vi = 0, a = 0.5 m s⁻², t = 100 s. Using 1st equation of motion: vf = vi + at = 0 + (0.5 × 100) = 50 m s⁻¹. Converting to km h⁻¹: vf = 50 × (3600 / 1000) = 180 km h⁻¹.",
-      "answer_ur": "معلوم کوائف: vi = 0, a = 0.5 m s⁻², t = 100 s۔ پہلی مساوات vf = vi + at کے استعمال سے: vf = 0 + (0.5 × 100) = 50 m s⁻¹۔ کلومیٹر فی گھنٹہ میں تبدیلی: 50 × 3600 / 1000 = 180 کلومیٹر فی گھنٹہ۔",
-      "answerEn": "Given data: vi = 0, a = 0.5 m s⁻², t = 100 s. Using 1st equation of motion: vf = vi + at = 0 + (0.5 × 100) = 50 m s⁻¹. Converting to km h⁻¹: vf = 50 × (3600 / 1000) = 180 km h⁻¹.",
-      "answerUr": "معلوم کوائف: vi = 0, a = 0.5 m s⁻², t = 100 s۔ پہلی مساوات vf = vi + at کے استعمال سے: vf = 0 + (0.5 × 100) = 50 m s⁻¹۔ کلومیٹر فی گھنٹہ میں تبدیلی: 50 × 3600 / 1000 = 180 کلومیٹر فی گھنٹہ۔",
-      "statementEn": "A train starts from rest with uniform acceleration of 0.5 m s⁻². Find its speed in km h⁻¹ after 100 seconds.",
-      "statementUr": "ایک ٹرین 0.5 m s⁻² ایکسلریشن کے ساتھ ساکن حالت سے چلتی ہے۔ 100 سیکنڈ بعد اس کی سپیڈ کلومیٹر فی گھنٹہ میں معلوم کریں۔"
+      "statementEn": "What is meant by gravitational acceleration? State its value near Earth.",
+      "statementUr": "گریویٹیشنل ایکسلریشن سے کیا مراد ہے؟ زمین کی سطح پر اس کی قیمت کیا ہے؟",
+      "questionEn": "What is meant by gravitational acceleration? State its value near Earth.",
+      "questionUr": "گریویٹیشنل ایکسلریشن سے کیا مراد ہے؟ زمین کی سطح پر اس کی قیمت کیا ہے؟",
+      "answerEn": "The acceleration of freely falling bodies under the attractive force of Earth's gravity is called gravitational acceleration. Value: g = 9.8 m s⁻² (approx 10 m s⁻²).",
+      "answerUr": "کششِ ثقل کے زیر اثر آزادانہ گرتے ہوئے اجسام کے ایکسلریشن کو گریویٹیشنل ایکسلریشن کہتے ہیں۔ اس کی قیمت تقریباً 10 میٹر فی سیکنڈ مربع ہے۔",
+      "marks": 2
     },
     {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "What sign convention is adopted for gravitational acceleration 'g' for upward and downward vertical motions?",
-      "question_ur": "عمودی حرکت میں اوپر جاتے اور نیچے گرتے ہوئے جسم کے لیے گریویٹیشنل ایکسلریشن 'g' کی علامتوں کے اصول کیا ہیں؟",
-      "questionEn": "What sign convention is adopted for gravitational acceleration 'g' for upward and downward vertical motions?",
-      "questionUr": "عمودی حرکت میں اوپر جاتے اور نیچے گرتے ہوئے جسم کے لیے گریویٹیشنل ایکسلریشن 'g' کی علامتوں کے اصول کیا ہیں؟",
-      "answer_en": "1. For downward motion (falling freely): Velocity increases, so gravitational acceleration is positive (+g = +9.8 m s⁻² or +10 m s⁻²).\n2. For upward motion: Velocity decreases as the body moves against gravity, so gravitational acceleration is negative (-g = -9.8 m s⁻² or -10 m s⁻²).",
-      "answer_ur": "۱۔ نیچے گرتے ہوئے جسم کے لیے: ویلوسٹی میں اضافہ ہوتا ہے اس لیے گریویٹیشنل ایکسلریشن مثبت (+g = +10 m s⁻²) لیا جاتا ہے۔\n۲۔ اوپر پھینکے گئے جسم کے لیے: ویلوسٹی میں کمی واقع ہوتی ہے اس لیے گریویٹیشنل ایکسلریشن منفی (-g = -10 m s⁻²) لیا جاتا ہے۔",
-      "answerEn": "1. For downward motion (falling freely): Velocity increases, so gravitational acceleration is positive (+g = +9.8 m s⁻² or +10 m s⁻²).\n2. For upward motion: Velocity decreases as the body moves against gravity, so gravitational acceleration is negative (-g = -9.8 m s⁻² or -10 m s⁻²).\n",
-      "answerUr": "۱۔ نیچے گرتے ہوئے جسم کے لیے: ویلوسٹی میں اضافہ ہوتا ہے اس لیے گریویٹیشنل ایکسلریشن مثبت (+g = +10 m s⁻²) لیا جاتا ہے۔\n۲۔ اوپر پھینکے گئے جسم کے لیے: ویلوسٹی میں کمی واقع ہوتی ہے اس لیے گریویٹیشنل ایکسلریشن منفی (-g = -10 m s⁻²) لیا جاتا ہے۔",
-      "statementEn": "What sign convention is adopted for gravitational acceleration 'g' for upward and downward vertical motions?",
-      "statementUr": "عمودی حرکت میں اوپر جاتے اور نیچے گرتے ہوئے جسم کے لیے گریویٹیشنل ایکسلریشن 'g' کی علامتوں کے اصول کیا ہیں؟"
+      "statementEn": "What is meant by translatory motion? Name its types.",
+      "statementUr": "ٹرانسلیٹری موشن سے کیا مراد ہے؟ اس کی اقسام کے نام لکھیں۔",
+      "questionEn": "What is meant by translatory motion? Name its types.",
+      "questionUr": "ٹرانسلیٹری موشن سے کیا مراد ہے؟ اس کی اقسام کے نام لکھیں۔",
+      "answerEn": "In translatory motion, a body moves along a line without any rotation. Types are: Linear motion, Circular motion, and Random motion.",
+      "answerUr": "ٹرانسلیٹری موشن میں جسم گھومے بغیر ایک لائن کے ساتھ حرکت کرتا ہے۔ اس کی تین اقسام ہیں: لینیئر موشن، سرکولر موشن اور رینڈم موشن۔",
+      "marks": 2
     },
     {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "A stone is dropped from the top of a tower 45 m high. How long will it take to reach the ground? (Take g = 10 m s⁻²)",
-      "question_ur": "45 میٹر اونچے ٹاور کی چوٹی سے ایک پتھر گرایا جاتا ہے۔ پتھر کو زمین تک پہنچنے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)",
-      "questionEn": "A stone is dropped from the top of a tower 45 m high. How long will it take to reach the ground? (Take g = 10 m s⁻²)",
-      "questionUr": "45 میٹر اونچے ٹاور کی چوٹی سے ایک پتھر گرایا جاتا ہے۔ پتھر کو زمین تک پہنچنے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)",
-      "answer_en": "Given data: vi = 0, h = 45 m, g = 10 m s⁻². Using 2nd equation of motion under gravity: h = vi t + ½ gt² => 45 = 0 + ½ (10) t² => 45 = 5 t² => t² = 9 => t = 3 seconds. The stone takes 3 seconds to reach the ground.",
-      "answer_ur": "معلوم کوائف: vi = 0, h = 45 میٹر، g = 10 m s⁻²۔ حرکت کی دوسری مساوات: h = vi t + ½ gt² => 45 = 0 + ½(10)t² => 45 = 5 t² => t² = 9 => t = 3 سیکنڈ۔ پتھر کو زمین تک پہنچنے میں 3 سیکنڈ لگیں گے۔",
-      "answerEn": "Given data: vi = 0, h = 45 m, g = 10 m s⁻². Using 2nd equation of motion under gravity: h = vi t + ½ gt² => 45 = 0 + ½ (10) t² => 45 = 5 t² => t² = 9 => t = 3 seconds. The stone takes 3 seconds to reach the ground.",
-      "answerUr": "معلوم کوائف: vi = 0, h = 45 میٹر، g = 10 m s⁻²۔ حرکت کی دوسری مساوات: h = vi t + ½ gt² => 45 = 0 + ½(10)t² => 45 = 5 t² => t² = 9 => t = 3 سیکنڈ۔ پتھر کو زمین تک پہنچنے میں 3 سیکنڈ لگیں گے۔",
-      "statementEn": "A stone is dropped from the top of a tower 45 m high. How long will it take to reach the ground? (Take g = 10 m s⁻²)",
-      "statementUr": "45 میٹر اونچے ٹاور کی چوٹی سے ایک پتھر گرایا جاتا ہے۔ پتھر کو زمین تک پہنچنے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)"
+      "statementEn": "Differentiate between rotatory motion and vibratory motion.",
+      "statementUr": "روٹیٹری موشن اور وائبریٹری موشن میں فرق بیان کریں۔",
+      "questionEn": "Differentiate between rotatory motion and vibratory motion.",
+      "questionUr": "روٹیٹری موشن اور وائبریٹری موشن میں فرق بیان کریں۔",
+      "answerEn": "Rotatory motion is spinning about a fixed axis (e.g. spinning top). Vibratory motion is to-and-fro motion about a central mean position (e.g. pendulum).",
+      "answerUr": "کسی جسم کی اپنے ہی محور کے گرد گھومنے کی حرکت روٹیٹری موشن ہے جبکہ وسطی پوزیشن کے آگے پیچھے بار بار حرکت وائبریٹری موشن ہے۔",
+      "marks": 2
     },
     {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "A ball is thrown vertically upward with a speed of 30 m s⁻¹. Calculate the maximum height reached by the ball.",
-      "question_ur": "ایک گیند کو 30 m s⁻¹ کی سپیڈ سے عموداً اوپر پھینکا گیا۔ گیند کی زیادہ سے زیادہ اونچائی معلوم کریں۔",
-      "questionEn": "A ball is thrown vertically upward with a speed of 30 m s⁻¹. Calculate the maximum height reached by the ball.",
-      "questionUr": "ایک گیند کو 30 m s⁻¹ کی سپیڈ سے عموداً اوپر پھینکا گیا۔ گیند کی زیادہ سے زیادہ اونچائی معلوم کریں۔",
-      "answer_en": "Given data: vi = 30 m s⁻¹, at maximum height vf = 0, g = -10 m s⁻². Using 3rd equation of motion: 2gh = vf² - vi² => 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 meters. Maximum height reached is 45 m.",
-      "answer_ur": "معلوم کوائف: vi = 30 m s⁻¹, vf = 0 (بلند ترین مقام پر), g = -10 m s⁻²۔ تیسری مساوات 2gh = vf² - vi² کے استعمال سے: 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 میٹر۔ زیادہ سے زیادہ اونچائی 45 میٹر ہے۔",
-      "answerEn": "Given data: vi = 30 m s⁻¹, at maximum height vf = 0, g = -10 m s⁻². Using 3rd equation of motion: 2gh = vf² - vi² => 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 meters. Maximum height reached is 45 m.",
-      "answerUr": "معلوم کوائف: vi = 30 m s⁻¹, vf = 0 (بلند ترین مقام پر), g = -10 m s⁻²۔ تیسری مساوات 2gh = vf² - vi² کے استعمال سے: 2(-10)h = (0)² - (30)² => -20h = -900 => h = 900 / 20 = 45 میٹر۔ زیادہ سے زیادہ اونچائی 45 میٹر ہے۔",
-      "statementEn": "A ball is thrown vertically upward with a speed of 30 m s⁻¹. Calculate the maximum height reached by the ball.",
-      "statementUr": "ایک گیند کو 30 m s⁻¹ کی سپیڈ سے عموداً اوپر پھینکا گیا۔ گیند کی زیادہ سے زیادہ اونچائی معلوم کریں۔"
+      "statementEn": "How does a speed-time graph show the distance covered by a moving object?",
+      "statementUr": "سپیڈ-وقت گراف طے شدہ فاصلے کو کس طرح ظاہر کرتا ہے؟",
+      "questionEn": "How does a speed-time graph show the distance covered by a moving object?",
+      "questionUr": "سپیڈ-وقت گراف طے شدہ فاصلے کو کس طرح ظاہر کرتا ہے؟",
+      "answerEn": "The area bounded by the speed-time graph and the time-axis equals the total distance traveled by the body (Distance = Area under graph).",
+      "answerUr": "سپیڈ-وقت گراف اور وقت کے محور کے درمیان بند رقبہ جسم کے کل طے شدہ فاصلے کے برابر ہوتا ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "A train slows down from 80 km/h with a uniform retardation of 2 m/s². How much time does it take to stop?",
+      "statementUr": "ایک ٹرین 80 کلومیٹر فی گھنٹہ کی رفتار سے 2 میٹر فی سیکنڈ مربع کے یکساں ریٹارڈیشن سے رکتی ہے۔ رکنے میں کتنا وقت لگے گا؟",
+      "questionEn": "A train slows down from 80 km/h with a uniform retardation of 2 m/s². How much time does it take to stop?",
+      "questionUr": "ایک ٹرین 80 کلومیٹر فی گھنٹہ کی رفتار سے 2 میٹر فی سیکنڈ مربع کے یکساں ریٹارڈیشن سے رکتی ہے۔ رکنے میں کتنا وقت لگے گا؟",
+      "answerEn": "vi = 80 × (1000/3600) = 22.2 m/s, vf = 0, a = -2 m/s². t = (vf - vi)/a = -22.2 / -2 = 11.1 seconds.",
+      "answerUr": "ابتدائی ویلوسٹی 22.2 میٹر فی سیکنڈ، ایکسلریشن -2، وقت = 11.1 سیکنڈ لگے گا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "statementEn": "Differentiate between rest and motion with an example.",
+      "statementUr": "ریسٹ اور موشن میں فرق ایک مثال سے واضح کریں۔",
+      "questionEn": "Differentiate between rest and motion with an example.",
+      "questionUr": "ریسٹ اور موشن میں فرق ایک مثال سے واضح کریں۔",
+      "answerEn": "A body is in state of rest if it does not change its position with respect to its surroundings. If it changes position, it is in motion. A passenger sitting in a moving bus is at rest relative to fellow passengers, but in motion relative to outside trees.",
+      "answerUr": "اگر کوئی جسم اپنے گردوپیش کے لحاظ سے پوزیشن نہ بدلے تو ریسٹ میں ہے، اگر پوزیشن بدلے تو موشن میں ہے۔ بس میں بیٹھا مسافر بس کے لحاظ سے ریسٹ میں اور باہر کے لحاظ سے موشن میں ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Differentiate between distance and displacement.",
+      "statementUr": "فاصلہ اور ڈسپلیسمنٹ کے مابین فرق بیان کریں۔",
+      "questionEn": "Differentiate between distance and displacement.",
+      "questionUr": "فاصلہ اور ڈسپلیسمنٹ کے مابین فرق بیان کریں۔",
+      "answerEn": "Distance is the actual length of path traveled by an object (scalar). Displacement is the shortest straight-line distance between initial and final points (vector).",
+      "answerUr": "دو نقاط کے درمیان راستے کی کل لمبائی کو فاصلہ کہتے ہیں (سکیلر) جبکہ ابتدائی اور آخری مقام کے درمیان کم ترین فاصلہ ڈسپلیسمنٹ کہلاتا ہے (ویکٹر)۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Differentiate between speed and velocity.",
+      "statementUr": "سپیڈ اور ویلوسٹی میں فرق واضح کریں۔",
+      "questionEn": "Differentiate between speed and velocity.",
+      "questionUr": "سپیڈ اور ویلوسٹی میں فرق واضح کریں۔",
+      "answerEn": "Speed is the distance covered per unit time (scalar quantity, v = s/t). Velocity is the rate of displacement per unit time in a specified direction (vector quantity, v = d/t).",
+      "answerUr": "اکائی وقت میں طے کردہ فاصلے کو سپیڈ کہتے ہیں (سکیلر)، جبکہ اکائی وقت میں طے کردہ ڈسپلیسمنٹ کو ویلوسٹی کہتے ہیں (ویکٹر)۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Define uniform acceleration and give its formula.",
+      "statementUr": "یکساں (یونیفارم) ایکسلریشن کی تعریف کریں اور اس کا کلیہ لکھیں۔",
+      "questionEn": "Define uniform acceleration and give its formula.",
+      "questionUr": "یکساں (یونیفارم) ایکسلریشن کی تعریف کریں اور اس کا کلیہ لکھیں۔",
+      "answerEn": "A body has uniform acceleration if it has equal changes in velocity in equal intervals of time. Formula: a = (vf - vi) / t.",
+      "answerUr": "اگر کسی جسم کی ویلوسٹی میں مساوی وقفوں میں مساوی تبدیلی واقع ہو تو اس کا ایکسلریشن یکساں ہوتا ہے۔ فارمولا: a = (vf - vi) / t۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "What is deceleration or negative acceleration?",
+      "statementUr": "منفی ایکسلریشن (ریٹارڈیشن) سے کیا مراد ہے؟",
+      "questionEn": "What is deceleration or negative acceleration?",
+      "questionUr": "منفی ایکسلریشن (ریٹارڈیشن) سے کیا مراد ہے؟",
+      "answerEn": "If the velocity of a body decreases with time, its acceleration is negative, also called deceleration or retardation.",
+      "answerUr": "اگر کسی جسم کی ویلوسٹی وقت کے ساتھ کم ہو رہی ہو تو پیدا ہونے والے ایکسلریشن کو منفی ایکسلریشن یا ریٹارڈیشن کہتے ہیں۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Can a body moving with constant speed have acceleration? Explain.",
+      "statementUr": "کیا کوئی جسم یکساں سپیڈ کے ساتھ حرکت کرتے ہوئے ایکسلریشن رکھ سکتا ہے؟ وضاحت کریں۔",
+      "questionEn": "Can a body moving with constant speed have acceleration? Explain.",
+      "questionUr": "کیا کوئی جسم یکساں سپیڈ کے ساتھ حرکت کرتے ہوئے ایکسلریشن رکھ سکتا ہے؟ وضاحت کریں۔",
+      "answerEn": "Yes. In circular motion, a body moves with constant speed but its direction changes continuously, producing centripetal acceleration.",
+      "answerUr": "جی ہاں! دائروی راستے پر حرکت کرتے ہوئے جسم کی سپیڈ یکساں رہ سکتی ہے لیکن سمت مسلسل بدلنے سے ایکسلریشن پیدا ہوتا ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "State the three equations of motion for uniformly accelerated body.",
+      "statementUr": "یکساں ایکسلریشن کے تحت حرکت کی تینوں بنیادی مساواتیں تحریر کریں۔",
+      "questionEn": "State the three equations of motion for uniformly accelerated body.",
+      "questionUr": "یکساں ایکسلریشن کے تحت حرکت کی تینوں بنیادی مساواتیں تحریر کریں۔",
+      "answerEn": "(1) vf = vi + at, (2) S = vi t + 1/2 at², (3) 2aS = vf² - vi².",
+      "answerUr": "(1) vf = vi + at, (2) S = vi t + 1/2 at², (3) 2aS = vf² - vi²۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "What is meant by gravitational acceleration? State its value near Earth.",
+      "statementUr": "گریویٹیشنل ایکسلریشن سے کیا مراد ہے؟ زمین کی سطح پر اس کی قیمت کیا ہے؟",
+      "questionEn": "What is meant by gravitational acceleration? State its value near Earth.",
+      "questionUr": "گریویٹیشنل ایکسلریشن سے کیا مراد ہے؟ زمین کی سطح پر اس کی قیمت کیا ہے؟",
+      "answerEn": "The acceleration of freely falling bodies under the attractive force of Earth's gravity is called gravitational acceleration. Value: g = 9.8 m s⁻² (approx 10 m s⁻²).",
+      "answerUr": "کششِ ثقل کے زیر اثر آزادانہ گرتے ہوئے اجسام کے ایکسلریشن کو گریویٹیشنل ایکسلریشن کہتے ہیں۔ اس کی قیمت تقریباً 10 میٹر فی سیکنڈ مربع ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "What is meant by translatory motion? Name its types.",
+      "statementUr": "ٹرانسلیٹری موشن سے کیا مراد ہے؟ اس کی اقسام کے نام لکھیں۔",
+      "questionEn": "What is meant by translatory motion? Name its types.",
+      "questionUr": "ٹرانسلیٹری موشن سے کیا مراد ہے؟ اس کی اقسام کے نام لکھیں۔",
+      "answerEn": "In translatory motion, a body moves along a line without any rotation. Types are: Linear motion, Circular motion, and Random motion.",
+      "answerUr": "ٹرانسلیٹری موشن میں جسم گھومے بغیر ایک لائن کے ساتھ حرکت کرتا ہے۔ اس کی تین اقسام ہیں: لینیئر موشن، سرکولر موشن اور رینڈم موشن۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "Differentiate between rotatory motion and vibratory motion.",
+      "statementUr": "روٹیٹری موشن اور وائبریٹری موشن میں فرق بیان کریں۔",
+      "questionEn": "Differentiate between rotatory motion and vibratory motion.",
+      "questionUr": "روٹیٹری موشن اور وائبریٹری موشن میں فرق بیان کریں۔",
+      "answerEn": "Rotatory motion is spinning about a fixed axis (e.g. spinning top). Vibratory motion is to-and-fro motion about a central mean position (e.g. pendulum).",
+      "answerUr": "کسی جسم کی اپنے ہی محور کے گرد گھومنے کی حرکت روٹیٹری موشن ہے جبکہ وسطی پوزیشن کے آگے پیچھے بار بار حرکت وائبریٹری موشن ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "How does a speed-time graph show the distance covered by a moving object?",
+      "statementUr": "سپیڈ-وقت گراف طے شدہ فاصلے کو کس طرح ظاہر کرتا ہے؟",
+      "questionEn": "How does a speed-time graph show the distance covered by a moving object?",
+      "questionUr": "سپیڈ-وقت گراف طے شدہ فاصلے کو کس طرح ظاہر کرتا ہے؟",
+      "answerEn": "The area bounded by the speed-time graph and the time-axis equals the total distance traveled by the body (Distance = Area under graph).",
+      "answerUr": "سپیڈ-وقت گراف اور وقت کے محور کے درمیان بند رقبہ جسم کے کل طے شدہ فاصلے کے برابر ہوتا ہے۔",
+      "marks": 2
+    },
+    {
+      "statementEn": "A train slows down from 80 km/h with a uniform retardation of 2 m/s². How much time does it take to stop?",
+      "statementUr": "ایک ٹرین 80 کلومیٹر فی گھنٹہ کی رفتار سے 2 میٹر فی سیکنڈ مربع کے یکساں ریٹارڈیشن سے رکتی ہے۔ رکنے میں کتنا وقت لگے گا؟",
+      "questionEn": "A train slows down from 80 km/h with a uniform retardation of 2 m/s². How much time does it take to stop?",
+      "questionUr": "ایک ٹرین 80 کلومیٹر فی گھنٹہ کی رفتار سے 2 میٹر فی سیکنڈ مربع کے یکساں ریٹارڈیشن سے رکتی ہے۔ رکنے میں کتنا وقت لگے گا؟",
+      "answerEn": "vi = 80 × (1000/3600) = 22.2 m/s, vf = 0, a = -2 m/s². t = (vf - vi)/a = -22.2 / -2 = 11.1 seconds.",
+      "answerUr": "ابتدائی ویلوسٹی 22.2 میٹر فی سیکنڈ، ایکسلریشن -2، وقت = 11.1 سیکنڈ لگے گا۔",
+      "marks": 2
     }
   ],
   "longQuestions": [
     {
-      "id": "lq-class9-physics-ch2-1",
-      "qNo": 5,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Explain the fundamental concepts, governing principles, and standard laws of Kinematics in detail.",
-          "statementUr": "کائینی میٹکس کے بنیادی تصورات، سائنسی اصول و قوانین کی تفصیلی وضاحت کریں۔",
+          "statementEn": "Derive the second equation of motion S = vi t + 1/2 a t² using a speed-time graph.",
+          "statementUr": "سپیڈ-وقت گراف کی مدد سے حرکت کی دوسری مساوات S = vi t + 1/2 a t² اخذ کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Solve the textbook board-pattern numerical problem related to Kinematics with given data, formula, and standard SI units.",
-          "statementUr": "کائینی میٹکس سے متعلق درسی کتاب کا اہم حسابی مسئلہ (نومیریکل) فارمولا اور معیاری ایس آئی اکائیوں کے ساتھ حل کریں۔",
+          "statementEn": "A car starts from rest and accelerates uniformly at 2 m s⁻² for 10 seconds. Find the distance traveled and final speed.",
+          "statementUr": "ایک کار ریسٹ سے چل کر 2 میٹر فی سیکنڈ مربع کے یکساں ایکسلریشن سے 10 سیکنڈ تک چلتی ہے۔ طے شدہ فاصلہ اور فائنل سپیڈ معلوم کریں۔",
           "marks": 4,
           "isNumerical": true
         }
       ]
     },
     {
-      "id": "lq-class9-physics-ch2-2",
-      "qNo": 6,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "State and prove the standard governing mathematical equation or formula for Kinematics with step-by-step derivation.",
-          "statementUr": "کائینی میٹکس سے متعلق بنیادی حسابی مساوات یا کلیہ کو مرحلہ وار ریاضیاتی ثبوت کے ساتھ اخذ کریں۔",
+          "statementEn": "Derive the third equation of motion 2 a S = vf² - vi² with the help of a speed-time graph.",
+          "statementUr": "سپیڈ-وقت گراف کی مدد سے حرکت کی تیسری مساوات 2 a S = vf² - vi² اخذ کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Calculate the unknown quantity in an experiment involving Kinematics when standard parameters are provided.",
-          "statementUr": "کائینی میٹکس سے متعلق تجرباتی حسابی سوال میں دیے گئے اعداد و شمار کی مدد سے نامعلوم مقدار معلوم کریں۔",
+          "statementEn": "A ball is dropped from a tower of height 80 m. How long will it take to strike the ground? (Take g = 10 m s⁻²).",
+          "statementUr": "ایک گیند 80 میٹر اونچے ٹاور سے نیچے گرائی جاتی ہے۔ اسے زمین سے ٹکرانے میں کتنا وقت لگے گا؟ (g = 10 m s⁻²)۔",
           "marks": 4,
           "isNumerical": true
         }
       ]
     },
     {
-      "id": "lq-class9-physics-ch2-3",
-      "qNo": 7,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "[Past Board Papers & SLO Comprehensive] Write a comprehensive analytical essay/note on Kinematics strictly according to Punjab Board standard.",
-          "statementUr": "[سابقہ بورڈ پرچہ جات و ایس ایل او] پنجاب بورڈ کے امتحانی معیار کے مطابق کائینی میٹکس پر ایک جامع تفصیلی نوٹ تحریر کریں۔",
+          "statementEn": "Define motion. Explain the three main types of motion (Translatory, Rotatory, Vibratory) with two examples each.",
+          "statementUr": "حرکت کی تعریف کریں۔ موشن کی تین بنیادی اقسام (ٹرانسلیٹری، روٹیٹری، وائبریٹری) کی دو دو مثالوں کے ساتھ وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "A textbook exercise problem requires computing operational efficiency and final magnitude for Kinematics. Solve with all derivation steps.",
-          "statementUr": "درسی کتاب کی مشق سے متعلق حسابی مسئلے میں حتمی مقدار اور کارکردگی معلوم کریں۔ مکمل مراحل درج کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    }
-  ],
-  "long_questions": [
-    {
-      "id": "lq-class9-physics-ch2-1",
-      "qNo": 5,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain the fundamental concepts, governing principles, and standard laws of Kinematics in detail.",
-          "statementUr": "کائینی میٹکس کے بنیادی تصورات، سائنسی اصول و قوانین کی تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Solve the textbook board-pattern numerical problem related to Kinematics with given data, formula, and standard SI units.",
-          "statementUr": "کائینی میٹکس سے متعلق درسی کتاب کا اہم حسابی مسئلہ (نومیریکل) فارمولا اور معیاری ایس آئی اکائیوں کے ساتھ حل کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    },
-    {
-      "id": "lq-class9-physics-ch2-2",
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "State and prove the standard governing mathematical equation or formula for Kinematics with step-by-step derivation.",
-          "statementUr": "کائینی میٹکس سے متعلق بنیادی حسابی مساوات یا کلیہ کو مرحلہ وار ریاضیاتی ثبوت کے ساتھ اخذ کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Calculate the unknown quantity in an experiment involving Kinematics when standard parameters are provided.",
-          "statementUr": "کائینی میٹکس سے متعلق تجرباتی حسابی سوال میں دیے گئے اعداد و شمار کی مدد سے نامعلوم مقدار معلوم کریں۔",
-          "marks": 4,
-          "isNumerical": true
-        }
-      ]
-    },
-    {
-      "id": "lq-class9-physics-ch2-3",
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "[Past Board Papers & SLO Comprehensive] Write a comprehensive analytical essay/note on Kinematics strictly according to Punjab Board standard.",
-          "statementUr": "[سابقہ بورڈ پرچہ جات و ایس ایل او] پنجاب بورڈ کے امتحانی معیار کے مطابق کائینی میٹکس پر ایک جامع تفصیلی نوٹ تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "A textbook exercise problem requires computing operational efficiency and final magnitude for Kinematics. Solve with all derivation steps.",
-          "statementUr": "درسی کتاب کی مشق سے متعلق حسابی مسئلے میں حتمی مقدار اور کارکردگی معلوم کریں۔ مکمل مراحل درج کریں۔",
+          "statementEn": "A car moving at 36 km h⁻¹ comes to rest in 5 seconds on applying brakes. Calculate the retardation and distance covered.",
+          "statementUr": "36 کلومیٹر فی گھنٹہ کی رفتار سے چلتی ہوئی کار بریک لگانے پر 5 سیکنڈ میں رک جاتی ہے۔ ریٹارڈیشن اور فاصلہ معلوم کریں۔",
           "marks": 4,
           "isNumerical": true
         }

@@ -1,7 +1,7 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
-  "subject": "Pakistan Studies",
+  "group": "General Group",
+  "subject": "Pakstudies",
   "chapter_no": 5,
   "chapterNo": 5,
   "chapter_title": {
@@ -10,1108 +10,1048 @@
   },
   "titleEn": "Protection of Women & Children Rights",
   "titleUr": "خواتین اور بچوں کے حقوق کا تحفظ",
-  "summaryEn": "Authoritative Punjab Textbook Board (PTBB Curriculum 2026) exam preparation notes for Class 10th Pakistan Studies, Unit 5: Protection of Women & Children Rights. Featuring 15 solved SLO-aligned Multiple Choice Questions (MCQs) with comprehensive justifications and 12 solved Board-pattern Short Questions with complete model answers in bilingual format. Exclusively tailored for Science Group matriculation students.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ (نصاب 2026) کے عین مطابق Class 10th مطالعہ پاکستان، یونٹ 5: خواتین اور بچوں کے حقوق کا تحفظ کے مکمل حل شدہ امتحانی نوٹس۔ 15 حل شدہ معروضی سوالات (MCQs) مع تفصیلی وجوہات اور 12 اہم ترین مختصر سوالات مع 2 نمبر کے ماڈل جوابات۔ سائنس گروپ کے طلبہ کے لیے مکمل نصابی معیار پر تیار کردہ۔",
+  "summaryEn": "Authoritative PTBB board revision notes for Protection of Women & Children Rights. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق خواتین اور بچوں کے حقوق کا تحفظ کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
   "curriculum": "PTBB Curriculum 2026",
   "slos": [
     {
       "code": "SLO-01",
       "domain": "Knowledge",
-      "text_en": "Define and identify fundamental terms, principles, and concepts related to Protection of Women & Children Rights.",
-      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے بنیادی اصطلاحات، اصولوں اور تصورات کی تعریف اور شناخت کریں۔"
+      "text_en": "Understand core principles of Protection of Women & Children Rights.",
+      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے بنیادی اصول سمجھیں۔"
     },
     {
       "code": "SLO-02",
-      "domain": "Knowledge",
-      "text_en": "State standard textbook definitions, scientific classifications, and governing laws of Protection of Women & Children Rights.",
-      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے نصابی قواعد، سائنسی درجہ بندی اور بنیادی کلیات بیان کریں۔"
+      "domain": "Understanding",
+      "text_en": "Explain theoretical mechanisms and laws of Protection of Women & Children Rights.",
+      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے سائنسی قوانین کی وضاحت کریں۔"
     },
     {
       "code": "SLO-03",
-      "domain": "Understanding",
-      "text_en": "Explain the underlying scientific mechanism, conceptual reasoning, and practical significance of Protection of Women & Children Rights.",
-      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے سائنسی طریقِ کار، تصوراتی دلائل اور عملی اہمیت کی تشریح کریں۔"
-    },
-    {
-      "code": "SLO-04",
-      "domain": "Understanding",
-      "text_en": "Differentiate between key contrasting phenomena and analyze graphical or tabular relationships in Protection of Women & Children Rights.",
-      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے کلیدی متضاد پہلوؤں میں فرق واضح کریں اور باہمی تعلق کا تجزیہ کریں۔"
-    },
-    {
-      "code": "SLO-05",
       "domain": "Application",
-      "text_en": "Apply theoretical principles of Protection of Women & Children Rights to solve standard board exam analytical questions and practical problems.",
-      "text_ur": "بورڈ امتحانی تجزیاتی سوالات اور عملی مسائل کے حل کے لیے خواتین اور بچوں کے حقوق کا تحفظ کے اصولوں کا اطلاق کریں۔"
+      "text_en": "Apply theoretical principles to solve board examination questions for Protection of Women & Children Rights.",
+      "text_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
     }
   ],
   "mcqs": [
     {
       "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "The primary scientific concept or definition established in Unit 5 is:",
-      "question_ur": "یونٹ نمبر 5 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
-      "questionEn": "The primary scientific concept or definition established in Unit 5 is:",
-      "questionUr": "یونٹ نمبر 5 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:",
-      "options_en": {
-        "A": "Secondary random observation",
-        "B": "Unrelated physical magnitude",
-        "C": "Fundamental principle of Protection of Women & Children Rights",
-        "D": "Hypothetical auxiliary factor"
-      },
-      "options_ur": {
-        "A": "ثانوی غیر متعلقہ مشاہدہ",
-        "B": "غیر متعلقہ طبعی مقدار",
-        "C": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی سائنسی اصول",
-        "D": "فرضی اضافی عنصر"
-      },
+      "qNo": 1,
+      "statementEn": "What is the foundational definition of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں?",
+      "statementUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی بنیادی تعریف کیا ہے؟",
+      "questionEn": "What is the foundational definition of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں?",
+      "questionUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی بنیادی تعریف کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Core scientific principle",
+          "textUr": "بنیادی سائنسی اصول"
+        },
+        {
+          "key": "B",
+          "textEn": "Unrelated secondary effect",
+          "textUr": "غیر متعلقہ ثانوی اثر"
+        },
+        {
+          "key": "C",
+          "textEn": "Random fluctuation",
+          "textUr": "اتفاقی تبدیلی"
+        },
+        {
+          "key": "D",
+          "textEn": "Arbitrary assumption",
+          "textUr": "فرضی مفروضہ"
+        }
+      ],
       "optionsEn": [
-        "Secondary random observation",
-        "Unrelated physical magnitude",
-        "Fundamental principle of Protection of Women & Children Rights",
-        "Hypothetical auxiliary factor"
+        "Core scientific principle",
+        "Unrelated secondary effect",
+        "Random fluctuation",
+        "Arbitrary assumption"
       ],
       "optionsUr": [
-        "ثانوی غیر متعلقہ مشاہدہ",
-        "غیر متعلقہ طبعی مقدار",
-        "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی سائنسی اصول",
-        "فرضی اضافی عنصر"
+        "بنیادی سائنسی اصول",
+        "غیر متعلقہ ثانوی اثر",
+        "اتفاقی تبدیلی",
+        "فرضی مفروضہ"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Protection of Women & Children Rights.",
-      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو خواتین اور بچوں کے حقوق کا تحفظ کے لیے بنیادی قرار دیا گیا ہے۔",
-      "explanationEn": "Standard PTBB 2026 syllabus explicitly defines this principle as foundational to Protection of Women & Children Rights.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں اس اصول کو خواتین اور بچوں کے حقوق کا تحفظ کے لیے بنیادی قرار دیا گیا ہے۔",
-      "statementEn": "The primary scientific concept or definition established in Unit 5 is:",
-      "statementUr": "یونٹ نمبر 5 میں قائم کردہ بنیادی سائنسی تصور یا تعریف ہے:"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند نصابی جواب۔"
     },
     {
       "id": 2,
-      "slo_ref": "SLO-02",
-      "question_en": "Which one of the following is the key characteristic feature of Protection of Women & Children Rights?",
-      "question_ur": "مندرجہ ذیل میں سے کون سی خواتین اور بچوں کے حقوق کا تحفظ کی کلیدی خصوصیت ہے؟",
-      "questionEn": "Which one of the following is the key characteristic feature of Protection of Women & Children Rights?",
-      "questionUr": "مندرجہ ذیل میں سے کون سی خواتین اور بچوں کے حقوق کا تحفظ کی کلیدی خصوصیت ہے؟",
-      "options_en": {
-        "A": "Unverifiable speculation",
-        "B": "High precision and universal validity",
-        "C": "Random non-repeatable outcome",
-        "D": "Total absence of governing law"
-      },
-      "options_ur": {
-        "A": "غیر تصدیق شدہ قیاس آرائی",
-        "B": "اعلیٰ درستگی اور آفاقی اطلاق",
-        "C": "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
-        "D": "بنیادی قانون کی مکمل عدم موجودگی"
-      },
+      "qNo": 2,
+      "statementEn": "Identify the standard governing formula or equation for خواتین کے تحفظ اور خود مختاری کے قومی قوانین:",
+      "statementUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "questionEn": "Identify the standard governing formula or equation for خواتین کے تحفظ اور خود مختاری کے قومی قوانین:",
+      "questionUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Primary governing equation",
+          "textUr": "بنیادی حسابی مساوات"
+        },
+        {
+          "key": "B",
+          "textEn": "Inverse square law only",
+          "textUr": "صرف معکوس مربع کا کلیہ"
+        },
+        {
+          "key": "C",
+          "textEn": "Constant ratio product",
+          "textUr": "مستقل تناسب کا حاصل ضرب"
+        },
+        {
+          "key": "D",
+          "textEn": "Linear approximation",
+          "textUr": "لینیئر تخمینہ"
+        }
+      ],
       "optionsEn": [
-        "Unverifiable speculation",
-        "High precision and universal validity",
-        "Random non-repeatable outcome",
-        "Total absence of governing law"
+        "Primary governing equation",
+        "Inverse square law only",
+        "Constant ratio product",
+        "Linear approximation"
       ],
       "optionsUr": [
-        "غیر تصدیق شدہ قیاس آرائی",
-        "اعلیٰ درستگی اور آفاقی اطلاق",
-        "بے ترتیب اور غیر اعادہ پذیر نتیجہ",
-        "بنیادی قانون کی مکمل عدم موجودگی"
+        "بنیادی حسابی مساوات",
+        "صرف معکوس مربع کا کلیہ",
+        "مستقل تناسب کا حاصل ضرب",
+        "لینیئر تخمینہ"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "According to board examination standards, Protection of Women & Children Rights exhibits rigorous scientific consistency and validity.",
-      "explanation_ur": "بورڈ امتحانی معیار کے مطابق، خواتین اور بچوں کے حقوق کا تحفظ سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
-      "explanationEn": "According to board examination standards, Protection of Women & Children Rights exhibits rigorous scientific consistency and validity.",
-      "explanationUr": "بورڈ امتحانی معیار کے مطابق، خواتین اور بچوں کے حقوق کا تحفظ سائنسی تسلسل اور آفاقی صداقت کا مظہر ہے۔",
-      "statementEn": "Which one of the following is the key characteristic feature of Protection of Women & Children Rights?",
-      "statementUr": "مندرجہ ذیل میں سے کون سی خواتین اور بچوں کے حقوق کا تحفظ کی کلیدی خصوصیت ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for خواتین کے تحفظ اور خود مختاری کے قومی قوانین in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند نصابی جواب۔"
     },
     {
       "id": 3,
-      "slo_ref": "SLO-03",
-      "question_en": "In standard Punjab Board examinations, Protection of Women & Children Rights is classified under:",
-      "question_ur": "پنجاب بورڈ کے امتحانی معیار کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کا تعلق کس سے ہے؟",
-      "questionEn": "In standard Punjab Board examinations, Protection of Women & Children Rights is classified under:",
-      "questionUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کا تعلق کس سے ہے؟",
-      "options_en": {
-        "A": "Core Science Curriculum 2026",
-        "B": "Applied Science stream",
-        "C": "Non-compulsory elective",
-        "D": "Out-of-syllabus literature"
-      },
-      "options_ur": {
-        "A": "بنیادی سائنس نصاب 2026",
-        "B": "اطلاقی سائنس گروپ",
-        "C": "غیر اختیاری مضمون",
-        "D": "غیر نصابی ادب"
-      },
+      "qNo": 3,
+      "statementEn": "The standard SI unit or characteristic measure associated with بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت is:",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "questionEn": "The standard SI unit or characteristic measure associated with بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت is:",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard derived SI unit",
+          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+        },
+        {
+          "key": "B",
+          "textEn": "Non-standard ancient unit",
+          "textUr": "غیر معیاری پرانا یونٹ"
+        },
+        {
+          "key": "C",
+          "textEn": "Arbitrary dimension",
+          "textUr": "فرضی مقدار"
+        },
+        {
+          "key": "D",
+          "textEn": "Dimensionless zero",
+          "textUr": "بے سمت صفر"
+        }
+      ],
       "optionsEn": [
-        "Core Science Curriculum 2026",
-        "Applied Science stream",
-        "Non-compulsory elective",
-        "Out-of-syllabus literature"
+        "Standard derived SI unit",
+        "Non-standard ancient unit",
+        "Arbitrary dimension",
+        "Dimensionless zero"
       ],
       "optionsUr": [
-        "بنیادی سائنس نصاب 2026",
-        "اطلاقی سائنس گروپ",
-        "غیر اختیاری مضمون",
-        "غیر نصابی ادب"
+        "معیاری ماخوذ ایس آئی یونٹ",
+        "غیر معیاری پرانا یونٹ",
+        "فرضی مقدار",
+        "بے سمت صفر"
       ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Strictly verified part of the official Science Group syllabus.",
-      "explanation_ur": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
-      "explanationEn": "Strictly verified part of the official Science Group syllabus.",
-      "explanationUr": "سائنس گروپ کے لازمی سرکاری نصاب کا تصدیق شدہ حصہ ہے۔",
-      "statementEn": "In standard Punjab Board examinations, Protection of Women & Children Rights is classified under:",
-      "statementUr": "پنجاب بورڈ کے امتحانی معیار کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کا تعلق کس سے ہے؟"
+      "explanationEn": "Standard textbook concept for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند نصابی جواب۔"
     },
     {
       "id": 4,
-      "slo_ref": "SLO-04",
-      "question_en": "What happens when the controlling parameters of Protection of Women & Children Rights are optimized?",
-      "question_ur": "جب خواتین اور بچوں کے حقوق کا تحفظ کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
-      "questionEn": "What happens when the controlling parameters of Protection of Women & Children Rights are optimized?",
-      "questionUr": "جب خواتین اور بچوں کے حقوق کا تحفظ کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟",
-      "options_en": {
-        "A": "The mechanism completely ceases",
-        "B": "Spontaneous chaotic degradation occurs",
-        "C": "Output drops to zero",
-        "D": "The process achieves optimal efficiency and stability"
-      },
-      "options_ur": {
-        "A": "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
-        "B": "بے ترتیبی کا عمل شروع ہوتا ہے",
-        "C": "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
-        "D": "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے"
-      },
+      "qNo": 4,
+      "statementEn": "What is the primary practical function or biological role of انسدادِ ہراسانی قوانین اور ہیلپ لائنز?",
+      "statementUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "questionEn": "What is the primary practical function or biological role of انسدادِ ہراسانی قوانین اور ہیلپ لائنز?",
+      "questionUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Essential functional mechanism",
+          "textUr": "لازمی فعلیاتی طریقہ کار"
+        },
+        {
+          "key": "B",
+          "textEn": "Harmful degradation",
+          "textUr": "نقصان دہ عمل"
+        },
+        {
+          "key": "C",
+          "textEn": "Passive stationary state",
+          "textUr": "غیر متحرک ساکن حالت"
+        },
+        {
+          "key": "D",
+          "textEn": "Random displacement",
+          "textUr": "اتفاقی تبدیلی"
+        }
+      ],
       "optionsEn": [
-        "The mechanism completely ceases",
-        "Spontaneous chaotic degradation occurs",
-        "Output drops to zero",
-        "The process achieves optimal efficiency and stability"
+        "Essential functional mechanism",
+        "Harmful degradation",
+        "Passive stationary state",
+        "Random displacement"
       ],
       "optionsUr": [
-        "سسٹم کا عمل مکمل طور پر رک جاتا ہے",
-        "بے ترتیبی کا عمل شروع ہوتا ہے",
-        "حاصل شدہ نتیجہ صفر ہو جاتا ہے",
-        "عمل بہترین کارکردگی اور استحکام حاصل کر لیتا ہے"
+        "لازمی فعلیاتی طریقہ کار",
+        "نقصان دہ عمل",
+        "غیر متحرک ساکن حالت",
+        "اتفاقی تبدیلی"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "Optimization leads to maximum equilibrium and theoretical peak performance.",
-      "explanation_ur": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
-      "explanationEn": "Optimization leads to maximum equilibrium and theoretical peak performance.",
-      "explanationUr": "عوامل کے توازن سے عمل کی کارکردگی اور استحکام انتہائی درجے پر پہنچ جاتا ہے۔",
-      "statementEn": "What happens when the controlling parameters of Protection of Women & Children Rights are optimized?",
-      "statementUr": "جب خواتین اور بچوں کے حقوق کا تحفظ کے کنٹرولنگ عوامل کو متوازن کیا جائے تو کیا ہوتا ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for انسدادِ ہراسانی قوانین اور ہیلپ لائنز in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند نصابی جواب۔"
     },
     {
       "id": 5,
-      "slo_ref": "SLO-05",
-      "question_en": "The mathematical or logical relationship established in Protection of Women & Children Rights indicates that:",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The mathematical or logical relationship established in Protection of Women & Children Rights indicates that:",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟",
-      "options_en": {
-        "A": "Complete independence with zero correlation",
-        "B": "Undefined asymptotic discontinuity",
-        "C": "Direct functional interdependence between variables",
-        "D": "Inverse random unpredictability"
-      },
-      "options_ur": {
-        "A": "بغیر تعلق کے مکمل آزادی",
-        "B": "غیر واضح عدم تسلسل",
-        "C": "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
-        "D": "غیر متوقع معکوس بے ترتیبی"
-      },
+      "qNo": 5,
+      "statementEn": "What is the underlying scientific cause of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ?",
+      "statementUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "questionEn": "What is the underlying scientific cause of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ?",
+      "questionUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Governing law of nature",
+          "textUr": "قدرت کا بنیادی قانون"
+        },
+        {
+          "key": "B",
+          "textEn": "Spontaneous chance",
+          "textUr": "اتفاقی عمل"
+        },
+        {
+          "key": "C",
+          "textEn": "External disturbance only",
+          "textUr": "صرف بیرونی خلل"
+        },
+        {
+          "key": "D",
+          "textEn": "Unstable measurement",
+          "textUr": "غیر مستحکم پیمائش"
+        }
+      ],
       "optionsEn": [
-        "Complete independence with zero correlation",
-        "Undefined asymptotic discontinuity",
-        "Direct functional interdependence between variables",
-        "Inverse random unpredictability"
+        "Governing law of nature",
+        "Spontaneous chance",
+        "External disturbance only",
+        "Unstable measurement"
       ],
       "optionsUr": [
-        "بغیر تعلق کے مکمل آزادی",
-        "غیر واضح عدم تسلسل",
-        "متغیرات کے درمیان براہِ راست فنکشنل انحصار",
-        "غیر متوقع معکوس بے ترتیبی"
+        "قدرت کا بنیادی قانون",
+        "اتفاقی عمل",
+        "صرف بیرونی خلل",
+        "غیر مستحکم پیمائش"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Textbook laws confirm direct systematic correlation between active parameters.",
-      "explanation_ur": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
-      "explanationEn": "Textbook laws confirm direct systematic correlation between active parameters.",
-      "explanationUr": "درسی کتاب کے قوانین متحرک عوامل کے درمیان براہ راست ربط کی تصدیق کرتے ہیں۔",
-      "statementEn": "The mathematical or logical relationship established in Protection of Women & Children Rights indicates that:",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں قائم کردہ حسابی یا منطقی تعلق کیا ظاہر کرتا ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند نصابی جواب۔"
     },
     {
       "id": 6,
-      "slo_ref": "SLO-01",
-      "question_en": "Which instrument or standard methodology is used for accurate analysis in Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
-      "questionEn": "Which instrument or standard methodology is used for accurate analysis in Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟",
-      "options_en": {
-        "A": "Arbitrary non-standard scale",
-        "B": "Standard calibrated laboratory technique",
-        "C": "Rough visual estimation only",
-        "D": "Uncontrolled subjective guesswork"
-      },
-      "options_ur": {
-        "A": "غیر معیاری پیمانہ",
-        "B": "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
-        "C": "صرف سرسری بصری اندازہ",
-        "D": "غیر تصدیق شدہ ذاتی رائے"
-      },
+      "qNo": 6,
+      "statementEn": "Which factor directly influences the rate or magnitude of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں?",
+      "statementUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "questionEn": "Which factor directly influences the rate or magnitude of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں?",
+      "questionUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Concentration / Force / Temperature",
+          "textUr": "ارتکاز / فورس / درجہ حرارت"
+        },
+        {
+          "key": "B",
+          "textEn": "Surface color only",
+          "textUr": "صرف سطحی رنگ"
+        },
+        {
+          "key": "C",
+          "textEn": "Surrounding atmosphere only",
+          "textUr": "صرف بیرونی ماحول"
+        },
+        {
+          "key": "D",
+          "textEn": "Cosmic radiation",
+          "textUr": "کائناتی شعاعیں"
+        }
+      ],
       "optionsEn": [
-        "Arbitrary non-standard scale",
-        "Standard calibrated laboratory technique",
-        "Rough visual estimation only",
-        "Uncontrolled subjective guesswork"
+        "Concentration / Force / Temperature",
+        "Surface color only",
+        "Surrounding atmosphere only",
+        "Cosmic radiation"
       ],
       "optionsUr": [
-        "غیر معیاری پیمانہ",
-        "معیاری کیلیبریٹڈ لیبارٹری تکنیک",
-        "صرف سرسری بصری اندازہ",
-        "غیر تصدیق شدہ ذاتی رائے"
+        "ارتکاز / فورس / درجہ حرارت",
+        "صرف سطحی رنگ",
+        "صرف بیرونی ماحول",
+        "کائناتی شعاعیں"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
-      "explanation_ur": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
-      "explanationEn": "Scientific precision requires standardized laboratory instrumentation and verified methodology.",
-      "explanationUr": "سائنسی درستگی کے لیے معیاری لیبارٹری آلات اور تصدیق شدہ طریقہ کار ناگزیر ہے۔",
-      "statementEn": "Which instrument or standard methodology is used for accurate analysis in Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں درست تجزیے کے لیے کون سا آلہ یا معیاری طریقہ کار اپنایا جاتا ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند نصابی جواب۔"
     },
     {
       "id": 7,
-      "slo_ref": "SLO-02",
-      "question_en": "Under standard conditions, the expected response in Protection of Women & Children Rights is:",
-      "question_ur": "معیاری شرائط کے تحت خواتین اور بچوں کے حقوق کا تحفظ کا متوقع ردعمل کیا ہوتا ہے؟",
-      "questionEn": "Under standard conditions, the expected response in Protection of Women & Children Rights is:",
-      "questionUr": "معیاری شرائط کے تحت خواتین اور بچوں کے حقوق کا تحفظ کا متوقع ردعمل کیا ہوتا ہے؟",
-      "options_en": {
-        "A": "Reproducible and consistent with theoretical SLOs",
-        "B": "Erratic and unpredictable",
-        "C": "Zero under all environments",
-        "D": "Inverse to natural principles"
-      },
-      "options_ur": {
-        "A": "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
-        "B": "غیر متوازن اور غیر متوقع",
-        "C": "ہر ماحول میں صفر",
-        "D": "قدرتی قوانین کے متضاد"
-      },
+      "qNo": 7,
+      "statementEn": "The graphical representation between key variables in خواتین کے تحفظ اور خود مختاری کے قومی قوانین demonstrates:",
+      "statementUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "questionEn": "The graphical representation between key variables in خواتین کے تحفظ اور خود مختاری کے قومی قوانین demonstrates:",
+      "questionUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Direct proportion curve",
+          "textUr": "براہ راست تناسب کا خط"
+        },
+        {
+          "key": "B",
+          "textEn": "Inverse parabolic fall",
+          "textUr": "معکوس پیرابولک زوال"
+        },
+        {
+          "key": "C",
+          "textEn": "Constant horizontal line",
+          "textUr": "مستقل افقی لکیر"
+        },
+        {
+          "key": "D",
+          "textEn": "Discontinuous wave",
+          "textUr": "غیر مسلسل لہر"
+        }
+      ],
       "optionsEn": [
-        "Reproducible and consistent with theoretical SLOs",
-        "Erratic and unpredictable",
-        "Zero under all environments",
-        "Inverse to natural principles"
+        "Direct proportion curve",
+        "Inverse parabolic fall",
+        "Constant horizontal line",
+        "Discontinuous wave"
       ],
       "optionsUr": [
-        "قابلِ اعادہ اور سائنسی مقاصد (SLOs) سے ہم آہنگ",
-        "غیر متوازن اور غیر متوقع",
-        "ہر ماحول میں صفر",
-        "قدرتی قوانین کے متضاد"
+        "براہ راست تناسب کا خط",
+        "معکوس پیرابولک زوال",
+        "مستقل افقی لکیر",
+        "غیر مسلسل لہر"
       ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Official Student Learning Outcomes verify deterministic and reproducible results.",
-      "explanation_ur": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
-      "explanationEn": "Official Student Learning Outcomes verify deterministic and reproducible results.",
-      "explanationUr": "نصابی مقاصد اس بات کی ضمانت دیتے ہیں کہ نتائج مستقل اور قابلِ اعادہ ہوں۔",
-      "statementEn": "Under standard conditions, the expected response in Protection of Women & Children Rights is:",
-      "statementUr": "معیاری شرائط کے تحت خواتین اور بچوں کے حقوق کا تحفظ کا متوقع ردعمل کیا ہوتا ہے؟"
+      "explanationEn": "Standard textbook concept for خواتین کے تحفظ اور خود مختاری کے قومی قوانین in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند نصابی جواب۔"
     },
     {
       "id": 8,
-      "slo_ref": "SLO-03",
-      "question_en": "In board past papers, a frequently tested conceptual query on Protection of Women & Children Rights addresses:",
-      "question_ur": "بورڈ کے سابقہ پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
-      "questionEn": "In board past papers, a frequently tested conceptual query on Protection of Women & Children Rights addresses:",
-      "questionUr": "بورڈ کے سابقہ پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:",
-      "options_en": {
-        "A": "Historical publication date only",
-        "B": "Author's biographical footnotes",
-        "C": "Superficial general knowledge",
-        "D": "The exact governing definition and limiting conditions"
-      },
-      "options_ur": {
-        "A": "صرف تاریخی اشاعت کی تاریخ",
-        "B": "مصنف کے سوانحی حواشی",
-        "C": "غیر متعلقہ عمومی معلومات",
-        "D": "بنیادی تعریف اور شرائط و حدود"
-      },
+      "qNo": 8,
+      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت?",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت?",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard calibrated laboratory apparatus",
+          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+        },
+        {
+          "key": "B",
+          "textEn": "General measuring tape only",
+          "textUr": "صرف پیمائشی فیتہ"
+        },
+        {
+          "key": "C",
+          "textEn": "Chemical indicator only",
+          "textUr": "صرف کیمیائی انڈیکیٹر"
+        },
+        {
+          "key": "D",
+          "textEn": "Voltmeter only",
+          "textUr": "صرف وولٹ میٹر"
+        }
+      ],
       "optionsEn": [
-        "Historical publication date only",
-        "Author's biographical footnotes",
-        "Superficial general knowledge",
-        "The exact governing definition and limiting conditions"
+        "Standard calibrated laboratory apparatus",
+        "General measuring tape only",
+        "Chemical indicator only",
+        "Voltmeter only"
       ],
       "optionsUr": [
-        "صرف تاریخی اشاعت کی تاریخ",
-        "مصنف کے سوانحی حواشی",
-        "غیر متعلقہ عمومی معلومات",
-        "بنیادی تعریف اور شرائط و حدود"
+        "معیاری لیبارٹری کا پیمائشی آلہ",
+        "صرف پیمائشی فیتہ",
+        "صرف کیمیائی انڈیکیٹر",
+        "صرف وولٹ میٹر"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
-      "explanation_ur": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
-      "explanationEn": "BISE Punjab exam setters focus on conceptual definitions, laws, and operating boundaries.",
-      "explanationUr": "پنجاب بورڈ کے پیپر سیٹرز بنیادی تعریفات، سائنسی قوانین اور حدود پر توجہ مرکوز کرتے ہیں۔",
-      "statementEn": "In board past papers, a frequently tested conceptual query on Protection of Women & Children Rights addresses:",
-      "statementUr": "بورڈ کے سابقہ پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق بار بار پوچھا جانے والا تصوراتی نکتہ ہے:"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند نصابی جواب۔"
     },
     {
       "id": 9,
-      "slo_ref": "SLO-04",
-      "question_en": "What is the significant advantage of understanding Protection of Women & Children Rights in modern science?",
-      "question_ur": "جدید سائنس میں خواتین اور بچوں کے حقوق کا تحفظ کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
-      "questionEn": "What is the significant advantage of understanding Protection of Women & Children Rights in modern science?",
-      "questionUr": "جدید سائنس میں خواتین اور بچوں کے حقوق کا تحفظ کے ادراک کا سب سے بڑا فائدہ کیا ہے؟",
-      "options_en": {
-        "A": "Has no application outside classroom",
-        "B": "Limited to theoretical speculation",
-        "C": "Enables critical analytical thinking and technological application",
-        "D": "Only rote memorization for single exam"
-      },
-      "options_ur": {
-        "A": "کلاس روم سے باہر کوئی اطلاق نہیں",
-        "B": "صرف فرضی نظریات تک محدود",
-        "C": "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
-        "D": "صرف وقتی رٹہ بازی تک محدود"
-      },
+      "qNo": 9,
+      "statementEn": "What is the most distinctive characteristic property of انسدادِ ہراسانی قوانین اور ہیلپ لائنز?",
+      "statementUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "questionEn": "What is the most distinctive characteristic property of انسدادِ ہراسانی قوانین اور ہیلپ لائنز?",
+      "questionUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Specific intrinsic physical/chemical property",
+          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+        },
+        {
+          "key": "B",
+          "textEn": "Temporary exterior trait",
+          "textUr": "عارضی بیرونی علامت"
+        },
+        {
+          "key": "C",
+          "textEn": "Random variable property",
+          "textUr": "اتفاقی متغیر خاصیت"
+        },
+        {
+          "key": "D",
+          "textEn": "Inert passive nature",
+          "textUr": "غیر فعال بے اثر حالت"
+        }
+      ],
       "optionsEn": [
-        "Has no application outside classroom",
-        "Limited to theoretical speculation",
-        "Enables critical analytical thinking and technological application",
-        "Only rote memorization for single exam"
+        "Specific intrinsic physical/chemical property",
+        "Temporary exterior trait",
+        "Random variable property",
+        "Inert passive nature"
       ],
       "optionsUr": [
-        "کلاس روم سے باہر کوئی اطلاق نہیں",
-        "صرف فرضی نظریات تک محدود",
-        "تنقیدی سائنسی سوچ اور ٹیکنالوجیکل اطلاق کی صلاحیت پیدا کرتا ہے",
-        "صرف وقتی رٹہ بازی تک محدود"
+        "مخصوص اندرونی سائنسی خصوصیت",
+        "عارضی بیرونی علامت",
+        "اتفاقی متغیر خاصیت",
+        "غیر فعال بے اثر حالت"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
-      "explanation_ur": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
-      "explanationEn": "Modern PTBB SLO framework focuses on critical thinking and real-world technological literacy.",
-      "explanationUr": "جدید نصابی فریم ورک تنقیدی سوچ اور جدید تکنیکی صلاحیتوں کے فروغ پر زور دیتا ہے۔",
-      "statementEn": "What is the significant advantage of understanding Protection of Women & Children Rights in modern science?",
-      "statementUr": "جدید سائنس میں خواتین اور بچوں کے حقوق کا تحفظ کے ادراک کا سب سے بڑا فائدہ کیا ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for انسدادِ ہراسانی قوانین اور ہیلپ لائنز in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند نصابی جواب۔"
     },
     {
       "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "Which of the following statements is 100% correct regarding Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
-      "questionEn": "Which of the following statements is 100% correct regarding Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟",
-      "options_en": {
-        "A": "It contains only subjective narratives",
-        "B": "It complies strictly with Punjab Board Curriculum 2026 guidelines",
-        "C": "It is only valid for non-science students",
-        "D": "It has been excluded from recent syllabus"
-      },
-      "options_ur": {
-        "A": "اس میں صرف غیر سائنسی بیانات ہیں",
-        "B": "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
-        "C": "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
-        "D": "اسے حالیہ نصاب سے نکال دیا گیا ہے"
-      },
+      "qNo": 10,
+      "statementEn": "A major real-world technological application of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ in everyday life is:",
+      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا اہم ترین عملی اطلاق ہے:",
+      "questionEn": "A major real-world technological application of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ in everyday life is:",
+      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا اہم ترین عملی اطلاق ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Modern engineering & medical device application",
+          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+        },
+        {
+          "key": "B",
+          "textEn": "Traditional decorative craft only",
+          "textUr": "صرف روایتی سجاوٹ"
+        },
+        {
+          "key": "C",
+          "textEn": "Theoretical discussion only",
+          "textUr": "صرف نظریاتی بحث"
+        },
+        {
+          "key": "D",
+          "textEn": "Agricultural pest creation",
+          "textUr": "زرعی کیڑوں کی افزائش"
+        }
+      ],
       "optionsEn": [
-        "It contains only subjective narratives",
-        "It complies strictly with Punjab Board Curriculum 2026 guidelines",
-        "It is only valid for non-science students",
-        "It has been excluded from recent syllabus"
+        "Modern engineering & medical device application",
+        "Traditional decorative craft only",
+        "Theoretical discussion only",
+        "Agricultural pest creation"
       ],
       "optionsUr": [
-        "اس میں صرف غیر سائنسی بیانات ہیں",
-        "یہ پنجاب بورڈ کے نصاب 2026 کے رہنما اصولوں کے عین مطابق ہے",
-        "یہ صرف غیر سائنسی طلبہ کے لیے ہے",
-        "اسے حالیہ نصاب سے نکال دیا گیا ہے"
+        "جدید انجینئرنگ و طبی آلات میں استعمال",
+        "صرف روایتی سجاوٹ",
+        "صرف نظریاتی بحث",
+        "زرعی کیڑوں کی افزائش"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
-      "explanation_ur": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
-      "explanationEn": "Fully verified against PTBB 2026 authoritative textbook syllabus.",
-      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب 2026 کے مطابق مکمل طور پر تصدیق شدہ ہے۔",
-      "statementEn": "Which of the following statements is 100% correct regarding Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے بارے میں مندرجہ ذیل میں سے کون سا بیان 100 فیصد درست ہے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند نصابی جواب۔"
     },
     {
       "id": 11,
-      "slo_ref": "SLO-01",
-      "question_en": "The standard unit, formula, or fundamental rule applied in Protection of Women & Children Rights ensures:",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
-      "questionEn": "The standard unit, formula, or fundamental rule applied in Protection of Women & Children Rights ensures:",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟",
-      "options_en": {
-        "A": "International standardization and measurement consistency",
-        "B": "Localized non-comparable values",
-        "C": "Ambiguity in scientific computation",
-        "D": "Uncalibrated relative indices"
-      },
-      "options_ur": {
-        "A": "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
-        "B": "غیر موازنہ مقامی اقدار",
-        "C": "حسابی عمل میں ابہام",
-        "D": "غیر معیاری پیمائشی نظام"
-      },
+      "qNo": 11,
+      "statementEn": "What happens when the primary parameter of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں is doubled?",
+      "statementUr": "اگر آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "questionEn": "What happens when the primary parameter of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں is doubled?",
+      "questionUr": "اگر آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "The resulting quantity doubles proportionally",
+          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+        },
+        {
+          "key": "B",
+          "textEn": "It becomes fourfold",
+          "textUr": "چار گنا بڑھ جائے گی"
+        },
+        {
+          "key": "C",
+          "textEn": "It reduces to half",
+          "textUr": "نصف رہ جائے گی"
+        },
+        {
+          "key": "D",
+          "textEn": "It remains completely unchanged",
+          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        }
+      ],
       "optionsEn": [
-        "International standardization and measurement consistency",
-        "Localized non-comparable values",
-        "Ambiguity in scientific computation",
-        "Uncalibrated relative indices"
+        "The resulting quantity doubles proportionally",
+        "It becomes fourfold",
+        "It reduces to half",
+        "It remains completely unchanged"
       ],
       "optionsUr": [
-        "بین الاقوامی معیاریت اور پیمائش کا یکساں تسلسل",
-        "غیر موازنہ مقامی اقدار",
-        "حسابی عمل میں ابہام",
-        "غیر معیاری پیمائشی نظام"
+        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
+        "چار گنا بڑھ جائے گی",
+        "نصف رہ جائے گی",
+        "مکمل طور پر غیر تبدیل شدہ رہے گی"
       ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "Standard units and equations allow global reproducibility and scientific rigor.",
-      "explanation_ur": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
-      "explanationEn": "Standard units and equations allow global reproducibility and scientific rigor.",
-      "explanationUr": "معیاری یونٹس اور کلیات سائنسی درستی اور بین الاقوامی ہم آہنگی کی ضمانت دیتے ہیں۔",
-      "statementEn": "The standard unit, formula, or fundamental rule applied in Protection of Women & Children Rights ensures:",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں لاگو معیاری یونٹ، کلیہ یا بنیادی اصول کیا یقینی بناتا ہے؟"
+      "explanationEn": "Standard textbook concept for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند نصابی جواب۔"
     },
     {
       "id": 12,
-      "slo_ref": "SLO-02",
-      "question_en": "When comparing Protection of Women & Children Rights with analogous systems, its primary distinction is:",
-      "question_ur": "مماثل نظاموں سے موازنہ کرتے وقت خواتین اور بچوں کے حقوق کا تحفظ کی بنیادی امتیازی خصوصیت ہے:",
-      "questionEn": "When comparing Protection of Women & Children Rights with analogous systems, its primary distinction is:",
-      "questionUr": "مماثل نظاموں سے موازنہ کرتے وقت خواتین اور بچوں کے حقوق کا تحفظ کی بنیادی امتیازی خصوصیت ہے:",
-      "options_en": {
-        "A": "Total lack of measurable traits",
-        "B": "Random erratic variations",
-        "C": "Complete identity without difference",
-        "D": "Specific textbook parameters and unique behavioral properties"
-      },
-      "options_ur": {
-        "A": "ناپنے کے قابل خصوصیات کا فقدان",
-        "B": "غیر مستحکم بے قاعدہ تبدیلیاں",
-        "C": "بغیر فرق کے مکمل مشابہت",
-        "D": "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات"
-      },
+      "qNo": 12,
+      "statementEn": "According to official curriculum classification, the main types of خواتین کے تحفظ اور خود مختاری کے قومی قوانین are:",
+      "statementUr": "نصابی درجہ بندی کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کی بنیادی اقسام ہیں:",
+      "questionEn": "According to official curriculum classification, the main types of خواتین کے تحفظ اور خود مختاری کے قومی قوانین are:",
+      "questionUr": "نصابی درجہ بندی کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کی بنیادی اقسام ہیں:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard textbook classifications",
+          "textUr": "نصابی و معیاری اقسام"
+        },
+        {
+          "key": "B",
+          "textEn": "Arbitrary categories",
+          "textUr": "فرضی درجہ بندیاں"
+        },
+        {
+          "key": "C",
+          "textEn": "Unrelated groupings",
+          "textUr": "غیر متعلقہ گروہ"
+        },
+        {
+          "key": "D",
+          "textEn": "Single indivisible type",
+          "textUr": "صرف ایک ناقابل تقسیم قسم"
+        }
+      ],
       "optionsEn": [
-        "Total lack of measurable traits",
-        "Random erratic variations",
-        "Complete identity without difference",
-        "Specific textbook parameters and unique behavioral properties"
+        "Standard textbook classifications",
+        "Arbitrary categories",
+        "Unrelated groupings",
+        "Single indivisible type"
       ],
       "optionsUr": [
-        "ناپنے کے قابل خصوصیات کا فقدان",
-        "غیر مستحکم بے قاعدہ تبدیلیاں",
-        "بغیر فرق کے مکمل مشابہت",
-        "مخصوص درسی پیرامیٹرز اور منفرد سائنسی خصوصیات"
+        "نصابی و معیاری اقسام",
+        "فرضی درجہ بندیاں",
+        "غیر متعلقہ گروہ",
+        "صرف ایک ناقابل تقسیم قسم"
       ],
-      "correct_answer": "D",
-      "correctIndex": 3,
-      "explanation_en": "Unique structural and behavioral laws distinguish this unit from other topics.",
-      "explanation_ur": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
-      "explanationEn": "Unique structural and behavioral laws distinguish this unit from other topics.",
-      "explanationUr": "منفرد ساختی و سائنسی قوانین اس موضوع کو دیگر ابواب سے ممتاز بناتے ہیں۔",
-      "statementEn": "When comparing Protection of Women & Children Rights with analogous systems, its primary distinction is:",
-      "statementUr": "مماثل نظاموں سے موازنہ کرتے وقت خواتین اور بچوں کے حقوق کا تحفظ کی بنیادی امتیازی خصوصیت ہے:"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for خواتین کے تحفظ اور خود مختاری کے قومی قوانین in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند نصابی جواب۔"
     },
     {
       "id": 13,
-      "slo_ref": "SLO-03",
-      "question_en": "A student observing an experimental setup for Protection of Women & Children Rights must ensure:",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
-      "questionEn": "A student observing an experimental setup for Protection of Women & Children Rights must ensure:",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟",
-      "options_en": {
-        "A": "Using unverified rough measurements",
-        "B": "Omitting observation records",
-        "C": "Minimization of systematic and personal errors",
-        "D": "Ignoring zero errors completely"
-      },
-      "options_ur": {
-        "A": "غیر تصدیق شدہ اندازوں کا استعمال",
-        "B": "مشاہداتی ریکارڈ کو چھوڑ دینا",
-        "C": "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
-        "D": "زیرو ایرر کو مکمل نظر انداز کرنا"
-      },
+      "qNo": 13,
+      "statementEn": "How does بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت differ fundamentally from its counterpart?",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "questionEn": "How does بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت differ fundamentally from its counterpart?",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Distinct direction, magnitude and physical nature",
+          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+        },
+        {
+          "key": "B",
+          "textEn": "Identical in every respect",
+          "textUr": "ہر لحاظ سے بالکل یکساں"
+        },
+        {
+          "key": "C",
+          "textEn": "Different only in name",
+          "textUr": "صرف نام کا فرق"
+        },
+        {
+          "key": "D",
+          "textEn": "No physical distinction exists",
+          "textUr": "کوئی طبعی فرق موجود نہیں"
+        }
+      ],
       "optionsEn": [
-        "Using unverified rough measurements",
-        "Omitting observation records",
-        "Minimization of systematic and personal errors",
-        "Ignoring zero errors completely"
+        "Distinct direction, magnitude and physical nature",
+        "Identical in every respect",
+        "Different only in name",
+        "No physical distinction exists"
       ],
       "optionsUr": [
-        "غیر تصدیق شدہ اندازوں کا استعمال",
-        "مشاہداتی ریکارڈ کو چھوڑ دینا",
-        "سسٹم اور ذاتی غلطیوں (ایرز) سے مکمل بچاؤ",
-        "زیرو ایرر کو مکمل نظر انداز کرنا"
+        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
+        "ہر لحاظ سے بالکل یکساں",
+        "صرف نام کا فرق",
+        "کوئی طبعی فرق موجود نہیں"
       ],
-      "correct_answer": "C",
-      "correctIndex": 2,
-      "explanation_en": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
-      "explanation_ur": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
-      "explanationEn": "Precision requires eliminating zero error, parallax error, and maintaining controlled conditions.",
-      "explanationUr": "درست پیمائش کے لیے زیرو ایرر اور پیرا لیکس ایرر کا خاتمہ ضروری ہے۔",
-      "statementEn": "A student observing an experimental setup for Protection of Women & Children Rights must ensure:",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے عملی تجربے کا مشاہدہ کرتے وقت طالب علم کو کس بات کی احتیاط کرنی چاہیے؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند نصابی جواب۔"
     },
     {
       "id": 14,
-      "slo_ref": "SLO-04",
-      "question_en": "Which SLO cognitive domain is primarily targeted by problem solving in Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
-      "questionEn": "Which SLO cognitive domain is primarily targeted by problem solving in Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟",
-      "options_en": {
-        "A": "Unstructured speculation",
-        "B": "Application and Higher Order Thinking",
-        "C": "Basic rote recall only",
-        "D": "Passive non-analytical reading"
-      },
-      "options_ur": {
-        "A": "غیر منظم قیاس آرائی",
-        "B": "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
-        "C": "صرف سادہ رٹہ بازی",
-        "D": "غیر تجزیاتی مطالعہ"
-      },
+      "qNo": 14,
+      "statementEn": "The quantitative value or constant established for انسدادِ ہراسانی قوانین اور ہیلپ لائنز is:",
+      "statementUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "questionEn": "The quantitative value or constant established for انسدادِ ہراسانی قوانین اور ہیلپ لائنز is:",
+      "questionUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard experimentally verified constant",
+          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+        },
+        {
+          "key": "B",
+          "textEn": "Variable unpredictable number",
+          "textUr": "متغیر غیر یقینی عدد"
+        },
+        {
+          "key": "C",
+          "textEn": "Zero at all times",
+          "textUr": "ہمیشہ صفر"
+        },
+        {
+          "key": "D",
+          "textEn": "Infinite undefined magnitude",
+          "textUr": "لامحدود غیر معین مقدار"
+        }
+      ],
       "optionsEn": [
-        "Unstructured speculation",
-        "Application and Higher Order Thinking",
-        "Basic rote recall only",
-        "Passive non-analytical reading"
+        "Standard experimentally verified constant",
+        "Variable unpredictable number",
+        "Zero at all times",
+        "Infinite undefined magnitude"
       ],
       "optionsUr": [
-        "غیر منظم قیاس آرائی",
-        "اطلاق (Application) اور اعلیٰ فکری صلاحیتیں",
-        "صرف سادہ رٹہ بازی",
-        "غیر تجزیاتی مطالعہ"
+        "معیاری تجرباتی ثابت شدہ قیمت",
+        "متغیر غیر یقینی عدد",
+        "ہمیشہ صفر",
+        "لامحدود غیر معین مقدار"
       ],
-      "correct_answer": "B",
-      "correctIndex": 1,
-      "explanation_en": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
-      "explanation_ur": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
-      "explanationEn": "Bloom's cognitive taxonomy in PTBB 2026 prioritizes Application and Analysis.",
-      "explanationUr": "پنجاب بورڈ کے نصابی مقاصد میں فکری اطلاق اور تجزیاتی صلاحیتوں کو ترجیح دی جاتی ہے۔",
-      "statementEn": "Which SLO cognitive domain is primarily targeted by problem solving in Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں حسابی یا تجزیاتی سوالات کس علمی شعبے کو ہدف بناتے ہیں؟"
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Standard textbook concept for انسدادِ ہراسانی قوانین اور ہیلپ لائنز in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند نصابی جواب۔"
     },
     {
       "id": 15,
-      "slo_ref": "SLO-05",
-      "question_en": "Final examination questions from Protection of Women & Children Rights are framed strictly according to:",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
-      "questionEn": "Final examination questions from Protection of Women & Children Rights are framed strictly according to:",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟",
-      "options_en": {
-        "A": "Official PTBB 2026 Student Learning Outcomes (SLOs)",
-        "B": "Random internet questionnaires",
-        "C": "Outdated foreign curriculum",
-        "D": "Informal social media guides"
-      },
-      "options_ur": {
-        "A": "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
-        "B": "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
-        "C": "پرانا متروکہ غیر ملکی نصاب",
-        "D": "سوشل میڈیا کے غیر مصدقہ نوٹس"
-      },
+      "qNo": 15,
+      "statementEn": "Which governing scientific law directly regulates the behavior of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ?",
+      "statementUr": "کون سا بنیادی سائنسی قانون معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "questionEn": "Which governing scientific law directly regulates the behavior of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ?",
+      "questionUr": "کون سا بنیادی سائنسی قانون معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Fundamental Conservation & Equilibrium Law",
+          "textUr": "بنیادی قانونِ بقا و توازن"
+        },
+        {
+          "key": "B",
+          "textEn": "Spontaneous reaction law",
+          "textUr": "خود بخود تعامل کا اصول"
+        },
+        {
+          "key": "C",
+          "textEn": "Random motion theorem",
+          "textUr": "بے قاعدہ حرکت کا کلیہ"
+        },
+        {
+          "key": "D",
+          "textEn": "Empirical assumption",
+          "textUr": "تجرباتی قیاس"
+        }
+      ],
       "optionsEn": [
-        "Official PTBB 2026 Student Learning Outcomes (SLOs)",
-        "Random internet questionnaires",
-        "Outdated foreign curriculum",
-        "Informal social media guides"
+        "Fundamental Conservation & Equilibrium Law",
+        "Spontaneous reaction law",
+        "Random motion theorem",
+        "Empirical assumption"
       ],
       "optionsUr": [
-        "پنجاب بورڈ کے سرکاری لرننگ آؤٹ کمز (SLOs)",
-        "انٹرنیٹ کے غیر تصدیق شدہ سوالنامے",
-        "پرانا متروکہ غیر ملکی نصاب",
-        "سوشل میڈیا کے غیر مصدقہ نوٹس"
+        "بنیادی قانونِ بقا و توازن",
+        "خود بخود تعامل کا اصول",
+        "بے قاعدہ حرکت کا کلیہ",
+        "تجرباتی قیاس"
       ],
-      "correct_answer": "A",
+      "correctOption": "A",
       "correctIndex": 0,
-      "explanation_en": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
-      "explanation_ur": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
-      "explanationEn": "100% adherence to official BISE Punjab examination pairing schemes and PTBB textbook standards.",
-      "explanationUr": "پنجاب بورڈ کی باضابطہ پیئرنگ سکیم اور درسی کتاب کے معیارات کے عین مطابق۔",
-      "statementEn": "Final examination questions from Protection of Women & Children Rights are framed strictly according to:",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ سے فائنل امتحانی سوالات کس اصول کے تحت تیار کیے جاتے ہیں؟"
-    }
-  ],
-  "short_questions": [
-    {
-      "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define Protection of Women & Children Rights according to Punjab Textbook Board syllabus and state its core principle.",
-      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answer_en": "Protection of Women & Children Rights represents a foundational unit of the Class 10th Pakistan Studies syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answer_ur": "خواتین اور بچوں کے حقوق کا تحفظ Class 10th مطالعہ پاکستان کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "questionEn": "Define Protection of Women & Children Rights according to Punjab Textbook Board syllabus and state its core principle.",
-      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answerEn": "Protection of Women & Children Rights represents a foundational unit of the Class 10th Pakistan Studies syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answerUr": "خواتین اور بچوں کے حقوق کا تحفظ Class 10th مطالعہ پاکستان کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "statementEn": "Define Protection of Women & Children Rights according to Punjab Textbook Board syllabus and state its core principle.",
-      "statementUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔"
-    },
-    {
-      "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "State two primary textbook terms or classifications introduced in Protection of Women & Children Rights.",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "questionEn": "State two primary textbook terms or classifications introduced in Protection of Women & Children Rights.",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "statementEn": "State two primary textbook terms or classifications introduced in Protection of Women & Children Rights.",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔"
-    },
-    {
-      "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Write down the governing formula or rule of Protection of Women & Children Rights along with its standard units or notation.",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "questionEn": "Write down the governing formula or rule of Protection of Women & Children Rights along with its standard units or notation.",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "statementEn": "Write down the governing formula or rule of Protection of Women & Children Rights along with its standard units or notation.",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔"
-    },
-    {
-      "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between two contrasting aspects or categories studied in Protection of Women & Children Rights.",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "questionEn": "Differentiate between two contrasting aspects or categories studied in Protection of Women & Children Rights.",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "statementEn": "Differentiate between two contrasting aspects or categories studied in Protection of Women & Children Rights.",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔"
-    },
-    {
-      "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "Why is Protection of Women & Children Rights considered essential in practical science and board examinations?",
-      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں خواتین اور بچوں کے حقوق کا تحفظ کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "questionEn": "Why is Protection of Women & Children Rights considered essential in practical science and board examinations?",
-      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں خواتین اور بچوں کے حقوق کا تحفظ کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "statementEn": "Why is Protection of Women & Children Rights considered essential in practical science and board examinations?",
-      "statementUr": "عملی سائنس اور بورڈ کے امتحانات میں خواتین اور بچوں کے حقوق کا تحفظ کو کیوں انتہائی اہم تصور کیا جاتا ہے؟"
-    },
-    {
-      "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "Give one practical or daily life example that illustrates the concept of Protection of Women & Children Rights.",
-      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو خواتین اور بچوں کے حقوق کا تحفظ کے تصور کو واضح کرتی ہو۔",
-      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Protection of Women & Children Rights, confirming experimental reproducibility.",
-      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام خواتین اور بچوں کے حقوق کا تحفظ کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "questionEn": "Give one practical or daily life example that illustrates the concept of Protection of Women & Children Rights.",
-      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو خواتین اور بچوں کے حقوق کا تحفظ کے تصور کو واضح کرتی ہو۔",
-      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Protection of Women & Children Rights, confirming experimental reproducibility.",
-      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام خواتین اور بچوں کے حقوق کا تحفظ کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "statementEn": "Give one practical or daily life example that illustrates the concept of Protection of Women & Children Rights.",
-      "statementUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو خواتین اور بچوں کے حقوق کا تحفظ کے تصور کو واضح کرتی ہو۔"
-    },
-    {
-      "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "What precautions or boundary conditions must be maintained when evaluating Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "statementEn": "What precautions or boundary conditions must be maintained when evaluating Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟"
-    },
-    {
-      "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "How does a change in primary variables affect the outcome in Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "questionEn": "How does a change in primary variables affect the outcome in Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "statementEn": "How does a change in primary variables affect the outcome in Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟"
-    },
-    {
-      "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Protection of Women & Children Rights.",
-      "question_ur": "بورڈ کے پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Protection of Women & Children Rights.",
-      "questionUr": "بورڈ کے پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "statementEn": "State a conceptual reasoning problem frequently asked in board papers regarding Protection of Women & Children Rights.",
-      "statementUr": "بورڈ کے پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔"
-    },
-    {
-      "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "How should a matric science student structure a 2-mark board short question on Protection of Women & Children Rights?",
-      "question_ur": "ایک میٹرک سائنس کے طالب علم کو خواتین اور بچوں کے حقوق کا تحفظ پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "questionEn": "How should a matric science student structure a 2-mark board short question on Protection of Women & Children Rights?",
-      "questionUr": "ایک میٹرک سائنس کے طالب علم کو خواتین اور بچوں کے حقوق کا تحفظ پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "statementEn": "How should a matric science student structure a 2-mark board short question on Protection of Women & Children Rights?",
-      "statementUr": "ایک میٹرک سائنس کے طالب علم کو خواتین اور بچوں کے حقوق کا تحفظ پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟"
-    },
-    {
-      "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "statementEn": "What key terminology must be explicitly highlighted in the exam answer for Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟"
-    },
-    {
-      "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "Summarize the final takeaway of Protection of Women & Children Rights for revision before board exams.",
-      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے خواتین اور بچوں کے حقوق کا تحفظ کا حتمی خلاصہ بیان کریں۔",
-      "answer_en": "Mastery of Protection of Women & Children Rights requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answer_ur": "خواتین اور بچوں کے حقوق کا تحفظ پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "questionEn": "Summarize the final takeaway of Protection of Women & Children Rights for revision before board exams.",
-      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے خواتین اور بچوں کے حقوق کا تحفظ کا حتمی خلاصہ بیان کریں۔",
-      "answerEn": "Mastery of Protection of Women & Children Rights requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answerUr": "خواتین اور بچوں کے حقوق کا تحفظ پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "statementEn": "Summarize the final takeaway of Protection of Women & Children Rights for revision before board exams.",
-      "statementUr": "بورڈ امتحانات سے قبل دہرائی کے لیے خواتین اور بچوں کے حقوق کا تحفظ کا حتمی خلاصہ بیان کریں۔"
+      "explanationEn": "Standard textbook concept for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ in Protection of Women & Children Rights.",
+      "explanationUr": "خواتین اور بچوں کے حقوق کا تحفظ کے تحت معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند نصابی جواب۔"
     }
   ],
   "shortQuestions": [
     {
       "id": 1,
-      "slo_ref": "SLO-01",
-      "question_en": "Define Protection of Women & Children Rights according to Punjab Textbook Board syllabus and state its core principle.",
-      "question_ur": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answer_en": "Protection of Women & Children Rights represents a foundational unit of the Class 10th Pakistan Studies syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answer_ur": "خواتین اور بچوں کے حقوق کا تحفظ Class 10th مطالعہ پاکستان کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "questionEn": "Define Protection of Women & Children Rights according to Punjab Textbook Board syllabus and state its core principle.",
-      "questionUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔",
-      "answerEn": "Protection of Women & Children Rights represents a foundational unit of the Class 10th Pakistan Studies syllabus. It deals with systematic scientific analysis, standardized empirical laws, and structural relationships as established in PTBB Curriculum 2026.",
-      "answerUr": "خواتین اور بچوں کے حقوق کا تحفظ Class 10th مطالعہ پاکستان کے نصاب کا بنیادی باب ہے۔ یہ سائنسی مشاہدات، معیاری قوانین اور سائنسی و منطقی روابط کے منظم مطالعے کا احاطہ کرتا ہے جو پنجاب ٹیکسٹ بک بورڈ 2026 کے نصاب میں باضابطہ طور پر شامل ہے۔",
-      "statementEn": "Define Protection of Women & Children Rights according to Punjab Textbook Board syllabus and state its core principle.",
-      "statementUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خواتین اور بچوں کے حقوق کا تحفظ کی تعریف کریں اور اس کا بنیادی اصول بیان کریں۔"
+      "subNo": 1,
+      "statementEn": "Define آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں and write its governing mathematical formula or scientific definition.",
+      "statementUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "questionEn": "Define آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں and write its governing mathematical formula or scientific definition.",
+      "questionUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 2,
-      "slo_ref": "SLO-01",
-      "question_en": "State two primary textbook terms or classifications introduced in Protection of Women & Children Rights.",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answer_en": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answer_ur": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "questionEn": "State two primary textbook terms or classifications introduced in Protection of Women & Children Rights.",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔",
-      "answerEn": "1. Primary Standard Concept: Establishes base definitions, core properties, and standardized SI/mathematical notations.\n2. Applied Phenomenon: Investigates interactions, practical behavior, and contextual manifestations under specific boundary conditions.",
-      "answerUr": "۱۔ بنیادی معیاری تصور: اس میں بنیادی تعریفات، کلیدی خصوصیات اور معیاری بین الاقوامی یا سائنسی علامتیں شامل ہیں۔\n۲۔ اطلاقی مظہر: مخصوص شرائط کے تحت سائنسی عوامل کے باہمی تعامل اور عملی برتاؤ کا تفصیلی مطالعہ۔",
-      "statementEn": "State two primary textbook terms or classifications introduced in Protection of Women & Children Rights.",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں متعارف کرائی گئی دو اہم نصابی اصطلاحات یا درجہ بندیاں تحریر کریں۔"
+      "subNo": 2,
+      "statementEn": "Differentiate between خواتین کے تحفظ اور خود مختاری کے قومی قوانین and its related counterpart with two clear distinctions.",
+      "statementUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "questionEn": "Differentiate between خواتین کے تحفظ اور خود مختاری کے قومی قوانین and its related counterpart with two clear distinctions.",
+      "questionUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for خواتین کے تحفظ اور خود مختاری کے قومی قوانین conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 3,
-      "slo_ref": "SLO-02",
-      "question_en": "Write down the governing formula or rule of Protection of Women & Children Rights along with its standard units or notation.",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answer_en": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answer_ur": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "questionEn": "Write down the governing formula or rule of Protection of Women & Children Rights along with its standard units or notation.",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔",
-      "answerEn": "The governing relationship is expressed in standard textbook form where the principal variable depends directly on foundational state parameters. All quantities are measured in standard SI units or rigorous formal notations prescribed by Punjab Board.",
-      "answerUr": "اس موضوع کا بنیادی کلیہ درسی کتاب میں طے شدہ اصول کے مطابق ہے جہاں مرکزی سائنسی مقدار بنیادی عوامل پر براہِ راست منحصر ہوتی ہے۔ تمام مقداروں کی پیمائش بین الاقوامی ایس آئی (SI) یونٹس یا بورڈ کے تجویز کردہ معیاری فارمولے کے تحت کی جاتی ہے۔",
-      "statementEn": "Write down the governing formula or rule of Protection of Women & Children Rights along with its standard units or notation.",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کا بنیادی کلیہ (Formula) یا اصول اور اس کے معیاری یونٹس تحریر کریں۔"
+      "subNo": 3,
+      "statementEn": "Explain the scientific reason behind the natural phenomenon of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "questionEn": "Explain the scientific reason behind the natural phenomenon of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 4,
-      "slo_ref": "SLO-02",
-      "question_en": "Differentiate between two contrasting aspects or categories studied in Protection of Women & Children Rights.",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answer_en": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answer_ur": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "questionEn": "Differentiate between two contrasting aspects or categories studied in Protection of Women & Children Rights.",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔",
-      "answerEn": "1. First Aspect: Characterized by fundamental, independent, or baseline behavior without external disturbance.\n2. Second Aspect: Characterized by secondary, derived, or coupled responses that actively depend on surrounding conditions and external inputs.",
-      "answerUr": "۱۔ پہلا پہلو: اس کی خصوصیت بنیادی، آزادانہ اور مستحکم برتاؤ ہے جو بیرونی اثرات کے بغیر ظاہر ہوتا ہے۔\n۲۔ دوسرا پہلو: اس کی خصوصیت ماخوذ اور ثانوی ردعمل ہے جو ارد گرد کے حالات اور بیرونی عوامل پر مکمل انحصار کرتا ہے۔",
-      "statementEn": "Differentiate between two contrasting aspects or categories studied in Protection of Women & Children Rights.",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں زیرِ بحث دو متضاد پہلوؤں یا اقسام کے درمیان دو واضح فرق تحریر کریں۔"
+      "subNo": 4,
+      "statementEn": "State the necessary conditions and rules required for انسدادِ ہراسانی قوانین اور ہیلپ لائنز to occur.",
+      "statementUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "questionEn": "State the necessary conditions and rules required for انسدادِ ہراسانی قوانین اور ہیلپ لائنز to occur.",
+      "questionUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "answerEn": "Standard textbook solution and definition for انسدادِ ہراسانی قوانین اور ہیلپ لائنز conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 5,
-      "slo_ref": "SLO-03",
-      "question_en": "Why is Protection of Women & Children Rights considered essential in practical science and board examinations?",
-      "question_ur": "عملی سائنس اور بورڈ کے امتحانات میں خواتین اور بچوں کے حقوق کا تحفظ کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answer_en": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answer_ur": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "questionEn": "Why is Protection of Women & Children Rights considered essential in practical science and board examinations?",
-      "questionUr": "عملی سائنس اور بورڈ کے امتحانات میں خواتین اور بچوں کے حقوق کا تحفظ کو کیوں انتہائی اہم تصور کیا جاتا ہے؟",
-      "answerEn": "It carries substantial weightage in BISE Punjab annual papers. Conceptually, it bridges fundamental theory with modern technological and natural applications, allowing students to comprehend complex real-world mechanisms.",
-      "answerUr": "پنجاب بورڈ کے سالانہ امتحانات میں اس یونٹ کی نمایاں ویٹیج ہوتی ہے۔ تصوراتی اعتبار سے یہ بنیادی سائنسی نظریات کو جدید ٹیکنالوجی اور قدرتی مظاہر کے ساتھ جوڑتا ہے جس سے طلبہ کو پیچیدہ سائنسی نظام سمجھنے میں مدد ملتی ہے۔",
-      "statementEn": "Why is Protection of Women & Children Rights considered essential in practical science and board examinations?",
-      "statementUr": "عملی سائنس اور بورڈ کے امتحانات میں خواتین اور بچوں کے حقوق کا تحفظ کو کیوں انتہائی اہم تصور کیا جاتا ہے؟"
+      "subNo": 5,
+      "statementEn": "Write down the standard SI units and dimensional properties of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "statementUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "questionEn": "Write down the standard SI units and dimensional properties of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "questionUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "answerEn": "Standard textbook solution and definition for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 6,
-      "slo_ref": "SLO-03",
-      "question_en": "Give one practical or daily life example that illustrates the concept of Protection of Women & Children Rights.",
-      "question_ur": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو خواتین اور بچوں کے حقوق کا تحفظ کے تصور کو واضح کرتی ہو۔",
-      "answer_en": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Protection of Women & Children Rights, confirming experimental reproducibility.",
-      "answer_ur": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام خواتین اور بچوں کے حقوق کا تحفظ کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "questionEn": "Give one practical or daily life example that illustrates the concept of Protection of Women & Children Rights.",
-      "questionUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو خواتین اور بچوں کے حقوق کا تحفظ کے تصور کو واضح کرتی ہو۔",
-      "answerEn": "A common textbook example observed in everyday life demonstrates that when external conditions change, the system responds predictably according to the scientific laws of Protection of Women & Children Rights, confirming experimental reproducibility.",
-      "answerUr": "روزمرہ زندگی میں اس کا ایک عام مشاہدہ یہ ظاہر کرتا ہے کہ جب بیرونی حالات تبدیل ہوتے ہیں تو سائنسی نظام خواتین اور بچوں کے حقوق کا تحفظ کے قوانین کے تحت متوقع ردعمل ظاہر کرتا ہے جو تجرباتی صداقت کی دلیل ہے۔",
-      "statementEn": "Give one practical or daily life example that illustrates the concept of Protection of Women & Children Rights.",
-      "statementUr": "روزمرہ زندگی یا عملی مشاہدے سے ایک ایسی مثال دیں جو خواتین اور بچوں کے حقوق کا تحفظ کے تصور کو واضح کرتی ہو۔"
+      "subNo": 6,
+      "statementEn": "Give two practical everyday applications of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in modern technology or society.",
+      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کے دو عملی اطلاقات بیان کریں۔",
+      "questionEn": "Give two practical everyday applications of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in modern technology or society.",
+      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کے دو عملی اطلاقات بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 7,
-      "slo_ref": "SLO-04",
-      "question_en": "What precautions or boundary conditions must be maintained when evaluating Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answer_en": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answer_ur": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "questionEn": "What precautions or boundary conditions must be maintained when evaluating Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟",
-      "answerEn": "1. Constant Environmental Parameters: Temperature, pressure, and background factors must remain steady.\n2. Error Minimization: Zero errors and instrument calibration must be strictly verified before recording observations.",
-      "answerUr": "۱۔ ماحولیاتی عوامل کا استحکام: درجہ حرارت، دباؤ اور گرد و پیش کے دیگر حالات کو یکساں رکھنا لازمی ہے۔\n۲۔ غلطیوں سے بچاؤ: پیمائش یا تجزیے سے پہلے زیرو ایرر اور آلات کی کیلیبریشن کی باقاعدہ جانچ ضروری ہے۔",
-      "statementEn": "What precautions or boundary conditions must be maintained when evaluating Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے مطالعے یا تجربے کے دوران کون سی احتیاطی تدابیر یا شرائط کو برقرار رکھنا ضروری ہے؟"
+      "subNo": 7,
+      "statementEn": "What effect is observed when parameters of خواتین کے تحفظ اور خود مختاری کے قومی قوانین are doubled or halved? Explain briefly.",
+      "statementUr": "اگر خواتین کے تحفظ اور خود مختاری کے قومی قوانین کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "questionEn": "What effect is observed when parameters of خواتین کے تحفظ اور خود مختاری کے قومی قوانین are doubled or halved? Explain briefly.",
+      "questionUr": "اگر خواتین کے تحفظ اور خود مختاری کے قومی قوانین کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "answerEn": "Standard textbook solution and definition for خواتین کے تحفظ اور خود مختاری کے قومی قوانین conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 8,
-      "slo_ref": "SLO-04",
-      "question_en": "How does a change in primary variables affect the outcome in Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answer_en": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answer_ur": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "questionEn": "How does a change in primary variables affect the outcome in Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟",
-      "answerEn": "Increasing the active driving variable produces a proportional enhancement in system output, while opposing resistive factors attenuate the overall magnitude in strict compliance with textbook mathematical models.",
-      "answerUr": "بنیادی متحرک متغیر میں اضافے سے حاصل شدہ نتائج میں متناسب اضافہ ہوتا ہے، جبکہ مخالف یا مزاحمتی عوامل مجموعی شدت کو درسی حسابی ماڈل کے مطابق کم کر دیتے ہیں۔",
-      "statementEn": "How does a change in primary variables affect the outcome in Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں بنیادی متغیرات (Variables) میں تبدیلی نتائج پر کیسے اثر انداز ہوتی ہے؟"
+      "subNo": 8,
+      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "answerEn": "Standard textbook solution and definition for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 9,
-      "slo_ref": "SLO-05",
-      "question_en": "State a conceptual reasoning problem frequently asked in board papers regarding Protection of Women & Children Rights.",
-      "question_ur": "بورڈ کے پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answer_en": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answer_ur": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "questionEn": "State a conceptual reasoning problem frequently asked in board papers regarding Protection of Women & Children Rights.",
-      "questionUr": "بورڈ کے پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔",
-      "answerEn": "Query: Why does the system retain stability under standard constraints?\nAnswer: Stability is preserved because internal opposing forces reach dynamic equilibrium, balancing external driving forces exactly as mandated by PTBB principles.",
-      "answerUr": "سوال: معیاری شرائط کے تحت سسٹم اپنا استحکام کیوں برقرار رکھتا ہے؟\nجواب: استحکام اس لیے قائم رہتا ہے کیونکہ اندرونی اور بیرونی قوتیں باہمی توازن (ایکوی لبریم) حاصل کر لیتی ہیں جو کہ درسی کتاب کے بنیادی اصول کی توثیق ہے۔",
-      "statementEn": "State a conceptual reasoning problem frequently asked in board papers regarding Protection of Women & Children Rights.",
-      "statementUr": "بورڈ کے پرچوں میں خواتین اور بچوں کے حقوق کا تحفظ سے متعلق اکثر پوچھا جانے والا ایک تصوراتی استدلالی سوال اور اس کا جواب بیان کریں۔"
+      "subNo": 9,
+      "statementEn": "Explain the conceptual significance of studying انسدادِ ہراسانی قوانین اور ہیلپ لائنز according to textbook learning outcomes.",
+      "statementUr": "نصابی مقاصد کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "questionEn": "Explain the conceptual significance of studying انسدادِ ہراسانی قوانین اور ہیلپ لائنز according to textbook learning outcomes.",
+      "questionUr": "نصابی مقاصد کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for انسدادِ ہراسانی قوانین اور ہیلپ لائنز conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 10,
-      "slo_ref": "SLO-05",
-      "question_en": "How should a matric science student structure a 2-mark board short question on Protection of Women & Children Rights?",
-      "question_ur": "ایک میٹرک سائنس کے طالب علم کو خواتین اور بچوں کے حقوق کا تحفظ پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answer_en": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answer_ur": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "questionEn": "How should a matric science student structure a 2-mark board short question on Protection of Women & Children Rights?",
-      "questionUr": "ایک میٹرک سائنس کے طالب علم کو خواتین اور بچوں کے حقوق کا تحفظ پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟",
-      "answerEn": "1. First Mark: Precise textbook scientific definition or law stated with exact technical vocabulary.\n2. Second Mark: Mathematical equation, standard SI unit, diagrammatic sketch, or authentic textbook example.",
-      "answerUr": "۱۔ پہلا نمبر: درست درسی سائنسی تعریف یا قانون جو مستند اصطلاحات کے ساتھ بیان کیا گیا ہو۔\n۲۔ دوسرا نمبر: حسابی مساوات، معیاری ایس آئی یونٹ، خاکے یا درسی کتاب کی مستند مثال کی فراہمی۔",
-      "statementEn": "How should a matric science student structure a 2-mark board short question on Protection of Women & Children Rights?",
-      "statementUr": "ایک میٹرک سائنس کے طالب علم کو خواتین اور بچوں کے حقوق کا تحفظ پر 2 نمبر کا بورڈ شارٹ سوال کیسے حل کرنا چاہیے؟"
+      "subNo": 10,
+      "statementEn": "Name the key factors that increase or decrease the efficiency of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "statementUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "questionEn": "Name the key factors that increase or decrease the efficiency of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "questionUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 11,
-      "slo_ref": "SLO-05",
-      "question_en": "What key terminology must be explicitly highlighted in the exam answer for Protection of Women & Children Rights?",
-      "question_ur": "خواتین اور بچوں کے حقوق کا تحفظ کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answer_en": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answer_ur": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "questionEn": "What key terminology must be explicitly highlighted in the exam answer for Protection of Women & Children Rights?",
-      "questionUr": "خواتین اور بچوں کے حقوق کا تحفظ کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟",
-      "answerEn": "Students should clearly highlight technical terms in English and Urdu Nastaliq, including standard definitions, mathematical symbols, constants, and unit prefixes to ensure full 2/2 marks from the board examiner.",
-      "answerUr": "امتحان میں پورے 2/2 نمبر حاصل کرنے کے لیے طلبہ کو سائنسی اصطلاحات، ریاضیاتی علامتوں، مستقل اقدار (Constants) اور یونٹس کو مارکر سے واضح اور نمایاں لکھنا چاہیے۔",
-      "statementEn": "What key terminology must be explicitly highlighted in the exam answer for Protection of Women & Children Rights?",
-      "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے امتحانی جواب میں کن کلیدی اصطلاحات کو نمایاں (ہائی لائٹ) کرنا چاہیے؟"
+      "subNo": 11,
+      "statementEn": "How does آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں contribute to environmental balance or industrial processes?",
+      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کیا کردار ادا کرتا ہے؟",
+      "questionEn": "How does آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں contribute to environmental balance or industrial processes?",
+      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کیا کردار ادا کرتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند ماڈل جواب۔",
+      "marks": 2
     },
     {
       "id": 12,
-      "slo_ref": "SLO-05",
-      "question_en": "Summarize the final takeaway of Protection of Women & Children Rights for revision before board exams.",
-      "question_ur": "بورڈ امتحانات سے قبل دہرائی کے لیے خواتین اور بچوں کے حقوق کا تحفظ کا حتمی خلاصہ بیان کریں۔",
-      "answer_en": "Mastery of Protection of Women & Children Rights requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answer_ur": "خواتین اور بچوں کے حقوق کا تحفظ پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "questionEn": "Summarize the final takeaway of Protection of Women & Children Rights for revision before board exams.",
-      "questionUr": "بورڈ امتحانات سے قبل دہرائی کے لیے خواتین اور بچوں کے حقوق کا تحفظ کا حتمی خلاصہ بیان کریں۔",
-      "answerEn": "Mastery of Protection of Women & Children Rights requires thoroughly memorizing official definitions, practicing standard exercise questions, solving past board MCQs, and ensuring zero conceptual confusion between analogous terms.",
-      "answerUr": "خواتین اور بچوں کے حقوق کا تحفظ پر مکمل عبور کے لیے سرکاری تعریفات کو یاد کرنا، مشقی سوالات کی مشق کرنا، سابقہ بورڈ معروضی سوالات کو حل کرنا اور مماثل اصطلاحات کے مابین فرق کو واضح رکھنا ضروری ہے۔",
-      "statementEn": "Summarize the final takeaway of Protection of Women & Children Rights for revision before board exams.",
-      "statementUr": "بورڈ امتحانات سے قبل دہرائی کے لیے خواتین اور بچوں کے حقوق کا تحفظ کا حتمی خلاصہ بیان کریں۔"
+      "subNo": 12,
+      "statementEn": "Solve the conceptual problem: State what happens to a system when خواتین کے تحفظ اور خود مختاری کے قومی قوانین reaches equilibrium.",
+      "statementUr": "تصوراتی سوال کا جواب دیں: جب خواتین کے تحفظ اور خود مختاری کے قومی قوانین توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "questionEn": "Solve the conceptual problem: State what happens to a system when خواتین کے تحفظ اور خود مختاری کے قومی قوانین reaches equilibrium.",
+      "questionUr": "تصوراتی سوال کا جواب دیں: جب خواتین کے تحفظ اور خود مختاری کے قومی قوانین توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for خواتین کے تحفظ اور خود مختاری کے قومی قوانین conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند ماڈل جواب۔",
+      "marks": 2
     }
   ],
-  "vocab": [],
+  "short_questions": [
+    {
+      "id": 1,
+      "subNo": 1,
+      "statementEn": "Define آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں and write its governing mathematical formula or scientific definition.",
+      "statementUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "questionEn": "Define آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں and write its governing mathematical formula or scientific definition.",
+      "questionUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 2,
+      "subNo": 2,
+      "statementEn": "Differentiate between خواتین کے تحفظ اور خود مختاری کے قومی قوانین and its related counterpart with two clear distinctions.",
+      "statementUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "questionEn": "Differentiate between خواتین کے تحفظ اور خود مختاری کے قومی قوانین and its related counterpart with two clear distinctions.",
+      "questionUr": "خواتین کے تحفظ اور خود مختاری کے قومی قوانین اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for خواتین کے تحفظ اور خود مختاری کے قومی قوانین conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 3,
+      "subNo": 3,
+      "statementEn": "Explain the scientific reason behind the natural phenomenon of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "questionEn": "Explain the scientific reason behind the natural phenomenon of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 4,
+      "subNo": 4,
+      "statementEn": "State the necessary conditions and rules required for انسدادِ ہراسانی قوانین اور ہیلپ لائنز to occur.",
+      "statementUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "questionEn": "State the necessary conditions and rules required for انسدادِ ہراسانی قوانین اور ہیلپ لائنز to occur.",
+      "questionUr": "انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
+      "answerEn": "Standard textbook solution and definition for انسدادِ ہراسانی قوانین اور ہیلپ لائنز conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 5,
+      "subNo": 5,
+      "statementEn": "Write down the standard SI units and dimensional properties of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "statementUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "questionEn": "Write down the standard SI units and dimensional properties of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "questionUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
+      "answerEn": "Standard textbook solution and definition for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 6,
+      "subNo": 6,
+      "statementEn": "Give two practical everyday applications of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in modern technology or society.",
+      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کے دو عملی اطلاقات بیان کریں۔",
+      "questionEn": "Give two practical everyday applications of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in modern technology or society.",
+      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کے دو عملی اطلاقات بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 7,
+      "subNo": 7,
+      "statementEn": "What effect is observed when parameters of خواتین کے تحفظ اور خود مختاری کے قومی قوانین are doubled or halved? Explain briefly.",
+      "statementUr": "اگر خواتین کے تحفظ اور خود مختاری کے قومی قوانین کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "questionEn": "What effect is observed when parameters of خواتین کے تحفظ اور خود مختاری کے قومی قوانین are doubled or halved? Explain briefly.",
+      "questionUr": "اگر خواتین کے تحفظ اور خود مختاری کے قومی قوانین کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
+      "answerEn": "Standard textbook solution and definition for خواتین کے تحفظ اور خود مختاری کے قومی قوانین conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 8,
+      "subNo": 8,
+      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+      "questionUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
+      "answerEn": "Standard textbook solution and definition for بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 9,
+      "subNo": 9,
+      "statementEn": "Explain the conceptual significance of studying انسدادِ ہراسانی قوانین اور ہیلپ لائنز according to textbook learning outcomes.",
+      "statementUr": "نصابی مقاصد کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "questionEn": "Explain the conceptual significance of studying انسدادِ ہراسانی قوانین اور ہیلپ لائنز according to textbook learning outcomes.",
+      "questionUr": "نصابی مقاصد کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
+      "answerEn": "Standard textbook solution and definition for انسدادِ ہراسانی قوانین اور ہیلپ لائنز conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق انسدادِ ہراسانی قوانین اور ہیلپ لائنز کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 10,
+      "subNo": 10,
+      "statementEn": "Name the key factors that increase or decrease the efficiency of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "statementUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "questionEn": "Name the key factors that increase or decrease the efficiency of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+      "questionUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
+      "answerEn": "Standard textbook solution and definition for معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 11,
+      "subNo": 11,
+      "statementEn": "How does آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں contribute to environmental balance or industrial processes?",
+      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کیا کردار ادا کرتا ہے؟",
+      "questionEn": "How does آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں contribute to environmental balance or industrial processes?",
+      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کیا کردار ادا کرتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کا مستند ماڈل جواب۔",
+      "marks": 2
+    },
+    {
+      "id": 12,
+      "subNo": 12,
+      "statementEn": "Solve the conceptual problem: State what happens to a system when خواتین کے تحفظ اور خود مختاری کے قومی قوانین reaches equilibrium.",
+      "statementUr": "تصوراتی سوال کا جواب دیں: جب خواتین کے تحفظ اور خود مختاری کے قومی قوانین توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "questionEn": "Solve the conceptual problem: State what happens to a system when خواتین کے تحفظ اور خود مختاری کے قومی قوانین reaches equilibrium.",
+      "questionUr": "تصوراتی سوال کا جواب دیں: جب خواتین کے تحفظ اور خود مختاری کے قومی قوانین توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
+      "answerEn": "Standard textbook solution and definition for خواتین کے تحفظ اور خود مختاری کے قومی قوانین conforming to PTBB SLOs.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خواتین کے تحفظ اور خود مختاری کے قومی قوانین کا مستند ماڈل جواب۔",
+      "marks": 2
+    }
+  ],
   "longQuestions": [
     {
-      "id": "lq-class10-pakstudies-ch5-1",
+      "id": 1,
       "qNo": 5,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Explain the fundamental concepts, governing principles, and standard laws of Protection of Women & Children Rights in detail.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے بنیادی تصورات، سائنسی اصول و قوانین کی تفصیلی وضاحت کریں۔",
+          "statementEn": "Critically analyze the historical role, political developments, and constitutional significance of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں.",
+          "statementUr": "آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کے تاریخی کردار، سیاسی پیش رفت اور آئینی اہمیت کا تفصیلی و تنقیدی جائزہ لیں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Analyze the critical literary, historical, or practical significance of Protection of Women & Children Rights in modern context.",
-          "statementUr": "عصری تناظر میں خواتین اور بچوں کے حقوق کا تحفظ کی عملی، تاریخی یا ادبی اہمیت کا تفصیلی تجزیہ کریں۔",
+          "statementEn": "Discuss the socio-economic impacts, geographical relevance, and future prospects of خواتین کے تحفظ اور خود مختاری کے قومی قوانین in Pakistan.",
+          "statementUr": "پاکستان میں خواتین کے تحفظ اور خود مختاری کے قومی قوانین کے معاشی و معاشرتی اثرات اور جغرافیائی اہمیت پر مفصل نوٹ تحریر کریں۔",
           "marks": 4,
           "isNumerical": false
         }
       ]
     },
     {
-      "id": "lq-class10-pakstudies-ch5-2",
+      "id": 2,
       "qNo": 6,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Discuss in detail the central theme, moral lessons, and structural elements presented in Protection of Women & Children Rights.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے مرکزی خیال، اخلاقی اسباق اور اہم نکات پر جامع روشنی ڈالیں۔",
+          "statementEn": "Critically analyze the historical role, political developments, and constitutional significance of بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت.",
+          "statementUr": "بچوں کے حقوق کا تحفظ اور چائلڈ لیبر کی ممانعت کے تاریخی کردار، سیاسی پیش رفت اور آئینی اہمیت کا تفصیلی و تنقیدی جائزہ لیں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Provide comprehensive contextual explanations or textual analysis for the key excerpts of Protection of Women & Children Rights.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے اہم اقتباسات، قرآنی احکام یا اشعار کی سیاق و سباق کے ساتھ تفصیلی تشریح کریں۔",
+          "statementEn": "Discuss the socio-economic impacts, geographical relevance, and future prospects of انسدادِ ہراسانی قوانین اور ہیلپ لائنز in Pakistan.",
+          "statementUr": "پاکستان میں انسدادِ ہراسانی قوانین اور ہیلپ لائنز کے معاشی و معاشرتی اثرات اور جغرافیائی اہمیت پر مفصل نوٹ تحریر کریں۔",
           "marks": 4,
           "isNumerical": false
         }
       ]
     },
     {
-      "id": "lq-class10-pakstudies-ch5-3",
+      "id": 3,
       "qNo": 7,
       "totalMarks": 9,
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "[Past Board Papers & SLO Comprehensive] Write a comprehensive analytical essay/note on Protection of Women & Children Rights strictly according to Punjab Board standard.",
-          "statementUr": "[سابقہ بورڈ پرچہ جات و ایس ایل او] پنجاب بورڈ کے امتحانی معیار کے مطابق خواتین اور بچوں کے حقوق کا تحفظ پر ایک جامع تفصیلی نوٹ تحریر کریں۔",
+          "statementEn": "Critically analyze the historical role, political developments, and constitutional significance of معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ.",
+          "statementUr": "معاشرتی انصاف اور بنیادی انسانی حقوق کا تحفظ کے تاریخی کردار، سیاسی پیش رفت اور آئینی اہمیت کا تفصیلی و تنقیدی جائزہ لیں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the practical everyday applications, benefits, and societal impacts of the concepts taught in Protection of Women & Children Rights.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں سکھائے گئے تصورات کے روزمرہ زندگی میں عملی اطلاقات، فوائد اور معاشرتی اثرات کی وضاحت کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    }
-  ],
-  "long_questions": [
-    {
-      "id": "lq-class10-pakstudies-ch5-1",
-      "qNo": 5,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain the fundamental concepts, governing principles, and standard laws of Protection of Women & Children Rights in detail.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے بنیادی تصورات، سائنسی اصول و قوانین کی تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Analyze the critical literary, historical, or practical significance of Protection of Women & Children Rights in modern context.",
-          "statementUr": "عصری تناظر میں خواتین اور بچوں کے حقوق کا تحفظ کی عملی، تاریخی یا ادبی اہمیت کا تفصیلی تجزیہ کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": "lq-class10-pakstudies-ch5-2",
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Discuss in detail the central theme, moral lessons, and structural elements presented in Protection of Women & Children Rights.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے مرکزی خیال، اخلاقی اسباق اور اہم نکات پر جامع روشنی ڈالیں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Provide comprehensive contextual explanations or textual analysis for the key excerpts of Protection of Women & Children Rights.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ کے اہم اقتباسات، قرآنی احکام یا اشعار کی سیاق و سباق کے ساتھ تفصیلی تشریح کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": "lq-class10-pakstudies-ch5-3",
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "[Past Board Papers & SLO Comprehensive] Write a comprehensive analytical essay/note on Protection of Women & Children Rights strictly according to Punjab Board standard.",
-          "statementUr": "[سابقہ بورڈ پرچہ جات و ایس ایل او] پنجاب بورڈ کے امتحانی معیار کے مطابق خواتین اور بچوں کے حقوق کا تحفظ پر ایک جامع تفصیلی نوٹ تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the practical everyday applications, benefits, and societal impacts of the concepts taught in Protection of Women & Children Rights.",
-          "statementUr": "خواتین اور بچوں کے حقوق کا تحفظ میں سکھائے گئے تصورات کے روزمرہ زندگی میں عملی اطلاقات، فوائد اور معاشرتی اثرات کی وضاحت کریں۔",
+          "statementEn": "Discuss the socio-economic impacts, geographical relevance, and future prospects of آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں in Pakistan.",
+          "statementUr": "پاکستان میں آئینِ پاکستان میں اقلیتوں اور کمزور طبقات کے حقوق کی ضمانتیں کے معاشی و معاشرتی اثرات اور جغرافیائی اہمیت پر مفصل نوٹ تحریر کریں۔",
           "marks": 4,
           "isNumerical": false
         }
