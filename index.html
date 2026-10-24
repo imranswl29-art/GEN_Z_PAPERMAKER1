@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#1e3a8a" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="format-detection" content="telephone=no" />
     <title>PTBB BISE Punjab AI Paper Maker</title>
     <meta name="description" content="Online AI Question Paper Maker for 9th, 10th, 11th, and 12th Classes according to Punjab Textbook Board (PTBB / BISE Punjab) pattern, featuring bilingual English & Urdu Nastaliq, pairing schemes, MCQs, short & long questions, answer keys, and printable A4 formatting." />
     <meta property="og:title" content="PTBB BISE Punjab AI Paper Maker" />
@@ -1042,6 +1047,189 @@
       .btn-print-preview:active {
         transform: translateY(2px) !important;
         box-shadow: 0 1px 0 #064e3b !important;
+      }
+
+      /* ==========================================================================
+         CROSS-DEVICE ULTRA-RESPONSIVE SYSTEM: MOBILE, LAPTOP & DESKTOP
+         ========================================================================== */
+
+      /* 1. Global Viewport & Base Resets */
+      html {
+        box-sizing: border-box !important;
+        -webkit-text-size-adjust: 100% !important;
+        text-size-adjust: 100% !important;
+        scroll-behavior: smooth !important;
+      }
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      body {
+        width: 100% !important;
+        max-width: 100vw !important;
+        overflow-x: hidden !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        -webkit-font-smoothing: antialiased !important;
+        -moz-osx-font-smoothing: grayscale !important;
+        text-rendering: optimizeLegibility !important;
+        -webkit-tap-highlight-color: transparent !important;
+      }
+
+      /* 2. Responsive Mobile Phones (< 768px) */
+      @media screen and (max-width: 768px) {
+        /* Sidebar Aside becomes an off-canvas slide drawer on mobile */
+        aside {
+          position: fixed !important;
+          top: 0 !important;
+          bottom: 0 !important;
+          left: 0 !important;
+          height: 100vh !important;
+          height: 100dvh !important;
+          z-index: 50 !important;
+          box-shadow: 4px 0 28px rgba(15, 23, 42, 0.45) !important;
+          transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.28s ease !important;
+        }
+        aside.w-16, aside[class*="w-16"] {
+          transform: translateX(-105%) !important;
+          visibility: hidden !important;
+          pointer-events: none !important;
+          width: 0 !important;
+        }
+        aside.w-64, aside[class*="w-64"] {
+          transform: translateX(0) !important;
+          visibility: visible !important;
+          pointer-events: auto !important;
+          width: min(85vw, 300px) !important;
+        }
+
+        /* Top Header Bar compact padding on mobile phones */
+        header {
+          padding: 0.5rem 0.75rem !important;
+        }
+        header .btn-3d {
+          padding: 0.35rem 0.6rem !important;
+          font-size: 0.72rem !important;
+        }
+
+        /* Segmented Controls & Multi-Tab Strips on Mobile - Smooth Horizontal Swipe */
+        .segmented-control,
+        .hub-subtab-container,
+        .action-buttons,
+        .tabs-scrollable {
+          display: flex !important;
+          flex-wrap: nowrap !important;
+          overflow-x: auto !important;
+          -webkit-overflow-scrolling: touch !important;
+          touch-action: pan-x !important;
+          scrollbar-width: none !important;
+          max-width: 100% !important;
+          padding: 3px !important;
+        }
+        .segmented-control::-webkit-scrollbar,
+        .hub-subtab-container::-webkit-scrollbar,
+        .action-buttons::-webkit-scrollbar {
+          display: none !important;
+        }
+        .segmented-btn,
+        .hub-subtab-btn {
+          flex-shrink: 0 !important;
+          padding: 0.4rem 0.75rem !important;
+          font-size: 0.72rem !important;
+          white-space: nowrap !important;
+        }
+
+        /* Responsive Touch Targets: At least 42px on phones to prevent accidental misclicks */
+        button, .btn, .btn-3d, .hub-btn, .hub-child-btn, select, input[type="text"], input[type="number"], input[type="date"], textarea {
+          min-height: 42px !important;
+          font-size: 14px !important; /* Prevents auto-zoom on iOS Safari */
+          touch-action: manipulation !important;
+        }
+
+        /* Table Horizontal Scrolling on Mobile: Never clip, never stretch page */
+        table {
+          min-width: 580px;
+        }
+        .card-3d > div:has(table),
+        .card-3d > table,
+        .overflow-x-auto,
+        .table-responsive {
+          overflow-x: auto !important;
+          -webkit-overflow-scrolling: touch !important;
+          touch-action: pan-x pan-y !important;
+          max-width: 100% !important;
+          display: block !important;
+        }
+
+        /* Printable Sheets in Preview mode on Mobile */
+        #printable-content,
+        #exam-paper-container,
+        #exam-paper-objective-sheet,
+        #exam-paper-subjective-sheet,
+        #datesheet-print-container,
+        #resultcard-print-container,
+        #mastersheet-print-container,
+        #answer-key-print-content,
+        #bubble-sheet-print-container {
+          overflow-x: auto !important;
+          -webkit-overflow-scrolling: touch !important;
+          padding: 0.25rem !important;
+          max-width: 100% !important;
+        }
+        .exam-paper {
+          min-width: 650px !important; /* Preserves authentic Punjab Board A4 margins & alignment while allowing smooth swipe */
+          box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important;
+          border-radius: 0.5rem !important;
+          margin: 0 auto !important;
+        }
+      }
+
+      /* 3. Laptop Screen Optimization (769px to 1440px) */
+      @media screen and (min-width: 769px) and (max-width: 1440px) {
+        aside.w-16, aside[class*="w-16"] {
+          width: 4.25rem !important;
+          transition: width 0.2s ease !important;
+        }
+        aside.w-64, aside[class*="w-64"] {
+          width: 16rem !important;
+          transition: width 0.2s ease !important;
+        }
+        .card-3d {
+          padding: 1.25rem !important;
+        }
+        body {
+          font-size: 0.875rem !important;
+        }
+      }
+
+      /* 4. Large Desktop Displays (> 1440px) */
+      @media screen and (min-width: 1441px) {
+        .max-w-7xl {
+          max-width: 88rem !important;
+        }
+        .exam-paper {
+          box-shadow: 0 10px 30px rgba(0,0,0,0.08) !important;
+        }
+      }
+
+      /* 5. Pure Print Mode Lock - Zero Mobile/Desktop Overrides in Paper Printing */
+      @media print {
+        aside, header, nav, .btn-3d, .segmented-control, .no-print {
+          display: none !important;
+        }
+        .exam-paper, #exam-paper-container, #exam-paper-objective-sheet, #exam-paper-subjective-sheet, #datesheet-print-container, #resultcard-print-container, #mastersheet-print-container {
+          min-width: 100% !important;
+          max-width: 100% !important;
+          width: 100% !important;
+          overflow: visible !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          border: none !important;
+          box-shadow: none !important;
+        }
+        table {
+          min-width: 100% !important;
+          width: 100% !important;
+        }
       }
 </style>
   </head>
