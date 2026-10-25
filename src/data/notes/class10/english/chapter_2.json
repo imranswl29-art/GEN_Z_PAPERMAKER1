@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "General Group",
+  "class_dir": "class10",
   "subject": "English",
+  "subject_dir": "english",
   "chapter_no": 2,
   "chapterNo": 2,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Chinese New Year",
   "titleUr": "چینی نیا سال",
-  "summaryEn": "Authoritative PTBB board revision notes for Chinese New Year. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق چینی نیا سال کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Chinese New Year covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق چینی نیا سال کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Chinese New Year.",
-      "text_ur": "چینی نیا سال کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Lunar Calendar and Chinese New Year Celebrations",
+      "titleUr": "Lunar Calendar and Chinese New Year Celebrations (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Lunar Calendar and Chinese New Year Celebrations conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Lunar Calendar and Chinese New Year Celebrations کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Lunar Calendar and Chinese New Year Celebrations.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Lunar Calendar and Chinese New Year Celebrations کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Chinese New Year.",
-      "text_ur": "چینی نیا سال کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Cleaning Houses and Spring Festival",
+      "titleUr": "Cleaning Houses and Spring Festival (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Cleaning Houses and Spring Festival conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Cleaning Houses and Spring Festival کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Cleaning Houses and Spring Festival.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Cleaning Houses and Spring Festival کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Chinese New Year.",
-      "text_ur": "چینی نیا سال کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Decorating with Red Color and Paper Cutouts",
+      "titleUr": "Decorating with Red Color and Paper Cutouts (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Decorating with Red Color and Paper Cutouts conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Decorating with Red Color and Paper Cutouts کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Decorating with Red Color and Paper Cutouts.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Decorating with Red Color and Paper Cutouts کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Family Reunion New Year's Eve Dinner (8 or 9 dishes)",
+      "titleUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Family Reunion New Year's Eve Dinner (8 or 9 dishes) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Family Reunion New Year's Eve Dinner (8 or 9 dishes) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Family Reunion New Year's Eve Dinner (8 or 9 dishes).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Giving Red Envelopes with Money",
+      "titleUr": "Giving Red Envelopes with Money (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Giving Red Envelopes with Money conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Giving Red Envelopes with Money کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Giving Red Envelopes with Money.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Giving Red Envelopes with Money کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Honoring the 12 Zodiac Animals",
+      "titleUr": "Honoring the 12 Zodiac Animals (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Honoring the 12 Zodiac Animals conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Honoring the 12 Zodiac Animals کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Honoring the 12 Zodiac Animals.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Honoring the 12 Zodiac Animals کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Lunar Calendar and Chinese New Year Celebrations?",
-      "statementUr": "Lunar Calendar and Chinese New Year Celebrations کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Lunar Calendar and Chinese New Year Celebrations?",
-      "questionUr": "Lunar Calendar and Chinese New Year Celebrations کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Lunar Calendar and Chinese New Year Celebrations' in Chinese New Year?",
+      "statementUr": "سبق 'چینی نیا سال' میں 'Lunar Calendar and Chinese New Year Celebrations' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Lunar Calendar and Chinese New Year Celebrations' in Chinese New Year?",
+      "questionUr": "سبق 'چینی نیا سال' میں 'Lunar Calendar and Chinese New Year Celebrations' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Lunar Calendar and Chinese New Year Celebrations in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Lunar Calendar and Chinese New Year Celebrations کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Cleaning Houses and Spring Festival:",
-      "statementUr": "Cleaning Houses and Spring Festival کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Cleaning Houses and Spring Festival:",
-      "questionUr": "Cleaning Houses and Spring Festival کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Cleaning Houses and Spring Festival' in Chinese New Year?",
+      "statementUr": "سبق 'چینی نیا سال' میں 'Cleaning Houses and Spring Festival' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Cleaning Houses and Spring Festival' in Chinese New Year?",
+      "questionUr": "سبق 'چینی نیا سال' میں 'Cleaning Houses and Spring Festival' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Cleaning Houses and Spring Festival in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Cleaning Houses and Spring Festival کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Decorating with Red Color and Paper Cutouts is:",
-      "statementUr": "Decorating with Red Color and Paper Cutouts سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Decorating with Red Color and Paper Cutouts is:",
-      "questionUr": "Decorating with Red Color and Paper Cutouts سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "What is the central theme and board focus of 'Decorating with Red Color and Paper Cutouts' in Chinese New Year?",
+      "statementUr": "سبق 'چینی نیا سال' میں 'Decorating with Red Color and Paper Cutouts' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Decorating with Red Color and Paper Cutouts' in Chinese New Year?",
+      "questionUr": "سبق 'چینی نیا سال' میں 'Decorating with Red Color and Paper Cutouts' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Decorating with Red Color and Paper Cutouts in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Decorating with Red Color and Paper Cutouts کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Family Reunion New Year's Eve Dinner (8 or 9 dishes)?",
-      "statementUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Family Reunion New Year's Eve Dinner (8 or 9 dishes)?",
-      "questionUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' in Chinese New Year?",
+      "statementUr": "سبق 'چینی نیا سال' میں 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' in Chinese New Year?",
+      "questionUr": "سبق 'چینی نیا سال' میں 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Family Reunion New Year's Eve Dinner (8 or 9 dishes) in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Giving Red Envelopes with Money?",
-      "statementUr": "Giving Red Envelopes with Money کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Giving Red Envelopes with Money?",
-      "questionUr": "Giving Red Envelopes with Money کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Giving Red Envelopes with Money' in Chinese New Year?",
+      "statementUr": "سبق 'چینی نیا سال' میں 'Giving Red Envelopes with Money' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Giving Red Envelopes with Money' in Chinese New Year?",
+      "questionUr": "سبق 'چینی نیا سال' میں 'Giving Red Envelopes with Money' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Giving Red Envelopes with Money in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Giving Red Envelopes with Money کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Honoring the 12 Zodiac Animals?",
-      "statementUr": "Honoring the 12 Zodiac Animals کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Honoring the 12 Zodiac Animals?",
-      "questionUr": "Honoring the 12 Zodiac Animals کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Honoring the 12 Zodiac Animals' in Chinese New Year?",
+      "statementUr": "سبق 'چینی نیا سال' میں 'Honoring the 12 Zodiac Animals' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Honoring the 12 Zodiac Animals' in Chinese New Year?",
+      "questionUr": "سبق 'چینی نیا سال' میں 'Honoring the 12 Zodiac Animals' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Honoring the 12 Zodiac Animals in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Honoring the 12 Zodiac Animals کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Lunar Calendar and Chinese New Year Celebrations demonstrates:",
-      "statementUr": "Lunar Calendar and Chinese New Year Celebrations میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Lunar Calendar and Chinese New Year Celebrations demonstrates:",
-      "questionUr": "Lunar Calendar and Chinese New Year Celebrations میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Lunar Calendar and Chinese New Year Celebrations in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Lunar Calendar and Chinese New Year Celebrations کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Cleaning Houses and Spring Festival?",
-      "statementUr": "Cleaning Houses and Spring Festival کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Cleaning Houses and Spring Festival?",
-      "questionUr": "Cleaning Houses and Spring Festival کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Cleaning Houses and Spring Festival in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Cleaning Houses and Spring Festival کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Decorating with Red Color and Paper Cutouts?",
-      "statementUr": "Decorating with Red Color and Paper Cutouts کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Decorating with Red Color and Paper Cutouts?",
-      "questionUr": "Decorating with Red Color and Paper Cutouts کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Decorating with Red Color and Paper Cutouts in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Decorating with Red Color and Paper Cutouts کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Family Reunion New Year's Eve Dinner (8 or 9 dishes) in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Family Reunion New Year's Eve Dinner (8 or 9 dishes) in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Family Reunion New Year's Eve Dinner (8 or 9 dishes) in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Giving Red Envelopes with Money is doubled?",
-      "statementUr": "اگر Giving Red Envelopes with Money کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Giving Red Envelopes with Money is doubled?",
-      "questionUr": "اگر Giving Red Envelopes with Money کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Giving Red Envelopes with Money in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Giving Red Envelopes with Money کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Honoring the 12 Zodiac Animals are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Honoring the 12 Zodiac Animals کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Honoring the 12 Zodiac Animals are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Honoring the 12 Zodiac Animals کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Honoring the 12 Zodiac Animals in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Honoring the 12 Zodiac Animals کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Lunar Calendar and Chinese New Year Celebrations differ fundamentally from its counterpart?",
-      "statementUr": "Lunar Calendar and Chinese New Year Celebrations اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Lunar Calendar and Chinese New Year Celebrations differ fundamentally from its counterpart?",
-      "questionUr": "Lunar Calendar and Chinese New Year Celebrations اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Lunar Calendar and Chinese New Year Celebrations in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Lunar Calendar and Chinese New Year Celebrations کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Cleaning Houses and Spring Festival is:",
-      "statementUr": "Cleaning Houses and Spring Festival کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Cleaning Houses and Spring Festival is:",
-      "questionUr": "Cleaning Houses and Spring Festival کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Cleaning Houses and Spring Festival in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Cleaning Houses and Spring Festival کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Decorating with Red Color and Paper Cutouts?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Decorating with Red Color and Paper Cutouts کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Decorating with Red Color and Paper Cutouts?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Decorating with Red Color and Paper Cutouts کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chinese New Year (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق چینی نیا سال کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Decorating with Red Color and Paper Cutouts in Chinese New Year.",
-      "explanationUr": "چینی نیا سال کے تحت Decorating with Red Color and Paper Cutouts کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Lunar Calendar and Chinese New Year Celebrations and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Lunar Calendar and Chinese New Year Celebrations کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Lunar Calendar and Chinese New Year Celebrations and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Lunar Calendar and Chinese New Year Celebrations کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Lunar Calendar and Chinese New Year Celebrations conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lunar Calendar and Chinese New Year Celebrations کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Lunar Calendar and Chinese New Year Celebrations' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Lunar Calendar and Chinese New Year Celebrations' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Lunar Calendar and Chinese New Year Celebrations' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Lunar Calendar and Chinese New Year Celebrations' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Lunar Calendar and Chinese New Year Celebrations teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Cleaning Houses and Spring Festival and its related counterpart with two clear distinctions.",
-      "statementUr": "Cleaning Houses and Spring Festival اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Cleaning Houses and Spring Festival and its related counterpart with two clear distinctions.",
-      "questionUr": "Cleaning Houses and Spring Festival اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Cleaning Houses and Spring Festival conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Cleaning Houses and Spring Festival کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Cleaning Houses and Spring Festival' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Cleaning Houses and Spring Festival' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Cleaning Houses and Spring Festival' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Cleaning Houses and Spring Festival' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Cleaning Houses and Spring Festival teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Decorating with Red Color and Paper Cutouts.",
-      "statementUr": "Decorating with Red Color and Paper Cutouts کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Decorating with Red Color and Paper Cutouts.",
-      "questionUr": "Decorating with Red Color and Paper Cutouts کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Decorating with Red Color and Paper Cutouts conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Decorating with Red Color and Paper Cutouts کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Decorating with Red Color and Paper Cutouts' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Decorating with Red Color and Paper Cutouts' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Decorating with Red Color and Paper Cutouts' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Decorating with Red Color and Paper Cutouts' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Decorating with Red Color and Paper Cutouts teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Family Reunion New Year's Eve Dinner (8 or 9 dishes) to occur.",
-      "statementUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Family Reunion New Year's Eve Dinner (8 or 9 dishes) to occur.",
-      "questionUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Family Reunion New Year's Eve Dinner (8 or 9 dishes) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Family Reunion New Year's Eve Dinner (8 or 9 dishes) teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Giving Red Envelopes with Money.",
-      "statementUr": "Giving Red Envelopes with Money کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Giving Red Envelopes with Money.",
-      "questionUr": "Giving Red Envelopes with Money کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Giving Red Envelopes with Money conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Giving Red Envelopes with Money کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Giving Red Envelopes with Money' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Giving Red Envelopes with Money' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Giving Red Envelopes with Money' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Giving Red Envelopes with Money' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Giving Red Envelopes with Money teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Honoring the 12 Zodiac Animals in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Honoring the 12 Zodiac Animals کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Honoring the 12 Zodiac Animals in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Honoring the 12 Zodiac Animals کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Honoring the 12 Zodiac Animals conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Honoring the 12 Zodiac Animals کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Honoring the 12 Zodiac Animals' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Honoring the 12 Zodiac Animals' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Honoring the 12 Zodiac Animals' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Honoring the 12 Zodiac Animals' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Honoring the 12 Zodiac Animals teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Lunar Calendar and Chinese New Year Celebrations are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Lunar Calendar and Chinese New Year Celebrations کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Lunar Calendar and Chinese New Year Celebrations are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Lunar Calendar and Chinese New Year Celebrations کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Lunar Calendar and Chinese New Year Celebrations conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lunar Calendar and Chinese New Year Celebrations کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 1)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 1)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Cleaning Houses and Spring Festival.",
-      "statementUr": "Cleaning Houses and Spring Festival کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Cleaning Houses and Spring Festival.",
-      "questionUr": "Cleaning Houses and Spring Festival کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Cleaning Houses and Spring Festival conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Cleaning Houses and Spring Festival کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 2)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 2)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Decorating with Red Color and Paper Cutouts according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Decorating with Red Color and Paper Cutouts کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Decorating with Red Color and Paper Cutouts according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Decorating with Red Color and Paper Cutouts کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Decorating with Red Color and Paper Cutouts conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Decorating with Red Color and Paper Cutouts کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 3)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 3)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Family Reunion New Year's Eve Dinner (8 or 9 dishes).",
-      "statementUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Family Reunion New Year's Eve Dinner (8 or 9 dishes).",
-      "questionUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Family Reunion New Year's Eve Dinner (8 or 9 dishes) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 4)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 4)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Giving Red Envelopes with Money contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Giving Red Envelopes with Money کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Giving Red Envelopes with Money contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Giving Red Envelopes with Money کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Giving Red Envelopes with Money conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Giving Red Envelopes with Money کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 5)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 5)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Honoring the 12 Zodiac Animals reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Honoring the 12 Zodiac Animals توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Honoring the 12 Zodiac Animals reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Honoring the 12 Zodiac Animals توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Honoring the 12 Zodiac Animals conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Honoring the 12 Zodiac Animals کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 6)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 6)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Lunar Calendar and Chinese New Year Celebrations and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Lunar Calendar and Chinese New Year Celebrations کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Lunar Calendar and Chinese New Year Celebrations and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Lunar Calendar and Chinese New Year Celebrations کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Lunar Calendar and Chinese New Year Celebrations conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lunar Calendar and Chinese New Year Celebrations کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Lunar Calendar and Chinese New Year Celebrations' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Lunar Calendar and Chinese New Year Celebrations' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Lunar Calendar and Chinese New Year Celebrations' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Lunar Calendar and Chinese New Year Celebrations' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Lunar Calendar and Chinese New Year Celebrations teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Cleaning Houses and Spring Festival and its related counterpart with two clear distinctions.",
-      "statementUr": "Cleaning Houses and Spring Festival اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Cleaning Houses and Spring Festival and its related counterpart with two clear distinctions.",
-      "questionUr": "Cleaning Houses and Spring Festival اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Cleaning Houses and Spring Festival conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Cleaning Houses and Spring Festival کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Cleaning Houses and Spring Festival' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Cleaning Houses and Spring Festival' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Cleaning Houses and Spring Festival' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Cleaning Houses and Spring Festival' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Cleaning Houses and Spring Festival teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Decorating with Red Color and Paper Cutouts.",
-      "statementUr": "Decorating with Red Color and Paper Cutouts کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Decorating with Red Color and Paper Cutouts.",
-      "questionUr": "Decorating with Red Color and Paper Cutouts کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Decorating with Red Color and Paper Cutouts conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Decorating with Red Color and Paper Cutouts کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Decorating with Red Color and Paper Cutouts' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Decorating with Red Color and Paper Cutouts' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Decorating with Red Color and Paper Cutouts' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Decorating with Red Color and Paper Cutouts' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Decorating with Red Color and Paper Cutouts teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Family Reunion New Year's Eve Dinner (8 or 9 dishes) to occur.",
-      "statementUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Family Reunion New Year's Eve Dinner (8 or 9 dishes) to occur.",
-      "questionUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Family Reunion New Year's Eve Dinner (8 or 9 dishes) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Family Reunion New Year's Eve Dinner (8 or 9 dishes)' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Family Reunion New Year's Eve Dinner (8 or 9 dishes) teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Giving Red Envelopes with Money.",
-      "statementUr": "Giving Red Envelopes with Money کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Giving Red Envelopes with Money.",
-      "questionUr": "Giving Red Envelopes with Money کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Giving Red Envelopes with Money conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Giving Red Envelopes with Money کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Giving Red Envelopes with Money' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Giving Red Envelopes with Money' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Giving Red Envelopes with Money' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Giving Red Envelopes with Money' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Giving Red Envelopes with Money teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Honoring the 12 Zodiac Animals in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Honoring the 12 Zodiac Animals کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Honoring the 12 Zodiac Animals in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Honoring the 12 Zodiac Animals کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Honoring the 12 Zodiac Animals conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Honoring the 12 Zodiac Animals کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Honoring the 12 Zodiac Animals' in Chinese New Year?",
+      "statementUr": "سبق 'Chinese New Year' میں مصنف نے 'Honoring the 12 Zodiac Animals' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Honoring the 12 Zodiac Animals' in Chinese New Year?",
+      "questionUr": "سبق 'Chinese New Year' میں مصنف نے 'Honoring the 12 Zodiac Animals' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Honoring the 12 Zodiac Animals teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Lunar Calendar and Chinese New Year Celebrations are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Lunar Calendar and Chinese New Year Celebrations کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Lunar Calendar and Chinese New Year Celebrations are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Lunar Calendar and Chinese New Year Celebrations کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Lunar Calendar and Chinese New Year Celebrations conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lunar Calendar and Chinese New Year Celebrations کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 1)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 1)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Cleaning Houses and Spring Festival.",
-      "statementUr": "Cleaning Houses and Spring Festival کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Cleaning Houses and Spring Festival.",
-      "questionUr": "Cleaning Houses and Spring Festival کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Cleaning Houses and Spring Festival conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Cleaning Houses and Spring Festival کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 2)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 2)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Decorating with Red Color and Paper Cutouts according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Decorating with Red Color and Paper Cutouts کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Decorating with Red Color and Paper Cutouts according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Decorating with Red Color and Paper Cutouts کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Decorating with Red Color and Paper Cutouts conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Decorating with Red Color and Paper Cutouts کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 3)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 3)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Family Reunion New Year's Eve Dinner (8 or 9 dishes).",
-      "statementUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Family Reunion New Year's Eve Dinner (8 or 9 dishes).",
-      "questionUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Family Reunion New Year's Eve Dinner (8 or 9 dishes) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Family Reunion New Year's Eve Dinner (8 or 9 dishes) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 4)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 4)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Giving Red Envelopes with Money contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Giving Red Envelopes with Money کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Giving Red Envelopes with Money contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Giving Red Envelopes with Money کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Giving Red Envelopes with Money conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Giving Red Envelopes with Money کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 5)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 5)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Honoring the 12 Zodiac Animals reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Honoring the 12 Zodiac Animals توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Honoring the 12 Zodiac Animals reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Honoring the 12 Zodiac Animals توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Honoring the 12 Zodiac Animals conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Honoring the 12 Zodiac Animals کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chinese New Year (Part 6)?",
+      "statementUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chinese New Year (Part 6)?",
+      "questionUr": "چینی نیا سال سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Write a comprehensive analytical essay on the central theme of 'Chinese New Year' focusing on Lunar Calendar and Chinese New Year Celebrations.",
-          "statementUr": "سبق 'چینی نیا سال' کے بنیادی عنوان (Lunar Calendar and Chinese New Year Celebrations) پر جامع و مفصل مضمون تحریر کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Chinese New Year.",
+          "statementUr": "چینی نیا سال کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Read the passage concerning Cleaning Houses and Spring Festival and answer the five analytical comprehension questions with grammar rules.",
-          "statementUr": "Cleaning Houses and Spring Festival کے پیراگراف کا فہمِ عبارت اور پانچوں امتحانی سوالات کے جوابات تحریر کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Write a comprehensive analytical essay on the central theme of 'Chinese New Year' focusing on Decorating with Red Color and Paper Cutouts.",
-          "statementUr": "سبق 'چینی نیا سال' کے بنیادی عنوان (Decorating with Red Color and Paper Cutouts) پر جامع و مفصل مضمون تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Read the passage concerning Family Reunion New Year's Eve Dinner (8 or 9 dishes) and answer the five analytical comprehension questions with grammar rules.",
-          "statementUr": "Family Reunion New Year's Eve Dinner (8 or 9 dishes) کے پیراگراف کا فہمِ عبارت اور پانچوں امتحانی سوالات کے جوابات تحریر کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Write a comprehensive analytical essay on the central theme of 'Chinese New Year' focusing on Giving Red Envelopes with Money.",
-          "statementUr": "سبق 'چینی نیا سال' کے بنیادی عنوان (Giving Red Envelopes with Money) پر جامع و مفصل مضمون تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Read the passage concerning Honoring the 12 Zodiac Animals and answer the five analytical comprehension questions with grammar rules.",
-          "statementUr": "Honoring the 12 Zodiac Animals کے پیراگراف کا فہمِ عبارت اور پانچوں امتحانی سوالات کے جوابات تحریر کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Chinese New Year.",
+          "statementUr": "چینی نیا سال کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

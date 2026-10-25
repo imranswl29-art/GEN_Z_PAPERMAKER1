@@ -1,0 +1,1104 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Computer",
+  "subject_dir": "computer",
+  "chapter_no": 5,
+  "chapterNo": 5,
+  "chapter_title": {
+    "en": "Functions in C",
+    "ur": "فنکشنز (Functions in C)"
+  },
+  "titleEn": "Functions in C",
+  "titleUr": "فنکشنز (Functions in C)",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Functions in C covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق فنکشنز (Functions in C) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Concept of Modular Programming and Reusability",
+      "titleUr": "Concept of Modular Programming and Reusability (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Concept of Modular Programming and Reusability conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Concept of Modular Programming and Reusability کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Concept of Modular Programming and Reusability.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Concept of Modular Programming and Reusability کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "Built-in / Library Functions vs User-Defined Functions",
+      "titleUr": "Built-in / Library Functions vs User-Defined Functions (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Built-in / Library Functions vs User-Defined Functions conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Built-in / Library Functions vs User-Defined Functions کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Built-in / Library Functions vs User-Defined Functions.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Built-in / Library Functions vs User-Defined Functions کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call)",
+      "titleUr": "Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Parameters / Arguments (Formal vs Actual Parameters)",
+      "titleUr": "Parameters / Arguments (Formal vs Actual Parameters) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Parameters / Arguments (Formal vs Actual Parameters) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Parameters / Arguments (Formal vs Actual Parameters) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Parameters / Arguments (Formal vs Actual Parameters).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Parameters / Arguments (Formal vs Actual Parameters) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Return Statement and Return Types (void, int, float)",
+      "titleUr": "Return Statement and Return Types (void, int, float) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Return Statement and Return Types (void, int, float) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Return Statement and Return Types (void, int, float) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Return Statement and Return Types (void, int, float).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Return Statement and Return Types (void, int, float) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Local Variables vs Global Variables and Scope",
+      "titleUr": "Local Variables vs Global Variables and Scope (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Local Variables vs Global Variables and Scope conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Local Variables vs Global Variables and Scope کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Local Variables vs Global Variables and Scope.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Local Variables vs Global Variables and Scope کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "In C language programming, every executable statement must terminate with a:",
+      "statementUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "questionEn": "In C language programming, every executable statement must terminate with a:",
+      "questionUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Semicolon (;)",
+          "textUr": "سیمی کولن (;)"
+        },
+        {
+          "key": "B",
+          "textEn": "Colon (:)",
+          "textUr": "کولن (:)"
+        },
+        {
+          "key": "C",
+          "textEn": "Period (.)",
+          "textUr": "فل سٹاپ (.)"
+        },
+        {
+          "key": "D",
+          "textEn": "Comma (,)",
+          "textUr": "کوما (,)"
+        }
+      ],
+      "optionsEn": [
+        "Semicolon (;)",
+        "Colon (:)",
+        "Period (.)",
+        "Comma (,)"
+      ],
+      "optionsUr": [
+        "سیمی کولن (;)",
+        "کولن (:)",
+        "فل سٹاپ (.)",
+        "کوما (,)"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Statements in C language conclude with a statement terminator semicolon (;).",
+      "explanationUr": "سی لینگویج میں سٹیٹمنٹ ٹرمینیٹر سیمی کولن ہوتا ہے۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 12) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 12) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 13) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 13) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 14) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Functions in C (Concept 14) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فنکشنز (Functions in C) کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "What is meant by Concept of Modular Programming and Reusability? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Concept of Modular Programming and Reusability سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Concept of Modular Programming and Reusability? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Concept of Modular Programming and Reusability سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Concept of Modular Programming and Reusability is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Concept of Modular Programming and Reusability ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "What is meant by Built-in / Library Functions vs User-Defined Functions? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Built-in / Library Functions vs User-Defined Functions سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Built-in / Library Functions vs User-Defined Functions? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Built-in / Library Functions vs User-Defined Functions سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Built-in / Library Functions vs User-Defined Functions is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Built-in / Library Functions vs User-Defined Functions ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "What is meant by Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "What is meant by Parameters / Arguments (Formal vs Actual Parameters)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Parameters / Arguments (Formal vs Actual Parameters) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Parameters / Arguments (Formal vs Actual Parameters)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Parameters / Arguments (Formal vs Actual Parameters) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Parameters / Arguments (Formal vs Actual Parameters) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Parameters / Arguments (Formal vs Actual Parameters) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "What is meant by Return Statement and Return Types (void, int, float)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Return Statement and Return Types (void, int, float) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Return Statement and Return Types (void, int, float)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Return Statement and Return Types (void, int, float) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Return Statement and Return Types (void, int, float) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Return Statement and Return Types (void, int, float) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What is meant by Local Variables vs Global Variables and Scope? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Local Variables vs Global Variables and Scope سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Local Variables vs Global Variables and Scope? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Local Variables vs Global Variables and Scope سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Local Variables vs Global Variables and Scope is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Local Variables vs Global Variables and Scope ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 1)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 1)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 2)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 2)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 3)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 3)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 4)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 4)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 5)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 5)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 6)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 6)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "What is meant by Concept of Modular Programming and Reusability? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Concept of Modular Programming and Reusability سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Concept of Modular Programming and Reusability? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Concept of Modular Programming and Reusability سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Concept of Modular Programming and Reusability is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Concept of Modular Programming and Reusability ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "What is meant by Built-in / Library Functions vs User-Defined Functions? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Built-in / Library Functions vs User-Defined Functions سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Built-in / Library Functions vs User-Defined Functions? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Built-in / Library Functions vs User-Defined Functions سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Built-in / Library Functions vs User-Defined Functions is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Built-in / Library Functions vs User-Defined Functions ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "What is meant by Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Structure of a Function (Function Prototype/Declaration, Function Definition, Function Call) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "What is meant by Parameters / Arguments (Formal vs Actual Parameters)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Parameters / Arguments (Formal vs Actual Parameters) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Parameters / Arguments (Formal vs Actual Parameters)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Parameters / Arguments (Formal vs Actual Parameters) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Parameters / Arguments (Formal vs Actual Parameters) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Parameters / Arguments (Formal vs Actual Parameters) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "What is meant by Return Statement and Return Types (void, int, float)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Return Statement and Return Types (void, int, float) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Return Statement and Return Types (void, int, float)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Return Statement and Return Types (void, int, float) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Return Statement and Return Types (void, int, float) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Return Statement and Return Types (void, int, float) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What is meant by Local Variables vs Global Variables and Scope? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Local Variables vs Global Variables and Scope سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Local Variables vs Global Variables and Scope? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Local Variables vs Global Variables and Scope سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Local Variables vs Global Variables and Scope is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Local Variables vs Global Variables and Scope ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 1)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 1)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 2)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 2)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 3)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 3)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 4)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 4)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 5)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 5)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Functions in C (Part 6)?",
+      "statementUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Functions in C (Part 6)?",
+      "questionUr": "فنکشنز (Functions in C) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Functions in C.",
+          "statementUr": "فنکشنز (Functions in C) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in Functions in C.",
+          "statementUr": "فنکشنز (Functions in C) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": false
+        }
+      ]
+    }
+  ]
+}

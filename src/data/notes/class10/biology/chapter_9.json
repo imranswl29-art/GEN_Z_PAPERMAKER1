@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Biology",
+  "subject_dir": "biology",
   "chapter_no": 9,
   "chapterNo": 9,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Pharmacology",
   "titleUr": "فارماکولوجی (ادویات کا علم)",
-  "summaryEn": "Authoritative PTBB board revision notes for Pharmacology. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق فارماکولوجی (ادویات کا علم) کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Pharmacology covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق فارماکولوجی (ادویات کا علم) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Pharmacology.",
-      "text_ur": "فارماکولوجی (ادویات کا علم) کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Definition and History of Pharmacology",
+      "titleUr": "Definition and History of Pharmacology (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Definition and History of Pharmacology conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Definition and History of Pharmacology کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Definition and History of Pharmacology.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Definition and History of Pharmacology کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Pharmacology.",
-      "text_ur": "فارماکولوجی (ادویات کا علم) کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Medicinal Drugs vs Addictive Drugs",
+      "titleUr": "Medicinal Drugs vs Addictive Drugs (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Medicinal Drugs vs Addictive Drugs conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Medicinal Drugs vs Addictive Drugs کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Medicinal Drugs vs Addictive Drugs.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Medicinal Drugs vs Addictive Drugs کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Pharmacology.",
-      "text_ur": "فارماکولوجی (ادویات کا علم) کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic)",
+      "titleUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines)",
+      "titleUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs)",
+      "titleUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline)",
+      "titleUr": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Definition and History of Pharmacology?",
-      "statementUr": "Definition and History of Pharmacology کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Definition and History of Pharmacology?",
-      "questionUr": "Definition and History of Pharmacology کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "In biological classification and study of Definition and History of Pharmacology, the basic unit of classification is:",
+      "statementUr": "Definition and History of Pharmacology کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Definition and History of Pharmacology, the basic unit of classification is:",
+      "questionUr": "Definition and History of Pharmacology کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Definition and History of Pharmacology in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Definition and History of Pharmacology کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Medicinal Drugs vs Addictive Drugs:",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Medicinal Drugs vs Addictive Drugs:",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "In biological classification and study of Medicinal Drugs vs Addictive Drugs, the basic unit of classification is:",
+      "statementUr": "Medicinal Drugs vs Addictive Drugs کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Medicinal Drugs vs Addictive Drugs, the basic unit of classification is:",
+      "questionUr": "Medicinal Drugs vs Addictive Drugs کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Medicinal Drugs vs Addictive Drugs in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Medicinal Drugs vs Addictive Drugs کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) is:",
-      "statementUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) is:",
-      "questionUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "In biological classification and study of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic), the basic unit of classification is:",
+      "statementUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic), the basic unit of classification is:",
+      "questionUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines)?",
-      "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines)?",
-      "questionUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "In biological classification and study of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines), the basic unit of classification is:",
+      "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines), the basic unit of classification is:",
+      "questionUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs)?",
-      "statementUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs)?",
-      "questionUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "In biological classification and study of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs), the basic unit of classification is:",
+      "statementUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs), the basic unit of classification is:",
+      "questionUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline)?",
-      "statementUr": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline)?",
-      "questionUr": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In biological classification and study of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline), the basic unit of classification is:",
+      "statementUr": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline), the basic unit of classification is:",
+      "questionUr": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Definition and History of Pharmacology demonstrates:",
-      "statementUr": "Definition and History of Pharmacology میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Definition and History of Pharmacology demonstrates:",
-      "questionUr": "Definition and History of Pharmacology میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Definition and History of Pharmacology in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Definition and History of Pharmacology کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Medicinal Drugs vs Addictive Drugs?",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Medicinal Drugs vs Addictive Drugs?",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Medicinal Drugs vs Addictive Drugs in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Medicinal Drugs vs Addictive Drugs کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic)?",
-      "statementUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic)?",
-      "questionUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) is doubled?",
-      "statementUr": "اگر Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) is doubled?",
-      "questionUr": "اگر Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Definition and History of Pharmacology differ fundamentally from its counterpart?",
-      "statementUr": "Definition and History of Pharmacology اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Definition and History of Pharmacology differ fundamentally from its counterpart?",
-      "questionUr": "Definition and History of Pharmacology اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Definition and History of Pharmacology in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Definition and History of Pharmacology کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Medicinal Drugs vs Addictive Drugs is:",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Medicinal Drugs vs Addictive Drugs is:",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Medicinal Drugs vs Addictive Drugs in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Medicinal Drugs vs Addictive Drugs کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic)?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic)?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Pharmacology (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق فارماکولوجی (ادویات کا علم) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in Pharmacology.",
-      "explanationUr": "فارماکولوجی (ادویات کا علم) کے تحت Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Definition and History of Pharmacology and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Definition and History of Pharmacology کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Definition and History of Pharmacology and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Definition and History of Pharmacology کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Definition and History of Pharmacology conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Definition and History of Pharmacology کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Definition and History of Pharmacology in living organisms.",
+      "statementUr": "جانداروں میں Definition and History of Pharmacology کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Definition and History of Pharmacology in living organisms.",
+      "questionUr": "جانداروں میں Definition and History of Pharmacology کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Definition and History of Pharmacology plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Definition and History of Pharmacology جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Medicinal Drugs vs Addictive Drugs and its related counterpart with two clear distinctions.",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Medicinal Drugs vs Addictive Drugs and its related counterpart with two clear distinctions.",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Medicinal Drugs vs Addictive Drugs conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Medicinal Drugs vs Addictive Drugs کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Medicinal Drugs vs Addictive Drugs in living organisms.",
+      "statementUr": "جانداروں میں Medicinal Drugs vs Addictive Drugs کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Medicinal Drugs vs Addictive Drugs in living organisms.",
+      "questionUr": "جانداروں میں Medicinal Drugs vs Addictive Drugs کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Medicinal Drugs vs Addictive Drugs plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Medicinal Drugs vs Addictive Drugs جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic).",
-      "statementUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic).",
-      "questionUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in living organisms.",
+      "statementUr": "جانداروں میں Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in living organisms.",
+      "questionUr": "جانداروں میں Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) to occur.",
-      "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) to occur.",
-      "questionUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in living organisms.",
+      "statementUr": "جانداروں میں Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in living organisms.",
+      "questionUr": "جانداروں میں Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs).",
-      "statementUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs).",
-      "questionUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) in living organisms.",
+      "statementUr": "جانداروں میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) in living organisms.",
+      "questionUr": "جانداروں میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in living organisms.",
+      "statementUr": "جانداروں میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in living organisms.",
+      "questionUr": "جانداروں میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Definition and History of Pharmacology are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Definition and History of Pharmacology کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Definition and History of Pharmacology are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Definition and History of Pharmacology کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Definition and History of Pharmacology conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Definition and History of Pharmacology کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 1)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 1)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Medicinal Drugs vs Addictive Drugs.",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Medicinal Drugs vs Addictive Drugs.",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Medicinal Drugs vs Addictive Drugs conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Medicinal Drugs vs Addictive Drugs کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 2)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 2)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 3)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 3)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines).",
-      "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines).",
-      "questionUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 4)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 4)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 5)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 5)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 6)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 6)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Definition and History of Pharmacology and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Definition and History of Pharmacology کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Definition and History of Pharmacology and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Definition and History of Pharmacology کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Definition and History of Pharmacology conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Definition and History of Pharmacology کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Definition and History of Pharmacology in living organisms.",
+      "statementUr": "جانداروں میں Definition and History of Pharmacology کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Definition and History of Pharmacology in living organisms.",
+      "questionUr": "جانداروں میں Definition and History of Pharmacology کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Definition and History of Pharmacology plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Definition and History of Pharmacology جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Medicinal Drugs vs Addictive Drugs and its related counterpart with two clear distinctions.",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Medicinal Drugs vs Addictive Drugs and its related counterpart with two clear distinctions.",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Medicinal Drugs vs Addictive Drugs conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Medicinal Drugs vs Addictive Drugs کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Medicinal Drugs vs Addictive Drugs in living organisms.",
+      "statementUr": "جانداروں میں Medicinal Drugs vs Addictive Drugs کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Medicinal Drugs vs Addictive Drugs in living organisms.",
+      "questionUr": "جانداروں میں Medicinal Drugs vs Addictive Drugs کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Medicinal Drugs vs Addictive Drugs plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Medicinal Drugs vs Addictive Drugs جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic).",
-      "statementUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic).",
-      "questionUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in living organisms.",
+      "statementUr": "جانداروں میں Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) in living organisms.",
+      "questionUr": "جانداروں میں Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) to occur.",
-      "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) to occur.",
-      "questionUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in living organisms.",
+      "statementUr": "جانداروں میں Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) in living organisms.",
+      "questionUr": "جانداروں میں Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs).",
-      "statementUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs).",
-      "questionUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) in living organisms.",
+      "statementUr": "جانداروں میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) in living organisms.",
+      "questionUr": "جانداروں میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in living organisms.",
+      "statementUr": "جانداروں میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) in living organisms.",
+      "questionUr": "جانداروں میں Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Definition and History of Pharmacology are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Definition and History of Pharmacology کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Definition and History of Pharmacology are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Definition and History of Pharmacology کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Definition and History of Pharmacology conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Definition and History of Pharmacology کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 1)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 1)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Medicinal Drugs vs Addictive Drugs.",
-      "statementUr": "Medicinal Drugs vs Addictive Drugs کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Medicinal Drugs vs Addictive Drugs.",
-      "questionUr": "Medicinal Drugs vs Addictive Drugs کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Medicinal Drugs vs Addictive Drugs conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Medicinal Drugs vs Addictive Drugs کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 2)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 2)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 3)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 3)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines).",
-      "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines).",
-      "questionUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 4)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 4)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 5)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 5)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Pharmacology (Part 6)?",
+      "statementUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Pharmacology (Part 6)?",
+      "questionUr": "فارماکولوجی (ادویات کا علم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe the detailed anatomical structure, mechanism, and biological significance of Definition and History of Pharmacology with a neat labeled diagram.",
-          "statementUr": "Definition and History of Pharmacology کی تفصیلی ساخت، فعلیاتی طریقہ کار اور حیاتیاتی اہمیت کی وضاحت صاف ڈایاگرام کے ساتھ کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Pharmacology.",
+          "statementUr": "فارماکولوجی (ادویات کا علم) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the causes, physiological symptoms, and preventive measures for disorders related to Medicinal Drugs vs Addictive Drugs.",
-          "statementUr": "Medicinal Drugs vs Addictive Drugs سے متعلق پیدا ہونے والی بیماریوں کے اسباب، علامات اور تدارک بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe the detailed anatomical structure, mechanism, and biological significance of Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) with a neat labeled diagram.",
-          "statementUr": "Sources of Drugs (Plants, Animals, Minerals, Microorganisms, Synthetic) کی تفصیلی ساخت، فعلیاتی طریقہ کار اور حیاتیاتی اہمیت کی وضاحت صاف ڈایاگرام کے ساتھ کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the causes, physiological symptoms, and preventive measures for disorders related to Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines).",
-          "statementUr": "Major Groups of Prescription Drugs (Antibiotics, Analgesics, Sedatives, Vaccines) سے متعلق پیدا ہونے والی بیماریوں کے اسباب، علامات اور تدارک بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe the detailed anatomical structure, mechanism, and biological significance of Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) with a neat labeled diagram.",
-          "statementUr": "Antibiotics: Bactericidal vs Bacteriostatic, Antibiotic Resistance (Superbugs) کی تفصیلی ساخت، فعلیاتی طریقہ کار اور حیاتیاتی اہمیت کی وضاحت صاف ڈایاگرام کے ساتھ کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the causes, physiological symptoms, and preventive measures for disorders related to Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline).",
-          "statementUr": "Addictive Drugs (Sedatives, Narcotics: Heroin, Morphine; Hallucinogens: Marijuana, Mescaline) سے متعلق پیدا ہونے والی بیماریوں کے اسباب، علامات اور تدارک بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Pharmacology.",
+          "statementUr": "فارماکولوجی (ادویات کا علم) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

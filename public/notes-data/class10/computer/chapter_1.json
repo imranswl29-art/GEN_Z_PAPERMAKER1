@@ -1,0 +1,1104 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Computer",
+  "subject_dir": "computer",
+  "chapter_no": 1,
+  "chapterNo": 1,
+  "chapter_title": {
+    "en": "Introduction to Programming (C Language)",
+    "ur": "پروگرامنگ کا تعارف (سی لینگویج)"
+  },
+  "titleEn": "Introduction to Programming (C Language)",
+  "titleUr": "پروگرامنگ کا تعارف (سی لینگویج)",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Introduction to Programming (C Language) covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Programming Environment (IDE, Compiler, Linker, Loader)",
+      "titleUr": "Programming Environment (IDE, Compiler, Linker, Loader) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Programming Environment (IDE, Compiler, Linker, Loader) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Programming Environment (IDE, Compiler, Linker, Loader) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Programming Environment (IDE, Compiler, Linker, Loader).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Programming Environment (IDE, Compiler, Linker, Loader) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "Basic Structure of a C Program (Preprocessor Directives, main() function, body)",
+      "titleUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Basic Structure of a C Program (Preprocessor Directives, main() function, body) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Basic Structure of a C Program (Preprocessor Directives, main() function, body) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Variables, Constants, and Keywords in C",
+      "titleUr": "Variables, Constants, and Keywords in C (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Variables, Constants, and Keywords in C conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Variables, Constants, and Keywords in C کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Variables, Constants, and Keywords in C.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Variables, Constants, and Keywords in C کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Data Types in C (int, float, char)",
+      "titleUr": "Data Types in C (int, float, char) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Data Types in C (int, float, char) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Data Types in C (int, float, char) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Data Types in C (int, float, char).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Data Types in C (int, float, char) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Variable Declaration and Initialization",
+      "titleUr": "Variable Declaration and Initialization (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Variable Declaration and Initialization conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Variable Declaration and Initialization کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Variable Declaration and Initialization.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Variable Declaration and Initialization کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Rules for Naming Variables",
+      "titleUr": "Rules for Naming Variables (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Rules for Naming Variables conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Rules for Naming Variables کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Rules for Naming Variables.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Rules for Naming Variables کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "In C language programming, every executable statement must terminate with a:",
+      "statementUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "questionEn": "In C language programming, every executable statement must terminate with a:",
+      "questionUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Semicolon (;)",
+          "textUr": "سیمی کولن (;)"
+        },
+        {
+          "key": "B",
+          "textEn": "Colon (:)",
+          "textUr": "کولن (:)"
+        },
+        {
+          "key": "C",
+          "textEn": "Period (.)",
+          "textUr": "فل سٹاپ (.)"
+        },
+        {
+          "key": "D",
+          "textEn": "Comma (,)",
+          "textUr": "کوما (,)"
+        }
+      ],
+      "optionsEn": [
+        "Semicolon (;)",
+        "Colon (:)",
+        "Period (.)",
+        "Comma (,)"
+      ],
+      "optionsUr": [
+        "سیمی کولن (;)",
+        "کولن (:)",
+        "فل سٹاپ (.)",
+        "کوما (,)"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Statements in C language conclude with a statement terminator semicolon (;).",
+      "explanationUr": "سی لینگویج میں سٹیٹمنٹ ٹرمینیٹر سیمی کولن ہوتا ہے۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 12) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 12) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 13) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 13) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 14) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 14) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Programming Environment (IDE, Compiler, Linker, Loader) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Basic Structure of a C Program (Preprocessor Directives, main() function, body) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variables, Constants, and Keywords in C is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Data Types in C (int, float, char) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variable Declaration and Initialization is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Rules for Naming Variables is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Rules for Naming Variables ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Programming Environment (IDE, Compiler, Linker, Loader) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Basic Structure of a C Program (Preprocessor Directives, main() function, body) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variables, Constants, and Keywords in C is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Data Types in C (int, float, char) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variable Declaration and Initialization is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Rules for Naming Variables is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Rules for Naming Variables ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Introduction to Programming (C Language).",
+          "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in Introduction to Programming (C Language).",
+          "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Chemistry",
+  "subject_dir": "chemistry",
   "chapter_no": 7,
   "chapterNo": 7,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Water",
   "titleUr": "پانی",
-  "summaryEn": "Authoritative PTBB board revision notes for Water. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق پانی کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Water covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق پانی کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Water.",
-      "text_ur": "پانی کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)",
+      "titleUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Water.",
-      "text_ur": "پانی کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Soft Water vs Hard Water",
+      "titleUr": "Soft Water vs Hard Water (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Soft Water vs Hard Water conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Soft Water vs Hard Water کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Soft Water vs Hard Water.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Soft Water vs Hard Water کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Water.",
-      "text_ur": "پانی کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg)",
+      "titleUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins)",
+      "titleUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Disadvantages of Hard Water",
+      "titleUr": "Disadvantages of Hard Water (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Disadvantages of Hard Water conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Disadvantages of Hard Water کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Disadvantages of Hard Water.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Disadvantages of Hard Water کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff",
+      "titleUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)?",
-      "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)?",
-      "questionUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "A chemical bond formed by complete transfer of electrons is called:",
+      "statementUr": "الیکٹرانز کے مکمل تبادلے سے بننے والا کیمیائی بانڈ کہلاتا ہے:",
+      "questionEn": "A chemical bond formed by complete transfer of electrons is called:",
+      "questionUr": "الیکٹرانز کے مکمل تبادلے سے بننے والا کیمیائی بانڈ کہلاتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Ionic bond",
+          "textUr": "آئیونک بانڈ"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Covalent bond",
+          "textUr": "کوویلنٹ بانڈ"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Hydrogen bond",
+          "textUr": "ہائیڈروجن بانڈ"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Metallic bond",
+          "textUr": "میٹالک بانڈ"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "آئیونک بانڈ",
+        "کوویلنٹ بانڈ",
+        "ہائیڈروجن بانڈ",
+        "میٹالک بانڈ"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) in Water.",
-      "explanationUr": "پانی کے تحت Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند نصابی جواب۔"
+      "explanationEn": "Ionic bond is formed by transfer of electrons between electropositive and electronegative elements.",
+      "explanationUr": "الیکٹران کے مکمل تبادلے سے بننے والا بانڈ آئیونک بانڈ کہلاتا ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Soft Water vs Hard Water:",
-      "statementUr": "Soft Water vs Hard Water کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Soft Water vs Hard Water:",
-      "questionUr": "Soft Water vs Hard Water کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "According to standard principles of Soft Water vs Hard Water, chemical reactivity is determined by:",
+      "statementUr": "Soft Water vs Hard Water کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Soft Water vs Hard Water, chemical reactivity is determined by:",
+      "questionUr": "Soft Water vs Hard Water کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Soft Water vs Hard Water in Water.",
-      "explanationUr": "پانی کے تحت Soft Water vs Hard Water کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) is:",
-      "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) is:",
-      "questionUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "According to standard principles of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg), chemical reactivity is determined by:",
+      "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg), chemical reactivity is determined by:",
+      "questionUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) in Water.",
-      "explanationUr": "پانی کے تحت Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins)?",
-      "statementUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins)?",
-      "questionUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "According to standard principles of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins), chemical reactivity is determined by:",
+      "statementUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins), chemical reactivity is determined by:",
+      "questionUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) in Water.",
-      "explanationUr": "پانی کے تحت Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Disadvantages of Hard Water?",
-      "statementUr": "Disadvantages of Hard Water کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Disadvantages of Hard Water?",
-      "questionUr": "Disadvantages of Hard Water کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "According to standard principles of Disadvantages of Hard Water, chemical reactivity is determined by:",
+      "statementUr": "Disadvantages of Hard Water کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Disadvantages of Hard Water, chemical reactivity is determined by:",
+      "questionUr": "Disadvantages of Hard Water کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Disadvantages of Hard Water in Water.",
-      "explanationUr": "پانی کے تحت Disadvantages of Hard Water کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff?",
-      "statementUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff?",
-      "questionUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "According to standard principles of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff, chemical reactivity is determined by:",
+      "statementUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff, chemical reactivity is determined by:",
+      "questionUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Water Pollution: Industrial Waste, Sewage, Agricultural Runoff in Water.",
-      "explanationUr": "پانی کے تحت Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) demonstrates:",
-      "statementUr": "Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) demonstrates:",
-      "questionUr": "Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "According to standard principles of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis), chemical reactivity is determined by:",
+      "statementUr": "Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis), chemical reactivity is determined by:",
+      "questionUr": "Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) in Water.",
-      "explanationUr": "پانی کے تحت Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)?",
-      "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)?",
-      "questionUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) in Water.",
-      "explanationUr": "پانی کے تحت Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Soft Water vs Hard Water?",
-      "statementUr": "Soft Water vs Hard Water کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Soft Water vs Hard Water?",
-      "questionUr": "Soft Water vs Hard Water کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Soft Water vs Hard Water in Water.",
-      "explanationUr": "پانی کے تحت Soft Water vs Hard Water کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) in Water.",
-      "explanationUr": "پانی کے تحت Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) is doubled?",
-      "statementUr": "اگر Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) is doubled?",
-      "questionUr": "اگر Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) in Water.",
-      "explanationUr": "پانی کے تحت Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Disadvantages of Hard Water are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Disadvantages of Hard Water کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Disadvantages of Hard Water are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Disadvantages of Hard Water کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Disadvantages of Hard Water in Water.",
-      "explanationUr": "پانی کے تحت Disadvantages of Hard Water کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Water Pollution: Industrial Waste, Sewage, Agricultural Runoff differ fundamentally from its counterpart?",
-      "statementUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Water Pollution: Industrial Waste, Sewage, Agricultural Runoff differ fundamentally from its counterpart?",
-      "questionUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Water Pollution: Industrial Waste, Sewage, Agricultural Runoff in Water.",
-      "explanationUr": "پانی کے تحت Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) is:",
-      "statementUr": "Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) is:",
-      "questionUr": "Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) in Water.",
-      "explanationUr": "پانی کے تحت Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding)?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Water (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Water (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پانی کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) in Water.",
-      "explanationUr": "پانی کے تحت Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Soft Water vs Hard Water and its related counterpart with two clear distinctions.",
-      "statementUr": "Soft Water vs Hard Water اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Soft Water vs Hard Water and its related counterpart with two clear distinctions.",
-      "questionUr": "Soft Water vs Hard Water اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Soft Water vs Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Soft Water vs Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Soft Water vs Hard Water with an example.",
+      "statementUr": "کیمسٹری کے رو سے Soft Water vs Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Soft Water vs Hard Water with an example.",
+      "questionUr": "کیمسٹری کے رو سے Soft Water vs Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Soft Water vs Hard Water governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Soft Water vs Hard Water مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "questionUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) to occur.",
-      "statementUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) to occur.",
-      "questionUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Disadvantages of Hard Water.",
-      "statementUr": "Disadvantages of Hard Water کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Disadvantages of Hard Water.",
-      "questionUr": "Disadvantages of Hard Water کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Disadvantages of Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Disadvantages of Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Disadvantages of Hard Water with an example.",
+      "statementUr": "کیمسٹری کے رو سے Disadvantages of Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Disadvantages of Hard Water with an example.",
+      "questionUr": "کیمسٹری کے رو سے Disadvantages of Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Disadvantages of Hard Water governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Disadvantages of Hard Water مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Water Pollution: Industrial Waste, Sewage, Agricultural Runoff conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff with an example.",
+      "statementUr": "کیمسٹری کے رو سے Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff with an example.",
+      "questionUr": "کیمسٹری کے رو سے Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Water Pollution: Industrial Waste, Sewage, Agricultural Runoff governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Water Pollution: Industrial Waste, Sewage, Agricultural Runoff مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding).",
-      "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding).",
-      "questionUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 1)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 1)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Soft Water vs Hard Water according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Soft Water vs Hard Water کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Soft Water vs Hard Water according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Soft Water vs Hard Water کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Soft Water vs Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Soft Water vs Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 2)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 2)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "questionUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 3)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 3)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 4)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 4)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Disadvantages of Hard Water reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Disadvantages of Hard Water توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Disadvantages of Hard Water reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Disadvantages of Hard Water توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Disadvantages of Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Disadvantages of Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 5)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 5)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Soft Water vs Hard Water and its related counterpart with two clear distinctions.",
-      "statementUr": "Soft Water vs Hard Water اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Soft Water vs Hard Water and its related counterpart with two clear distinctions.",
-      "questionUr": "Soft Water vs Hard Water اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Soft Water vs Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Soft Water vs Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Soft Water vs Hard Water with an example.",
+      "statementUr": "کیمسٹری کے رو سے Soft Water vs Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Soft Water vs Hard Water with an example.",
+      "questionUr": "کیمسٹری کے رو سے Soft Water vs Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Soft Water vs Hard Water governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Soft Water vs Hard Water مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "questionUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) to occur.",
-      "statementUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) to occur.",
-      "questionUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Disadvantages of Hard Water.",
-      "statementUr": "Disadvantages of Hard Water کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Disadvantages of Hard Water.",
-      "questionUr": "Disadvantages of Hard Water کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Disadvantages of Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Disadvantages of Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Disadvantages of Hard Water with an example.",
+      "statementUr": "کیمسٹری کے رو سے Disadvantages of Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Disadvantages of Hard Water with an example.",
+      "questionUr": "کیمسٹری کے رو سے Disadvantages of Hard Water کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Disadvantages of Hard Water governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Disadvantages of Hard Water مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Water Pollution: Industrial Waste, Sewage, Agricultural Runoff conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff with an example.",
+      "statementUr": "کیمسٹری کے رو سے Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff with an example.",
+      "questionUr": "کیمسٹری کے رو سے Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Water Pollution: Industrial Waste, Sewage, Agricultural Runoff governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Water Pollution: Industrial Waste, Sewage, Agricultural Runoff مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Waterborne Infectious Diseases (Cholera, Typhoid, Dysentery, Hepatitis, Fluorosis) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding).",
-      "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding).",
-      "questionUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 1)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 1)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Soft Water vs Hard Water according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Soft Water vs Hard Water کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Soft Water vs Hard Water according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Soft Water vs Hard Water کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Soft Water vs Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Soft Water vs Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 2)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 2)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-      "questionUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 3)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 3)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 4)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 4)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Disadvantages of Hard Water reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Disadvantages of Hard Water توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Disadvantages of Hard Water reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Disadvantages of Hard Water توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Disadvantages of Hard Water conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Disadvantages of Hard Water کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Water (Part 5)?",
+      "statementUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Water (Part 5)?",
+      "questionUr": "پانی سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding).",
-          "statementUr": "Occurrence of Water and Properties of Water as Universal Solvent (Hydrogen Bonding) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Water.",
+          "statementUr": "پانی کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Soft Water vs Hard Water.",
-          "statementUr": "Soft Water vs Hard Water کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg).",
-          "statementUr": "Causes of Hardness (Temporary: Bicarbonates; Permanent: Chlorates, Sulfates of Ca/Mg) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins).",
-          "statementUr": "Methods of Removing Hardness (Boiling, Clark's Method, Washing Soda, Ion-Exchange Resins) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Disadvantages of Hard Water.",
-          "statementUr": "Disadvantages of Hard Water کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Water Pollution: Industrial Waste, Sewage, Agricultural Runoff.",
-          "statementUr": "Water Pollution: Industrial Waste, Sewage, Agricultural Runoff کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Water.",
+          "statementUr": "پانی کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

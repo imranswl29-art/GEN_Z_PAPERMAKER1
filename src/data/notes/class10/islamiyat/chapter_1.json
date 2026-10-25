@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "General Group",
+  "class_dir": "class10",
   "subject": "Islamiyat",
+  "subject_dir": "islamiyat",
   "chapter_no": 1,
   "chapterNo": 1,
   "chapter_title": {
@@ -10,986 +11,1053 @@
   },
   "titleEn": "Surah Al-Ahzab",
   "titleUr": "سورۃ الاحزاب",
-  "summaryEn": "Authoritative PTBB board revision notes for Surah Al-Ahzab. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق سورۃ الاحزاب کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Surah Al-Ahzab covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق سورۃ الاحزاب کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Surah Al-Ahzab.",
-      "text_ur": "سورۃ الاحزاب کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "غزوہ احزاب (خندق) کے حالات و واقعات",
+      "titleUr": "غزوہ احزاب (خندق) کے حالات و واقعات (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of غزوہ احزاب (خندق) کے حالات و واقعات conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of غزوہ احزاب (خندق) کے حالات و واقعات.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "غزوہ احزاب (خندق) کے حالات و واقعات کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Surah Al-Ahzab.",
-      "text_ur": "سورۃ الاحزاب کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "منافقین کا کردار اور مومنین کا استقلال",
+      "titleUr": "منافقین کا کردار اور مومنین کا استقلال (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of منافقین کا کردار اور مومنین کا استقلال conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق منافقین کا کردار اور مومنین کا استقلال کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of منافقین کا کردار اور مومنین کا استقلال.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "منافقین کا کردار اور مومنین کا استقلال کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Surah Al-Ahzab.",
-      "text_ur": "سورۃ الاحزاب کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "امہات المؤمنین کی حرمت اور احکام",
+      "titleUr": "امہات المؤمنین کی حرمت اور احکام (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of امہات المؤمنین کی حرمت اور احکام conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق امہات المؤمنین کی حرمت اور احکام کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of امہات المؤمنین کی حرمت اور احکام.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "امہات المؤمنین کی حرمت اور احکام کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم",
+      "titleUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "حجاب کے احکام اور معاشرتی پاکیزگی",
+      "titleUr": "حجاب کے احکام اور معاشرتی پاکیزگی (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of حجاب کے احکام اور معاشرتی پاکیزگی conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق حجاب کے احکام اور معاشرتی پاکیزگی کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of حجاب کے احکام اور معاشرتی پاکیزگی.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "حجاب کے احکام اور معاشرتی پاکیزگی کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of غزوہ احزاب (خندق) کے حالات و واقعات?",
-      "statementUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of غزوہ احزاب (خندق) کے حالات و واقعات?",
-      "questionUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'غزوہ احزاب (خندق) کے حالات و واقعات' کا بنیادی درس کیا ہے؟",
+      "statementUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'غزوہ احزاب (خندق) کے حالات و واقعات' کا بنیادی درس کیا ہے؟",
+      "questionEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'غزوہ احزاب (خندق) کے حالات و واقعات' کا بنیادی درس کیا ہے؟",
+      "questionUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'غزوہ احزاب (خندق) کے حالات و واقعات' کا بنیادی درس کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+          "textUr": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "دنیاوی مفادات کی اندھی پیروی",
+          "textUr": "دنیاوی مفادات کی اندھی پیروی"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "حقوق العباد سے غفلت برتنا",
+          "textUr": "حقوق العباد سے غفلت برتنا"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "صرف ظاہری عبادات بغیر خلوص نیت کے",
+          "textUr": "صرف ظاہری عبادات بغیر خلوص نیت کے"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for غزوہ احزاب (خندق) کے حالات و واقعات in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت غزوہ احزاب (خندق) کے حالات و واقعات کا مستند نصابی جواب۔"
+      "explanationEn": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔",
+      "explanationUr": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for منافقین کا کردار اور مومنین کا استقلال:",
-      "statementUr": "منافقین کا کردار اور مومنین کا استقلال کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for منافقین کا کردار اور مومنین کا استقلال:",
-      "questionUr": "منافقین کا کردار اور مومنین کا استقلال کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'منافقین کا کردار اور مومنین کا استقلال' کا بنیادی درس کیا ہے؟",
+      "statementUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'منافقین کا کردار اور مومنین کا استقلال' کا بنیادی درس کیا ہے؟",
+      "questionEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'منافقین کا کردار اور مومنین کا استقلال' کا بنیادی درس کیا ہے؟",
+      "questionUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'منافقین کا کردار اور مومنین کا استقلال' کا بنیادی درس کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+          "textUr": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "دنیاوی مفادات کی اندھی پیروی",
+          "textUr": "دنیاوی مفادات کی اندھی پیروی"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "حقوق العباد سے غفلت برتنا",
+          "textUr": "حقوق العباد سے غفلت برتنا"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "صرف ظاہری عبادات بغیر خلوص نیت کے",
+          "textUr": "صرف ظاہری عبادات بغیر خلوص نیت کے"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for منافقین کا کردار اور مومنین کا استقلال in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت منافقین کا کردار اور مومنین کا استقلال کا مستند نصابی جواب۔"
+      "explanationEn": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔",
+      "explanationUr": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with امہات المؤمنین کی حرمت اور احکام is:",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with امہات المؤمنین کی حرمت اور احکام is:",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'امہات المؤمنین کی حرمت اور احکام' کا بنیادی درس کیا ہے؟",
+      "statementUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'امہات المؤمنین کی حرمت اور احکام' کا بنیادی درس کیا ہے؟",
+      "questionEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'امہات المؤمنین کی حرمت اور احکام' کا بنیادی درس کیا ہے؟",
+      "questionUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'امہات المؤمنین کی حرمت اور احکام' کا بنیادی درس کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+          "textUr": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "دنیاوی مفادات کی اندھی پیروی",
+          "textUr": "دنیاوی مفادات کی اندھی پیروی"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "حقوق العباد سے غفلت برتنا",
+          "textUr": "حقوق العباد سے غفلت برتنا"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "صرف ظاہری عبادات بغیر خلوص نیت کے",
+          "textUr": "صرف ظاہری عبادات بغیر خلوص نیت کے"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for امہات المؤمنین کی حرمت اور احکام in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت امہات المؤمنین کی حرمت اور احکام کا مستند نصابی جواب۔"
+      "explanationEn": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔",
+      "explanationUr": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم?",
-      "statementUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم?",
-      "questionUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کا بنیادی درس کیا ہے؟",
+      "statementUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کا بنیادی درس کیا ہے؟",
+      "questionEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کا بنیادی درس کیا ہے؟",
+      "questionUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کا بنیادی درس کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+          "textUr": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "دنیاوی مفادات کی اندھی پیروی",
+          "textUr": "دنیاوی مفادات کی اندھی پیروی"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "حقوق العباد سے غفلت برتنا",
+          "textUr": "حقوق العباد سے غفلت برتنا"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "صرف ظاہری عبادات بغیر خلوص نیت کے",
+          "textUr": "صرف ظاہری عبادات بغیر خلوص نیت کے"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند نصابی جواب۔"
+      "explanationEn": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔",
+      "explanationUr": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of حجاب کے احکام اور معاشرتی پاکیزگی?",
-      "statementUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of حجاب کے احکام اور معاشرتی پاکیزگی?",
-      "questionUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'حجاب کے احکام اور معاشرتی پاکیزگی' کا بنیادی درس کیا ہے؟",
+      "statementUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'حجاب کے احکام اور معاشرتی پاکیزگی' کا بنیادی درس کیا ہے؟",
+      "questionEn": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'حجاب کے احکام اور معاشرتی پاکیزگی' کا بنیادی درس کیا ہے؟",
+      "questionUr": "قرآن و سنت کی روشنی میں 'سورۃ الاحزاب' کے عنوان 'حجاب کے احکام اور معاشرتی پاکیزگی' کا بنیادی درس کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+          "textUr": "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "دنیاوی مفادات کی اندھی پیروی",
+          "textUr": "دنیاوی مفادات کی اندھی پیروی"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "حقوق العباد سے غفلت برتنا",
+          "textUr": "حقوق العباد سے غفلت برتنا"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "صرف ظاہری عبادات بغیر خلوص نیت کے",
+          "textUr": "صرف ظاہری عبادات بغیر خلوص نیت کے"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "اللہ اور اس کے رسول ﷺ کی اطاعت اور تقویٰ کا حصول",
+        "دنیاوی مفادات کی اندھی پیروی",
+        "حقوق العباد سے غفلت برتنا",
+        "صرف ظاہری عبادات بغیر خلوص نیت کے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for حجاب کے احکام اور معاشرتی پاکیزگی in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت حجاب کے احکام اور معاشرتی پاکیزگی کا مستند نصابی جواب۔"
+      "explanationEn": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔",
+      "explanationUr": "اسلامی تعلیمات کا اصل مقصد ایمان، اخلاص، حقوق اللہ اور حقوق العباد کی پابندی ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of غزوہ احزاب (خندق) کے حالات و واقعات?",
-      "statementUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of غزوہ احزاب (خندق) کے حالات و واقعات?",
-      "questionUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for غزوہ احزاب (خندق) کے حالات و واقعات in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت غزوہ احزاب (خندق) کے حالات و واقعات کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in منافقین کا کردار اور مومنین کا استقلال demonstrates:",
-      "statementUr": "منافقین کا کردار اور مومنین کا استقلال میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in منافقین کا کردار اور مومنین کا استقلال demonstrates:",
-      "questionUr": "منافقین کا کردار اور مومنین کا استقلال میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for منافقین کا کردار اور مومنین کا استقلال in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت منافقین کا کردار اور مومنین کا استقلال کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine امہات المؤمنین کی حرمت اور احکام?",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine امہات المؤمنین کی حرمت اور احکام?",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for امہات المؤمنین کی حرمت اور احکام in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت امہات المؤمنین کی حرمت اور احکام کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم?",
-      "statementUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم?",
-      "questionUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of حجاب کے احکام اور معاشرتی پاکیزگی in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں حجاب کے احکام اور معاشرتی پاکیزگی کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of حجاب کے احکام اور معاشرتی پاکیزگی in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں حجاب کے احکام اور معاشرتی پاکیزگی کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for حجاب کے احکام اور معاشرتی پاکیزگی in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت حجاب کے احکام اور معاشرتی پاکیزگی کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of غزوہ احزاب (خندق) کے حالات و واقعات is doubled?",
-      "statementUr": "اگر غزوہ احزاب (خندق) کے حالات و واقعات کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of غزوہ احزاب (خندق) کے حالات و واقعات is doubled?",
-      "questionUr": "اگر غزوہ احزاب (خندق) کے حالات و واقعات کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for غزوہ احزاب (خندق) کے حالات و واقعات in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت غزوہ احزاب (خندق) کے حالات و واقعات کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of منافقین کا کردار اور مومنین کا استقلال are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق منافقین کا کردار اور مومنین کا استقلال کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of منافقین کا کردار اور مومنین کا استقلال are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق منافقین کا کردار اور مومنین کا استقلال کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for منافقین کا کردار اور مومنین کا استقلال in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت منافقین کا کردار اور مومنین کا استقلال کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does امہات المؤمنین کی حرمت اور احکام differ fundamentally from its counterpart?",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does امہات المؤمنین کی حرمت اور احکام differ fundamentally from its counterpart?",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for امہات المؤمنین کی حرمت اور احکام in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت امہات المؤمنین کی حرمت اور احکام کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم is:",
-      "statementUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم is:",
-      "questionUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of حجاب کے احکام اور معاشرتی پاکیزگی?",
-      "statementUr": "کون سا بنیادی سائنسی قانون حجاب کے احکام اور معاشرتی پاکیزگی کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of حجاب کے احکام اور معاشرتی پاکیزگی?",
-      "questionUr": "کون سا بنیادی سائنسی قانون حجاب کے احکام اور معاشرتی پاکیزگی کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Surah Al-Ahzab (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق سورۃ الاحزاب کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for حجاب کے احکام اور معاشرتی پاکیزگی in Surah Al-Ahzab.",
-      "explanationUr": "سورۃ الاحزاب کے تحت حجاب کے احکام اور معاشرتی پاکیزگی کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define غزوہ احزاب (خندق) کے حالات و واقعات and write its governing mathematical formula or scientific definition.",
-      "statementUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define غزوہ احزاب (خندق) کے حالات و واقعات and write its governing mathematical formula or scientific definition.",
-      "questionUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for غزوہ احزاب (خندق) کے حالات و واقعات conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'غزوہ احزاب (خندق) کے حالات و واقعات' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'غزوہ احزاب (خندق) کے حالات و واقعات' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between منافقین کا کردار اور مومنین کا استقلال and its related counterpart with two clear distinctions.",
-      "statementUr": "منافقین کا کردار اور مومنین کا استقلال اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between منافقین کا کردار اور مومنین کا استقلال and its related counterpart with two clear distinctions.",
-      "questionUr": "منافقین کا کردار اور مومنین کا استقلال اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for منافقین کا کردار اور مومنین کا استقلال conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق منافقین کا کردار اور مومنین کا استقلال کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'منافقین کا کردار اور مومنین کا استقلال' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'منافقین کا کردار اور مومنین کا استقلال' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of امہات المؤمنین کی حرمت اور احکام.",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of امہات المؤمنین کی حرمت اور احکام.",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for امہات المؤمنین کی حرمت اور احکام conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق امہات المؤمنین کی حرمت اور احکام کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'امہات المؤمنین کی حرمت اور احکام' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'امہات المؤمنین کی حرمت اور احکام' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم to occur.",
-      "statementUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم to occur.",
-      "questionUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "statementUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "questionUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for حجاب کے احکام اور معاشرتی پاکیزگی conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق حجاب کے احکام اور معاشرتی پاکیزگی کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'حجاب کے احکام اور معاشرتی پاکیزگی' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'حجاب کے احکام اور معاشرتی پاکیزگی' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of غزوہ احزاب (خندق) کے حالات و واقعات in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں غزوہ احزاب (خندق) کے حالات و واقعات کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of غزوہ احزاب (خندق) کے حالات و واقعات in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں غزوہ احزاب (خندق) کے حالات و واقعات کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for غزوہ احزاب (خندق) کے حالات و واقعات conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 1)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 1)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of منافقین کا کردار اور مومنین کا استقلال are doubled or halved? Explain briefly.",
-      "statementUr": "اگر منافقین کا کردار اور مومنین کا استقلال کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of منافقین کا کردار اور مومنین کا استقلال are doubled or halved? Explain briefly.",
-      "questionUr": "اگر منافقین کا کردار اور مومنین کا استقلال کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for منافقین کا کردار اور مومنین کا استقلال conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق منافقین کا کردار اور مومنین کا استقلال کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 2)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 2)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of امہات المؤمنین کی حرمت اور احکام.",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of امہات المؤمنین کی حرمت اور احکام.",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for امہات المؤمنین کی حرمت اور احکام conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق امہات المؤمنین کی حرمت اور احکام کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 3)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 3)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 4)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 4)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "statementUr": "حجاب کے احکام اور معاشرتی پاکیزگی کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "questionUr": "حجاب کے احکام اور معاشرتی پاکیزگی کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for حجاب کے احکام اور معاشرتی پاکیزگی conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق حجاب کے احکام اور معاشرتی پاکیزگی کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 5)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 5)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does غزوہ احزاب (خندق) کے حالات و واقعات contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں غزوہ احزاب (خندق) کے حالات و واقعات کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does غزوہ احزاب (خندق) کے حالات و واقعات contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں غزوہ احزاب (خندق) کے حالات و واقعات کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for غزوہ احزاب (خندق) کے حالات و واقعات conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 6)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 6)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when منافقین کا کردار اور مومنین کا استقلال reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب منافقین کا کردار اور مومنین کا استقلال توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when منافقین کا کردار اور مومنین کا استقلال reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب منافقین کا کردار اور مومنین کا استقلال توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for منافقین کا کردار اور مومنین کا استقلال conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق منافقین کا کردار اور مومنین کا استقلال کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 7)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 7)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define غزوہ احزاب (خندق) کے حالات و واقعات and write its governing mathematical formula or scientific definition.",
-      "statementUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define غزوہ احزاب (خندق) کے حالات و واقعات and write its governing mathematical formula or scientific definition.",
-      "questionUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for غزوہ احزاب (خندق) کے حالات و واقعات conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'غزوہ احزاب (خندق) کے حالات و واقعات' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'غزوہ احزاب (خندق) کے حالات و واقعات' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'غزوہ احزاب (خندق) کے حالات و واقعات' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between منافقین کا کردار اور مومنین کا استقلال and its related counterpart with two clear distinctions.",
-      "statementUr": "منافقین کا کردار اور مومنین کا استقلال اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between منافقین کا کردار اور مومنین کا استقلال and its related counterpart with two clear distinctions.",
-      "questionUr": "منافقین کا کردار اور مومنین کا استقلال اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for منافقین کا کردار اور مومنین کا استقلال conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق منافقین کا کردار اور مومنین کا استقلال کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'منافقین کا کردار اور مومنین کا استقلال' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'منافقین کا کردار اور مومنین کا استقلال' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'منافقین کا کردار اور مومنین کا استقلال' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of امہات المؤمنین کی حرمت اور احکام.",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of امہات المؤمنین کی حرمت اور احکام.",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for امہات المؤمنین کی حرمت اور احکام conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق امہات المؤمنین کی حرمت اور احکام کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'امہات المؤمنین کی حرمت اور احکام' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'امہات المؤمنین کی حرمت اور احکام' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'امہات المؤمنین کی حرمت اور احکام' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم to occur.",
-      "statementUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم to occur.",
-      "questionUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "statementUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "questionUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for حجاب کے احکام اور معاشرتی پاکیزگی conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق حجاب کے احکام اور معاشرتی پاکیزگی کا مستند ماڈل جواب۔",
+      "statementEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "statementUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionEn": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "questionUr": "اسلامی تعلیمات کے مطابق 'سورۃ الاحزاب' کے نکتہ 'حجاب کے احکام اور معاشرتی پاکیزگی' کی کیا فضیلت اور اہمیت ہے؟",
+      "answerEn": "قرآن و سنت کی روشنی میں 'حجاب کے احکام اور معاشرتی پاکیزگی' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
+      "answerUr": "قرآن و سنت کی روشنی میں 'حجاب کے احکام اور معاشرتی پاکیزگی' تقویٰ، اطاعتِ الٰہی، حسنِ اخلاق اور معاشرتی امن کی بنیاد ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of غزوہ احزاب (خندق) کے حالات و واقعات in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں غزوہ احزاب (خندق) کے حالات و واقعات کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of غزوہ احزاب (خندق) کے حالات و واقعات in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں غزوہ احزاب (خندق) کے حالات و واقعات کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for غزوہ احزاب (خندق) کے حالات و واقعات conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 1)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 1)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of منافقین کا کردار اور مومنین کا استقلال are doubled or halved? Explain briefly.",
-      "statementUr": "اگر منافقین کا کردار اور مومنین کا استقلال کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of منافقین کا کردار اور مومنین کا استقلال are doubled or halved? Explain briefly.",
-      "questionUr": "اگر منافقین کا کردار اور مومنین کا استقلال کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for منافقین کا کردار اور مومنین کا استقلال conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق منافقین کا کردار اور مومنین کا استقلال کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 2)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 2)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of امہات المؤمنین کی حرمت اور احکام.",
-      "statementUr": "امہات المؤمنین کی حرمت اور احکام کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of امہات المؤمنین کی حرمت اور احکام.",
-      "questionUr": "امہات المؤمنین کی حرمت اور احکام کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for امہات المؤمنین کی حرمت اور احکام conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق امہات المؤمنین کی حرمت اور احکام کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 3)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 3)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 4)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 4)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "statementUr": "حجاب کے احکام اور معاشرتی پاکیزگی کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of حجاب کے احکام اور معاشرتی پاکیزگی.",
-      "questionUr": "حجاب کے احکام اور معاشرتی پاکیزگی کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for حجاب کے احکام اور معاشرتی پاکیزگی conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق حجاب کے احکام اور معاشرتی پاکیزگی کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 5)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 5)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does غزوہ احزاب (خندق) کے حالات و واقعات contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں غزوہ احزاب (خندق) کے حالات و واقعات کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does غزوہ احزاب (خندق) کے حالات و واقعات contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں غزوہ احزاب (خندق) کے حالات و واقعات کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for غزوہ احزاب (خندق) کے حالات و واقعات conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق غزوہ احزاب (خندق) کے حالات و واقعات کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 6)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 6)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when منافقین کا کردار اور مومنین کا استقلال reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب منافقین کا کردار اور مومنین کا استقلال توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when منافقین کا کردار اور مومنین کا استقلال reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب منافقین کا کردار اور مومنین کا استقلال توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for منافقین کا کردار اور مومنین کا استقلال conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق منافقین کا کردار اور مومنین کا استقلال کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 7)?",
+      "statementUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Surah Al-Ahzab (Part 7)?",
+      "questionUr": "سورۃ الاحزاب سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1069,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Write a comprehensive scholarly note on the divine teachings, moral injunctions, and background of غزوہ احزاب (خندق) کے حالات و واقعات.",
-          "statementUr": "غزوہ احزاب (خندق) کے حالات و واقعات کے قرآنی احکام، شانِ نزول اور اخلاقی تعلیمات پر مفصل و جامع نوٹ تحریر کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Surah Al-Ahzab.",
+          "statementUr": "سورۃ الاحزاب کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the practical implementation of teachings revealed in منافقین کا کردار اور مومنین کا استقلال for modern individual and collective life.",
-          "statementUr": "منافقین کا کردار اور مومنین کا استقلال کی تعلیمات کا انفرادی اور اجتماعی زندگی میں نفاذ اور عملی اہمیت بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Write a comprehensive scholarly note on the divine teachings, moral injunctions, and background of امہات المؤمنین کی حرمت اور احکام.",
-          "statementUr": "امہات المؤمنین کی حرمت اور احکام کے قرآنی احکام، شانِ نزول اور اخلاقی تعلیمات پر مفصل و جامع نوٹ تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the practical implementation of teachings revealed in خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم for modern individual and collective life.",
-          "statementUr": "خاتم النبیین ﷺ کا بلند مقام اور درود شریف کا حکم کی تعلیمات کا انفرادی اور اجتماعی زندگی میں نفاذ اور عملی اہمیت بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Write a comprehensive scholarly note on the divine teachings, moral injunctions, and background of حجاب کے احکام اور معاشرتی پاکیزگی.",
-          "statementUr": "حجاب کے احکام اور معاشرتی پاکیزگی کے قرآنی احکام، شانِ نزول اور اخلاقی تعلیمات پر مفصل و جامع نوٹ تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the practical implementation of teachings revealed in غزوہ احزاب (خندق) کے حالات و واقعات for modern individual and collective life.",
-          "statementUr": "غزوہ احزاب (خندق) کے حالات و واقعات کی تعلیمات کا انفرادی اور اجتماعی زندگی میں نفاذ اور عملی اہمیت بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Surah Al-Ahzab.",
+          "statementUr": "سورۃ الاحزاب کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

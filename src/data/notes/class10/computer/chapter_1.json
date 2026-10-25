@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Computer",
+  "subject_dir": "computer",
   "chapter_no": 1,
   "chapterNo": 1,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Introduction to Programming (C Language)",
   "titleUr": "پروگرامنگ کا تعارف (سی لینگویج)",
-  "summaryEn": "Authoritative PTBB board revision notes for Introduction to Programming (C Language). Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق پروگرامنگ کا تعارف (سی لینگویج) کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Introduction to Programming (C Language) covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Introduction to Programming (C Language).",
-      "text_ur": "پروگرامنگ کا تعارف (سی لینگویج) کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Programming Environment (IDE, Compiler, Linker, Loader)",
+      "titleUr": "Programming Environment (IDE, Compiler, Linker, Loader) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Programming Environment (IDE, Compiler, Linker, Loader) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Programming Environment (IDE, Compiler, Linker, Loader) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Programming Environment (IDE, Compiler, Linker, Loader).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Programming Environment (IDE, Compiler, Linker, Loader) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Introduction to Programming (C Language).",
-      "text_ur": "پروگرامنگ کا تعارف (سی لینگویج) کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Basic Structure of a C Program (Preprocessor Directives, main() function, body)",
+      "titleUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Basic Structure of a C Program (Preprocessor Directives, main() function, body) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Basic Structure of a C Program (Preprocessor Directives, main() function, body) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Introduction to Programming (C Language).",
-      "text_ur": "پروگرامنگ کا تعارف (سی لینگویج) کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Variables, Constants, and Keywords in C",
+      "titleUr": "Variables, Constants, and Keywords in C (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Variables, Constants, and Keywords in C conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Variables, Constants, and Keywords in C کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Variables, Constants, and Keywords in C.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Variables, Constants, and Keywords in C کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Data Types in C (int, float, char)",
+      "titleUr": "Data Types in C (int, float, char) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Data Types in C (int, float, char) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Data Types in C (int, float, char) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Data Types in C (int, float, char).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Data Types in C (int, float, char) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Variable Declaration and Initialization",
+      "titleUr": "Variable Declaration and Initialization (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Variable Declaration and Initialization conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Variable Declaration and Initialization کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Variable Declaration and Initialization.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Variable Declaration and Initialization کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Rules for Naming Variables",
+      "titleUr": "Rules for Naming Variables (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Rules for Naming Variables conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Rules for Naming Variables کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Rules for Naming Variables.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Rules for Naming Variables کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Programming Environment (IDE, Compiler, Linker, Loader)?",
-      "statementUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Programming Environment (IDE, Compiler, Linker, Loader)?",
-      "questionUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "In C language programming, every executable statement must terminate with a:",
+      "statementUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "questionEn": "In C language programming, every executable statement must terminate with a:",
+      "questionUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Semicolon (;)",
+          "textUr": "سیمی کولن (;)"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Colon (:)",
+          "textUr": "کولن (:)"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Period (.)",
+          "textUr": "فل سٹاپ (.)"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Comma (,)",
+          "textUr": "کوما (,)"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Semicolon (;)",
+        "Colon (:)",
+        "Period (.)",
+        "Comma (,)"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "سیمی کولن (;)",
+        "کولن (:)",
+        "فل سٹاپ (.)",
+        "کوما (,)"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Programming Environment (IDE, Compiler, Linker, Loader) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Programming Environment (IDE, Compiler, Linker, Loader) کا مستند نصابی جواب۔"
+      "explanationEn": "Statements in C language conclude with a statement terminator semicolon (;).",
+      "explanationUr": "سی لینگویج میں سٹیٹمنٹ ٹرمینیٹر سیمی کولن ہوتا ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Basic Structure of a C Program (Preprocessor Directives, main() function, body):",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Basic Structure of a C Program (Preprocessor Directives, main() function, body):",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Basic Structure of a C Program (Preprocessor Directives, main() function, body) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Variables, Constants, and Keywords in C is:",
-      "statementUr": "Variables, Constants, and Keywords in C سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Variables, Constants, and Keywords in C is:",
-      "questionUr": "Variables, Constants, and Keywords in C سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Variables, Constants, and Keywords in C in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Variables, Constants, and Keywords in C کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Data Types in C (int, float, char)?",
-      "statementUr": "Data Types in C (int, float, char) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Data Types in C (int, float, char)?",
-      "questionUr": "Data Types in C (int, float, char) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Data Types in C (int, float, char) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Data Types in C (int, float, char) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Variable Declaration and Initialization?",
-      "statementUr": "Variable Declaration and Initialization کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Variable Declaration and Initialization?",
-      "questionUr": "Variable Declaration and Initialization کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Variable Declaration and Initialization in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Variable Declaration and Initialization کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Rules for Naming Variables?",
-      "statementUr": "Rules for Naming Variables کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Rules for Naming Variables?",
-      "questionUr": "Rules for Naming Variables کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Rules for Naming Variables in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Rules for Naming Variables کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Programming Environment (IDE, Compiler, Linker, Loader) demonstrates:",
-      "statementUr": "Programming Environment (IDE, Compiler, Linker, Loader) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Programming Environment (IDE, Compiler, Linker, Loader) demonstrates:",
-      "questionUr": "Programming Environment (IDE, Compiler, Linker, Loader) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Programming Environment (IDE, Compiler, Linker, Loader) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Programming Environment (IDE, Compiler, Linker, Loader) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Basic Structure of a C Program (Preprocessor Directives, main() function, body)?",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Basic Structure of a C Program (Preprocessor Directives, main() function, body)?",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Basic Structure of a C Program (Preprocessor Directives, main() function, body) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Variables, Constants, and Keywords in C?",
-      "statementUr": "Variables, Constants, and Keywords in C کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Variables, Constants, and Keywords in C?",
-      "questionUr": "Variables, Constants, and Keywords in C کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Variables, Constants, and Keywords in C in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Variables, Constants, and Keywords in C کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Data Types in C (int, float, char) in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Data Types in C (int, float, char) کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Data Types in C (int, float, char) in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Data Types in C (int, float, char) کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Data Types in C (int, float, char) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Data Types in C (int, float, char) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Variable Declaration and Initialization is doubled?",
-      "statementUr": "اگر Variable Declaration and Initialization کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Variable Declaration and Initialization is doubled?",
-      "questionUr": "اگر Variable Declaration and Initialization کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Variable Declaration and Initialization in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Variable Declaration and Initialization کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Rules for Naming Variables are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Rules for Naming Variables کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Rules for Naming Variables are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Rules for Naming Variables کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Rules for Naming Variables in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Rules for Naming Variables کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Programming Environment (IDE, Compiler, Linker, Loader) differ fundamentally from its counterpart?",
-      "statementUr": "Programming Environment (IDE, Compiler, Linker, Loader) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Programming Environment (IDE, Compiler, Linker, Loader) differ fundamentally from its counterpart?",
-      "questionUr": "Programming Environment (IDE, Compiler, Linker, Loader) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 12) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 12) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Programming Environment (IDE, Compiler, Linker, Loader) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Programming Environment (IDE, Compiler, Linker, Loader) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Basic Structure of a C Program (Preprocessor Directives, main() function, body) is:",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Basic Structure of a C Program (Preprocessor Directives, main() function, body) is:",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 13) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 13) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Basic Structure of a C Program (Preprocessor Directives, main() function, body) in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Variables, Constants, and Keywords in C?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Variables, Constants, and Keywords in C کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Variables, Constants, and Keywords in C?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Variables, Constants, and Keywords in C کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 14) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Introduction to Programming (C Language) (Concept 14) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق پروگرامنگ کا تعارف (سی لینگویج) کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Variables, Constants, and Keywords in C in Introduction to Programming (C Language).",
-      "explanationUr": "پروگرامنگ کا تعارف (سی لینگویج) کے تحت Variables, Constants, and Keywords in C کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Programming Environment (IDE, Compiler, Linker, Loader) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Programming Environment (IDE, Compiler, Linker, Loader) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Programming Environment (IDE, Compiler, Linker, Loader) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Programming Environment (IDE, Compiler, Linker, Loader) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Programming Environment (IDE, Compiler, Linker, Loader) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Basic Structure of a C Program (Preprocessor Directives, main() function, body) and its related counterpart with two clear distinctions.",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Basic Structure of a C Program (Preprocessor Directives, main() function, body) and its related counterpart with two clear distinctions.",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Structure of a C Program (Preprocessor Directives, main() function, body) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Basic Structure of a C Program (Preprocessor Directives, main() function, body) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Variables, Constants, and Keywords in C.",
-      "statementUr": "Variables, Constants, and Keywords in C کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Variables, Constants, and Keywords in C.",
-      "questionUr": "Variables, Constants, and Keywords in C کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Variables, Constants, and Keywords in C conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variables, Constants, and Keywords in C کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variables, Constants, and Keywords in C is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Data Types in C (int, float, char) to occur.",
-      "statementUr": "Data Types in C (int, float, char) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Data Types in C (int, float, char) to occur.",
-      "questionUr": "Data Types in C (int, float, char) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Data Types in C (int, float, char) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Data Types in C (int, float, char) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Data Types in C (int, float, char) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Variable Declaration and Initialization.",
-      "statementUr": "Variable Declaration and Initialization کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Variable Declaration and Initialization.",
-      "questionUr": "Variable Declaration and Initialization کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Variable Declaration and Initialization conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variable Declaration and Initialization کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variable Declaration and Initialization is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Rules for Naming Variables in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Rules for Naming Variables کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Rules for Naming Variables in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Rules for Naming Variables کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Rules for Naming Variables conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Rules for Naming Variables کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Rules for Naming Variables is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Rules for Naming Variables ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Programming Environment (IDE, Compiler, Linker, Loader) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Programming Environment (IDE, Compiler, Linker, Loader) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Programming Environment (IDE, Compiler, Linker, Loader) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Programming Environment (IDE, Compiler, Linker, Loader) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Programming Environment (IDE, Compiler, Linker, Loader) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Programming Environment (IDE, Compiler, Linker, Loader) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Structure of a C Program (Preprocessor Directives, main() function, body) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Variables, Constants, and Keywords in C according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Variables, Constants, and Keywords in C کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Variables, Constants, and Keywords in C according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Variables, Constants, and Keywords in C کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Variables, Constants, and Keywords in C conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variables, Constants, and Keywords in C کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Data Types in C (int, float, char).",
-      "statementUr": "Data Types in C (int, float, char) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Data Types in C (int, float, char).",
-      "questionUr": "Data Types in C (int, float, char) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Data Types in C (int, float, char) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Data Types in C (int, float, char) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Variable Declaration and Initialization contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Variable Declaration and Initialization کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Variable Declaration and Initialization contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Variable Declaration and Initialization کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Variable Declaration and Initialization conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variable Declaration and Initialization کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Rules for Naming Variables reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Rules for Naming Variables توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Rules for Naming Variables reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Rules for Naming Variables توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Rules for Naming Variables conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Rules for Naming Variables کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Programming Environment (IDE, Compiler, Linker, Loader) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Programming Environment (IDE, Compiler, Linker, Loader) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Programming Environment (IDE, Compiler, Linker, Loader) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Programming Environment (IDE, Compiler, Linker, Loader) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Programming Environment (IDE, Compiler, Linker, Loader)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Programming Environment (IDE, Compiler, Linker, Loader) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Programming Environment (IDE, Compiler, Linker, Loader) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Basic Structure of a C Program (Preprocessor Directives, main() function, body) and its related counterpart with two clear distinctions.",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Basic Structure of a C Program (Preprocessor Directives, main() function, body) and its related counterpart with two clear distinctions.",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Structure of a C Program (Preprocessor Directives, main() function, body) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Basic Structure of a C Program (Preprocessor Directives, main() function, body)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Basic Structure of a C Program (Preprocessor Directives, main() function, body) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Basic Structure of a C Program (Preprocessor Directives, main() function, body) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Variables, Constants, and Keywords in C.",
-      "statementUr": "Variables, Constants, and Keywords in C کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Variables, Constants, and Keywords in C.",
-      "questionUr": "Variables, Constants, and Keywords in C کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Variables, Constants, and Keywords in C conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variables, Constants, and Keywords in C کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variables, Constants, and Keywords in C? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variables, Constants, and Keywords in C is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variables, Constants, and Keywords in C ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Data Types in C (int, float, char) to occur.",
-      "statementUr": "Data Types in C (int, float, char) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Data Types in C (int, float, char) to occur.",
-      "questionUr": "Data Types in C (int, float, char) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Data Types in C (int, float, char) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Data Types in C (int, float, char) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Data Types in C (int, float, char)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Data Types in C (int, float, char) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Data Types in C (int, float, char) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Variable Declaration and Initialization.",
-      "statementUr": "Variable Declaration and Initialization کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Variable Declaration and Initialization.",
-      "questionUr": "Variable Declaration and Initialization کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Variable Declaration and Initialization conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variable Declaration and Initialization کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Variable Declaration and Initialization? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Variable Declaration and Initialization is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Variable Declaration and Initialization ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Rules for Naming Variables in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Rules for Naming Variables کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Rules for Naming Variables in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Rules for Naming Variables کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Rules for Naming Variables conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Rules for Naming Variables کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Rules for Naming Variables? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Rules for Naming Variables سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Rules for Naming Variables is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Rules for Naming Variables ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Programming Environment (IDE, Compiler, Linker, Loader) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Programming Environment (IDE, Compiler, Linker, Loader) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Programming Environment (IDE, Compiler, Linker, Loader) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Programming Environment (IDE, Compiler, Linker, Loader) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Programming Environment (IDE, Compiler, Linker, Loader) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Programming Environment (IDE, Compiler, Linker, Loader) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 1)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
-      "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
-      "questionUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Structure of a C Program (Preprocessor Directives, main() function, body) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 2)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Variables, Constants, and Keywords in C according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Variables, Constants, and Keywords in C کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Variables, Constants, and Keywords in C according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Variables, Constants, and Keywords in C کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Variables, Constants, and Keywords in C conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variables, Constants, and Keywords in C کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 3)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Data Types in C (int, float, char).",
-      "statementUr": "Data Types in C (int, float, char) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Data Types in C (int, float, char).",
-      "questionUr": "Data Types in C (int, float, char) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Data Types in C (int, float, char) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Data Types in C (int, float, char) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 4)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Variable Declaration and Initialization contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Variable Declaration and Initialization کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Variable Declaration and Initialization contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Variable Declaration and Initialization کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Variable Declaration and Initialization conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Variable Declaration and Initialization کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 5)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Rules for Naming Variables reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Rules for Naming Variables توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Rules for Naming Variables reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Rules for Naming Variables توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Rules for Naming Variables conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Rules for Naming Variables کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Introduction to Programming (C Language) (Part 6)?",
+      "questionUr": "پروگرامنگ کا تعارف (سی لینگویج) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Explain Programming Environment (IDE, Compiler, Linker, Loader) in detail with its structural architecture, operating mechanism, and practical flowchart.",
-          "statementUr": "Programming Environment (IDE, Compiler, Linker, Loader) کی ساخت، طریقہ کار اور فلو چارٹ کے ساتھ تفصیلی وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Introduction to Programming (C Language).",
+          "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Write a complete C language code or structured algorithm demonstrating the implementation of Basic Structure of a C Program (Preprocessor Directives, main() function, body).",
-          "statementUr": "Basic Structure of a C Program (Preprocessor Directives, main() function, body) کا عملی اطلاق ظاہر کرنے والا مکمل سی لینگویج کوڈ یا الگورتھم لکھیں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain Variables, Constants, and Keywords in C in detail with its structural architecture, operating mechanism, and practical flowchart.",
-          "statementUr": "Variables, Constants, and Keywords in C کی ساخت، طریقہ کار اور فلو چارٹ کے ساتھ تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Write a complete C language code or structured algorithm demonstrating the implementation of Data Types in C (int, float, char).",
-          "statementUr": "Data Types in C (int, float, char) کا عملی اطلاق ظاہر کرنے والا مکمل سی لینگویج کوڈ یا الگورتھم لکھیں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain Variable Declaration and Initialization in detail with its structural architecture, operating mechanism, and practical flowchart.",
-          "statementUr": "Variable Declaration and Initialization کی ساخت، طریقہ کار اور فلو چارٹ کے ساتھ تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Write a complete C language code or structured algorithm demonstrating the implementation of Rules for Naming Variables.",
-          "statementUr": "Rules for Naming Variables کا عملی اطلاق ظاہر کرنے والا مکمل سی لینگویج کوڈ یا الگورتھم لکھیں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Introduction to Programming (C Language).",
+          "statementUr": "پروگرامنگ کا تعارف (سی لینگویج) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

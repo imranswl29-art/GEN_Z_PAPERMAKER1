@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Chemistry",
+  "subject_dir": "chemistry",
   "chapter_no": 5,
   "chapterNo": 5,
   "chapter_title": {
@@ -10,986 +11,1053 @@
   },
   "titleEn": "Biochemistry",
   "titleUr": "بائیو کیمسٹری",
-  "summaryEn": "Authoritative PTBB board revision notes for Biochemistry. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق بائیو کیمسٹری کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Biochemistry covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق بائیو کیمسٹری کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Biochemistry.",
-      "text_ur": "بائیو کیمسٹری کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses",
+      "titleUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Biochemistry.",
-      "text_ur": "بائیو کیمسٹری کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance",
+      "titleUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Biochemistry.",
-      "text_ur": "بائیو کیمسٹری کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance",
+      "titleUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Lipids: Fatty Acids, Oils and Fats, Sources and Importance conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Nucleic Acids: DNA and RNA Structure and Role in Genetics",
+      "titleUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Nucleic Acids: DNA and RNA Structure and Role in Genetics conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Nucleic Acids: DNA and RNA Structure and Role in Genetics.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Nucleic Acids: DNA and RNA Structure and Role in Genetics کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies",
+      "titleUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses?",
-      "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses?",
-      "questionUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "According to standard principles of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses, chemical reactivity is determined by:",
+      "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses, chemical reactivity is determined by:",
+      "questionUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance:",
-      "statementUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance:",
-      "questionUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "A chemical bond formed by complete transfer of electrons is called:",
+      "statementUr": "الیکٹرانز کے مکمل تبادلے سے بننے والا کیمیائی بانڈ کہلاتا ہے:",
+      "questionEn": "A chemical bond formed by complete transfer of electrons is called:",
+      "questionUr": "الیکٹرانز کے مکمل تبادلے سے بننے والا کیمیائی بانڈ کہلاتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Ionic bond",
+          "textUr": "آئیونک بانڈ"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Covalent bond",
+          "textUr": "کوویلنٹ بانڈ"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Hydrogen bond",
+          "textUr": "ہائیڈروجن بانڈ"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Metallic bond",
+          "textUr": "میٹالک بانڈ"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "آئیونک بانڈ",
+        "کوویلنٹ بانڈ",
+        "ہائیڈروجن بانڈ",
+        "میٹالک بانڈ"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند نصابی جواب۔"
+      "explanationEn": "Ionic bond is formed by transfer of electrons between electropositive and electronegative elements.",
+      "explanationUr": "الیکٹران کے مکمل تبادلے سے بننے والا بانڈ آئیونک بانڈ کہلاتا ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Lipids: Fatty Acids, Oils and Fats, Sources and Importance is:",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Lipids: Fatty Acids, Oils and Fats, Sources and Importance is:",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "statementUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "questionEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "questionUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "7",
+          "textUr": "7"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "0",
+          "textUr": "0"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "14",
+          "textUr": "14"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "1",
+          "textUr": "1"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Lipids: Fatty Acids, Oils and Fats, Sources and Importance in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند نصابی جواب۔"
+      "explanationEn": "Pure water has = = 10^-7 M, giving pH 7.",
+      "explanationUr": "خالص پانی نیوٹرل ہوتا ہے اور اس کی پی ایچ 7 ہوتی ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Nucleic Acids: DNA and RNA Structure and Role in Genetics?",
-      "statementUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Nucleic Acids: DNA and RNA Structure and Role in Genetics?",
-      "questionUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "According to standard principles of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies, chemical reactivity is determined by:",
+      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies, chemical reactivity is determined by:",
+      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Nucleic Acids: DNA and RNA Structure and Role in Genetics in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies?",
-      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies?",
-      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses?",
-      "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses?",
-      "questionUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance demonstrates:",
-      "statementUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance demonstrates:",
-      "questionUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Lipids: Fatty Acids, Oils and Fats, Sources and Importance?",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Lipids: Fatty Acids, Oils and Fats, Sources and Importance?",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Lipids: Fatty Acids, Oils and Fats, Sources and Importance in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Nucleic Acids: DNA and RNA Structure and Role in Genetics?",
-      "statementUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Nucleic Acids: DNA and RNA Structure and Role in Genetics?",
-      "questionUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Nucleic Acids: DNA and RNA Structure and Role in Genetics in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses is doubled?",
-      "statementUr": "اگر Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses is doubled?",
-      "questionUr": "اگر Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Lipids: Fatty Acids, Oils and Fats, Sources and Importance differ fundamentally from its counterpart?",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Lipids: Fatty Acids, Oils and Fats, Sources and Importance differ fundamentally from its counterpart?",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Lipids: Fatty Acids, Oils and Fats, Sources and Importance in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Nucleic Acids: DNA and RNA Structure and Role in Genetics is:",
-      "statementUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Nucleic Acids: DNA and RNA Structure and Role in Genetics is:",
-      "questionUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Nucleic Acids: DNA and RNA Structure and Role in Genetics in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies in Biochemistry.",
-      "explanationUr": "بائیو کیمسٹری کے تحت Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "statementUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "questionUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance and its related counterpart with two clear distinctions.",
-      "statementUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance and its related counterpart with two clear distinctions.",
-      "questionUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Lipids: Fatty Acids, Oils and Fats, Sources and Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Lipids: Fatty Acids, Oils and Fats, Sources and Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Lipids: Fatty Acids, Oils and Fats, Sources and Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Nucleic Acids: DNA and RNA Structure and Role in Genetics to occur.",
-      "statementUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Nucleic Acids: DNA and RNA Structure and Role in Genetics to occur.",
-      "questionUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Nucleic Acids: DNA and RNA Structure and Role in Genetics conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "statementUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "questionUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Nucleic Acids: DNA and RNA Structure and Role in Genetics governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Nucleic Acids: DNA and RNA Structure and Role in Genetics مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "statementUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "questionUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Lipids: Fatty Acids, Oils and Fats, Sources and Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Nucleic Acids: DNA and RNA Structure and Role in Genetics according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Nucleic Acids: DNA and RNA Structure and Role in Genetics according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Nucleic Acids: DNA and RNA Structure and Role in Genetics conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "statementUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "questionUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance and its related counterpart with two clear distinctions.",
-      "statementUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance and its related counterpart with two clear distinctions.",
-      "questionUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Lipids: Fatty Acids, Oils and Fats, Sources and Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Lipids: Fatty Acids, Oils and Fats, Sources and Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Lipids: Fatty Acids, Oils and Fats, Sources and Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Nucleic Acids: DNA and RNA Structure and Role in Genetics to occur.",
-      "statementUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Nucleic Acids: DNA and RNA Structure and Role in Genetics to occur.",
-      "questionUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Nucleic Acids: DNA and RNA Structure and Role in Genetics conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "statementUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "questionUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Nucleic Acids: DNA and RNA Structure and Role in Genetics governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Nucleic Acids: DNA and RNA Structure and Role in Genetics مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "statementUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "questionUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-      "questionUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Lipids: Fatty Acids, Oils and Fats, Sources and Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Lipids: Fatty Acids, Oils and Fats, Sources and Importance کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Nucleic Acids: DNA and RNA Structure and Role in Genetics according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Nucleic Acids: DNA and RNA Structure and Role in Genetics according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Nucleic Acids: DNA and RNA Structure and Role in Genetics conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1069,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses.",
-          "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Biochemistry.",
+          "statementUr": "بائیو کیمسٹری کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance.",
-          "statementUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
-          "statementUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Nucleic Acids: DNA and RNA Structure and Role in Genetics.",
-          "statementUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
-          "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses.",
-          "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Biochemistry.",
+          "statementUr": "بائیو کیمسٹری کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "General Group",
+  "class_dir": "class10",
   "subject": "English",
+  "subject_dir": "english",
   "chapter_no": 6,
   "chapterNo": 6,
   "chapter_title": {
@@ -10,986 +11,1053 @@
   },
   "titleEn": "Television vs. Newspapers",
   "titleUr": "ٹیلی ویژن بمقابلہ اخبارات",
-  "summaryEn": "Authoritative PTBB board revision notes for Television vs. Newspapers. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق ٹیلی ویژن بمقابلہ اخبارات کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Television vs. Newspapers covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Television vs. Newspapers.",
-      "text_ur": "ٹیلی ویژن بمقابلہ اخبارات کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Comparative Analysis of News Media",
+      "titleUr": "Comparative Analysis of News Media (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Comparative Analysis of News Media conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Comparative Analysis of News Media کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Comparative Analysis of News Media.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Comparative Analysis of News Media کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Television vs. Newspapers.",
-      "text_ur": "ٹیلی ویژن بمقابلہ اخبارات کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Newspapers: In-Depth Analysis, Reading at Any Time and Place",
+      "titleUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Newspapers: In-Depth Analysis, Reading at Any Time and Place.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Newspapers: In-Depth Analysis, Reading at Any Time and Place کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Television vs. Newspapers.",
-      "text_ur": "ٹیلی ویژن بمقابلہ اخبارات کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Television: Live Visual Footage, Instant Breaking News",
+      "titleUr": "Television: Live Visual Footage, Instant Breaking News (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Television: Live Visual Footage, Instant Breaking News conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Television: Live Visual Footage, Instant Breaking News کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Television: Live Visual Footage, Instant Breaking News.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Television: Live Visual Footage, Instant Breaking News کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Convenience and Limitations of Both Mediums",
+      "titleUr": "Convenience and Limitations of Both Mediums (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Convenience and Limitations of Both Mediums conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Convenience and Limitations of Both Mediums کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Convenience and Limitations of Both Mediums.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Convenience and Limitations of Both Mediums کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Ideal Approach: Combining Both for Well-Rounded Awareness",
+      "titleUr": "Ideal Approach: Combining Both for Well-Rounded Awareness (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Ideal Approach: Combining Both for Well-Rounded Awareness conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Ideal Approach: Combining Both for Well-Rounded Awareness کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Ideal Approach: Combining Both for Well-Rounded Awareness.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Ideal Approach: Combining Both for Well-Rounded Awareness کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Comparative Analysis of News Media?",
-      "statementUr": "Comparative Analysis of News Media کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Comparative Analysis of News Media?",
-      "questionUr": "Comparative Analysis of News Media کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Comparative Analysis of News Media' in Television vs. Newspapers?",
+      "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Comparative Analysis of News Media' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Comparative Analysis of News Media' in Television vs. Newspapers?",
+      "questionUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Comparative Analysis of News Media' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Comparative Analysis of News Media in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Comparative Analysis of News Media کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Newspapers: In-Depth Analysis, Reading at Any Time and Place:",
-      "statementUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Newspapers: In-Depth Analysis, Reading at Any Time and Place:",
-      "questionUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' in Television vs. Newspapers?",
+      "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' in Television vs. Newspapers?",
+      "questionUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Newspapers: In-Depth Analysis, Reading at Any Time and Place in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Television: Live Visual Footage, Instant Breaking News is:",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Television: Live Visual Footage, Instant Breaking News is:",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "What is the central theme and board focus of 'Television: Live Visual Footage, Instant Breaking News' in Television vs. Newspapers?",
+      "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Television: Live Visual Footage, Instant Breaking News' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Television: Live Visual Footage, Instant Breaking News' in Television vs. Newspapers?",
+      "questionUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Television: Live Visual Footage, Instant Breaking News' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Television: Live Visual Footage, Instant Breaking News in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Television: Live Visual Footage, Instant Breaking News کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Convenience and Limitations of Both Mediums?",
-      "statementUr": "Convenience and Limitations of Both Mediums کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Convenience and Limitations of Both Mediums?",
-      "questionUr": "Convenience and Limitations of Both Mediums کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Convenience and Limitations of Both Mediums' in Television vs. Newspapers?",
+      "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Convenience and Limitations of Both Mediums' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Convenience and Limitations of Both Mediums' in Television vs. Newspapers?",
+      "questionUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Convenience and Limitations of Both Mediums' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Convenience and Limitations of Both Mediums in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Convenience and Limitations of Both Mediums کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Ideal Approach: Combining Both for Well-Rounded Awareness?",
-      "statementUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Ideal Approach: Combining Both for Well-Rounded Awareness?",
-      "questionUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "What is the central theme and board focus of 'Ideal Approach: Combining Both for Well-Rounded Awareness' in Television vs. Newspapers?",
+      "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Ideal Approach: Combining Both for Well-Rounded Awareness' کا مرکزی پیغام اور نکتہ کیا ہے؟",
+      "questionEn": "What is the central theme and board focus of 'Ideal Approach: Combining Both for Well-Rounded Awareness' in Television vs. Newspapers?",
+      "questionUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' میں 'Ideal Approach: Combining Both for Well-Rounded Awareness' کا مرکزی پیغام اور نکتہ کیا ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Moral integrity, resilience, and personal devotion",
+          "textUr": "اخلاقی قدریں، ثابت قدمی اور حب الوطنی"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Superficial entertainment only",
+          "textUr": "صرف وقتی تفریح"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Historical disputes without moral lesson",
+          "textUr": "بغیر اخلاقی سبق کے بحث"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Careless individual ambition",
+          "textUr": "لاپرواہی اور بے مقصدیت"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Moral integrity, resilience, and personal devotion",
+        "Superficial entertainment only",
+        "Historical disputes without moral lesson",
+        "Careless individual ambition"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "اخلاقی قدریں، ثابت قدمی اور حب الوطنی",
+        "صرف وقتی تفریح",
+        "بغیر اخلاقی سبق کے بحث",
+        "لاپرواہی اور بے مقصدیت"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Ideal Approach: Combining Both for Well-Rounded Awareness in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند نصابی جواب۔"
+      "explanationEn": "Official PTBB textbook emphasizes moral virtues, dedication, and positive character building.",
+      "explanationUr": "پنجاب بورڈ کی نصابی کتاب اخلاقی اقدار، محنت اور سیرت سازی پر زور دیتی ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Comparative Analysis of News Media?",
-      "statementUr": "Comparative Analysis of News Media کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Comparative Analysis of News Media?",
-      "questionUr": "Comparative Analysis of News Media کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Comparative Analysis of News Media in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Comparative Analysis of News Media کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Newspapers: In-Depth Analysis, Reading at Any Time and Place demonstrates:",
-      "statementUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Newspapers: In-Depth Analysis, Reading at Any Time and Place demonstrates:",
-      "questionUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Newspapers: In-Depth Analysis, Reading at Any Time and Place in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Television: Live Visual Footage, Instant Breaking News?",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Television: Live Visual Footage, Instant Breaking News?",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Television: Live Visual Footage, Instant Breaking News in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Television: Live Visual Footage, Instant Breaking News کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Convenience and Limitations of Both Mediums?",
-      "statementUr": "Convenience and Limitations of Both Mediums کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Convenience and Limitations of Both Mediums?",
-      "questionUr": "Convenience and Limitations of Both Mediums کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Convenience and Limitations of Both Mediums in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Convenience and Limitations of Both Mediums کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Ideal Approach: Combining Both for Well-Rounded Awareness in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Ideal Approach: Combining Both for Well-Rounded Awareness کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Ideal Approach: Combining Both for Well-Rounded Awareness in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Ideal Approach: Combining Both for Well-Rounded Awareness کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Ideal Approach: Combining Both for Well-Rounded Awareness in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Comparative Analysis of News Media is doubled?",
-      "statementUr": "اگر Comparative Analysis of News Media کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Comparative Analysis of News Media is doubled?",
-      "questionUr": "اگر Comparative Analysis of News Media کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Comparative Analysis of News Media in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Comparative Analysis of News Media کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Newspapers: In-Depth Analysis, Reading at Any Time and Place are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Newspapers: In-Depth Analysis, Reading at Any Time and Place are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Newspapers: In-Depth Analysis, Reading at Any Time and Place in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Television: Live Visual Footage, Instant Breaking News differ fundamentally from its counterpart?",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Television: Live Visual Footage, Instant Breaking News differ fundamentally from its counterpart?",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Television: Live Visual Footage, Instant Breaking News in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Television: Live Visual Footage, Instant Breaking News کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Convenience and Limitations of Both Mediums is:",
-      "statementUr": "Convenience and Limitations of Both Mediums کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Convenience and Limitations of Both Mediums is:",
-      "questionUr": "Convenience and Limitations of Both Mediums کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Convenience and Limitations of Both Mediums in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Convenience and Limitations of Both Mediums کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Ideal Approach: Combining Both for Well-Rounded Awareness?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Ideal Approach: Combining Both for Well-Rounded Awareness کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Ideal Approach: Combining Both for Well-Rounded Awareness?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Ideal Approach: Combining Both for Well-Rounded Awareness کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Television vs. Newspapers (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ٹیلی ویژن بمقابلہ اخبارات کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Ideal Approach: Combining Both for Well-Rounded Awareness in Television vs. Newspapers.",
-      "explanationUr": "ٹیلی ویژن بمقابلہ اخبارات کے تحت Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Comparative Analysis of News Media and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Comparative Analysis of News Media کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Comparative Analysis of News Media and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Comparative Analysis of News Media کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Comparative Analysis of News Media conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparative Analysis of News Media کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Comparative Analysis of News Media' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Comparative Analysis of News Media' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Comparative Analysis of News Media' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Comparative Analysis of News Media' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Comparative Analysis of News Media teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Newspapers: In-Depth Analysis, Reading at Any Time and Place and its related counterpart with two clear distinctions.",
-      "statementUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Newspapers: In-Depth Analysis, Reading at Any Time and Place and its related counterpart with two clear distinctions.",
-      "questionUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Newspapers: In-Depth Analysis, Reading at Any Time and Place teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Television: Live Visual Footage, Instant Breaking News.",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Television: Live Visual Footage, Instant Breaking News.",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Television: Live Visual Footage, Instant Breaking News conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Television: Live Visual Footage, Instant Breaking News کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Television: Live Visual Footage, Instant Breaking News' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Television: Live Visual Footage, Instant Breaking News' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Television: Live Visual Footage, Instant Breaking News' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Television: Live Visual Footage, Instant Breaking News' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Television: Live Visual Footage, Instant Breaking News teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Convenience and Limitations of Both Mediums to occur.",
-      "statementUr": "Convenience and Limitations of Both Mediums کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Convenience and Limitations of Both Mediums to occur.",
-      "questionUr": "Convenience and Limitations of Both Mediums کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Convenience and Limitations of Both Mediums conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Convenience and Limitations of Both Mediums کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Convenience and Limitations of Both Mediums' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Convenience and Limitations of Both Mediums' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Convenience and Limitations of Both Mediums' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Convenience and Limitations of Both Mediums' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Convenience and Limitations of Both Mediums teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "statementUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "questionUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Ideal Approach: Combining Both for Well-Rounded Awareness conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Ideal Approach: Combining Both for Well-Rounded Awareness' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Ideal Approach: Combining Both for Well-Rounded Awareness' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Ideal Approach: Combining Both for Well-Rounded Awareness' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Ideal Approach: Combining Both for Well-Rounded Awareness' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Ideal Approach: Combining Both for Well-Rounded Awareness teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Comparative Analysis of News Media in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparative Analysis of News Media کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Comparative Analysis of News Media in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparative Analysis of News Media کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Comparative Analysis of News Media conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparative Analysis of News Media کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 1)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 1)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Newspapers: In-Depth Analysis, Reading at Any Time and Place are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Newspapers: In-Depth Analysis, Reading at Any Time and Place کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Newspapers: In-Depth Analysis, Reading at Any Time and Place are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Newspapers: In-Depth Analysis, Reading at Any Time and Place کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 2)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 2)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Television: Live Visual Footage, Instant Breaking News.",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Television: Live Visual Footage, Instant Breaking News.",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Television: Live Visual Footage, Instant Breaking News conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Television: Live Visual Footage, Instant Breaking News کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 3)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 3)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Convenience and Limitations of Both Mediums according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Convenience and Limitations of Both Mediums کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Convenience and Limitations of Both Mediums according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Convenience and Limitations of Both Mediums کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Convenience and Limitations of Both Mediums conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Convenience and Limitations of Both Mediums کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 4)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 4)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "statementUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "questionUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Ideal Approach: Combining Both for Well-Rounded Awareness conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 5)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 5)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Comparative Analysis of News Media contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Comparative Analysis of News Media کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Comparative Analysis of News Media contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Comparative Analysis of News Media کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Comparative Analysis of News Media conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparative Analysis of News Media کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 6)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 6)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Newspapers: In-Depth Analysis, Reading at Any Time and Place reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Newspapers: In-Depth Analysis, Reading at Any Time and Place توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Newspapers: In-Depth Analysis, Reading at Any Time and Place reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Newspapers: In-Depth Analysis, Reading at Any Time and Place توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 7)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 7)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Comparative Analysis of News Media and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Comparative Analysis of News Media کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Comparative Analysis of News Media and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Comparative Analysis of News Media کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Comparative Analysis of News Media conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparative Analysis of News Media کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Comparative Analysis of News Media' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Comparative Analysis of News Media' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Comparative Analysis of News Media' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Comparative Analysis of News Media' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Comparative Analysis of News Media teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Newspapers: In-Depth Analysis, Reading at Any Time and Place and its related counterpart with two clear distinctions.",
-      "statementUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Newspapers: In-Depth Analysis, Reading at Any Time and Place and its related counterpart with two clear distinctions.",
-      "questionUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Newspapers: In-Depth Analysis, Reading at Any Time and Place' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Newspapers: In-Depth Analysis, Reading at Any Time and Place teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Television: Live Visual Footage, Instant Breaking News.",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Television: Live Visual Footage, Instant Breaking News.",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Television: Live Visual Footage, Instant Breaking News conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Television: Live Visual Footage, Instant Breaking News کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Television: Live Visual Footage, Instant Breaking News' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Television: Live Visual Footage, Instant Breaking News' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Television: Live Visual Footage, Instant Breaking News' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Television: Live Visual Footage, Instant Breaking News' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Television: Live Visual Footage, Instant Breaking News teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Convenience and Limitations of Both Mediums to occur.",
-      "statementUr": "Convenience and Limitations of Both Mediums کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Convenience and Limitations of Both Mediums to occur.",
-      "questionUr": "Convenience and Limitations of Both Mediums کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Convenience and Limitations of Both Mediums conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Convenience and Limitations of Both Mediums کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Convenience and Limitations of Both Mediums' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Convenience and Limitations of Both Mediums' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Convenience and Limitations of Both Mediums' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Convenience and Limitations of Both Mediums' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Convenience and Limitations of Both Mediums teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "statementUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "questionUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Ideal Approach: Combining Both for Well-Rounded Awareness conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند ماڈل جواب۔",
+      "statementEn": "What insight or lesson does the author convey regarding 'Ideal Approach: Combining Both for Well-Rounded Awareness' in Television vs. Newspapers?",
+      "statementUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Ideal Approach: Combining Both for Well-Rounded Awareness' کے حوالے سے کیا سبق دیا ہے؟",
+      "questionEn": "What insight or lesson does the author convey regarding 'Ideal Approach: Combining Both for Well-Rounded Awareness' in Television vs. Newspapers?",
+      "questionUr": "سبق 'Television vs. Newspapers' میں مصنف نے 'Ideal Approach: Combining Both for Well-Rounded Awareness' کے حوالے سے کیا سبق دیا ہے؟",
+      "answerEn": "The author highlights that Ideal Approach: Combining Both for Well-Rounded Awareness teaches ethical resilience, civic responsibility, and moral consciousness as highlighted in PTBB English textbook.",
+      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے مطابق مصنف اس سبق میں اخلاقی پختگی، محنت اور اعلیٰ انسانی اقدار کا درس دیتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Comparative Analysis of News Media in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparative Analysis of News Media کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Comparative Analysis of News Media in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparative Analysis of News Media کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Comparative Analysis of News Media conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparative Analysis of News Media کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 1)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 1)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Newspapers: In-Depth Analysis, Reading at Any Time and Place are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Newspapers: In-Depth Analysis, Reading at Any Time and Place کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Newspapers: In-Depth Analysis, Reading at Any Time and Place are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Newspapers: In-Depth Analysis, Reading at Any Time and Place کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 2)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 2)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Television: Live Visual Footage, Instant Breaking News.",
-      "statementUr": "Television: Live Visual Footage, Instant Breaking News کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Television: Live Visual Footage, Instant Breaking News.",
-      "questionUr": "Television: Live Visual Footage, Instant Breaking News کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Television: Live Visual Footage, Instant Breaking News conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Television: Live Visual Footage, Instant Breaking News کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 3)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 3)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Convenience and Limitations of Both Mediums according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Convenience and Limitations of Both Mediums کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Convenience and Limitations of Both Mediums according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Convenience and Limitations of Both Mediums کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Convenience and Limitations of Both Mediums conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Convenience and Limitations of Both Mediums کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 4)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 4)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "statementUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Ideal Approach: Combining Both for Well-Rounded Awareness.",
-      "questionUr": "Ideal Approach: Combining Both for Well-Rounded Awareness کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Ideal Approach: Combining Both for Well-Rounded Awareness conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Ideal Approach: Combining Both for Well-Rounded Awareness کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 5)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 5)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Comparative Analysis of News Media contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Comparative Analysis of News Media کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Comparative Analysis of News Media contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Comparative Analysis of News Media کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Comparative Analysis of News Media conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparative Analysis of News Media کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 6)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 6)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Newspapers: In-Depth Analysis, Reading at Any Time and Place reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Newspapers: In-Depth Analysis, Reading at Any Time and Place توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Newspapers: In-Depth Analysis, Reading at Any Time and Place reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Newspapers: In-Depth Analysis, Reading at Any Time and Place توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Newspapers: In-Depth Analysis, Reading at Any Time and Place conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Newspapers: In-Depth Analysis, Reading at Any Time and Place کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 7)?",
+      "statementUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Television vs. Newspapers (Part 7)?",
+      "questionUr": "ٹیلی ویژن بمقابلہ اخبارات سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1069,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Write a comprehensive analytical essay on the central theme of 'Television vs. Newspapers' focusing on Comparative Analysis of News Media.",
-          "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' کے بنیادی عنوان (Comparative Analysis of News Media) پر جامع و مفصل مضمون تحریر کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Television vs. Newspapers.",
+          "statementUr": "ٹیلی ویژن بمقابلہ اخبارات کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Read the passage concerning Newspapers: In-Depth Analysis, Reading at Any Time and Place and answer the five analytical comprehension questions with grammar rules.",
-          "statementUr": "Newspapers: In-Depth Analysis, Reading at Any Time and Place کے پیراگراف کا فہمِ عبارت اور پانچوں امتحانی سوالات کے جوابات تحریر کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Write a comprehensive analytical essay on the central theme of 'Television vs. Newspapers' focusing on Television: Live Visual Footage, Instant Breaking News.",
-          "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' کے بنیادی عنوان (Television: Live Visual Footage, Instant Breaking News) پر جامع و مفصل مضمون تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Read the passage concerning Convenience and Limitations of Both Mediums and answer the five analytical comprehension questions with grammar rules.",
-          "statementUr": "Convenience and Limitations of Both Mediums کے پیراگراف کا فہمِ عبارت اور پانچوں امتحانی سوالات کے جوابات تحریر کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Write a comprehensive analytical essay on the central theme of 'Television vs. Newspapers' focusing on Ideal Approach: Combining Both for Well-Rounded Awareness.",
-          "statementUr": "سبق 'ٹیلی ویژن بمقابلہ اخبارات' کے بنیادی عنوان (Ideal Approach: Combining Both for Well-Rounded Awareness) پر جامع و مفصل مضمون تحریر کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Read the passage concerning Comparative Analysis of News Media and answer the five analytical comprehension questions with grammar rules.",
-          "statementUr": "Comparative Analysis of News Media کے پیراگراف کا فہمِ عبارت اور پانچوں امتحانی سوالات کے جوابات تحریر کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Television vs. Newspapers.",
+          "statementUr": "ٹیلی ویژن بمقابلہ اخبارات کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

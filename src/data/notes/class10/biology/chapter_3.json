@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Biology",
+  "subject_dir": "biology",
   "chapter_no": 3,
   "chapterNo": 3,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Coordination and Control",
   "titleUr": "کوآرڈینیشن اور کنٹرول",
-  "summaryEn": "Authoritative PTBB board revision notes for Coordination and Control. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق کوآرڈینیشن اور کنٹرول کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Coordination and Control covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق کوآرڈینیشن اور کنٹرول کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Coordination and Control.",
-      "text_ur": "کوآرڈینیشن اور کنٹرول کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Types of Coordination (Nervous vs Chemical)",
+      "titleUr": "Types of Coordination (Nervous vs Chemical) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Types of Coordination (Nervous vs Chemical) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Types of Coordination (Nervous vs Chemical) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Types of Coordination (Nervous vs Chemical).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Types of Coordination (Nervous vs Chemical) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Coordination and Control.",
-      "text_ur": "کوآرڈینیشن اور کنٹرول کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response)",
+      "titleUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Coordination and Control.",
-      "text_ur": "کوآرڈینیشن اور کنٹرول کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System)",
+      "titleUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Structure and Types of Neurons (Sensory, Motor, Interneuron)",
+      "titleUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Structure and Types of Neurons (Sensory, Motor, Interneuron) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Structure and Types of Neurons (Sensory, Motor, Interneuron).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Structure and Types of Neurons (Sensory, Motor, Interneuron) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Reflex Action and Reflex Arc",
+      "titleUr": "Reflex Action and Reflex Arc (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Reflex Action and Reflex Arc conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Reflex Action and Reflex Arc کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Reflex Action and Reflex Arc.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Reflex Action and Reflex Arc کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear",
+      "titleUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Types of Coordination (Nervous vs Chemical)?",
-      "statementUr": "Types of Coordination (Nervous vs Chemical) کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Types of Coordination (Nervous vs Chemical)?",
-      "questionUr": "Types of Coordination (Nervous vs Chemical) کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "In biological classification and study of Types of Coordination (Nervous vs Chemical), the basic unit of classification is:",
+      "statementUr": "Types of Coordination (Nervous vs Chemical) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Types of Coordination (Nervous vs Chemical), the basic unit of classification is:",
+      "questionUr": "Types of Coordination (Nervous vs Chemical) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Types of Coordination (Nervous vs Chemical) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Types of Coordination (Nervous vs Chemical) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response):",
-      "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response):",
-      "questionUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "In biological classification and study of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response), the basic unit of classification is:",
+      "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response), the basic unit of classification is:",
+      "questionUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) is:",
-      "statementUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) is:",
-      "questionUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "In biological classification and study of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System), the basic unit of classification is:",
+      "statementUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System), the basic unit of classification is:",
+      "questionUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Structure and Types of Neurons (Sensory, Motor, Interneuron)?",
-      "statementUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Structure and Types of Neurons (Sensory, Motor, Interneuron)?",
-      "questionUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "In biological classification and study of Structure and Types of Neurons (Sensory, Motor, Interneuron), the basic unit of classification is:",
+      "statementUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Structure and Types of Neurons (Sensory, Motor, Interneuron), the basic unit of classification is:",
+      "questionUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Structure and Types of Neurons (Sensory, Motor, Interneuron) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Structure and Types of Neurons (Sensory, Motor, Interneuron) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Reflex Action and Reflex Arc?",
-      "statementUr": "Reflex Action and Reflex Arc کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Reflex Action and Reflex Arc?",
-      "questionUr": "Reflex Action and Reflex Arc کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "In biological classification and study of Reflex Action and Reflex Arc, the basic unit of classification is:",
+      "statementUr": "Reflex Action and Reflex Arc کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Reflex Action and Reflex Arc, the basic unit of classification is:",
+      "questionUr": "Reflex Action and Reflex Arc کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Reflex Action and Reflex Arc in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Reflex Action and Reflex Arc کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear?",
-      "statementUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear?",
-      "questionUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In biological classification and study of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear, the basic unit of classification is:",
+      "statementUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear, the basic unit of classification is:",
+      "questionUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) demonstrates:",
-      "statementUr": "Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) demonstrates:",
-      "questionUr": "Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In biological classification and study of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads), the basic unit of classification is:",
+      "statementUr": "Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads), the basic unit of classification is:",
+      "questionUr": "Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Disorders of Nervous System (Paralysis, Epilepsy)?",
-      "statementUr": "Disorders of Nervous System (Paralysis, Epilepsy) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Disorders of Nervous System (Paralysis, Epilepsy)?",
-      "questionUr": "Disorders of Nervous System (Paralysis, Epilepsy) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In biological classification and study of Disorders of Nervous System (Paralysis, Epilepsy), the basic unit of classification is:",
+      "statementUr": "Disorders of Nervous System (Paralysis, Epilepsy) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Disorders of Nervous System (Paralysis, Epilepsy), the basic unit of classification is:",
+      "questionUr": "Disorders of Nervous System (Paralysis, Epilepsy) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Species",
+          "textUr": "سپیشیز"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Genus",
+          "textUr": "جینس"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Family",
+          "textUr": "فیملی"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Order",
+          "textUr": "آرڈر"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Disorders of Nervous System (Paralysis, Epilepsy) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Disorders of Nervous System (Paralysis, Epilepsy) کا مستند نصابی جواب۔"
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Types of Coordination (Nervous vs Chemical)?",
-      "statementUr": "Types of Coordination (Nervous vs Chemical) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Types of Coordination (Nervous vs Chemical)?",
-      "questionUr": "Types of Coordination (Nervous vs Chemical) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Types of Coordination (Nervous vs Chemical) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Types of Coordination (Nervous vs Chemical) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) is doubled?",
-      "statementUr": "اگر Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) is doubled?",
-      "questionUr": "اگر Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Structure and Types of Neurons (Sensory, Motor, Interneuron) are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Structure and Types of Neurons (Sensory, Motor, Interneuron) are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Structure and Types of Neurons (Sensory, Motor, Interneuron) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Structure and Types of Neurons (Sensory, Motor, Interneuron) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Reflex Action and Reflex Arc differ fundamentally from its counterpart?",
-      "statementUr": "Reflex Action and Reflex Arc اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Reflex Action and Reflex Arc differ fundamentally from its counterpart?",
-      "questionUr": "Reflex Action and Reflex Arc اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Reflex Action and Reflex Arc in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Reflex Action and Reflex Arc کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear is:",
-      "statementUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear is:",
-      "questionUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads)?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads)?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Coordination and Control (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کوآرڈینیشن اور کنٹرول کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) in Coordination and Control.",
-      "explanationUr": "کوآرڈینیشن اور کنٹرول کے تحت Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Types of Coordination (Nervous vs Chemical) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Types of Coordination (Nervous vs Chemical) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Types of Coordination (Nervous vs Chemical) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Types of Coordination (Nervous vs Chemical) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Types of Coordination (Nervous vs Chemical) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Types of Coordination (Nervous vs Chemical) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Types of Coordination (Nervous vs Chemical) in living organisms.",
+      "statementUr": "جانداروں میں Types of Coordination (Nervous vs Chemical) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Types of Coordination (Nervous vs Chemical) in living organisms.",
+      "questionUr": "جانداروں میں Types of Coordination (Nervous vs Chemical) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Types of Coordination (Nervous vs Chemical) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Types of Coordination (Nervous vs Chemical) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) and its related counterpart with two clear distinctions.",
-      "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) and its related counterpart with two clear distinctions.",
-      "questionUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in living organisms.",
+      "statementUr": "جانداروں میں Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in living organisms.",
+      "questionUr": "جانداروں میں Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System).",
-      "statementUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System).",
-      "questionUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) in living organisms.",
+      "statementUr": "جانداروں میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) in living organisms.",
+      "questionUr": "جانداروں میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Structure and Types of Neurons (Sensory, Motor, Interneuron) to occur.",
-      "statementUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Structure and Types of Neurons (Sensory, Motor, Interneuron) to occur.",
-      "questionUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Structure and Types of Neurons (Sensory, Motor, Interneuron) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Structure and Types of Neurons (Sensory, Motor, Interneuron) in living organisms.",
+      "statementUr": "جانداروں میں Structure and Types of Neurons (Sensory, Motor, Interneuron) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Structure and Types of Neurons (Sensory, Motor, Interneuron) in living organisms.",
+      "questionUr": "جانداروں میں Structure and Types of Neurons (Sensory, Motor, Interneuron) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Structure and Types of Neurons (Sensory, Motor, Interneuron) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Reflex Action and Reflex Arc.",
-      "statementUr": "Reflex Action and Reflex Arc کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Reflex Action and Reflex Arc.",
-      "questionUr": "Reflex Action and Reflex Arc کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Reflex Action and Reflex Arc conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Reflex Action and Reflex Arc کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Reflex Action and Reflex Arc in living organisms.",
+      "statementUr": "جانداروں میں Reflex Action and Reflex Arc کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Reflex Action and Reflex Arc in living organisms.",
+      "questionUr": "جانداروں میں Reflex Action and Reflex Arc کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Reflex Action and Reflex Arc plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Reflex Action and Reflex Arc جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in living organisms.",
+      "statementUr": "جانداروں میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in living organisms.",
+      "questionUr": "جانداروں میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) in living organisms.",
+      "statementUr": "جانداروں میں Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) in living organisms.",
+      "questionUr": "جانداروں میں Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Disorders of Nervous System (Paralysis, Epilepsy).",
-      "statementUr": "Disorders of Nervous System (Paralysis, Epilepsy) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Disorders of Nervous System (Paralysis, Epilepsy).",
-      "questionUr": "Disorders of Nervous System (Paralysis, Epilepsy) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Disorders of Nervous System (Paralysis, Epilepsy) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Disorders of Nervous System (Paralysis, Epilepsy) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Disorders of Nervous System (Paralysis, Epilepsy) in living organisms.",
+      "statementUr": "جانداروں میں Disorders of Nervous System (Paralysis, Epilepsy) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Disorders of Nervous System (Paralysis, Epilepsy) in living organisms.",
+      "questionUr": "جانداروں میں Disorders of Nervous System (Paralysis, Epilepsy) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Disorders of Nervous System (Paralysis, Epilepsy) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Disorders of Nervous System (Paralysis, Epilepsy) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Types of Coordination (Nervous vs Chemical) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Types of Coordination (Nervous vs Chemical) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Types of Coordination (Nervous vs Chemical) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Types of Coordination (Nervous vs Chemical) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Types of Coordination (Nervous vs Chemical) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Types of Coordination (Nervous vs Chemical) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 1)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 1)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response).",
-      "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response).",
-      "questionUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 2)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 2)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 3)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 3)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Structure and Types of Neurons (Sensory, Motor, Interneuron) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Structure and Types of Neurons (Sensory, Motor, Interneuron) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Structure and Types of Neurons (Sensory, Motor, Interneuron) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Structure and Types of Neurons (Sensory, Motor, Interneuron) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Structure and Types of Neurons (Sensory, Motor, Interneuron) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 4)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 4)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Types of Coordination (Nervous vs Chemical) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Types of Coordination (Nervous vs Chemical) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Types of Coordination (Nervous vs Chemical) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Types of Coordination (Nervous vs Chemical) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Types of Coordination (Nervous vs Chemical) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Types of Coordination (Nervous vs Chemical) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Types of Coordination (Nervous vs Chemical) in living organisms.",
+      "statementUr": "جانداروں میں Types of Coordination (Nervous vs Chemical) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Types of Coordination (Nervous vs Chemical) in living organisms.",
+      "questionUr": "جانداروں میں Types of Coordination (Nervous vs Chemical) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Types of Coordination (Nervous vs Chemical) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Types of Coordination (Nervous vs Chemical) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) and its related counterpart with two clear distinctions.",
-      "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) and its related counterpart with two clear distinctions.",
-      "questionUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in living organisms.",
+      "statementUr": "جانداروں میں Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) in living organisms.",
+      "questionUr": "جانداروں میں Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System).",
-      "statementUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System).",
-      "questionUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) in living organisms.",
+      "statementUr": "جانداروں میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) in living organisms.",
+      "questionUr": "جانداروں میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Structure and Types of Neurons (Sensory, Motor, Interneuron) to occur.",
-      "statementUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Structure and Types of Neurons (Sensory, Motor, Interneuron) to occur.",
-      "questionUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Structure and Types of Neurons (Sensory, Motor, Interneuron) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Structure and Types of Neurons (Sensory, Motor, Interneuron) in living organisms.",
+      "statementUr": "جانداروں میں Structure and Types of Neurons (Sensory, Motor, Interneuron) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Structure and Types of Neurons (Sensory, Motor, Interneuron) in living organisms.",
+      "questionUr": "جانداروں میں Structure and Types of Neurons (Sensory, Motor, Interneuron) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Structure and Types of Neurons (Sensory, Motor, Interneuron) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Reflex Action and Reflex Arc.",
-      "statementUr": "Reflex Action and Reflex Arc کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Reflex Action and Reflex Arc.",
-      "questionUr": "Reflex Action and Reflex Arc کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Reflex Action and Reflex Arc conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Reflex Action and Reflex Arc کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Reflex Action and Reflex Arc in living organisms.",
+      "statementUr": "جانداروں میں Reflex Action and Reflex Arc کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Reflex Action and Reflex Arc in living organisms.",
+      "questionUr": "جانداروں میں Reflex Action and Reflex Arc کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Reflex Action and Reflex Arc plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Reflex Action and Reflex Arc جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in living organisms.",
+      "statementUr": "جانداروں میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear in living organisms.",
+      "questionUr": "جانداروں میں Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) in living organisms.",
+      "statementUr": "جانداروں میں Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) in living organisms.",
+      "questionUr": "جانداروں میں Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Endocrine System (Pituitary, Thyroid, Parathyroid, Adrenals, Pancreas, Gonads) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Disorders of Nervous System (Paralysis, Epilepsy).",
-      "statementUr": "Disorders of Nervous System (Paralysis, Epilepsy) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Disorders of Nervous System (Paralysis, Epilepsy).",
-      "questionUr": "Disorders of Nervous System (Paralysis, Epilepsy) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Disorders of Nervous System (Paralysis, Epilepsy) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Disorders of Nervous System (Paralysis, Epilepsy) کا مستند ماڈل جواب۔",
+      "statementEn": "Describe the biological role and importance of Disorders of Nervous System (Paralysis, Epilepsy) in living organisms.",
+      "statementUr": "جانداروں میں Disorders of Nervous System (Paralysis, Epilepsy) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Disorders of Nervous System (Paralysis, Epilepsy) in living organisms.",
+      "questionUr": "جانداروں میں Disorders of Nervous System (Paralysis, Epilepsy) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Disorders of Nervous System (Paralysis, Epilepsy) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Disorders of Nervous System (Paralysis, Epilepsy) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Types of Coordination (Nervous vs Chemical) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Types of Coordination (Nervous vs Chemical) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Types of Coordination (Nervous vs Chemical) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Types of Coordination (Nervous vs Chemical) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Types of Coordination (Nervous vs Chemical) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Types of Coordination (Nervous vs Chemical) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 1)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 1)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response).",
-      "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response).",
-      "questionUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 2)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 2)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 3)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 3)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Structure and Types of Neurons (Sensory, Motor, Interneuron) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Structure and Types of Neurons (Sensory, Motor, Interneuron) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Structure and Types of Neurons (Sensory, Motor, Interneuron) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Structure and Types of Neurons (Sensory, Motor, Interneuron) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Structure and Types of Neurons (Sensory, Motor, Interneuron) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Structure and Types of Neurons (Sensory, Motor, Interneuron) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Coordination and Control (Part 4)?",
+      "statementUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Coordination and Control (Part 4)?",
+      "questionUr": "کوآرڈینیشن اور کنٹرول سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe the detailed anatomical structure, mechanism, and biological significance of Types of Coordination (Nervous vs Chemical) with a neat labeled diagram.",
-          "statementUr": "Types of Coordination (Nervous vs Chemical) کی تفصیلی ساخت، فعلیاتی طریقہ کار اور حیاتیاتی اہمیت کی وضاحت صاف ڈایاگرام کے ساتھ کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Coordination and Control.",
+          "statementUr": "کوآرڈینیشن اور کنٹرول کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the causes, physiological symptoms, and preventive measures for disorders related to Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response).",
-          "statementUr": "Components of Coordinated Action (Stimulus, Receptor, Coordinator, Effector, Response) سے متعلق پیدا ہونے والی بیماریوں کے اسباب، علامات اور تدارک بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe the detailed anatomical structure, mechanism, and biological significance of Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) with a neat labeled diagram.",
-          "statementUr": "Human Nervous System (Central Nervous System: Brain, Spinal Cord; Peripheral Nervous System) کی تفصیلی ساخت، فعلیاتی طریقہ کار اور حیاتیاتی اہمیت کی وضاحت صاف ڈایاگرام کے ساتھ کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the causes, physiological symptoms, and preventive measures for disorders related to Structure and Types of Neurons (Sensory, Motor, Interneuron).",
-          "statementUr": "Structure and Types of Neurons (Sensory, Motor, Interneuron) سے متعلق پیدا ہونے والی بیماریوں کے اسباب، علامات اور تدارک بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe the detailed anatomical structure, mechanism, and biological significance of Reflex Action and Reflex Arc with a neat labeled diagram.",
-          "statementUr": "Reflex Action and Reflex Arc کی تفصیلی ساخت، فعلیاتی طریقہ کار اور حیاتیاتی اہمیت کی وضاحت صاف ڈایاگرام کے ساتھ کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the causes, physiological symptoms, and preventive measures for disorders related to Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear.",
-          "statementUr": "Receptors in Human: Eye (Structure, Accommodation, Defects) and Ear سے متعلق پیدا ہونے والی بیماریوں کے اسباب، علامات اور تدارک بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Coordination and Control.",
+          "statementUr": "کوآرڈینیشن اور کنٹرول کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

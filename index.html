@@ -18,6 +18,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Gulzar&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
     <script src="/assets/ptbb-master-qb.js"></script>
+    <script src="/assets/ptbb-master-notes.js"></script>
     <script type="module" crossorigin src="/assets/index-DAioIUjd.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-DIwX0F6R.css">
     <style>
@@ -288,7 +289,7 @@
         }
 
         /* Hide all outer card boxes that are NOT the document being printed */
-        .card-3d:not(#exam-paper-container):not(#exam-paper-objective-sheet):not(#exam-paper-subjective-sheet):not(#datesheet-print-container):not(#resultcard-print-container):not(#mastersheet-print-container):not(#answer-key-print-content):not(#bubble-sheet-print-container) {
+        .card-3d:not(#exam-paper-container):not(#exam-paper-objective-sheet):not(#exam-paper-subjective-sheet):not(#datesheet-print-container):not(#resultcard-print-container):not(#mastersheet-print-container):not(#answer-key-print-content):not(#bubble-sheet-print-container):not(#notes-printable-container) {
           display: none !important;
           visibility: hidden !important;
           height: 0 !important;
@@ -316,6 +317,7 @@
         #mastersheet-print-container,
         #answer-key-print-content,
         #bubble-sheet-print-container,
+        #notes-printable-container,
         .exam-paper {
           display: block !important;
           visibility: visible !important;
@@ -1169,7 +1171,8 @@
         #resultcard-print-container,
         #mastersheet-print-container,
         #answer-key-print-content,
-        #bubble-sheet-print-container {
+        #bubble-sheet-print-container,
+        #notes-printable-container {
           overflow-x: auto !important;
           -webkit-overflow-scrolling: touch !important;
           padding: 0.25rem !important;
@@ -1216,7 +1219,7 @@
         aside, header, nav, .btn-3d, .segmented-control, .no-print {
           display: none !important;
         }
-        .exam-paper, #exam-paper-container, #exam-paper-objective-sheet, #exam-paper-subjective-sheet, #datesheet-print-container, #resultcard-print-container, #mastersheet-print-container {
+        .exam-paper, #exam-paper-container, #exam-paper-objective-sheet, #exam-paper-subjective-sheet, #datesheet-print-container, #resultcard-print-container, #mastersheet-print-container, #notes-printable-container {
           min-width: 100% !important;
           max-width: 100% !important;
           width: 100% !important;

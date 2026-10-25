@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Computer",
+  "subject_dir": "computer",
   "chapter_no": 3,
   "chapterNo": 3,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Conditional Logic",
   "titleUr": "کنڈیشنل لاجک (if, if-else, switch)",
-  "summaryEn": "Authoritative PTBB board revision notes for Conditional Logic. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق کنڈیشنل لاجک (if, if-else, switch) کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Conditional Logic covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Conditional Logic.",
-      "text_ur": "کنڈیشنل لاجک (if, if-else, switch) کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Sequential vs Selection Control Structures",
+      "titleUr": "Sequential vs Selection Control Structures (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Sequential vs Selection Control Structures conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Sequential vs Selection Control Structures کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Sequential vs Selection Control Structures.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Sequential vs Selection Control Structures کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Conditional Logic.",
-      "text_ur": "کنڈیشنل لاجک (if, if-else, switch) کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "if Statement (Syntax, Flowchart, Usage)",
+      "titleUr": "if Statement (Syntax, Flowchart, Usage) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of if Statement (Syntax, Flowchart, Usage) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق if Statement (Syntax, Flowchart, Usage) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of if Statement (Syntax, Flowchart, Usage).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "if Statement (Syntax, Flowchart, Usage) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Conditional Logic.",
-      "text_ur": "کنڈیشنل لاجک (if, if-else, switch) کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "if-else Statement",
+      "titleUr": "if-else Statement (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of if-else Statement conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق if-else Statement کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of if-else Statement.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "if-else Statement کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Nested if-else and if-else-if Ladder",
+      "titleUr": "Nested if-else and if-else-if Ladder (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Nested if-else and if-else-if Ladder conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Nested if-else and if-else-if Ladder کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Nested if-else and if-else-if Ladder.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Nested if-else and if-else-if Ladder کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "switch Statement (break, default keywords)",
+      "titleUr": "switch Statement (break, default keywords) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of switch Statement (break, default keywords) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق switch Statement (break, default keywords) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of switch Statement (break, default keywords).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "switch Statement (break, default keywords) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Comparison between if-else-if ladder and switch statement",
+      "titleUr": "Comparison between if-else-if ladder and switch statement (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Comparison between if-else-if ladder and switch statement conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Comparison between if-else-if ladder and switch statement کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Comparison between if-else-if ladder and switch statement.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Comparison between if-else-if ladder and switch statement کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Sequential vs Selection Control Structures?",
-      "statementUr": "Sequential vs Selection Control Structures کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Sequential vs Selection Control Structures?",
-      "questionUr": "Sequential vs Selection Control Structures کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "In C language programming, every executable statement must terminate with a:",
+      "statementUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "questionEn": "In C language programming, every executable statement must terminate with a:",
+      "questionUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Semicolon (;)",
+          "textUr": "سیمی کولن (;)"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Colon (:)",
+          "textUr": "کولن (:)"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Period (.)",
+          "textUr": "فل سٹاپ (.)"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Comma (,)",
+          "textUr": "کوما (,)"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Semicolon (;)",
+        "Colon (:)",
+        "Period (.)",
+        "Comma (,)"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "سیمی کولن (;)",
+        "کولن (:)",
+        "فل سٹاپ (.)",
+        "کوما (,)"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sequential vs Selection Control Structures in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Sequential vs Selection Control Structures کا مستند نصابی جواب۔"
+      "explanationEn": "Statements in C language conclude with a statement terminator semicolon (;).",
+      "explanationUr": "سی لینگویج میں سٹیٹمنٹ ٹرمینیٹر سیمی کولن ہوتا ہے۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for if Statement (Syntax, Flowchart, Usage):",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for if Statement (Syntax, Flowchart, Usage):",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "In a standard flowchart, which symbol is used to represent decision making?",
+      "statementUr": "معیاری فلو چارٹ میں فیصلہ سازی (Decision Making) کے لیے کون سی علامت استعمال ہوتی ہے؟",
+      "questionEn": "In a standard flowchart, which symbol is used to represent decision making?",
+      "questionUr": "معیاری فلو چارٹ میں فیصلہ سازی (Decision Making) کے لیے کون سی علامت استعمال ہوتی ہے؟",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Diamond (Rhombus)",
+          "textUr": "ڈائمنڈ (معین)"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Rectangle",
+          "textUr": "مستطیل"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Oval",
+          "textUr": "بیضوی"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Parallelogram",
+          "textUr": "متوازی الاضلاع"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Diamond (Rhombus)",
+        "Rectangle",
+        "Oval",
+        "Parallelogram"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "ڈائمنڈ (معین)",
+        "مستطیل",
+        "بیضوی",
+        "متوازی الاضلاع"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for if Statement (Syntax, Flowchart, Usage) in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت if Statement (Syntax, Flowchart, Usage) کا مستند نصابی جواب۔"
+      "explanationEn": "A diamond symbol is evaluated for true/false or yes/no conditions.",
+      "explanationUr": "فلو چارٹ میں شرائط اور فیصلے کے لیے ڈائمنڈ کی علامت لگائی جاتی ہے۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with if-else Statement is:",
-      "statementUr": "if-else Statement سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with if-else Statement is:",
-      "questionUr": "if-else Statement سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for if-else Statement in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت if-else Statement کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Nested if-else and if-else-if Ladder?",
-      "statementUr": "Nested if-else and if-else-if Ladder کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Nested if-else and if-else-if Ladder?",
-      "questionUr": "Nested if-else and if-else-if Ladder کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Nested if-else and if-else-if Ladder in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Nested if-else and if-else-if Ladder کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of switch Statement (break, default keywords)?",
-      "statementUr": "switch Statement (break, default keywords) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of switch Statement (break, default keywords)?",
-      "questionUr": "switch Statement (break, default keywords) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for switch Statement (break, default keywords) in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت switch Statement (break, default keywords) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Comparison between if-else-if ladder and switch statement?",
-      "statementUr": "Comparison between if-else-if ladder and switch statement کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Comparison between if-else-if ladder and switch statement?",
-      "questionUr": "Comparison between if-else-if ladder and switch statement کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Comparison between if-else-if ladder and switch statement in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Comparison between if-else-if ladder and switch statement کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Sequential vs Selection Control Structures demonstrates:",
-      "statementUr": "Sequential vs Selection Control Structures میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Sequential vs Selection Control Structures demonstrates:",
-      "questionUr": "Sequential vs Selection Control Structures میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sequential vs Selection Control Structures in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Sequential vs Selection Control Structures کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine if Statement (Syntax, Flowchart, Usage)?",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine if Statement (Syntax, Flowchart, Usage)?",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for if Statement (Syntax, Flowchart, Usage) in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت if Statement (Syntax, Flowchart, Usage) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of if-else Statement?",
-      "statementUr": "if-else Statement کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of if-else Statement?",
-      "questionUr": "if-else Statement کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for if-else Statement in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت if-else Statement کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Nested if-else and if-else-if Ladder in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Nested if-else and if-else-if Ladder کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Nested if-else and if-else-if Ladder in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Nested if-else and if-else-if Ladder کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Nested if-else and if-else-if Ladder in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Nested if-else and if-else-if Ladder کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of switch Statement (break, default keywords) is doubled?",
-      "statementUr": "اگر switch Statement (break, default keywords) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of switch Statement (break, default keywords) is doubled?",
-      "questionUr": "اگر switch Statement (break, default keywords) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for switch Statement (break, default keywords) in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت switch Statement (break, default keywords) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Comparison between if-else-if ladder and switch statement are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Comparison between if-else-if ladder and switch statement کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Comparison between if-else-if ladder and switch statement are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Comparison between if-else-if ladder and switch statement کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Comparison between if-else-if ladder and switch statement in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Comparison between if-else-if ladder and switch statement کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Sequential vs Selection Control Structures differ fundamentally from its counterpart?",
-      "statementUr": "Sequential vs Selection Control Structures اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Sequential vs Selection Control Structures differ fundamentally from its counterpart?",
-      "questionUr": "Sequential vs Selection Control Structures اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sequential vs Selection Control Structures in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت Sequential vs Selection Control Structures کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for if Statement (Syntax, Flowchart, Usage) is:",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for if Statement (Syntax, Flowchart, Usage) is:",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 12) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 12) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for if Statement (Syntax, Flowchart, Usage) in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت if Statement (Syntax, Flowchart, Usage) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of if-else Statement?",
-      "statementUr": "کون سا بنیادی سائنسی قانون if-else Statement کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of if-else Statement?",
-      "questionUr": "کون سا بنیادی سائنسی قانون if-else Statement کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 13) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Conditional Logic (Concept 13) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کنڈیشنل لاجک (if, if-else, switch) کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for if-else Statement in Conditional Logic.",
-      "explanationUr": "کنڈیشنل لاجک (if, if-else, switch) کے تحت if-else Statement کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Sequential vs Selection Control Structures and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Sequential vs Selection Control Structures کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Sequential vs Selection Control Structures and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Sequential vs Selection Control Structures کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Sequential vs Selection Control Structures conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sequential vs Selection Control Structures کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Sequential vs Selection Control Structures? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Sequential vs Selection Control Structures سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Sequential vs Selection Control Structures? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Sequential vs Selection Control Structures سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Sequential vs Selection Control Structures is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Sequential vs Selection Control Structures ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between if Statement (Syntax, Flowchart, Usage) and its related counterpart with two clear distinctions.",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between if Statement (Syntax, Flowchart, Usage) and its related counterpart with two clear distinctions.",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for if Statement (Syntax, Flowchart, Usage) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if Statement (Syntax, Flowchart, Usage) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by if Statement (Syntax, Flowchart, Usage)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں if Statement (Syntax, Flowchart, Usage) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by if Statement (Syntax, Flowchart, Usage)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں if Statement (Syntax, Flowchart, Usage) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, if Statement (Syntax, Flowchart, Usage) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں if Statement (Syntax, Flowchart, Usage) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of if-else Statement.",
-      "statementUr": "if-else Statement کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of if-else Statement.",
-      "questionUr": "if-else Statement کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for if-else Statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if-else Statement کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by if-else Statement? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں if-else Statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by if-else Statement? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں if-else Statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, if-else Statement is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں if-else Statement ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Nested if-else and if-else-if Ladder to occur.",
-      "statementUr": "Nested if-else and if-else-if Ladder کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Nested if-else and if-else-if Ladder to occur.",
-      "questionUr": "Nested if-else and if-else-if Ladder کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Nested if-else and if-else-if Ladder conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nested if-else and if-else-if Ladder کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Nested if-else and if-else-if Ladder? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Nested if-else and if-else-if Ladder سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Nested if-else and if-else-if Ladder? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Nested if-else and if-else-if Ladder سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Nested if-else and if-else-if Ladder is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Nested if-else and if-else-if Ladder ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of switch Statement (break, default keywords).",
-      "statementUr": "switch Statement (break, default keywords) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of switch Statement (break, default keywords).",
-      "questionUr": "switch Statement (break, default keywords) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for switch Statement (break, default keywords) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق switch Statement (break, default keywords) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by switch Statement (break, default keywords)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں switch Statement (break, default keywords) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by switch Statement (break, default keywords)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں switch Statement (break, default keywords) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, switch Statement (break, default keywords) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں switch Statement (break, default keywords) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Comparison between if-else-if ladder and switch statement in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparison between if-else-if ladder and switch statement کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Comparison between if-else-if ladder and switch statement in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparison between if-else-if ladder and switch statement کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Comparison between if-else-if ladder and switch statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparison between if-else-if ladder and switch statement کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Comparison between if-else-if ladder and switch statement? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Comparison between if-else-if ladder and switch statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Comparison between if-else-if ladder and switch statement? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Comparison between if-else-if ladder and switch statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Comparison between if-else-if ladder and switch statement is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Comparison between if-else-if ladder and switch statement ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Sequential vs Selection Control Structures are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Sequential vs Selection Control Structures کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Sequential vs Selection Control Structures are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Sequential vs Selection Control Structures کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sequential vs Selection Control Structures conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sequential vs Selection Control Structures کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 1)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 1)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of if Statement (Syntax, Flowchart, Usage).",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of if Statement (Syntax, Flowchart, Usage).",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for if Statement (Syntax, Flowchart, Usage) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if Statement (Syntax, Flowchart, Usage) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 2)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 2)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying if-else Statement according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق if-else Statement کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying if-else Statement according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق if-else Statement کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for if-else Statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if-else Statement کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 3)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 3)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Nested if-else and if-else-if Ladder.",
-      "statementUr": "Nested if-else and if-else-if Ladder کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Nested if-else and if-else-if Ladder.",
-      "questionUr": "Nested if-else and if-else-if Ladder کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Nested if-else and if-else-if Ladder conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nested if-else and if-else-if Ladder کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 4)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 4)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does switch Statement (break, default keywords) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں switch Statement (break, default keywords) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does switch Statement (break, default keywords) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں switch Statement (break, default keywords) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for switch Statement (break, default keywords) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق switch Statement (break, default keywords) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 5)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 5)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Comparison between if-else-if ladder and switch statement reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Comparison between if-else-if ladder and switch statement توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Comparison between if-else-if ladder and switch statement reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Comparison between if-else-if ladder and switch statement توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Comparison between if-else-if ladder and switch statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparison between if-else-if ladder and switch statement کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 6)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 6)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Sequential vs Selection Control Structures and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Sequential vs Selection Control Structures کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Sequential vs Selection Control Structures and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Sequential vs Selection Control Structures کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Sequential vs Selection Control Structures conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sequential vs Selection Control Structures کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Sequential vs Selection Control Structures? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Sequential vs Selection Control Structures سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Sequential vs Selection Control Structures? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Sequential vs Selection Control Structures سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Sequential vs Selection Control Structures is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Sequential vs Selection Control Structures ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between if Statement (Syntax, Flowchart, Usage) and its related counterpart with two clear distinctions.",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between if Statement (Syntax, Flowchart, Usage) and its related counterpart with two clear distinctions.",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for if Statement (Syntax, Flowchart, Usage) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if Statement (Syntax, Flowchart, Usage) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by if Statement (Syntax, Flowchart, Usage)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں if Statement (Syntax, Flowchart, Usage) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by if Statement (Syntax, Flowchart, Usage)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں if Statement (Syntax, Flowchart, Usage) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, if Statement (Syntax, Flowchart, Usage) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں if Statement (Syntax, Flowchart, Usage) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of if-else Statement.",
-      "statementUr": "if-else Statement کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of if-else Statement.",
-      "questionUr": "if-else Statement کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for if-else Statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if-else Statement کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by if-else Statement? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں if-else Statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by if-else Statement? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں if-else Statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, if-else Statement is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں if-else Statement ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Nested if-else and if-else-if Ladder to occur.",
-      "statementUr": "Nested if-else and if-else-if Ladder کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Nested if-else and if-else-if Ladder to occur.",
-      "questionUr": "Nested if-else and if-else-if Ladder کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Nested if-else and if-else-if Ladder conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nested if-else and if-else-if Ladder کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Nested if-else and if-else-if Ladder? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Nested if-else and if-else-if Ladder سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Nested if-else and if-else-if Ladder? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Nested if-else and if-else-if Ladder سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Nested if-else and if-else-if Ladder is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Nested if-else and if-else-if Ladder ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of switch Statement (break, default keywords).",
-      "statementUr": "switch Statement (break, default keywords) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of switch Statement (break, default keywords).",
-      "questionUr": "switch Statement (break, default keywords) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for switch Statement (break, default keywords) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق switch Statement (break, default keywords) کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by switch Statement (break, default keywords)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں switch Statement (break, default keywords) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by switch Statement (break, default keywords)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں switch Statement (break, default keywords) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, switch Statement (break, default keywords) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں switch Statement (break, default keywords) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Comparison between if-else-if ladder and switch statement in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparison between if-else-if ladder and switch statement کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Comparison between if-else-if ladder and switch statement in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Comparison between if-else-if ladder and switch statement کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Comparison between if-else-if ladder and switch statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparison between if-else-if ladder and switch statement کا مستند ماڈل جواب۔",
+      "statementEn": "What is meant by Comparison between if-else-if ladder and switch statement? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Comparison between if-else-if ladder and switch statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Comparison between if-else-if ladder and switch statement? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Comparison between if-else-if ladder and switch statement سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Comparison between if-else-if ladder and switch statement is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Comparison between if-else-if ladder and switch statement ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Sequential vs Selection Control Structures are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Sequential vs Selection Control Structures کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Sequential vs Selection Control Structures are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Sequential vs Selection Control Structures کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sequential vs Selection Control Structures conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sequential vs Selection Control Structures کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 1)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 1)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of if Statement (Syntax, Flowchart, Usage).",
-      "statementUr": "if Statement (Syntax, Flowchart, Usage) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of if Statement (Syntax, Flowchart, Usage).",
-      "questionUr": "if Statement (Syntax, Flowchart, Usage) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for if Statement (Syntax, Flowchart, Usage) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if Statement (Syntax, Flowchart, Usage) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 2)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 2)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying if-else Statement according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق if-else Statement کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying if-else Statement according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق if-else Statement کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for if-else Statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق if-else Statement کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 3)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 3)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Nested if-else and if-else-if Ladder.",
-      "statementUr": "Nested if-else and if-else-if Ladder کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Nested if-else and if-else-if Ladder.",
-      "questionUr": "Nested if-else and if-else-if Ladder کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Nested if-else and if-else-if Ladder conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Nested if-else and if-else-if Ladder کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 4)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 4)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does switch Statement (break, default keywords) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں switch Statement (break, default keywords) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does switch Statement (break, default keywords) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں switch Statement (break, default keywords) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for switch Statement (break, default keywords) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق switch Statement (break, default keywords) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 5)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 5)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Comparison between if-else-if ladder and switch statement reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Comparison between if-else-if ladder and switch statement توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Comparison between if-else-if ladder and switch statement reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Comparison between if-else-if ladder and switch statement توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Comparison between if-else-if ladder and switch statement conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Comparison between if-else-if ladder and switch statement کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Conditional Logic (Part 6)?",
+      "statementUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Conditional Logic (Part 6)?",
+      "questionUr": "کنڈیشنل لاجک (if, if-else, switch) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Explain Sequential vs Selection Control Structures in detail with its structural architecture, operating mechanism, and practical flowchart.",
-          "statementUr": "Sequential vs Selection Control Structures کی ساخت، طریقہ کار اور فلو چارٹ کے ساتھ تفصیلی وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Conditional Logic.",
+          "statementUr": "کنڈیشنل لاجک (if, if-else, switch) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Write a complete C language code or structured algorithm demonstrating the implementation of if Statement (Syntax, Flowchart, Usage).",
-          "statementUr": "if Statement (Syntax, Flowchart, Usage) کا عملی اطلاق ظاہر کرنے والا مکمل سی لینگویج کوڈ یا الگورتھم لکھیں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain if-else Statement in detail with its structural architecture, operating mechanism, and practical flowchart.",
-          "statementUr": "if-else Statement کی ساخت، طریقہ کار اور فلو چارٹ کے ساتھ تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Write a complete C language code or structured algorithm demonstrating the implementation of Nested if-else and if-else-if Ladder.",
-          "statementUr": "Nested if-else and if-else-if Ladder کا عملی اطلاق ظاہر کرنے والا مکمل سی لینگویج کوڈ یا الگورتھم لکھیں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Explain switch Statement (break, default keywords) in detail with its structural architecture, operating mechanism, and practical flowchart.",
-          "statementUr": "switch Statement (break, default keywords) کی ساخت، طریقہ کار اور فلو چارٹ کے ساتھ تفصیلی وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Write a complete C language code or structured algorithm demonstrating the implementation of Comparison between if-else-if ladder and switch statement.",
-          "statementUr": "Comparison between if-else-if ladder and switch statement کا عملی اطلاق ظاہر کرنے والا مکمل سی لینگویج کوڈ یا الگورتھم لکھیں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Conditional Logic.",
+          "statementUr": "کنڈیشنل لاجک (if, if-else, switch) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

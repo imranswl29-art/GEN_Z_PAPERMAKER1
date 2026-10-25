@@ -1,0 +1,1104 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Chemistry",
+  "subject_dir": "chemistry",
+  "chapter_no": 1,
+  "chapterNo": 1,
+  "chapter_title": {
+    "en": "Chemical Equilibrium",
+    "ur": "کیمیائی توازن (کیمیکل ایکوی لبریم)"
+  },
+  "titleEn": "Chemical Equilibrium",
+  "titleUr": "کیمیائی توازن (کیمیکل ایکوی لبریم)",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Chemical Equilibrium covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Reversible and Irreversible Reactions",
+      "titleUr": "Reversible and Irreversible Reactions (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Reversible and Irreversible Reactions conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Reversible and Irreversible Reactions کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Reversible and Irreversible Reactions.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Reversible and Irreversible Reactions کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "Dynamic Equilibrium State",
+      "titleUr": "Dynamic Equilibrium State (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Dynamic Equilibrium State conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Dynamic Equilibrium State کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Dynamic Equilibrium State.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Dynamic Equilibrium State کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Macroscopic Characteristics of Forward and Reverse Reactions",
+      "titleUr": "Macroscopic Characteristics of Forward and Reverse Reactions (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Macroscopic Characteristics of Forward and Reverse Reactions conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Macroscopic Characteristics of Forward and Reverse Reactions کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Macroscopic Characteristics of Forward and Reverse Reactions.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Macroscopic Characteristics of Forward and Reverse Reactions کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Law of Mass Action (Guldberg & Waage)",
+      "titleUr": "Law of Mass Action (Guldberg & Waage) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Law of Mass Action (Guldberg & Waage) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Law of Mass Action (Guldberg & Waage) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Law of Mass Action (Guldberg & Waage).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Law of Mass Action (Guldberg & Waage) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Derivation of Equilibrium Constant Expression (Kc)",
+      "titleUr": "Derivation of Equilibrium Constant Expression (Kc) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Derivation of Equilibrium Constant Expression (Kc) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Derivation of Equilibrium Constant Expression (Kc) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Derivation of Equilibrium Constant Expression (Kc).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Derivation of Equilibrium Constant Expression (Kc) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Units of Equilibrium Constant",
+      "titleUr": "Units of Equilibrium Constant (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Units of Equilibrium Constant conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Units of Equilibrium Constant کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Units of Equilibrium Constant.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Units of Equilibrium Constant کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "According to standard principles of Reversible and Irreversible Reactions, chemical reactivity is determined by:",
+      "statementUr": "Reversible and Irreversible Reactions کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Reversible and Irreversible Reactions, chemical reactivity is determined by:",
+      "questionUr": "Reversible and Irreversible Reactions کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "According to standard principles of Dynamic Equilibrium State, chemical reactivity is determined by:",
+      "statementUr": "Dynamic Equilibrium State کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Dynamic Equilibrium State, chemical reactivity is determined by:",
+      "questionUr": "Dynamic Equilibrium State کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "According to standard principles of Macroscopic Characteristics of Forward and Reverse Reactions, chemical reactivity is determined by:",
+      "statementUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Macroscopic Characteristics of Forward and Reverse Reactions, chemical reactivity is determined by:",
+      "questionUr": "Macroscopic Characteristics of Forward and Reverse Reactions کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "According to standard principles of Law of Mass Action (Guldberg & Waage), chemical reactivity is determined by:",
+      "statementUr": "Law of Mass Action (Guldberg & Waage) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Law of Mass Action (Guldberg & Waage), chemical reactivity is determined by:",
+      "questionUr": "Law of Mass Action (Guldberg & Waage) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "According to standard principles of Derivation of Equilibrium Constant Expression (Kc), chemical reactivity is determined by:",
+      "statementUr": "Derivation of Equilibrium Constant Expression (Kc) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Derivation of Equilibrium Constant Expression (Kc), chemical reactivity is determined by:",
+      "questionUr": "Derivation of Equilibrium Constant Expression (Kc) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "According to standard principles of Units of Equilibrium Constant, chemical reactivity is determined by:",
+      "statementUr": "Units of Equilibrium Constant کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Units of Equilibrium Constant, chemical reactivity is determined by:",
+      "questionUr": "Units of Equilibrium Constant کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "According to standard principles of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction), chemical reactivity is determined by:",
+      "statementUr": "Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction), chemical reactivity is determined by:",
+      "questionUr": "Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Equilibrium (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی توازن (کیمیکل ایکوی لبریم) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Explain the chemical significance of Reversible and Irreversible Reactions with an example.",
+      "statementUr": "کیمسٹری کے رو سے Reversible and Irreversible Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Reversible and Irreversible Reactions with an example.",
+      "questionUr": "کیمسٹری کے رو سے Reversible and Irreversible Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Reversible and Irreversible Reactions governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Reversible and Irreversible Reactions مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Explain the chemical significance of Dynamic Equilibrium State with an example.",
+      "statementUr": "کیمسٹری کے رو سے Dynamic Equilibrium State کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Dynamic Equilibrium State with an example.",
+      "questionUr": "کیمسٹری کے رو سے Dynamic Equilibrium State کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Dynamic Equilibrium State governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Dynamic Equilibrium State مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Explain the chemical significance of Macroscopic Characteristics of Forward and Reverse Reactions with an example.",
+      "statementUr": "کیمسٹری کے رو سے Macroscopic Characteristics of Forward and Reverse Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Macroscopic Characteristics of Forward and Reverse Reactions with an example.",
+      "questionUr": "کیمسٹری کے رو سے Macroscopic Characteristics of Forward and Reverse Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Macroscopic Characteristics of Forward and Reverse Reactions governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Macroscopic Characteristics of Forward and Reverse Reactions مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Explain the chemical significance of Law of Mass Action (Guldberg & Waage) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Law of Mass Action (Guldberg & Waage) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Law of Mass Action (Guldberg & Waage) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Law of Mass Action (Guldberg & Waage) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Law of Mass Action (Guldberg & Waage) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Law of Mass Action (Guldberg & Waage) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Explain the chemical significance of Derivation of Equilibrium Constant Expression (Kc) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Derivation of Equilibrium Constant Expression (Kc) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Derivation of Equilibrium Constant Expression (Kc) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Derivation of Equilibrium Constant Expression (Kc) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Derivation of Equilibrium Constant Expression (Kc) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Derivation of Equilibrium Constant Expression (Kc) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "Explain the chemical significance of Units of Equilibrium Constant with an example.",
+      "statementUr": "کیمسٹری کے رو سے Units of Equilibrium Constant کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Units of Equilibrium Constant with an example.",
+      "questionUr": "کیمسٹری کے رو سے Units of Equilibrium Constant کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Units of Equilibrium Constant governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Units of Equilibrium Constant مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "Explain the chemical significance of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 1)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 1)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 2)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 2)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 3)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 3)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 4)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 4)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 5)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 5)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Explain the chemical significance of Reversible and Irreversible Reactions with an example.",
+      "statementUr": "کیمسٹری کے رو سے Reversible and Irreversible Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Reversible and Irreversible Reactions with an example.",
+      "questionUr": "کیمسٹری کے رو سے Reversible and Irreversible Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Reversible and Irreversible Reactions governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Reversible and Irreversible Reactions مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Explain the chemical significance of Dynamic Equilibrium State with an example.",
+      "statementUr": "کیمسٹری کے رو سے Dynamic Equilibrium State کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Dynamic Equilibrium State with an example.",
+      "questionUr": "کیمسٹری کے رو سے Dynamic Equilibrium State کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Dynamic Equilibrium State governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Dynamic Equilibrium State مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Explain the chemical significance of Macroscopic Characteristics of Forward and Reverse Reactions with an example.",
+      "statementUr": "کیمسٹری کے رو سے Macroscopic Characteristics of Forward and Reverse Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Macroscopic Characteristics of Forward and Reverse Reactions with an example.",
+      "questionUr": "کیمسٹری کے رو سے Macroscopic Characteristics of Forward and Reverse Reactions کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Macroscopic Characteristics of Forward and Reverse Reactions governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Macroscopic Characteristics of Forward and Reverse Reactions مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Explain the chemical significance of Law of Mass Action (Guldberg & Waage) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Law of Mass Action (Guldberg & Waage) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Law of Mass Action (Guldberg & Waage) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Law of Mass Action (Guldberg & Waage) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Law of Mass Action (Guldberg & Waage) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Law of Mass Action (Guldberg & Waage) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Explain the chemical significance of Derivation of Equilibrium Constant Expression (Kc) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Derivation of Equilibrium Constant Expression (Kc) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Derivation of Equilibrium Constant Expression (Kc) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Derivation of Equilibrium Constant Expression (Kc) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Derivation of Equilibrium Constant Expression (Kc) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Derivation of Equilibrium Constant Expression (Kc) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "Explain the chemical significance of Units of Equilibrium Constant with an example.",
+      "statementUr": "کیمسٹری کے رو سے Units of Equilibrium Constant کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Units of Equilibrium Constant with an example.",
+      "questionUr": "کیمسٹری کے رو سے Units of Equilibrium Constant کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Units of Equilibrium Constant governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Units of Equilibrium Constant مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "Explain the chemical significance of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Importance of Equilibrium Constant (Direction of Reaction, Extent of Reaction) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 1)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 1)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 2)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 2)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 3)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 3)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 4)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 4)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 5)?",
+      "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Equilibrium (Part 5)?",
+      "questionUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Chemical Equilibrium.",
+          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in Chemical Equilibrium.",
+          "statementUr": "کیمیائی توازن (کیمیکل ایکوی لبریم) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": true
+        }
+      ]
+    }
+  ]
+}

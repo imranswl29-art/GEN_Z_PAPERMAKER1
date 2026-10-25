@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Chemistry",
+  "subject_dir": "chemistry",
   "chapter_no": 4,
   "chapterNo": 4,
   "chapter_title": {
@@ -10,986 +11,1053 @@
   },
   "titleEn": "Hydrocarbons",
   "titleUr": "ہائیڈرو کاربنز",
-  "summaryEn": "Authoritative PTBB board revision notes for Hydrocarbons. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق ہائیڈرو کاربنز کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Hydrocarbons covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق ہائیڈرو کاربنز کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Hydrocarbons.",
-      "text_ur": "ہائیڈرو کاربنز کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Classification of Hydrocarbons (Saturated vs Unsaturated)",
+      "titleUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Classification of Hydrocarbons (Saturated vs Unsaturated) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Classification of Hydrocarbons (Saturated vs Unsaturated).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Classification of Hydrocarbons (Saturated vs Unsaturated) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Hydrocarbons.",
-      "text_ur": "ہائیڈرو کاربنز کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation)",
+      "titleUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Hydrocarbons.",
-      "text_ur": "ہائیڈرو کاربنز کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4)",
+      "titleUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene)",
+      "titleUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Uses of Ethene and Ethyne",
+      "titleUr": "Uses of Ethene and Ethyne (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Uses of Ethene and Ethyne conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Uses of Ethene and Ethyne کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Uses of Ethene and Ethyne.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Uses of Ethene and Ethyne کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Classification of Hydrocarbons (Saturated vs Unsaturated)?",
-      "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Classification of Hydrocarbons (Saturated vs Unsaturated)?",
-      "questionUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "According to standard principles of Classification of Hydrocarbons (Saturated vs Unsaturated), chemical reactivity is determined by:",
+      "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Classification of Hydrocarbons (Saturated vs Unsaturated), chemical reactivity is determined by:",
+      "questionUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Classification of Hydrocarbons (Saturated vs Unsaturated) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation):",
-      "statementUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation):",
-      "questionUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "According to standard principles of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation), chemical reactivity is determined by:",
+      "statementUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation), chemical reactivity is determined by:",
+      "questionUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) is:",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) is:",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "According to standard principles of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4), chemical reactivity is determined by:",
+      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4), chemical reactivity is determined by:",
+      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene)?",
-      "statementUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene)?",
-      "questionUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "statementUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "questionEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "questionUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "7",
+          "textUr": "7"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "0",
+          "textUr": "0"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "14",
+          "textUr": "14"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "1",
+          "textUr": "1"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند نصابی جواب۔"
+      "explanationEn": "Pure water has = = 10^-7 M, giving pH 7.",
+      "explanationUr": "خالص پانی نیوٹرل ہوتا ہے اور اس کی پی ایچ 7 ہوتی ہے۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Uses of Ethene and Ethyne?",
-      "statementUr": "Uses of Ethene and Ethyne کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Uses of Ethene and Ethyne?",
-      "questionUr": "Uses of Ethene and Ethyne کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "According to standard principles of Uses of Ethene and Ethyne, chemical reactivity is determined by:",
+      "statementUr": "Uses of Ethene and Ethyne کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Uses of Ethene and Ethyne, chemical reactivity is determined by:",
+      "questionUr": "Uses of Ethene and Ethyne کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Uses of Ethene and Ethyne in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Uses of Ethene and Ethyne کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Classification of Hydrocarbons (Saturated vs Unsaturated)?",
-      "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Classification of Hydrocarbons (Saturated vs Unsaturated)?",
-      "questionUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Classification of Hydrocarbons (Saturated vs Unsaturated) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) demonstrates:",
-      "statementUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) demonstrates:",
-      "questionUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4)?",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4)?",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene)?",
-      "statementUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene)?",
-      "questionUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Uses of Ethene and Ethyne in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Uses of Ethene and Ethyne کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Uses of Ethene and Ethyne in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Uses of Ethene and Ethyne کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Uses of Ethene and Ethyne in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Uses of Ethene and Ethyne کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Classification of Hydrocarbons (Saturated vs Unsaturated) is doubled?",
-      "statementUr": "اگر Classification of Hydrocarbons (Saturated vs Unsaturated) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Classification of Hydrocarbons (Saturated vs Unsaturated) is doubled?",
-      "questionUr": "اگر Classification of Hydrocarbons (Saturated vs Unsaturated) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Classification of Hydrocarbons (Saturated vs Unsaturated) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) differ fundamentally from its counterpart?",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) differ fundamentally from its counterpart?",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) is:",
-      "statementUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) is:",
-      "questionUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Uses of Ethene and Ethyne?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Uses of Ethene and Ethyne کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Uses of Ethene and Ethyne?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Uses of Ethene and Ethyne کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Hydrocarbons (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق ہائیڈرو کاربنز کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Uses of Ethene and Ethyne in Hydrocarbons.",
-      "explanationUr": "ہائیڈرو کاربنز کے تحت Uses of Ethene and Ethyne کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Classification of Hydrocarbons (Saturated vs Unsaturated) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Classification of Hydrocarbons (Saturated vs Unsaturated) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Classification of Hydrocarbons (Saturated vs Unsaturated) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Classification of Hydrocarbons (Saturated vs Unsaturated) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Classification of Hydrocarbons (Saturated vs Unsaturated) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Classification of Hydrocarbons (Saturated vs Unsaturated) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Classification of Hydrocarbons (Saturated vs Unsaturated) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Classification of Hydrocarbons (Saturated vs Unsaturated) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Classification of Hydrocarbons (Saturated vs Unsaturated) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) and its related counterpart with two clear distinctions.",
-      "statementUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) and its related counterpart with two clear distinctions.",
-      "questionUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) to occur.",
-      "statementUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) to occur.",
-      "questionUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Uses of Ethene and Ethyne.",
-      "statementUr": "Uses of Ethene and Ethyne کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Uses of Ethene and Ethyne.",
-      "questionUr": "Uses of Ethene and Ethyne کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Uses of Ethene and Ethyne conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Uses of Ethene and Ethyne کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Uses of Ethene and Ethyne with an example.",
+      "statementUr": "کیمسٹری کے رو سے Uses of Ethene and Ethyne کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Uses of Ethene and Ethyne with an example.",
+      "questionUr": "کیمسٹری کے رو سے Uses of Ethene and Ethyne کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Uses of Ethene and Ethyne governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Uses of Ethene and Ethyne مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Classification of Hydrocarbons (Saturated vs Unsaturated) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Classification of Hydrocarbons (Saturated vs Unsaturated) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Classification of Hydrocarbons (Saturated vs Unsaturated) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Classification of Hydrocarbons (Saturated vs Unsaturated) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Classification of Hydrocarbons (Saturated vs Unsaturated) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 1)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 1)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 2)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 2)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 3)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 3)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 4)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 4)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Uses of Ethene and Ethyne.",
-      "statementUr": "Uses of Ethene and Ethyne کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Uses of Ethene and Ethyne.",
-      "questionUr": "Uses of Ethene and Ethyne کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Uses of Ethene and Ethyne conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Uses of Ethene and Ethyne کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 5)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 5)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Classification of Hydrocarbons (Saturated vs Unsaturated) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Hydrocarbons (Saturated vs Unsaturated) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Classification of Hydrocarbons (Saturated vs Unsaturated) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Hydrocarbons (Saturated vs Unsaturated) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Classification of Hydrocarbons (Saturated vs Unsaturated) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 6)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 6)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 7)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 7)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Classification of Hydrocarbons (Saturated vs Unsaturated) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Classification of Hydrocarbons (Saturated vs Unsaturated) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Classification of Hydrocarbons (Saturated vs Unsaturated) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Classification of Hydrocarbons (Saturated vs Unsaturated) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Classification of Hydrocarbons (Saturated vs Unsaturated) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Classification of Hydrocarbons (Saturated vs Unsaturated) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Classification of Hydrocarbons (Saturated vs Unsaturated) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Classification of Hydrocarbons (Saturated vs Unsaturated) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Classification of Hydrocarbons (Saturated vs Unsaturated) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) and its related counterpart with two clear distinctions.",
-      "statementUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) and its related counterpart with two clear distinctions.",
-      "questionUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) to occur.",
-      "statementUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) to occur.",
-      "questionUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Uses of Ethene and Ethyne.",
-      "statementUr": "Uses of Ethene and Ethyne کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Uses of Ethene and Ethyne.",
-      "questionUr": "Uses of Ethene and Ethyne کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Uses of Ethene and Ethyne conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Uses of Ethene and Ethyne کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Uses of Ethene and Ethyne with an example.",
+      "statementUr": "کیمسٹری کے رو سے Uses of Ethene and Ethyne کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Uses of Ethene and Ethyne with an example.",
+      "questionUr": "کیمسٹری کے رو سے Uses of Ethene and Ethyne کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Uses of Ethene and Ethyne governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Uses of Ethene and Ethyne مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Classification of Hydrocarbons (Saturated vs Unsaturated) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Classification of Hydrocarbons (Saturated vs Unsaturated) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Classification of Hydrocarbons (Saturated vs Unsaturated) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Classification of Hydrocarbons (Saturated vs Unsaturated) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Classification of Hydrocarbons (Saturated vs Unsaturated) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 1)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 1)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 2)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 2)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-      "questionUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 3)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 3)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 4)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 4)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Uses of Ethene and Ethyne.",
-      "statementUr": "Uses of Ethene and Ethyne کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Uses of Ethene and Ethyne.",
-      "questionUr": "Uses of Ethene and Ethyne کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Uses of Ethene and Ethyne conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Uses of Ethene and Ethyne کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 5)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 5)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Classification of Hydrocarbons (Saturated vs Unsaturated) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Hydrocarbons (Saturated vs Unsaturated) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Classification of Hydrocarbons (Saturated vs Unsaturated) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Hydrocarbons (Saturated vs Unsaturated) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Classification of Hydrocarbons (Saturated vs Unsaturated) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Hydrocarbons (Saturated vs Unsaturated) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 6)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 6)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 7)?",
+      "statementUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Hydrocarbons (Part 7)?",
+      "questionUr": "ہائیڈرو کاربنز سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1069,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Classification of Hydrocarbons (Saturated vs Unsaturated).",
-          "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Hydrocarbons.",
+          "statementUr": "ہائیڈرو کاربنز کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation).",
-          "statementUr": "Alkanes: General Formula, Preparation, Physical Properties, Reactions (Combustion, Halogenation) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4).",
-          "statementUr": "Alkenes: General Formula, Preparation, Reactions (Halogenation, Hydrogenation, Oxidation with KMnO4) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene).",
-          "statementUr": "Alkynes: General Formula, Preparation, Reactions (Addition, Acidity of Acetylene) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Uses of Ethene and Ethyne.",
-          "statementUr": "Uses of Ethene and Ethyne کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Classification of Hydrocarbons (Saturated vs Unsaturated).",
-          "statementUr": "Classification of Hydrocarbons (Saturated vs Unsaturated) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Hydrocarbons.",
+          "statementUr": "ہائیڈرو کاربنز کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

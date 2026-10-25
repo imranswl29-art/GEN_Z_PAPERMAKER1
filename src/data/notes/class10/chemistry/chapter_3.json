@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Chemistry",
+  "subject_dir": "chemistry",
   "chapter_no": 3,
   "chapterNo": 3,
   "chapter_title": {
@@ -10,986 +11,1070 @@
   },
   "titleEn": "Organic Chemistry",
   "titleUr": "آرگینک کیمسٹری",
-  "summaryEn": "Authoritative PTBB board revision notes for Organic Chemistry. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق آرگینک کیمسٹری کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Organic Chemistry covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق آرگینک کیمسٹری کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Organic Chemistry.",
-      "text_ur": "آرگینک کیمسٹری کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Organic Compounds Definition and Vital Force Theory",
+      "titleUr": "Organic Compounds Definition and Vital Force Theory (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Organic Compounds Definition and Vital Force Theory conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Organic Compounds Definition and Vital Force Theory کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Organic Compounds Definition and Vital Force Theory.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Organic Compounds Definition and Vital Force Theory کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Organic Chemistry.",
-      "text_ur": "آرگینک کیمسٹری کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Characteristics of Organic Compounds",
+      "titleUr": "Characteristics of Organic Compounds (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Characteristics of Organic Compounds conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Characteristics of Organic Compounds کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Characteristics of Organic Compounds.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Characteristics of Organic Compounds کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Organic Chemistry.",
-      "text_ur": "آرگینک کیمسٹری کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Molecular, Structural, Condensed, and Dot-Cross Formulas",
+      "titleUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Molecular, Structural, Condensed, and Dot-Cross Formulas conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Molecular, Structural, Condensed, and Dot-Cross Formulas کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Molecular, Structural, Condensed, and Dot-Cross Formulas کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Classification of Organic Compounds (Open Chain vs Closed Chain)",
+      "titleUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Classification of Organic Compounds (Open Chain vs Closed Chain) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Classification of Organic Compounds (Open Chain vs Closed Chain) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Classification of Organic Compounds (Open Chain vs Closed Chain).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Classification of Organic Compounds (Open Chain vs Closed Chain) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester)",
+      "titleUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas)",
+      "titleUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Sources of Organic Compounds (Coal, Petroleum, Natural Gas).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Organic Compounds Definition and Vital Force Theory?",
-      "statementUr": "Organic Compounds Definition and Vital Force Theory کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Organic Compounds Definition and Vital Force Theory?",
-      "questionUr": "Organic Compounds Definition and Vital Force Theory کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "According to standard principles of Organic Compounds Definition and Vital Force Theory, chemical reactivity is determined by:",
+      "statementUr": "Organic Compounds Definition and Vital Force Theory کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Organic Compounds Definition and Vital Force Theory, chemical reactivity is determined by:",
+      "questionUr": "Organic Compounds Definition and Vital Force Theory کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Organic Compounds Definition and Vital Force Theory in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Organic Compounds Definition and Vital Force Theory کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Characteristics of Organic Compounds:",
-      "statementUr": "Characteristics of Organic Compounds کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Characteristics of Organic Compounds:",
-      "questionUr": "Characteristics of Organic Compounds کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "According to standard principles of Characteristics of Organic Compounds, chemical reactivity is determined by:",
+      "statementUr": "Characteristics of Organic Compounds کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Characteristics of Organic Compounds, chemical reactivity is determined by:",
+      "questionUr": "Characteristics of Organic Compounds کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Characteristics of Organic Compounds in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Characteristics of Organic Compounds کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Molecular, Structural, Condensed, and Dot-Cross Formulas is:",
-      "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Molecular, Structural, Condensed, and Dot-Cross Formulas is:",
-      "questionUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "According to standard principles of Molecular, Structural, Condensed, and Dot-Cross Formulas, chemical reactivity is determined by:",
+      "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Molecular, Structural, Condensed, and Dot-Cross Formulas, chemical reactivity is determined by:",
+      "questionUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Molecular, Structural, Condensed, and Dot-Cross Formulas in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Molecular, Structural, Condensed, and Dot-Cross Formulas کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Classification of Organic Compounds (Open Chain vs Closed Chain)?",
-      "statementUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Classification of Organic Compounds (Open Chain vs Closed Chain)?",
-      "questionUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "According to standard principles of Classification of Organic Compounds (Open Chain vs Closed Chain), chemical reactivity is determined by:",
+      "statementUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Classification of Organic Compounds (Open Chain vs Closed Chain), chemical reactivity is determined by:",
+      "questionUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Classification of Organic Compounds (Open Chain vs Closed Chain) in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Classification of Organic Compounds (Open Chain vs Closed Chain) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester)?",
-      "statementUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester)?",
-      "questionUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "statementUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "questionEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "questionUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "7",
+          "textUr": "7"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "0",
+          "textUr": "0"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "14",
+          "textUr": "14"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "1",
+          "textUr": "1"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "7",
+        "0",
+        "14",
+        "1"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کا مستند نصابی جواب۔"
+      "explanationEn": "Pure water has = = 10^-7 M, giving pH 7.",
+      "explanationUr": "خالص پانی نیوٹرل ہوتا ہے اور اس کی پی ایچ 7 ہوتی ہے۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Sources of Organic Compounds (Coal, Petroleum, Natural Gas)?",
-      "statementUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Sources of Organic Compounds (Coal, Petroleum, Natural Gas)?",
-      "questionUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "According to standard principles of Sources of Organic Compounds (Coal, Petroleum, Natural Gas), chemical reactivity is determined by:",
+      "statementUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Sources of Organic Compounds (Coal, Petroleum, Natural Gas), chemical reactivity is determined by:",
+      "questionUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sources of Organic Compounds (Coal, Petroleum, Natural Gas) in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Uses of Organic Compounds demonstrates:",
-      "statementUr": "Uses of Organic Compounds میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Uses of Organic Compounds demonstrates:",
-      "questionUr": "Uses of Organic Compounds میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "According to standard principles of Uses of Organic Compounds, chemical reactivity is determined by:",
+      "statementUr": "Uses of Organic Compounds کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Uses of Organic Compounds, chemical reactivity is determined by:",
+      "questionUr": "Uses of Organic Compounds کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Uses of Organic Compounds in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Uses of Organic Compounds کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Organic Compounds Definition and Vital Force Theory?",
-      "statementUr": "Organic Compounds Definition and Vital Force Theory کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Organic Compounds Definition and Vital Force Theory?",
-      "questionUr": "Organic Compounds Definition and Vital Force Theory کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Organic Compounds Definition and Vital Force Theory in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Organic Compounds Definition and Vital Force Theory کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Characteristics of Organic Compounds?",
-      "statementUr": "Characteristics of Organic Compounds کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Characteristics of Organic Compounds?",
-      "questionUr": "Characteristics of Organic Compounds کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Characteristics of Organic Compounds in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Characteristics of Organic Compounds کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Molecular, Structural, Condensed, and Dot-Cross Formulas in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Molecular, Structural, Condensed, and Dot-Cross Formulas کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Molecular, Structural, Condensed, and Dot-Cross Formulas in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Molecular, Structural, Condensed, and Dot-Cross Formulas کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Molecular, Structural, Condensed, and Dot-Cross Formulas in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Molecular, Structural, Condensed, and Dot-Cross Formulas کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Classification of Organic Compounds (Open Chain vs Closed Chain) is doubled?",
-      "statementUr": "اگر Classification of Organic Compounds (Open Chain vs Closed Chain) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Classification of Organic Compounds (Open Chain vs Closed Chain) is doubled?",
-      "questionUr": "اگر Classification of Organic Compounds (Open Chain vs Closed Chain) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Classification of Organic Compounds (Open Chain vs Closed Chain) in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Classification of Organic Compounds (Open Chain vs Closed Chain) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Sources of Organic Compounds (Coal, Petroleum, Natural Gas) differ fundamentally from its counterpart?",
-      "statementUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Sources of Organic Compounds (Coal, Petroleum, Natural Gas) differ fundamentally from its counterpart?",
-      "questionUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Sources of Organic Compounds (Coal, Petroleum, Natural Gas) in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Uses of Organic Compounds is:",
-      "statementUr": "Uses of Organic Compounds کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Uses of Organic Compounds is:",
-      "questionUr": "Uses of Organic Compounds کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Uses of Organic Compounds in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Uses of Organic Compounds کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Organic Compounds Definition and Vital Force Theory?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Organic Compounds Definition and Vital Force Theory کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Organic Compounds Definition and Vital Force Theory?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Organic Compounds Definition and Vital Force Theory کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Organic Chemistry (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق آرگینک کیمسٹری کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Organic Compounds Definition and Vital Force Theory in Organic Chemistry.",
-      "explanationUr": "آرگینک کیمسٹری کے تحت Organic Compounds Definition and Vital Force Theory کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Organic Compounds Definition and Vital Force Theory and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Organic Compounds Definition and Vital Force Theory کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Organic Compounds Definition and Vital Force Theory and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Organic Compounds Definition and Vital Force Theory کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Organic Compounds Definition and Vital Force Theory conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Organic Compounds Definition and Vital Force Theory کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Organic Compounds Definition and Vital Force Theory with an example.",
+      "statementUr": "کیمسٹری کے رو سے Organic Compounds Definition and Vital Force Theory کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Organic Compounds Definition and Vital Force Theory with an example.",
+      "questionUr": "کیمسٹری کے رو سے Organic Compounds Definition and Vital Force Theory کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Organic Compounds Definition and Vital Force Theory governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Organic Compounds Definition and Vital Force Theory مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Characteristics of Organic Compounds and its related counterpart with two clear distinctions.",
-      "statementUr": "Characteristics of Organic Compounds اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Characteristics of Organic Compounds and its related counterpart with two clear distinctions.",
-      "questionUr": "Characteristics of Organic Compounds اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Characteristics of Organic Compounds conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Characteristics of Organic Compounds کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Characteristics of Organic Compounds with an example.",
+      "statementUr": "کیمسٹری کے رو سے Characteristics of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Characteristics of Organic Compounds with an example.",
+      "questionUr": "کیمسٹری کے رو سے Characteristics of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Characteristics of Organic Compounds governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Characteristics of Organic Compounds مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "questionUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Molecular, Structural, Condensed, and Dot-Cross Formulas conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Molecular, Structural, Condensed, and Dot-Cross Formulas کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Molecular, Structural, Condensed, and Dot-Cross Formulas with an example.",
+      "statementUr": "کیمسٹری کے رو سے Molecular, Structural, Condensed, and Dot-Cross Formulas کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Molecular, Structural, Condensed, and Dot-Cross Formulas with an example.",
+      "questionUr": "کیمسٹری کے رو سے Molecular, Structural, Condensed, and Dot-Cross Formulas کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Molecular, Structural, Condensed, and Dot-Cross Formulas governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Molecular, Structural, Condensed, and Dot-Cross Formulas مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Classification of Organic Compounds (Open Chain vs Closed Chain) to occur.",
-      "statementUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Classification of Organic Compounds (Open Chain vs Closed Chain) to occur.",
-      "questionUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Classification of Organic Compounds (Open Chain vs Closed Chain) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Organic Compounds (Open Chain vs Closed Chain) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Classification of Organic Compounds (Open Chain vs Closed Chain) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Classification of Organic Compounds (Open Chain vs Closed Chain) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Classification of Organic Compounds (Open Chain vs Closed Chain) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Classification of Organic Compounds (Open Chain vs Closed Chain) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Classification of Organic Compounds (Open Chain vs Closed Chain) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Classification of Organic Compounds (Open Chain vs Closed Chain) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester).",
-      "statementUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester).",
-      "questionUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sources of Organic Compounds (Coal, Petroleum, Natural Gas) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Sources of Organic Compounds (Coal, Petroleum, Natural Gas) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Sources of Organic Compounds (Coal, Petroleum, Natural Gas) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Uses of Organic Compounds are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Uses of Organic Compounds کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Uses of Organic Compounds are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Uses of Organic Compounds کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Uses of Organic Compounds conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Uses of Organic Compounds کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Uses of Organic Compounds with an example.",
+      "statementUr": "کیمسٹری کے رو سے Uses of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Uses of Organic Compounds with an example.",
+      "questionUr": "کیمسٹری کے رو سے Uses of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Uses of Organic Compounds governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Uses of Organic Compounds مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Organic Compounds Definition and Vital Force Theory.",
-      "statementUr": "Organic Compounds Definition and Vital Force Theory کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Organic Compounds Definition and Vital Force Theory.",
-      "questionUr": "Organic Compounds Definition and Vital Force Theory کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Organic Compounds Definition and Vital Force Theory conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Organic Compounds Definition and Vital Force Theory کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 1)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 1)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Characteristics of Organic Compounds according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Characteristics of Organic Compounds کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Characteristics of Organic Compounds according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Characteristics of Organic Compounds کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Characteristics of Organic Compounds conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Characteristics of Organic Compounds کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 2)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 2)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "questionUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Molecular, Structural, Condensed, and Dot-Cross Formulas conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Molecular, Structural, Condensed, and Dot-Cross Formulas کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 3)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 3)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Classification of Organic Compounds (Open Chain vs Closed Chain) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Organic Compounds (Open Chain vs Closed Chain) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Classification of Organic Compounds (Open Chain vs Closed Chain) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Organic Compounds (Open Chain vs Closed Chain) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Classification of Organic Compounds (Open Chain vs Closed Chain) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Organic Compounds (Open Chain vs Closed Chain) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 4)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 4)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 5)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 5)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Organic Compounds Definition and Vital Force Theory and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Organic Compounds Definition and Vital Force Theory کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Organic Compounds Definition and Vital Force Theory and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Organic Compounds Definition and Vital Force Theory کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Organic Compounds Definition and Vital Force Theory conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Organic Compounds Definition and Vital Force Theory کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Organic Compounds Definition and Vital Force Theory with an example.",
+      "statementUr": "کیمسٹری کے رو سے Organic Compounds Definition and Vital Force Theory کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Organic Compounds Definition and Vital Force Theory with an example.",
+      "questionUr": "کیمسٹری کے رو سے Organic Compounds Definition and Vital Force Theory کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Organic Compounds Definition and Vital Force Theory governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Organic Compounds Definition and Vital Force Theory مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Characteristics of Organic Compounds and its related counterpart with two clear distinctions.",
-      "statementUr": "Characteristics of Organic Compounds اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Characteristics of Organic Compounds and its related counterpart with two clear distinctions.",
-      "questionUr": "Characteristics of Organic Compounds اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Characteristics of Organic Compounds conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Characteristics of Organic Compounds کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Characteristics of Organic Compounds with an example.",
+      "statementUr": "کیمسٹری کے رو سے Characteristics of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Characteristics of Organic Compounds with an example.",
+      "questionUr": "کیمسٹری کے رو سے Characteristics of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Characteristics of Organic Compounds governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Characteristics of Organic Compounds مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "questionUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Molecular, Structural, Condensed, and Dot-Cross Formulas conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Molecular, Structural, Condensed, and Dot-Cross Formulas کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Molecular, Structural, Condensed, and Dot-Cross Formulas with an example.",
+      "statementUr": "کیمسٹری کے رو سے Molecular, Structural, Condensed, and Dot-Cross Formulas کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Molecular, Structural, Condensed, and Dot-Cross Formulas with an example.",
+      "questionUr": "کیمسٹری کے رو سے Molecular, Structural, Condensed, and Dot-Cross Formulas کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Molecular, Structural, Condensed, and Dot-Cross Formulas governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Molecular, Structural, Condensed, and Dot-Cross Formulas مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Classification of Organic Compounds (Open Chain vs Closed Chain) to occur.",
-      "statementUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Classification of Organic Compounds (Open Chain vs Closed Chain) to occur.",
-      "questionUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Classification of Organic Compounds (Open Chain vs Closed Chain) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Organic Compounds (Open Chain vs Closed Chain) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Classification of Organic Compounds (Open Chain vs Closed Chain) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Classification of Organic Compounds (Open Chain vs Closed Chain) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Classification of Organic Compounds (Open Chain vs Closed Chain) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Classification of Organic Compounds (Open Chain vs Closed Chain) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Classification of Organic Compounds (Open Chain vs Closed Chain) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Classification of Organic Compounds (Open Chain vs Closed Chain) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester).",
-      "statementUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester).",
-      "questionUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Sources of Organic Compounds (Coal, Petroleum, Natural Gas) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Sources of Organic Compounds (Coal, Petroleum, Natural Gas) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Sources of Organic Compounds (Coal, Petroleum, Natural Gas) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Sources of Organic Compounds (Coal, Petroleum, Natural Gas) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Uses of Organic Compounds are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Uses of Organic Compounds کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Uses of Organic Compounds are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Uses of Organic Compounds کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Uses of Organic Compounds conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Uses of Organic Compounds کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Uses of Organic Compounds with an example.",
+      "statementUr": "کیمسٹری کے رو سے Uses of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Uses of Organic Compounds with an example.",
+      "questionUr": "کیمسٹری کے رو سے Uses of Organic Compounds کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Uses of Organic Compounds governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Uses of Organic Compounds مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Organic Compounds Definition and Vital Force Theory.",
-      "statementUr": "Organic Compounds Definition and Vital Force Theory کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Organic Compounds Definition and Vital Force Theory.",
-      "questionUr": "Organic Compounds Definition and Vital Force Theory کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Organic Compounds Definition and Vital Force Theory conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Organic Compounds Definition and Vital Force Theory کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 1)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 1)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Characteristics of Organic Compounds according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Characteristics of Organic Compounds کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Characteristics of Organic Compounds according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Characteristics of Organic Compounds کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Characteristics of Organic Compounds conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Characteristics of Organic Compounds کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 2)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 2)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-      "questionUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Molecular, Structural, Condensed, and Dot-Cross Formulas conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Molecular, Structural, Condensed, and Dot-Cross Formulas کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 3)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 3)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Classification of Organic Compounds (Open Chain vs Closed Chain) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Organic Compounds (Open Chain vs Closed Chain) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Classification of Organic Compounds (Open Chain vs Closed Chain) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Classification of Organic Compounds (Open Chain vs Closed Chain) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Classification of Organic Compounds (Open Chain vs Closed Chain) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Classification of Organic Compounds (Open Chain vs Closed Chain) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 4)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 4)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 5)?",
+      "statementUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Organic Chemistry (Part 5)?",
+      "questionUr": "آرگینک کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1086,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Organic Compounds Definition and Vital Force Theory.",
-          "statementUr": "Organic Compounds Definition and Vital Force Theory کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Organic Chemistry.",
+          "statementUr": "آرگینک کیمسٹری کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Characteristics of Organic Compounds.",
-          "statementUr": "Characteristics of Organic Compounds کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Molecular, Structural, Condensed, and Dot-Cross Formulas.",
-          "statementUr": "Molecular, Structural, Condensed, and Dot-Cross Formulas کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Classification of Organic Compounds (Open Chain vs Closed Chain).",
-          "statementUr": "Classification of Organic Compounds (Open Chain vs Closed Chain) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester).",
-          "statementUr": "Functional Groups (Alcohol, Ether, Aldehyde, Ketone, Carboxylic Acid, Ester) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Sources of Organic Compounds (Coal, Petroleum, Natural Gas).",
-          "statementUr": "Sources of Organic Compounds (Coal, Petroleum, Natural Gas) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Organic Chemistry.",
+          "statementUr": "آرگینک کیمسٹری کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

@@ -1,0 +1,1104 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Computer",
+  "subject_dir": "computer",
+  "chapter_no": 2,
+  "chapterNo": 2,
+  "chapter_title": {
+    "en": "User Interface & Data Types",
+    "ur": "یوزر انٹرفیس اور ڈیٹا ٹائپس"
+  },
+  "titleEn": "User Interface & Data Types",
+  "titleUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for User Interface & Data Types covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Standard Input and Output Functions in C",
+      "titleUr": "Standard Input and Output Functions in C (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Standard Input and Output Functions in C conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Standard Input and Output Functions in C کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Standard Input and Output Functions in C.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Standard Input and Output Functions in C کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "printf() Function and Format Specifiers (%d, %f, %c, %s)",
+      "titleUr": "printf() Function and Format Specifiers (%d, %f, %c, %s) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of printf() Function and Format Specifiers (%d, %f, %c, %s) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق printf() Function and Format Specifiers (%d, %f, %c, %s) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of printf() Function and Format Specifiers (%d, %f, %c, %s).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "printf() Function and Format Specifiers (%d, %f, %c, %s) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Escape Sequences (\n, \t, \\, \")",
+      "titleUr": "Escape Sequences (\n, \t, \\, \") (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Escape Sequences (\n, \t, \\, \") conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Escape Sequences (\n, \t, \\, \") کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Escape Sequences (\n, \t, \\, \").",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Escape Sequences (\n, \t, \\, \") کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "scanf() Function and Address Operator (&)",
+      "titleUr": "scanf() Function and Address Operator (&) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of scanf() Function and Address Operator (&) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق scanf() Function and Address Operator (&) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of scanf() Function and Address Operator (&).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "scanf() Function and Address Operator (&) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Operators in C (Arithmetic, Relational, Logical, Assignment)",
+      "titleUr": "Operators in C (Arithmetic, Relational, Logical, Assignment) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Operators in C (Arithmetic, Relational, Logical, Assignment) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Operators in C (Arithmetic, Relational, Logical, Assignment) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Operators in C (Arithmetic, Relational, Logical, Assignment).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Operators in C (Arithmetic, Relational, Logical, Assignment) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Operator Precedence and Associativity",
+      "titleUr": "Operator Precedence and Associativity (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Operator Precedence and Associativity conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Operator Precedence and Associativity کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Operator Precedence and Associativity.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Operator Precedence and Associativity کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "In C language programming, every executable statement must terminate with a:",
+      "statementUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "questionEn": "In C language programming, every executable statement must terminate with a:",
+      "questionUr": "سی لینگویج میں ہر قابلِ عمل سٹیٹمنٹ کے اختتام پر کیا لگانا لازمی ہے؟",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Semicolon (;)",
+          "textUr": "سیمی کولن (;)"
+        },
+        {
+          "key": "B",
+          "textEn": "Colon (:)",
+          "textUr": "کولن (:)"
+        },
+        {
+          "key": "C",
+          "textEn": "Period (.)",
+          "textUr": "فل سٹاپ (.)"
+        },
+        {
+          "key": "D",
+          "textEn": "Comma (,)",
+          "textUr": "کوما (,)"
+        }
+      ],
+      "optionsEn": [
+        "Semicolon (;)",
+        "Colon (:)",
+        "Period (.)",
+        "Comma (,)"
+      ],
+      "optionsUr": [
+        "سیمی کولن (;)",
+        "کولن (:)",
+        "فل سٹاپ (.)",
+        "کوما (,)"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Statements in C language conclude with a statement terminator semicolon (;).",
+      "explanationUr": "سی لینگویج میں سٹیٹمنٹ ٹرمینیٹر سیمی کولن ہوتا ہے۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 12) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 12) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 12) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 13) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 13) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 13) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 14) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of User Interface & Data Types (Concept 14) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق یوزر انٹرفیس اور ڈیٹا ٹائپس کے اہم تدریسی مقصد (نکتہ 14) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "What is meant by Standard Input and Output Functions in C? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Standard Input and Output Functions in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Standard Input and Output Functions in C? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Standard Input and Output Functions in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Standard Input and Output Functions in C is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Standard Input and Output Functions in C ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "What is meant by printf() Function and Format Specifiers (%d, %f, %c, %s)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں printf() Function and Format Specifiers (%d, %f, %c, %s) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by printf() Function and Format Specifiers (%d, %f, %c, %s)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں printf() Function and Format Specifiers (%d, %f, %c, %s) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, printf() Function and Format Specifiers (%d, %f, %c, %s) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں printf() Function and Format Specifiers (%d, %f, %c, %s) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "What is meant by Escape Sequences ( , , \\, \")? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Escape Sequences ( , , \\, \") سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Escape Sequences ( , , \\, \")? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Escape Sequences ( , , \\, \") سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Escape Sequences ( , , \\, \") is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Escape Sequences ( , , \\, \") ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "What is meant by scanf() Function and Address Operator (&)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں scanf() Function and Address Operator (&) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by scanf() Function and Address Operator (&)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں scanf() Function and Address Operator (&) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, scanf() Function and Address Operator (&) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں scanf() Function and Address Operator (&) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "What is meant by Operators in C (Arithmetic, Relational, Logical, Assignment)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Operators in C (Arithmetic, Relational, Logical, Assignment) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Operators in C (Arithmetic, Relational, Logical, Assignment)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Operators in C (Arithmetic, Relational, Logical, Assignment) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Operators in C (Arithmetic, Relational, Logical, Assignment) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Operators in C (Arithmetic, Relational, Logical, Assignment) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What is meant by Operator Precedence and Associativity? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Operator Precedence and Associativity سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Operator Precedence and Associativity? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Operator Precedence and Associativity سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Operator Precedence and Associativity is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Operator Precedence and Associativity ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 1)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 1)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 2)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 2)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 3)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 3)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 4)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 4)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 5)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 5)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 6)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 6)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "What is meant by Standard Input and Output Functions in C? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Standard Input and Output Functions in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Standard Input and Output Functions in C? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Standard Input and Output Functions in C سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Standard Input and Output Functions in C is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Standard Input and Output Functions in C ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "What is meant by printf() Function and Format Specifiers (%d, %f, %c, %s)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں printf() Function and Format Specifiers (%d, %f, %c, %s) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by printf() Function and Format Specifiers (%d, %f, %c, %s)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں printf() Function and Format Specifiers (%d, %f, %c, %s) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, printf() Function and Format Specifiers (%d, %f, %c, %s) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں printf() Function and Format Specifiers (%d, %f, %c, %s) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "What is meant by Escape Sequences ( , , \\, \")? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Escape Sequences ( , , \\, \") سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Escape Sequences ( , , \\, \")? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Escape Sequences ( , , \\, \") سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Escape Sequences ( , , \\, \") is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Escape Sequences ( , , \\, \") ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "What is meant by scanf() Function and Address Operator (&)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں scanf() Function and Address Operator (&) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by scanf() Function and Address Operator (&)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں scanf() Function and Address Operator (&) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, scanf() Function and Address Operator (&) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں scanf() Function and Address Operator (&) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "What is meant by Operators in C (Arithmetic, Relational, Logical, Assignment)? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Operators in C (Arithmetic, Relational, Logical, Assignment) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Operators in C (Arithmetic, Relational, Logical, Assignment)? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Operators in C (Arithmetic, Relational, Logical, Assignment) سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Operators in C (Arithmetic, Relational, Logical, Assignment) is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Operators in C (Arithmetic, Relational, Logical, Assignment) ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What is meant by Operator Precedence and Associativity? Explain its function in computer systems.",
+      "statementUr": "کمپیوٹر سائنس میں Operator Precedence and Associativity سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "questionEn": "What is meant by Operator Precedence and Associativity? Explain its function in computer systems.",
+      "questionUr": "کمپیوٹر سائنس میں Operator Precedence and Associativity سے کیا مراد ہے؟ اس کا بنیادی کام بیان کریں۔",
+      "answerEn": "In computer science, Operator Precedence and Associativity is a foundational technical concept used for algorithm formulation, data representation, hardware communication, or programming logic.",
+      "answerUr": "کمپیوٹر سائنس میں Operator Precedence and Associativity ڈیٹا پروسیسنگ، الگورتھم کی تشکیل اور سافٹ ویئر یا ہارڈ ویئر کے باہمی رابطے کے لیے لازمی جزو ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 1)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 1)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 2)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 2)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 3)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 3)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 4)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 4)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 5)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 5)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 6)?",
+      "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding User Interface & Data Types (Part 6)?",
+      "questionUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of User Interface & Data Types.",
+          "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in User Interface & Data Types.",
+          "statementUr": "یوزر انٹرفیس اور ڈیٹا ٹائپس کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": false
+        }
+      ]
+    }
+  ]
+}

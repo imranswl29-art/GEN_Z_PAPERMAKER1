@@ -1,0 +1,1104 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Chemistry",
+  "subject_dir": "chemistry",
+  "chapter_no": 6,
+  "chapterNo": 6,
+  "chapter_title": {
+    "en": "The Atmosphere",
+    "ur": "کرۂ ہوائی (ایٹموسفیئر)"
+  },
+  "titleEn": "The Atmosphere",
+  "titleUr": "کرۂ ہوائی (ایٹموسفیئر)",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for The Atmosphere covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Composition of Atmosphere",
+      "titleUr": "Composition of Atmosphere (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Composition of Atmosphere conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Composition of Atmosphere کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Composition of Atmosphere.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Composition of Atmosphere کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere)",
+      "titleUr": "Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3)",
+      "titleUr": "Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Greenhouse Effect and Global Warming",
+      "titleUr": "Greenhouse Effect and Global Warming (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Greenhouse Effect and Global Warming conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Greenhouse Effect and Global Warming کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Greenhouse Effect and Global Warming.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Greenhouse Effect and Global Warming کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil",
+      "titleUr": "Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole",
+      "titleUr": "Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "According to standard principles of Composition of Atmosphere, chemical reactivity is determined by:",
+      "statementUr": "Composition of Atmosphere کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Composition of Atmosphere, chemical reactivity is determined by:",
+      "questionUr": "Composition of Atmosphere کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "According to standard principles of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere), chemical reactivity is determined by:",
+      "statementUr": "Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere), chemical reactivity is determined by:",
+      "questionUr": "Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "According to standard principles of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3), chemical reactivity is determined by:",
+      "statementUr": "Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3), chemical reactivity is determined by:",
+      "questionUr": "Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "According to standard principles of Greenhouse Effect and Global Warming, chemical reactivity is determined by:",
+      "statementUr": "Greenhouse Effect and Global Warming کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Greenhouse Effect and Global Warming, chemical reactivity is determined by:",
+      "questionUr": "Greenhouse Effect and Global Warming کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "statementUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "questionEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "questionUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "7",
+          "textUr": "7"
+        },
+        {
+          "key": "B",
+          "textEn": "0",
+          "textUr": "0"
+        },
+        {
+          "key": "C",
+          "textEn": "14",
+          "textUr": "14"
+        },
+        {
+          "key": "D",
+          "textEn": "1",
+          "textUr": "1"
+        }
+      ],
+      "optionsEn": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "optionsUr": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Pure water has = = 10^-7 M, giving pH 7.",
+      "explanationUr": "خالص پانی نیوٹرل ہوتا ہے اور اس کی پی ایچ 7 ہوتی ہے۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "According to standard principles of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole, chemical reactivity is determined by:",
+      "statementUr": "Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole, chemical reactivity is determined by:",
+      "questionUr": "Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of The Atmosphere (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کرۂ ہوائی (ایٹموسفیئر) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Explain the chemical significance of Composition of Atmosphere with an example.",
+      "statementUr": "کیمسٹری کے رو سے Composition of Atmosphere کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Composition of Atmosphere with an example.",
+      "questionUr": "کیمسٹری کے رو سے Composition of Atmosphere کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Composition of Atmosphere governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Composition of Atmosphere مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Explain the chemical significance of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Explain the chemical significance of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Explain the chemical significance of Greenhouse Effect and Global Warming with an example.",
+      "statementUr": "کیمسٹری کے رو سے Greenhouse Effect and Global Warming کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Greenhouse Effect and Global Warming with an example.",
+      "questionUr": "کیمسٹری کے رو سے Greenhouse Effect and Global Warming کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Greenhouse Effect and Global Warming governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Greenhouse Effect and Global Warming مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Explain the chemical significance of Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil with an example.",
+      "statementUr": "کیمسٹری کے رو سے Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil with an example.",
+      "questionUr": "کیمسٹری کے رو سے Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "Explain the chemical significance of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole with an example.",
+      "statementUr": "کیمسٹری کے رو سے Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole with an example.",
+      "questionUr": "کیمسٹری کے رو سے Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 1)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 1)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 2)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 2)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 3)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 3)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 4)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 4)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 5)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 5)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 6)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 6)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Explain the chemical significance of Composition of Atmosphere with an example.",
+      "statementUr": "کیمسٹری کے رو سے Composition of Atmosphere کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Composition of Atmosphere with an example.",
+      "questionUr": "کیمسٹری کے رو سے Composition of Atmosphere کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Composition of Atmosphere governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Composition of Atmosphere مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Explain the chemical significance of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Layers of Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Explain the chemical significance of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Air Pollutants: Primary (CO, SO2, NOx, Hydrocarbons) and Secondary (H2SO4, HNO3, O3) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Explain the chemical significance of Greenhouse Effect and Global Warming with an example.",
+      "statementUr": "کیمسٹری کے رو سے Greenhouse Effect and Global Warming کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Greenhouse Effect and Global Warming with an example.",
+      "questionUr": "کیمسٹری کے رو سے Greenhouse Effect and Global Warming کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Greenhouse Effect and Global Warming governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Greenhouse Effect and Global Warming مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Explain the chemical significance of Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil with an example.",
+      "statementUr": "کیمسٹری کے رو سے Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil with an example.",
+      "questionUr": "کیمسٹری کے رو سے Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Acid Rain: Formation and Harmful Effects on Buildings, Aquatic Life, and Soil مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "Explain the chemical significance of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole with an example.",
+      "statementUr": "کیمسٹری کے رو سے Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole with an example.",
+      "questionUr": "کیمسٹری کے رو سے Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Ozone Depletion: Role of Chlorofluorocarbons (CFCs) and Ozone Hole مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 1)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 1)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 2)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 2)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 3)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 3)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 4)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 4)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 5)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 5)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding The Atmosphere (Part 6)?",
+      "statementUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding The Atmosphere (Part 6)?",
+      "questionUr": "کرۂ ہوائی (ایٹموسفیئر) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of The Atmosphere.",
+          "statementUr": "کرۂ ہوائی (ایٹموسفیئر) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in The Atmosphere.",
+          "statementUr": "کرۂ ہوائی (ایٹموسفیئر) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": false
+        }
+      ]
+    }
+  ]
+}

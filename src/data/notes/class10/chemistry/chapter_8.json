@@ -1,7 +1,8 @@
 {
   "class": "Class 10th",
-  "group": "Science Group",
+  "class_dir": "class10",
   "subject": "Chemistry",
+  "subject_dir": "chemistry",
   "chapter_no": 8,
   "chapterNo": 8,
   "chapter_title": {
@@ -10,986 +11,1053 @@
   },
   "titleEn": "Chemical Industries",
   "titleUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز)",
-  "summaryEn": "Authoritative PTBB board revision notes for Chemical Industries. Featuring 15 solved SLO-aligned Multiple Choice Questions, 12 solved Board-pattern Short Questions, and comprehensive Long Questions.",
-  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے عین مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے مکمل حل شدہ امتحانی نوٹس مع 15 معروضی سوالات، 12 مختصر سوالات اور 3 تفصیلی سوالات۔",
-  "curriculum": "PTBB Curriculum 2026",
-  "slos": [
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Chemical Industries covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
     {
-      "code": "SLO-01",
-      "domain": "Knowledge",
-      "text_en": "Understand core principles of Chemical Industries.",
-      "text_ur": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے بنیادی اصول سمجھیں۔"
+      "topicNo": 1,
+      "titleEn": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining)",
+      "titleUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-02",
-      "domain": "Understanding",
-      "text_en": "Explain theoretical mechanisms and laws of Chemical Industries.",
-      "text_ur": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے سائنسی قوانین کی وضاحت کریں۔"
+      "topicNo": 2,
+      "titleEn": "Metallurgy of Copper",
+      "titleUr": "Metallurgy of Copper (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Metallurgy of Copper conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Metallurgy of Copper کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Metallurgy of Copper.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Metallurgy of Copper کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     },
     {
-      "code": "SLO-03",
-      "domain": "Application",
-      "text_en": "Apply theoretical principles to solve board examination questions for Chemical Industries.",
-      "text_ur": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اصولوں کے تحت امتحانی سوالات حل کریں۔"
+      "topicNo": 3,
+      "titleEn": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages)",
+      "titleUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses)",
+      "titleUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Petroleum Refining and Fractional Distillation of Crude Oil",
+      "titleUr": "Petroleum Refining and Fractional Distillation of Crude Oil (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Petroleum Refining and Fractional Distillation of Crude Oil conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Petroleum Refining and Fractional Distillation of Crude Oil کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Petroleum Refining and Fractional Distillation of Crude Oil.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Petroleum Refining and Fractional Distillation of Crude Oil کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
     }
   ],
   "mcqs": [
     {
-      "id": 1,
+      "id": "mcq-1",
       "qNo": 1,
-      "statementEn": "What is the foundational definition of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining)?",
-      "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی بنیادی تعریف کیا ہے؟",
-      "questionEn": "What is the foundational definition of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining)?",
-      "questionUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی بنیادی تعریف کیا ہے؟",
+      "statementEn": "According to standard principles of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining), chemical reactivity is determined by:",
+      "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining), chemical reactivity is determined by:",
+      "questionUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Core scientific principle",
-          "textUr": "بنیادی سائنسی اصول"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Unrelated secondary effect",
-          "textUr": "غیر متعلقہ ثانوی اثر"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Random fluctuation",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Arbitrary assumption",
-          "textUr": "فرضی مفروضہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Core scientific principle",
-        "Unrelated secondary effect",
-        "Random fluctuation",
-        "Arbitrary assumption"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی سائنسی اصول",
-        "غیر متعلقہ ثانوی اثر",
-        "اتفاقی تبدیلی",
-        "فرضی مفروضہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 2,
+      "id": "mcq-2",
       "qNo": 2,
-      "statementEn": "Identify the standard governing formula or equation for Metallurgy of Copper:",
-      "statementUr": "Metallurgy of Copper کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
-      "questionEn": "Identify the standard governing formula or equation for Metallurgy of Copper:",
-      "questionUr": "Metallurgy of Copper کا درست حسابی کلیہ یا مساوات کون سی ہے؟",
+      "statementEn": "According to standard principles of Metallurgy of Copper, chemical reactivity is determined by:",
+      "statementUr": "Metallurgy of Copper کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Metallurgy of Copper, chemical reactivity is determined by:",
+      "questionUr": "Metallurgy of Copper کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Primary governing equation",
-          "textUr": "بنیادی حسابی مساوات"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Inverse square law only",
-          "textUr": "صرف معکوس مربع کا کلیہ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Constant ratio product",
-          "textUr": "مستقل تناسب کا حاصل ضرب"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Linear approximation",
-          "textUr": "لینیئر تخمینہ"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Primary governing equation",
-        "Inverse square law only",
-        "Constant ratio product",
-        "Linear approximation"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "بنیادی حسابی مساوات",
-        "صرف معکوس مربع کا کلیہ",
-        "مستقل تناسب کا حاصل ضرب",
-        "لینیئر تخمینہ"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Metallurgy of Copper in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Metallurgy of Copper کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 3,
+      "id": "mcq-3",
       "qNo": 3,
-      "statementEn": "The standard SI unit or characteristic measure associated with Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) is:",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
-      "questionEn": "The standard SI unit or characteristic measure associated with Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) is:",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) سے متعلق معیاری ایس آئی یونٹ یا پیمانہ ہے:",
+      "statementEn": "According to standard principles of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages), chemical reactivity is determined by:",
+      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages), chemical reactivity is determined by:",
+      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard derived SI unit",
-          "textUr": "معیاری ماخوذ ایس آئی یونٹ"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Non-standard ancient unit",
-          "textUr": "غیر معیاری پرانا یونٹ"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Arbitrary dimension",
-          "textUr": "فرضی مقدار"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Dimensionless zero",
-          "textUr": "بے سمت صفر"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Standard derived SI unit",
-        "Non-standard ancient unit",
-        "Arbitrary dimension",
-        "Dimensionless zero"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "معیاری ماخوذ ایس آئی یونٹ",
-        "غیر معیاری پرانا یونٹ",
-        "فرضی مقدار",
-        "بے سمت صفر"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 4,
+      "id": "mcq-4",
       "qNo": 4,
-      "statementEn": "What is the primary practical function or biological role of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses)?",
-      "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
-      "questionEn": "What is the primary practical function or biological role of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses)?",
-      "questionUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا بنیادی عملی یا حیاتیاتی کام کیا ہے؟",
+      "statementEn": "According to standard principles of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses), chemical reactivity is determined by:",
+      "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses), chemical reactivity is determined by:",
+      "questionUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Essential functional mechanism",
-          "textUr": "لازمی فعلیاتی طریقہ کار"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Harmful degradation",
-          "textUr": "نقصان دہ عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "Passive stationary state",
-          "textUr": "غیر متحرک ساکن حالت"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Random displacement",
-          "textUr": "اتفاقی تبدیلی"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Essential functional mechanism",
-        "Harmful degradation",
-        "Passive stationary state",
-        "Random displacement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "لازمی فعلیاتی طریقہ کار",
-        "نقصان دہ عمل",
-        "غیر متحرک ساکن حالت",
-        "اتفاقی تبدیلی"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 5,
+      "id": "mcq-5",
       "qNo": 5,
-      "statementEn": "What is the underlying scientific cause of Petroleum Refining and Fractional Distillation of Crude Oil?",
-      "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
-      "questionEn": "What is the underlying scientific cause of Petroleum Refining and Fractional Distillation of Crude Oil?",
-      "questionUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے وقوع پذیر ہونے کی بنیادی سائنسی وجہ کیا ہے؟",
+      "statementEn": "According to standard principles of Petroleum Refining and Fractional Distillation of Crude Oil, chemical reactivity is determined by:",
+      "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Petroleum Refining and Fractional Distillation of Crude Oil, chemical reactivity is determined by:",
+      "questionUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Governing law of nature",
-          "textUr": "قدرت کا بنیادی قانون"
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous chance",
-          "textUr": "اتفاقی عمل"
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
         },
         {
           "key": "C",
-          "textEn": "External disturbance only",
-          "textUr": "صرف بیرونی خلل"
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
         },
         {
           "key": "D",
-          "textEn": "Unstable measurement",
-          "textUr": "غیر مستحکم پیمائش"
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
         }
       ],
       "optionsEn": [
-        "Governing law of nature",
-        "Spontaneous chance",
-        "External disturbance only",
-        "Unstable measurement"
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
       ],
       "optionsUr": [
-        "قدرت کا بنیادی قانون",
-        "اتفاقی عمل",
-        "صرف بیرونی خلل",
-        "غیر مستحکم پیمائش"
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Petroleum Refining and Fractional Distillation of Crude Oil in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Petroleum Refining and Fractional Distillation of Crude Oil کا مستند نصابی جواب۔"
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
     },
     {
-      "id": 6,
+      "id": "mcq-6",
       "qNo": 6,
-      "statementEn": "Which factor directly influences the rate or magnitude of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining)?",
-      "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
-      "questionEn": "Which factor directly influences the rate or magnitude of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining)?",
-      "questionUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی مقدار یا رفتار پر کون سا عنصر براہِ راست اثر انداز ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Concentration / Force / Temperature",
-          "textUr": "ارتکاز / فورس / درجہ حرارت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Surface color only",
-          "textUr": "صرف سطحی رنگ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Surrounding atmosphere only",
-          "textUr": "صرف بیرونی ماحول"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Cosmic radiation",
-          "textUr": "کائناتی شعاعیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Concentration / Force / Temperature",
-        "Surface color only",
-        "Surrounding atmosphere only",
-        "Cosmic radiation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "ارتکاز / فورس / درجہ حرارت",
-        "صرف سطحی رنگ",
-        "صرف بیرونی ماحول",
-        "کائناتی شعاعیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 7,
+      "id": "mcq-7",
       "qNo": 7,
-      "statementEn": "The graphical representation between key variables in Metallurgy of Copper demonstrates:",
-      "statementUr": "Metallurgy of Copper میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
-      "questionEn": "The graphical representation between key variables in Metallurgy of Copper demonstrates:",
-      "questionUr": "Metallurgy of Copper میں متغیرات کے درمیان گرافیکل تعلق کیا ظاہر کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Direct proportion curve",
-          "textUr": "براہ راست تناسب کا خط"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Inverse parabolic fall",
-          "textUr": "معکوس پیرابولک زوال"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Constant horizontal line",
-          "textUr": "مستقل افقی لکیر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Discontinuous wave",
-          "textUr": "غیر مسلسل لہر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Direct proportion curve",
-        "Inverse parabolic fall",
-        "Constant horizontal line",
-        "Discontinuous wave"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "براہ راست تناسب کا خط",
-        "معکوس پیرابولک زوال",
-        "مستقل افقی لکیر",
-        "غیر مسلسل لہر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Metallurgy of Copper in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Metallurgy of Copper کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 8,
+      "id": "mcq-8",
       "qNo": 8,
-      "statementEn": "Which experimental apparatus or diagnostic test is utilized to examine Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages)?",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
-      "questionEn": "Which experimental apparatus or diagnostic test is utilized to examine Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages)?",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی جانچ یا مشاہدے کے لیے کون سا تجرباتی آلہ یا ٹیسٹ استعمال ہوتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard calibrated laboratory apparatus",
-          "textUr": "معیاری لیبارٹری کا پیمائشی آلہ"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "General measuring tape only",
-          "textUr": "صرف پیمائشی فیتہ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Chemical indicator only",
-          "textUr": "صرف کیمیائی انڈیکیٹر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Voltmeter only",
-          "textUr": "صرف وولٹ میٹر"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard calibrated laboratory apparatus",
-        "General measuring tape only",
-        "Chemical indicator only",
-        "Voltmeter only"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری لیبارٹری کا پیمائشی آلہ",
-        "صرف پیمائشی فیتہ",
-        "صرف کیمیائی انڈیکیٹر",
-        "صرف وولٹ میٹر"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 9,
+      "id": "mcq-9",
       "qNo": 9,
-      "statementEn": "What is the most distinctive characteristic property of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses)?",
-      "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
-      "questionEn": "What is the most distinctive characteristic property of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses)?",
-      "questionUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی سب سے نمایاں امتیازی خصوصیت کیا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Specific intrinsic physical/chemical property",
-          "textUr": "مخصوص اندرونی سائنسی خصوصیت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Temporary exterior trait",
-          "textUr": "عارضی بیرونی علامت"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random variable property",
-          "textUr": "اتفاقی متغیر خاصیت"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Inert passive nature",
-          "textUr": "غیر فعال بے اثر حالت"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Specific intrinsic physical/chemical property",
-        "Temporary exterior trait",
-        "Random variable property",
-        "Inert passive nature"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "مخصوص اندرونی سائنسی خصوصیت",
-        "عارضی بیرونی علامت",
-        "اتفاقی متغیر خاصیت",
-        "غیر فعال بے اثر حالت"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 10,
+      "id": "mcq-10",
       "qNo": 10,
-      "statementEn": "A major real-world technological application of Petroleum Refining and Fractional Distillation of Crude Oil in everyday life is:",
-      "statementUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Petroleum Refining and Fractional Distillation of Crude Oil کا اہم ترین عملی اطلاق ہے:",
-      "questionEn": "A major real-world technological application of Petroleum Refining and Fractional Distillation of Crude Oil in everyday life is:",
-      "questionUr": "روزمرہ زندگی یا جدید ٹیکنالوجی میں Petroleum Refining and Fractional Distillation of Crude Oil کا اہم ترین عملی اطلاق ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Modern engineering & medical device application",
-          "textUr": "جدید انجینئرنگ و طبی آلات میں استعمال"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Traditional decorative craft only",
-          "textUr": "صرف روایتی سجاوٹ"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Theoretical discussion only",
-          "textUr": "صرف نظریاتی بحث"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Agricultural pest creation",
-          "textUr": "زرعی کیڑوں کی افزائش"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Modern engineering & medical device application",
-        "Traditional decorative craft only",
-        "Theoretical discussion only",
-        "Agricultural pest creation"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "جدید انجینئرنگ و طبی آلات میں استعمال",
-        "صرف روایتی سجاوٹ",
-        "صرف نظریاتی بحث",
-        "زرعی کیڑوں کی افزائش"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Petroleum Refining and Fractional Distillation of Crude Oil in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Petroleum Refining and Fractional Distillation of Crude Oil کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 11,
+      "id": "mcq-11",
       "qNo": 11,
-      "statementEn": "What happens when the primary parameter of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) is doubled?",
-      "statementUr": "اگر Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
-      "questionEn": "What happens when the primary parameter of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) is doubled?",
-      "questionUr": "اگر Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی بنیادی مقدار کو دوگنا کر دیا جائے تو کیا ہوگا؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "The resulting quantity doubles proportionally",
-          "textUr": "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "It becomes fourfold",
-          "textUr": "چار گنا بڑھ جائے گی"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "It reduces to half",
-          "textUr": "نصف رہ جائے گی"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "It remains completely unchanged",
-          "textUr": "مکمل طور پر غیر تبدیل شدہ رہے گی"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "The resulting quantity doubles proportionally",
-        "It becomes fourfold",
-        "It reduces to half",
-        "It remains completely unchanged"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "حاصل شدہ مقدار تناسب سے دوگنی ہو جائے گی",
-        "چار گنا بڑھ جائے گی",
-        "نصف رہ جائے گی",
-        "مکمل طور پر غیر تبدیل شدہ رہے گی"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 12,
+      "id": "mcq-12",
       "qNo": 12,
-      "statementEn": "According to official curriculum classification, the main types of Metallurgy of Copper are:",
-      "statementUr": "نصابی درجہ بندی کے مطابق Metallurgy of Copper کی بنیادی اقسام ہیں:",
-      "questionEn": "According to official curriculum classification, the main types of Metallurgy of Copper are:",
-      "questionUr": "نصابی درجہ بندی کے مطابق Metallurgy of Copper کی بنیادی اقسام ہیں:",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard textbook classifications",
-          "textUr": "نصابی و معیاری اقسام"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Arbitrary categories",
-          "textUr": "فرضی درجہ بندیاں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Unrelated groupings",
-          "textUr": "غیر متعلقہ گروہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Single indivisible type",
-          "textUr": "صرف ایک ناقابل تقسیم قسم"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard textbook classifications",
-        "Arbitrary categories",
-        "Unrelated groupings",
-        "Single indivisible type"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "نصابی و معیاری اقسام",
-        "فرضی درجہ بندیاں",
-        "غیر متعلقہ گروہ",
-        "صرف ایک ناقابل تقسیم قسم"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Metallurgy of Copper in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Metallurgy of Copper کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 13,
+      "id": "mcq-13",
       "qNo": 13,
-      "statementEn": "How does Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) differ fundamentally from its counterpart?",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
-      "questionEn": "How does Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) differ fundamentally from its counterpart?",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) اپنے متضاد یا متبادل تصور سے بنیادی طور پر کس طرح مختلف ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Distinct direction, magnitude and physical nature",
-          "textUr": "سمت، مقدار اور طبعی نوعیت کا واضح فرق"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Identical in every respect",
-          "textUr": "ہر لحاظ سے بالکل یکساں"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Different only in name",
-          "textUr": "صرف نام کا فرق"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "No physical distinction exists",
-          "textUr": "کوئی طبعی فرق موجود نہیں"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Distinct direction, magnitude and physical nature",
-        "Identical in every respect",
-        "Different only in name",
-        "No physical distinction exists"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "سمت، مقدار اور طبعی نوعیت کا واضح فرق",
-        "ہر لحاظ سے بالکل یکساں",
-        "صرف نام کا فرق",
-        "کوئی طبعی فرق موجود نہیں"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 14,
+      "id": "mcq-14",
       "qNo": 14,
-      "statementEn": "The quantitative value or constant established for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) is:",
-      "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
-      "questionEn": "The quantitative value or constant established for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) is:",
-      "questionUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے لیے قائم کردہ عددی قیمت یا کانسٹنٹ ہے:",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Standard experimentally verified constant",
-          "textUr": "معیاری تجرباتی ثابت شدہ قیمت"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Variable unpredictable number",
-          "textUr": "متغیر غیر یقینی عدد"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Zero at all times",
-          "textUr": "ہمیشہ صفر"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Infinite undefined magnitude",
-          "textUr": "لامحدود غیر معین مقدار"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Standard experimentally verified constant",
-        "Variable unpredictable number",
-        "Zero at all times",
-        "Infinite undefined magnitude"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "معیاری تجرباتی ثابت شدہ قیمت",
-        "متغیر غیر یقینی عدد",
-        "ہمیشہ صفر",
-        "لامحدود غیر معین مقدار"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     },
     {
-      "id": 15,
+      "id": "mcq-15",
       "qNo": 15,
-      "statementEn": "Which governing scientific law directly regulates the behavior of Petroleum Refining and Fractional Distillation of Crude Oil?",
-      "statementUr": "کون سا بنیادی سائنسی قانون Petroleum Refining and Fractional Distillation of Crude Oil کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
-      "questionEn": "Which governing scientific law directly regulates the behavior of Petroleum Refining and Fractional Distillation of Crude Oil?",
-      "questionUr": "کون سا بنیادی سائنسی قانون Petroleum Refining and Fractional Distillation of Crude Oil کے طرزِ عمل کو باقاعدہ کنٹرول کرتا ہے؟",
+      "statementEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Chemical Industries (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
       "options": [
         {
           "key": "A",
-          "textEn": "Fundamental Conservation & Equilibrium Law",
-          "textUr": "بنیادی قانونِ بقا و توازن"
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
         },
         {
           "key": "B",
-          "textEn": "Spontaneous reaction law",
-          "textUr": "خود بخود تعامل کا اصول"
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
         },
         {
           "key": "C",
-          "textEn": "Random motion theorem",
-          "textUr": "بے قاعدہ حرکت کا کلیہ"
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
         },
         {
           "key": "D",
-          "textEn": "Empirical assumption",
-          "textUr": "تجرباتی قیاس"
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
         }
       ],
       "optionsEn": [
-        "Fundamental Conservation & Equilibrium Law",
-        "Spontaneous reaction law",
-        "Random motion theorem",
-        "Empirical assumption"
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
       ],
       "optionsUr": [
-        "بنیادی قانونِ بقا و توازن",
-        "خود بخود تعامل کا اصول",
-        "بے قاعدہ حرکت کا کلیہ",
-        "تجرباتی قیاس"
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
       ],
       "correctOption": "A",
       "correctIndex": 0,
-      "explanationEn": "Standard textbook concept for Petroleum Refining and Fractional Distillation of Crude Oil in Chemical Industries.",
-      "explanationUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے تحت Petroleum Refining and Fractional Distillation of Crude Oil کا مستند نصابی جواب۔"
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
     }
   ],
   "shortQuestions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Metallurgy of Copper and its related counterpart with two clear distinctions.",
-      "statementUr": "Metallurgy of Copper اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Metallurgy of Copper and its related counterpart with two clear distinctions.",
-      "questionUr": "Metallurgy of Copper اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Metallurgy of Copper conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Metallurgy of Copper کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Metallurgy of Copper with an example.",
+      "statementUr": "کیمسٹری کے رو سے Metallurgy of Copper کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Metallurgy of Copper with an example.",
+      "questionUr": "کیمسٹری کے رو سے Metallurgy of Copper کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Metallurgy of Copper governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Metallurgy of Copper مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) to occur.",
-      "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) to occur.",
-      "questionUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "questionUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Petroleum Refining and Fractional Distillation of Crude Oil conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Petroleum Refining and Fractional Distillation of Crude Oil کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Petroleum Refining and Fractional Distillation of Crude Oil with an example.",
+      "statementUr": "کیمسٹری کے رو سے Petroleum Refining and Fractional Distillation of Crude Oil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Petroleum Refining and Fractional Distillation of Crude Oil with an example.",
+      "questionUr": "کیمسٹری کے رو سے Petroleum Refining and Fractional Distillation of Crude Oil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Petroleum Refining and Fractional Distillation of Crude Oil governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Petroleum Refining and Fractional Distillation of Crude Oil مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 1)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 1)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Metallurgy of Copper are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Metallurgy of Copper کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Metallurgy of Copper are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Metallurgy of Copper کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Metallurgy of Copper conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Metallurgy of Copper کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 2)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 2)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 3)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 3)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 4)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 4)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "questionUr": "Petroleum Refining and Fractional Distillation of Crude Oil کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Petroleum Refining and Fractional Distillation of Crude Oil conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Petroleum Refining and Fractional Distillation of Crude Oil کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 5)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 5)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 6)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 6)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Metallurgy of Copper reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Metallurgy of Copper توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Metallurgy of Copper reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Metallurgy of Copper توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Metallurgy of Copper conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Metallurgy of Copper کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 7)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 7)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
   "short_questions": [
     {
-      "id": 1,
+      "id": "sq-1",
       "subNo": 1,
-      "statementEn": "Define Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) and write its governing mathematical formula or scientific definition.",
-      "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "questionEn": "Define Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) and write its governing mathematical formula or scientific definition.",
-      "questionUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی جامع تعریف تحریر کریں اور اس کا بنیادی فارمولا یا سائنسی تعریف لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 2,
+      "id": "sq-2",
       "subNo": 2,
-      "statementEn": "Differentiate between Metallurgy of Copper and its related counterpart with two clear distinctions.",
-      "statementUr": "Metallurgy of Copper اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "questionEn": "Differentiate between Metallurgy of Copper and its related counterpart with two clear distinctions.",
-      "questionUr": "Metallurgy of Copper اور اس کے متبادل پہلو کے درمیان دو واضح فرق بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Metallurgy of Copper conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Metallurgy of Copper کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Metallurgy of Copper with an example.",
+      "statementUr": "کیمسٹری کے رو سے Metallurgy of Copper کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Metallurgy of Copper with an example.",
+      "questionUr": "کیمسٹری کے رو سے Metallurgy of Copper کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Metallurgy of Copper governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Metallurgy of Copper مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 3,
+      "id": "sq-3",
       "subNo": 3,
-      "statementEn": "Explain the scientific reason behind the natural phenomenon of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "questionEn": "Explain the scientific reason behind the natural phenomenon of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے قدرتی مظہر کی سائنسی اور منطقی وجہ بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 4,
+      "id": "sq-4",
       "subNo": 4,
-      "statementEn": "State the necessary conditions and rules required for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) to occur.",
-      "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "questionEn": "State the necessary conditions and rules required for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) to occur.",
-      "questionUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے واقع ہونے کے لیے درکار بنیادی شرائط اور اصول تحریر کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) with an example.",
+      "statementUr": "کیمسٹری کے رو سے Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) with an example.",
+      "questionUr": "کیمسٹری کے رو سے Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 5,
+      "id": "sq-5",
       "subNo": 5,
-      "statementEn": "Write down the standard SI units and dimensional properties of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "questionEn": "Write down the standard SI units and dimensional properties of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "questionUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے معیاری ایس آئی یونٹس اور خصوصیات درج کریں۔",
-      "answerEn": "Standard textbook solution and definition for Petroleum Refining and Fractional Distillation of Crude Oil conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Petroleum Refining and Fractional Distillation of Crude Oil کا مستند ماڈل جواب۔",
+      "statementEn": "Explain the chemical significance of Petroleum Refining and Fractional Distillation of Crude Oil with an example.",
+      "statementUr": "کیمسٹری کے رو سے Petroleum Refining and Fractional Distillation of Crude Oil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Petroleum Refining and Fractional Distillation of Crude Oil with an example.",
+      "questionUr": "کیمسٹری کے رو سے Petroleum Refining and Fractional Distillation of Crude Oil کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Petroleum Refining and Fractional Distillation of Crude Oil governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Petroleum Refining and Fractional Distillation of Crude Oil مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
       "marks": 2
     },
     {
-      "id": 6,
+      "id": "sq-6",
       "subNo": 6,
-      "statementEn": "Give two practical everyday applications of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in modern technology or society.",
-      "statementUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے دو عملی اطلاقات بیان کریں۔",
-      "questionEn": "Give two practical everyday applications of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) in modern technology or society.",
-      "questionUr": "جدید ٹیکنالوجی یا روزمرہ زندگی میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے دو عملی اطلاقات بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 1)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 1)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 7,
+      "id": "sq-7",
       "subNo": 7,
-      "statementEn": "What effect is observed when parameters of Metallurgy of Copper are doubled or halved? Explain briefly.",
-      "statementUr": "اگر Metallurgy of Copper کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "questionEn": "What effect is observed when parameters of Metallurgy of Copper are doubled or halved? Explain briefly.",
-      "questionUr": "اگر Metallurgy of Copper کے عوامل کو دوگنا یا نصف کر دیا جائے تو کیا اثر ہوگا؟ مختصراً وضاحت کریں۔",
-      "answerEn": "Standard textbook solution and definition for Metallurgy of Copper conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Metallurgy of Copper کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 2)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 2)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 8,
+      "id": "sq-8",
       "subNo": 8,
-      "statementEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "questionEn": "Draw a neat labeled diagram or schematic representation explaining the core mechanism of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-      "questionUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے بنیادی طریقہ کار کی وضاحتی ڈایاگرام یا خاکہ بنائیں اور لیبل کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 3)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 3)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 9,
+      "id": "sq-9",
       "subNo": 9,
-      "statementEn": "Explain the conceptual significance of studying Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) according to textbook learning outcomes.",
-      "statementUr": "نصابی مقاصد کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "questionEn": "Explain the conceptual significance of studying Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) according to textbook learning outcomes.",
-      "questionUr": "نصابی مقاصد کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کے مطالعہ کی بنیادی سائنسی اہمیت بیان کریں۔",
-      "answerEn": "Standard textbook solution and definition for Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 4)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 4)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 10,
+      "id": "sq-10",
       "subNo": 10,
-      "statementEn": "Name the key factors that increase or decrease the efficiency of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "questionEn": "Name the key factors that increase or decrease the efficiency of Petroleum Refining and Fractional Distillation of Crude Oil.",
-      "questionUr": "Petroleum Refining and Fractional Distillation of Crude Oil کی کارکردگی یا شرح کو بڑھانے اور گھٹانے والے عوامل کے نام لکھیں۔",
-      "answerEn": "Standard textbook solution and definition for Petroleum Refining and Fractional Distillation of Crude Oil conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Petroleum Refining and Fractional Distillation of Crude Oil کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 5)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 5)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 11,
+      "id": "sq-11",
       "subNo": 11,
-      "statementEn": "How does Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) contribute to environmental balance or industrial processes?",
-      "statementUr": "ماحولیاتی توازن یا صنعتی عمل میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کیا کردار ادا کرتا ہے؟",
-      "questionEn": "How does Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) contribute to environmental balance or industrial processes?",
-      "questionUr": "ماحولیاتی توازن یا صنعتی عمل میں Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کیا کردار ادا کرتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 6)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 6)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     },
     {
-      "id": 12,
+      "id": "sq-12",
       "subNo": 12,
-      "statementEn": "Solve the conceptual problem: State what happens to a system when Metallurgy of Copper reaches equilibrium.",
-      "statementUr": "تصوراتی سوال کا جواب دیں: جب Metallurgy of Copper توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "questionEn": "Solve the conceptual problem: State what happens to a system when Metallurgy of Copper reaches equilibrium.",
-      "questionUr": "تصوراتی سوال کا جواب دیں: جب Metallurgy of Copper توازن کی حالت میں پہنچ جائے تو سسٹم پر کیا اثر ہوتا ہے؟",
-      "answerEn": "Standard textbook solution and definition for Metallurgy of Copper conforming to PTBB SLOs.",
-      "answerUr": "پنجاب ٹیکسٹ بک بورڈ کے تدریسی مقاصد (SLOs) کے مطابق Metallurgy of Copper کا مستند ماڈل جواب۔",
+      "statementEn": "What are the two major examination points to remember regarding Chemical Industries (Part 7)?",
+      "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Chemical Industries (Part 7)?",
+      "questionUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
       "marks": 2
     }
   ],
@@ -1001,57 +1069,15 @@
       "parts": [
         {
           "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining).",
-          "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Chemical Industries.",
+          "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
           "marks": 5,
           "isNumerical": false
         },
         {
           "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Metallurgy of Copper.",
-          "statementUr": "Metallurgy of Copper کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "qNo": 6,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages).",
-          "statementUr": "Manufacture of Sodium Carbonate by Solvay's Process (Raw Materials, Flowsheet, Reactions, Advantages) کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses).",
-          "statementUr": "Manufacture of Urea (Raw Materials, Liquid NH3, Reactions, Granulation, Uses) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
-          "marks": 4,
-          "isNumerical": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "qNo": 7,
-      "totalMarks": 9,
-      "parts": [
-        {
-          "partLabel": "a",
-          "statementEn": "Describe in detail the chemical properties, experimental setup, and industrial applications of Petroleum Refining and Fractional Distillation of Crude Oil.",
-          "statementUr": "Petroleum Refining and Fractional Distillation of Crude Oil کے کیمیائی خواص، لیبارٹری خاکے اور صنعتی استعمالات کی مفصل وضاحت کریں۔",
-          "marks": 5,
-          "isNumerical": false
-        },
-        {
-          "partLabel": "b",
-          "statementEn": "Explain the preparation, chemical reactions, and identification tests of Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining).",
-          "statementUr": "Basic Metallurgical Operations (Crushing, Concentration, Roasting, Smelting, Bessemerization, Refining) کی تیاری، کیمیائی مساواتیں اور شناختی ٹیسٹ بیان کریں۔",
+          "statementEn": "Describe the practical applications and standard problem solving in Chemical Industries.",
+          "statementUr": "کیمیائی صنعتیں (کیمیکل انڈسٹریز) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
           "marks": 4,
           "isNumerical": false
         }

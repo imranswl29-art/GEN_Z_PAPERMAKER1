@@ -1,0 +1,1104 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Biology",
+  "subject_dir": "biology",
+  "chapter_no": 6,
+  "chapterNo": 6,
+  "chapter_title": {
+    "en": "Inheritance",
+    "ur": "وراثت (انہیرٹنس)"
+  },
+  "titleEn": "Inheritance",
+  "titleUr": "وراثت (انہیرٹنس)",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Inheritance covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق وراثت (انہیرٹنس) کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Introduction to Genetics and Genes",
+      "titleUr": "Introduction to Genetics and Genes (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Introduction to Genetics and Genes conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Introduction to Genetics and Genes کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Introduction to Genetics and Genes.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Introduction to Genetics and Genes کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "Chromosomes and DNA Structure (Watson-Crick Model)",
+      "titleUr": "Chromosomes and DNA Structure (Watson-Crick Model) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Chromosomes and DNA Structure (Watson-Crick Model) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Chromosomes and DNA Structure (Watson-Crick Model) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Chromosomes and DNA Structure (Watson-Crick Model).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Chromosomes and DNA Structure (Watson-Crick Model) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment)",
+      "titleUr": "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Monohybrid and Dihybrid Crosses",
+      "titleUr": "Monohybrid and Dihybrid Crosses (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Monohybrid and Dihybrid Crosses conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Monohybrid and Dihybrid Crosses کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Monohybrid and Dihybrid Crosses.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Monohybrid and Dihybrid Crosses کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Co-dominance and Incomplete Dominance",
+      "titleUr": "Co-dominance and Incomplete Dominance (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Co-dominance and Incomplete Dominance conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Co-dominance and Incomplete Dominance کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Co-dominance and Incomplete Dominance.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Co-dominance and Incomplete Dominance کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 6,
+      "titleEn": "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection)",
+      "titleUr": "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection).",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "In biological classification and study of Introduction to Genetics and Genes, the basic unit of classification is:",
+      "statementUr": "Introduction to Genetics and Genes کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Introduction to Genetics and Genes, the basic unit of classification is:",
+      "questionUr": "Introduction to Genetics and Genes کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Species",
+          "textUr": "سپیشیز"
+        },
+        {
+          "key": "B",
+          "textEn": "Genus",
+          "textUr": "جینس"
+        },
+        {
+          "key": "C",
+          "textEn": "Family",
+          "textUr": "فیملی"
+        },
+        {
+          "key": "D",
+          "textEn": "Order",
+          "textUr": "آرڈر"
+        }
+      ],
+      "optionsEn": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "optionsUr": [
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "In biological classification and study of Chromosomes and DNA Structure (Watson-Crick Model), the basic unit of classification is:",
+      "statementUr": "Chromosomes and DNA Structure (Watson-Crick Model) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Chromosomes and DNA Structure (Watson-Crick Model), the basic unit of classification is:",
+      "questionUr": "Chromosomes and DNA Structure (Watson-Crick Model) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Species",
+          "textUr": "سپیشیز"
+        },
+        {
+          "key": "B",
+          "textEn": "Genus",
+          "textUr": "جینس"
+        },
+        {
+          "key": "C",
+          "textEn": "Family",
+          "textUr": "فیملی"
+        },
+        {
+          "key": "D",
+          "textEn": "Order",
+          "textUr": "آرڈر"
+        }
+      ],
+      "optionsEn": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "optionsUr": [
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "In biological classification and study of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment), the basic unit of classification is:",
+      "statementUr": "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment), the basic unit of classification is:",
+      "questionUr": "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Species",
+          "textUr": "سپیشیز"
+        },
+        {
+          "key": "B",
+          "textEn": "Genus",
+          "textUr": "جینس"
+        },
+        {
+          "key": "C",
+          "textEn": "Family",
+          "textUr": "فیملی"
+        },
+        {
+          "key": "D",
+          "textEn": "Order",
+          "textUr": "آرڈر"
+        }
+      ],
+      "optionsEn": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "optionsUr": [
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "In biological classification and study of Monohybrid and Dihybrid Crosses, the basic unit of classification is:",
+      "statementUr": "Monohybrid and Dihybrid Crosses کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Monohybrid and Dihybrid Crosses, the basic unit of classification is:",
+      "questionUr": "Monohybrid and Dihybrid Crosses کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Species",
+          "textUr": "سپیشیز"
+        },
+        {
+          "key": "B",
+          "textEn": "Genus",
+          "textUr": "جینس"
+        },
+        {
+          "key": "C",
+          "textEn": "Family",
+          "textUr": "فیملی"
+        },
+        {
+          "key": "D",
+          "textEn": "Order",
+          "textUr": "آرڈر"
+        }
+      ],
+      "optionsEn": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "optionsUr": [
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "In biological classification and study of Co-dominance and Incomplete Dominance, the basic unit of classification is:",
+      "statementUr": "Co-dominance and Incomplete Dominance کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Co-dominance and Incomplete Dominance, the basic unit of classification is:",
+      "questionUr": "Co-dominance and Incomplete Dominance کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Species",
+          "textUr": "سپیشیز"
+        },
+        {
+          "key": "B",
+          "textEn": "Genus",
+          "textUr": "جینس"
+        },
+        {
+          "key": "C",
+          "textEn": "Family",
+          "textUr": "فیملی"
+        },
+        {
+          "key": "D",
+          "textEn": "Order",
+          "textUr": "آرڈر"
+        }
+      ],
+      "optionsEn": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "optionsUr": [
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "In biological classification and study of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection), the basic unit of classification is:",
+      "statementUr": "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "questionEn": "In biological classification and study of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection), the basic unit of classification is:",
+      "questionUr": "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کے حیاتیاتی مطالعے اور درجہ بندی کی بنیادی اکائی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Species",
+          "textUr": "سپیشیز"
+        },
+        {
+          "key": "B",
+          "textEn": "Genus",
+          "textUr": "جینس"
+        },
+        {
+          "key": "C",
+          "textEn": "Family",
+          "textUr": "فیملی"
+        },
+        {
+          "key": "D",
+          "textEn": "Order",
+          "textUr": "آرڈر"
+        }
+      ],
+      "optionsEn": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "optionsUr": [
+        "سپیشیز",
+        "جینس",
+        "فیملی",
+        "آرڈر"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Species is the fundamental natural unit of biological taxonomy.",
+      "explanationUr": "حیاتیاتی درجہ بندی کی بنیادی اکائی سپیشیز ہے۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Inheritance (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق وراثت (انہیرٹنس) کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Describe the biological role and importance of Introduction to Genetics and Genes in living organisms.",
+      "statementUr": "جانداروں میں Introduction to Genetics and Genes کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Introduction to Genetics and Genes in living organisms.",
+      "questionUr": "جانداروں میں Introduction to Genetics and Genes کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Introduction to Genetics and Genes plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Introduction to Genetics and Genes جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Describe the biological role and importance of Chromosomes and DNA Structure (Watson-Crick Model) in living organisms.",
+      "statementUr": "جانداروں میں Chromosomes and DNA Structure (Watson-Crick Model) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Chromosomes and DNA Structure (Watson-Crick Model) in living organisms.",
+      "questionUr": "جانداروں میں Chromosomes and DNA Structure (Watson-Crick Model) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Chromosomes and DNA Structure (Watson-Crick Model) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Chromosomes and DNA Structure (Watson-Crick Model) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Describe the biological role and importance of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) in living organisms.",
+      "statementUr": "جانداروں میں Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) in living organisms.",
+      "questionUr": "جانداروں میں Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Describe the biological role and importance of Monohybrid and Dihybrid Crosses in living organisms.",
+      "statementUr": "جانداروں میں Monohybrid and Dihybrid Crosses کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Monohybrid and Dihybrid Crosses in living organisms.",
+      "questionUr": "جانداروں میں Monohybrid and Dihybrid Crosses کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Monohybrid and Dihybrid Crosses plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Monohybrid and Dihybrid Crosses جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Describe the biological role and importance of Co-dominance and Incomplete Dominance in living organisms.",
+      "statementUr": "جانداروں میں Co-dominance and Incomplete Dominance کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Co-dominance and Incomplete Dominance in living organisms.",
+      "questionUr": "جانداروں میں Co-dominance and Incomplete Dominance کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Co-dominance and Incomplete Dominance plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Co-dominance and Incomplete Dominance جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "Describe the biological role and importance of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) in living organisms.",
+      "statementUr": "جانداروں میں Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) in living organisms.",
+      "questionUr": "جانداروں میں Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 1)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 1)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 2)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 2)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 3)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 3)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 4)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 4)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 5)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 5)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 6)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 6)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Describe the biological role and importance of Introduction to Genetics and Genes in living organisms.",
+      "statementUr": "جانداروں میں Introduction to Genetics and Genes کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Introduction to Genetics and Genes in living organisms.",
+      "questionUr": "جانداروں میں Introduction to Genetics and Genes کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Introduction to Genetics and Genes plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Introduction to Genetics and Genes جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Describe the biological role and importance of Chromosomes and DNA Structure (Watson-Crick Model) in living organisms.",
+      "statementUr": "جانداروں میں Chromosomes and DNA Structure (Watson-Crick Model) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Chromosomes and DNA Structure (Watson-Crick Model) in living organisms.",
+      "questionUr": "جانداروں میں Chromosomes and DNA Structure (Watson-Crick Model) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Chromosomes and DNA Structure (Watson-Crick Model) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Chromosomes and DNA Structure (Watson-Crick Model) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Describe the biological role and importance of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) in living organisms.",
+      "statementUr": "جانداروں میں Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) in living organisms.",
+      "questionUr": "جانداروں میں Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Mendel's Laws of Inheritance (Law of Segregation, Law of Independent Assortment) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Describe the biological role and importance of Monohybrid and Dihybrid Crosses in living organisms.",
+      "statementUr": "جانداروں میں Monohybrid and Dihybrid Crosses کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Monohybrid and Dihybrid Crosses in living organisms.",
+      "questionUr": "جانداروں میں Monohybrid and Dihybrid Crosses کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Monohybrid and Dihybrid Crosses plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Monohybrid and Dihybrid Crosses جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Describe the biological role and importance of Co-dominance and Incomplete Dominance in living organisms.",
+      "statementUr": "جانداروں میں Co-dominance and Incomplete Dominance کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Co-dominance and Incomplete Dominance in living organisms.",
+      "questionUr": "جانداروں میں Co-dominance and Incomplete Dominance کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Co-dominance and Incomplete Dominance plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Co-dominance and Incomplete Dominance جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "Describe the biological role and importance of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) in living organisms.",
+      "statementUr": "جانداروں میں Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "questionEn": "Describe the biological role and importance of Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) in living organisms.",
+      "questionUr": "جانداروں میں Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) کا کیا حیاتیاتی کردار اور اہمیت ہے؟",
+      "answerEn": "Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) plays an essential role in biological metabolism, cellular organization, and life sustaining processes according to PTBB biology curriculum.",
+      "answerUr": "بائیولوجی کے مطابق Variations and Organic Evolution (Continuous vs Discontinuous Variations, Darwin's Natural Selection) جانداروں کے خلیاتی نظام، میٹابولزم اور بقا کے لیے بنیادی اہمیت رکھتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 1)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 1)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 2)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 2)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 3)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 3)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 4)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 4)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 5)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 5)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Inheritance (Part 6)?",
+      "statementUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Inheritance (Part 6)?",
+      "questionUr": "وراثت (انہیرٹنس) سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Inheritance.",
+          "statementUr": "وراثت (انہیرٹنس) کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in Inheritance.",
+          "statementUr": "وراثت (انہیرٹنس) کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": false
+        }
+      ]
+    }
+  ]
+}

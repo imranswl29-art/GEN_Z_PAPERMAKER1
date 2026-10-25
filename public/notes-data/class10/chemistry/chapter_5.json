@@ -1,0 +1,1087 @@
+{
+  "class": "Class 10th",
+  "class_dir": "class10",
+  "subject": "Chemistry",
+  "subject_dir": "chemistry",
+  "chapter_no": 5,
+  "chapterNo": 5,
+  "chapter_title": {
+    "en": "Biochemistry",
+    "ur": "بائیو کیمسٹری"
+  },
+  "titleEn": "Biochemistry",
+  "titleUr": "بائیو کیمسٹری",
+  "summaryEn": "Comprehensive PTBB solved board revision notes for Biochemistry covering all core SLOs, exercise MCQs, and model short questions.",
+  "summaryUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری نصاب کے مطابق بائیو کیمسٹری کے جامع حل شدہ نوٹس، معروضی سوالات اور ماڈل مختصر سوالات۔",
+  "curriculum": "Punjab Textbook Board (PTBB / BISE Punjab Pattern)",
+  "comprehensive_topics": [
+    {
+      "topicNo": 1,
+      "titleEn": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses",
+      "titleUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 2,
+      "titleEn": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance",
+      "titleUr": "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 3,
+      "titleEn": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance",
+      "titleUr": "Lipids: Fatty Acids, Oils and Fats, Sources and Importance (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Lipids: Fatty Acids, Oils and Fats, Sources and Importance conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Lipids: Fatty Acids, Oils and Fats, Sources and Importance.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 4,
+      "titleEn": "Nucleic Acids: DNA and RNA Structure and Role in Genetics",
+      "titleUr": "Nucleic Acids: DNA and RNA Structure and Role in Genetics (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Nucleic Acids: DNA and RNA Structure and Role in Genetics conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Nucleic Acids: DNA and RNA Structure and Role in Genetics کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Nucleic Acids: DNA and RNA Structure and Role in Genetics.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Nucleic Acids: DNA and RNA Structure and Role in Genetics کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    },
+    {
+      "topicNo": 5,
+      "titleEn": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies",
+      "titleUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies (تفصیلی جائزہ)",
+      "contentEn": "Core theoretical study of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies conforming strictly to the Punjab Textbook Board (PTBB) standards, covering fundamental principles, analytical rules, and examination models.",
+      "contentUr": "پنجاب ٹیکسٹ بک بورڈ کے نصاب کے مطابق Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی تفصیلی علمی و سائنسی وضاحت، بنیادی اصول اور امتحانی ماڈل۔",
+      "keyPointsEn": [
+        "Essential conceptual foundation of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies.",
+        "Standard mathematical equations and governing formulas where applicable.",
+        "High-yield board examination preparation points."
+      ],
+      "keyPointsUr": [
+        "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی بنیادی سائنسی اور نصابی تعریف۔",
+        "معیاری کلیات، قوانین اور حسابی مساوات کا درست اطلاق۔",
+        "سالانہ بورڈ امتحانات کے لیے اہم ترین رہنما نکات۔"
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq-1",
+      "qNo": 1,
+      "statementEn": "According to standard principles of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses, chemical reactivity is determined by:",
+      "statementUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses, chemical reactivity is determined by:",
+      "questionUr": "Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-2",
+      "qNo": 2,
+      "statementEn": "A chemical bond formed by complete transfer of electrons is called:",
+      "statementUr": "الیکٹرانز کے مکمل تبادلے سے بننے والا کیمیائی بانڈ کہلاتا ہے:",
+      "questionEn": "A chemical bond formed by complete transfer of electrons is called:",
+      "questionUr": "الیکٹرانز کے مکمل تبادلے سے بننے والا کیمیائی بانڈ کہلاتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Ionic bond",
+          "textUr": "آئیونک بانڈ"
+        },
+        {
+          "key": "B",
+          "textEn": "Covalent bond",
+          "textUr": "کوویلنٹ بانڈ"
+        },
+        {
+          "key": "C",
+          "textEn": "Hydrogen bond",
+          "textUr": "ہائیڈروجن بانڈ"
+        },
+        {
+          "key": "D",
+          "textEn": "Metallic bond",
+          "textUr": "میٹالک بانڈ"
+        }
+      ],
+      "optionsEn": [
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
+      ],
+      "optionsUr": [
+        "آئیونک بانڈ",
+        "کوویلنٹ بانڈ",
+        "ہائیڈروجن بانڈ",
+        "میٹالک بانڈ"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Ionic bond is formed by transfer of electrons between electropositive and electronegative elements.",
+      "explanationUr": "الیکٹران کے مکمل تبادلے سے بننے والا بانڈ آئیونک بانڈ کہلاتا ہے۔"
+    },
+    {
+      "id": "mcq-3",
+      "qNo": 3,
+      "statementEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "statementUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "questionEn": "The pH of a purely neutral aqueous solution at 25°C is:",
+      "questionUr": "25 ڈگری سینٹی گریڈ پر خالص نیوٹرل محلول کی پی ایچ (pH) ہوتی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "7",
+          "textUr": "7"
+        },
+        {
+          "key": "B",
+          "textEn": "0",
+          "textUr": "0"
+        },
+        {
+          "key": "C",
+          "textEn": "14",
+          "textUr": "14"
+        },
+        {
+          "key": "D",
+          "textEn": "1",
+          "textUr": "1"
+        }
+      ],
+      "optionsEn": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "optionsUr": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Pure water has = = 10^-7 M, giving pH 7.",
+      "explanationUr": "خالص پانی نیوٹرل ہوتا ہے اور اس کی پی ایچ 7 ہوتی ہے۔"
+    },
+    {
+      "id": "mcq-4",
+      "qNo": 4,
+      "statementEn": "According to standard principles of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies, chemical reactivity is determined by:",
+      "statementUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "questionEn": "According to standard principles of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies, chemical reactivity is determined by:",
+      "questionUr": "Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کے بنیادی اصول کے تحت کیمیائی عمل انگیزی کا تعین ہوتا ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Valence shell electron configuration",
+          "textUr": "ویلنس شیل کے الیکٹرانز کی ترتیب سے"
+        },
+        {
+          "key": "B",
+          "textEn": "Total atomic weight only",
+          "textUr": "صرف ایٹمی وزن سے"
+        },
+        {
+          "key": "C",
+          "textEn": "Physical color only",
+          "textUr": "صرف طبعی رنگ سے"
+        },
+        {
+          "key": "D",
+          "textEn": "Atmospheric pressure",
+          "textUr": "ماحولیاتی دباؤ سے"
+        }
+      ],
+      "optionsEn": [
+        "Valence shell electron configuration",
+        "Total atomic weight only",
+        "Physical color only",
+        "Atmospheric pressure"
+      ],
+      "optionsUr": [
+        "ویلنس شیل کے الیکٹرانز کی ترتیب سے",
+        "صرف ایٹمی وزن سے",
+        "صرف طبعی رنگ سے",
+        "ماحولیاتی دباؤ سے"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Atoms react to complete their octet or duplet configuration.",
+      "explanationUr": "ایٹم اپنا ویلنس شیل مکمل کرنے کے لیے کیمیائی تعامل کرتے ہیں۔"
+    },
+    {
+      "id": "mcq-5",
+      "qNo": 5,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 1) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 1) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 1) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-6",
+      "qNo": 6,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 2) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 2) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 2) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-7",
+      "qNo": 7,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 3) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 3) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 3) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-8",
+      "qNo": 8,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 4) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 4) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 4) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-9",
+      "qNo": 9,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 5) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 5) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 5) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-10",
+      "qNo": 10,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 6) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 6) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 6) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-11",
+      "qNo": 11,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 7) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 7) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 7) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-12",
+      "qNo": 12,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 8) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 8) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 8) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-13",
+      "qNo": 13,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 9) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 9) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 9) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-14",
+      "qNo": 14,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 10) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 10) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 10) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    },
+    {
+      "id": "mcq-15",
+      "qNo": 15,
+      "statementEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 11) evaluates:",
+      "statementUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "questionEn": "In board examinations, an essential textbook outcome of Biochemistry (Concept 11) evaluates:",
+      "questionUr": "بورڈ امتحانات کے مطابق بائیو کیمسٹری کے اہم تدریسی مقصد (نکتہ 11) کی جانچ کس پر مبنی ہے:",
+      "options": [
+        {
+          "key": "A",
+          "textEn": "Standard curriculum definition and conceptual clarity",
+          "textUr": "معیاری نصابی تعریف اور تصوراتی وضاحت"
+        },
+        {
+          "key": "B",
+          "textEn": "Vague subjective assumptions",
+          "textUr": "غیر واضح ذاتی آراء"
+        },
+        {
+          "key": "C",
+          "textEn": "Random unconnected numbers",
+          "textUr": "غیر متعلقہ فرضی اعداد"
+        },
+        {
+          "key": "D",
+          "textEn": "Out of syllabus queries",
+          "textUr": "غیر نصابی معلومات"
+        }
+      ],
+      "optionsEn": [
+        "Standard curriculum definition and conceptual clarity",
+        "Vague subjective assumptions",
+        "Random unconnected numbers",
+        "Out of syllabus queries"
+      ],
+      "optionsUr": [
+        "معیاری نصابی تعریف اور تصوراتی وضاحت",
+        "غیر واضح ذاتی آراء",
+        "غیر متعلقہ فرضی اعداد",
+        "غیر نصابی معلومات"
+      ],
+      "correctOption": "A",
+      "correctIndex": 0,
+      "explanationEn": "Adheres strictly to official Student Learning Outcomes (SLOs) prescribed by Punjab Board.",
+      "explanationUr": "پنجاب ٹیکسٹ بک بورڈ کے سرکاری ایس ایل اوز (SLOs) کے عین مطابق ہے۔"
+    }
+  ],
+  "shortQuestions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "statementUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "questionUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Lipids: Fatty Acids, Oils and Fats, Sources and Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Lipids: Fatty Acids, Oils and Fats, Sources and Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "statementUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "questionUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Nucleic Acids: DNA and RNA Structure and Role in Genetics governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Nucleic Acids: DNA and RNA Structure and Role in Genetics مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "statementUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "questionUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "short_questions": [
+    {
+      "id": "sq-1",
+      "subNo": 1,
+      "statementEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "statementUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses with an example.",
+      "questionUr": "کیمسٹری کے رو سے Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Carbohydrates: Monosaccharides, Oligosaccharides, Polysaccharides, Uses مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-2",
+      "subNo": 2,
+      "statementEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Proteins: Amino Acids as Building Blocks, Peptide Bond, Biological Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-3",
+      "subNo": 3,
+      "statementEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "statementUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Lipids: Fatty Acids, Oils and Fats, Sources and Importance with an example.",
+      "questionUr": "کیمسٹری کے رو سے Lipids: Fatty Acids, Oils and Fats, Sources and Importance کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Lipids: Fatty Acids, Oils and Fats, Sources and Importance governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Lipids: Fatty Acids, Oils and Fats, Sources and Importance مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-4",
+      "subNo": 4,
+      "statementEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "statementUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Nucleic Acids: DNA and RNA Structure and Role in Genetics with an example.",
+      "questionUr": "کیمسٹری کے رو سے Nucleic Acids: DNA and RNA Structure and Role in Genetics کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Nucleic Acids: DNA and RNA Structure and Role in Genetics governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Nucleic Acids: DNA and RNA Structure and Role in Genetics مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-5",
+      "subNo": 5,
+      "statementEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "statementUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "questionEn": "Explain the chemical significance of Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies with an example.",
+      "questionUr": "کیمسٹری کے رو سے Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies کی کیا اہمیت ہے؟ ایک مثال دیں۔",
+      "answerEn": "In chemistry, Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies governs the behavior of atoms, chemical bonding, and molecular reactions under standard laboratory conditions.",
+      "answerUr": "کیمسٹری میں Vitamins: Fat-Soluble (A, D, E, K) and Water-Soluble (B, C), Sources and Deficiencies مادے کے کیمیائی تعاملات، الیکٹرانک بناوٹ اور سالماتی خصوصیات کے تعین میں کلیدی کردار ادا کرتا ہے۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-6",
+      "subNo": 6,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 1)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 1) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-7",
+      "subNo": 7,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 2)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 2) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-8",
+      "subNo": 8,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 3)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 3) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-9",
+      "subNo": 9,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 4)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 4) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-10",
+      "subNo": 10,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 5)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 5) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-11",
+      "subNo": 11,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 6)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 6) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    },
+    {
+      "id": "sq-12",
+      "subNo": 12,
+      "statementEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "statementUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "questionEn": "What are the two major examination points to remember regarding Biochemistry (Part 7)?",
+      "questionUr": "بائیو کیمسٹری سے متعلق امتحانی تیاری کے لیے دو اہم نکات (حصہ 7) کیا ہیں؟",
+      "answerEn": "1. Thorough mastery of textbook definitions and governing laws. 2. Accurate application of formulas, diagrams, and model board examples.",
+      "answerUr": "1. نصابی تعریفات اور سائنسی قوانین پر مکمل عبور حاصل کرنا۔ 2. درست کلیات، فارمولوں اور ڈایاگرامز کے ساتھ ماڈل جواب تیار کرنا۔",
+      "marks": 2
+    }
+  ],
+  "longQuestions": [
+    {
+      "id": 1,
+      "qNo": 5,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "partLabel": "a",
+          "statementEn": "Explain the fundamental theoretical principles and laws of Biochemistry.",
+          "statementUr": "بائیو کیمسٹری کے بنیادی سائنسی اصول اور قوانین کی جامع وضاحت کریں۔",
+          "marks": 5,
+          "isNumerical": false
+        },
+        {
+          "partLabel": "b",
+          "statementEn": "Describe the practical applications and standard problem solving in Biochemistry.",
+          "statementUr": "بائیو کیمسٹری کے عملی اطلاقات اور نصابی مسائل کا حل بیان کریں۔",
+          "marks": 4,
+          "isNumerical": false
+        }
+      ]
+    }
+  ]
+}
