@@ -1237,51 +1237,7 @@
       }
 
       /* Enhanced Layout & Contrast Rules for Print & Exports: Zero Overlap, Perfect Visibility */
-      @media print {
-        /* Prevent white-on-white text in Answer Key, Result Card, Marksheet & Bubble Sheet */
-        #answer-key-print-content,
-        #answer-key-print-content *,
-        #bubble-sheet-printable-area,
-        #bubble-sheet-printable-area *,
-        #resultcard-print-container,
-        #resultcard-print-container *,
-        #mastersheet-print-container,
-        #mastersheet-print-container *,
-        #datesheet-print-container,
-        #datesheet-print-container * {
-          -webkit-print-color-adjust: exact !important;
-          print-color-adjust: exact !important;
-        }
 
-        #answer-key-print-content [class*="text-white"],
-        #answer-key-print-content .text-white,
-        #resultcard-print-container [class*="text-white"],
-        #resultcard-print-container .text-white,
-        #mastersheet-print-container [class*="text-white"],
-        #mastersheet-print-container .text-white,
-        #bubble-sheet-printable-area [class*="text-white"],
-        #bubble-sheet-printable-area .text-white {
-          color: #000000 !important;
-        }
-
-        #answer-key-print-content [class*="bg-slate-900"],
-        #answer-key-print-content [class*="bg-blue-900"],
-        #resultcard-print-container [class*="bg-blue-900"],
-        #resultcard-print-container [class*="bg-slate-900"],
-        #mastersheet-print-container [class*="bg-blue-900"],
-        #mastersheet-print-container [class*="bg-slate-900"],
-        #bubble-sheet-printable-area [class*="bg-slate-800"],
-        #bubble-sheet-printable-area [class*="bg-slate-900"] {
-          background-color: #f1f5f9 !important;
-          color: #000000 !important;
-          border: 1.5pt solid #000000 !important;
-        }
-
-        #answer-key-print-content .answer-key-solved-badge {
-          background-color: #f1f5f9 !important;
-          color: #000000 !important;
-          border: 1.5pt solid #000000 !important;
-        }
 
         /* OMR Bubbles Mathematically Centered with Absolute Zero Overlap */
         .omr-bubble,
