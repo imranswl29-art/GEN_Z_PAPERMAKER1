@@ -1215,12 +1215,72 @@
         }
       }
 
-      /* 5. Pure Print Mode Lock - Zero Mobile/Desktop Overrides in Paper Printing */
+      /* 5. Pure Print Mode Lock - Zero Buttons, Zero Toolbars, 100% Pure Paper Document */
       @media print {
-        aside, header, nav, .btn-3d, .segmented-control, .no-print {
+        /* Strictly hide ALL software buttons, controls, navigation, inputs, and action bars */
+        button,
+        input,
+        select,
+        textarea,
+        details,
+        summary,
+        aside,
+        header,
+        nav,
+        .sidebar,
+        .no-print,
+        [class*="no-print"],
+        .btn,
+        .btn-3d,
+        .btn-print-preview,
+        [class*="btn-3d"],
+        [class*="segmented-"],
+        [class*="toolbar"],
+        [class*="action-bar"],
+        [class*="action-btn"],
+        [class*="dropdown"],
+        [class*="floating-"],
+        .toast-notification,
+        .hub-master-card,
+        #root-fallback-boundary,
+        .card-3d:not(#datesheet-print-container):not(#resultcard-print-container):not(#mastersheet-print-container) {
           display: none !important;
+          visibility: hidden !important;
+          opacity: 0 !important;
+          height: 0 !important;
+          width: 0 !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          border: none !important;
+          overflow: hidden !important;
         }
-        .exam-paper, #exam-paper-container, #exam-paper-objective-sheet, #exam-paper-subjective-sheet, #datesheet-print-container, #resultcard-print-container, #mastersheet-print-container, #notes-printable-container {
+
+        /* Question action toolbars inside exam paper */
+        .mcq-item .no-print,
+        .space-y-2 .no-print,
+        .relative.group .no-print,
+        [class*="absolute top-"] {
+          display: none !important;
+          visibility: hidden !important;
+          opacity: 0 !important;
+          height: 0 !important;
+          width: 0 !important;
+          border: none !important;
+          padding: 0 !important;
+          margin: 0 !important;
+        }
+
+        /* Expand all target printable documents cleanly to 100% width with zero shadows */
+        .exam-paper,
+        #exam-paper-container,
+        #exam-paper-objective-sheet,
+        #exam-paper-subjective-sheet,
+        #datesheet-print-container,
+        #resultcard-print-container,
+        #mastersheet-print-container,
+        #notes-printable-container,
+        #bubble-sheet-printable-area,
+        #answer-key-print-content {
           min-width: 100% !important;
           max-width: 100% !important;
           width: 100% !important;
@@ -1229,15 +1289,14 @@
           padding: 0 !important;
           border: none !important;
           box-shadow: none !important;
+          background: #ffffff !important;
+          color: #000000 !important;
         }
+
         table {
           min-width: 100% !important;
           width: 100% !important;
         }
-      }
-
-      /* Enhanced Layout & Contrast Rules for Print & Exports: Zero Overlap, Perfect Visibility */
-
 
         /* OMR Bubbles Mathematically Centered with Absolute Zero Overlap */
         .omr-bubble,
