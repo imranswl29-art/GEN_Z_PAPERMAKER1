@@ -6183,7 +6183,7 @@ const printAllCardsAction=()=>{
   },250);
 };
 const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.reduce((le,be)=>{var Qe;return le+((Qe=S.marks[be.id])!=null?Qe:0)},0),q=ne>0?V/ne*100:0;let ae="F";q>=90?ae="A+":q>=80?ae="A":q>=70?ae="B":q>=60?ae="C":q>=50?ae="D":q>=40&&(ae="E");const xe=R.subjects.some(le=>{var be;return((be=S.marks[le.id])!=null?be:0)<le.passingMarks})?"FAIL":"PASS";return{totalObtained:V,percentage:parseFloat(q.toFixed(1)),grade:S.grade||ae,status:S.status||xe}},P=R.students.find(S=>S.id===A)||R.students[0],T=()=>{const S={id:`sub-${Date.now()}`,name:"New Subject",totalMarks:75,passingMarks:25};Z(V=>({...V,subjects:[...V.subjects,S]})),F("New subject added to curriculum")},H=(S,V,q)=>{Z(ae=>({...ae,subjects:ae.subjects.map(Be=>Be.id===S?{...Be,[V]:q}:Be)}))},G=S=>{if(R.subjects.length<=1){alert("At least one subject is required.");return}Z(V=>({...V,subjects:V.subjects.filter(q=>q.id!==S)}))},D=()=>{const S=(R.students.length+101).toString(),V={id:`st-${Date.now()}`,rollNo:S,name:`Student ${R.students.length+1}`,fatherName:"Father Name",attendance:"95%",rank:"",remarks:"Satisfactory performance; keep studying hard.",marks:{}};Z(q=>({...q,students:[...q.students,V]})),u(V.id),F(`Added student Roll# ${S}`)},U=(S,V,q)=>{Z(ae=>({...ae,students:ae.students.map(Be=>Be.id===S?{...Be,[V]:q}:Be)}))},Q=(S,V,q)=>{Z(ae=>({...ae,students:ae.students.map(Be=>{if(Be.id===S){const xe={...Be.marks,[V]:q};return{...Be,marks:xe}}return Be})}))},se=S=>{if(R.students.length<=1){alert("At least one student record is required.");return}if(Z(V=>({...V,students:V.students.filter(q=>q.id!==S)})),A===S){const V=R.students.filter(q=>q.id!==S);V[0]&&u(V[0].id)}},pe=S=>{var V;O(S),(V=E.current)==null||V.click()},ce=S=>{var q;const V=(q=S.target.files)==null?void 0:q[0];if(V&&I){const ae=new FileReader;ae.onload=()=>{typeof ae.result=="string"&&(U(I,"photoUrl",ae.result),F("Student photo uploaded successfully!"))},ae.readAsDataURL(V)}E.current&&(E.current.value="")},me=S=>{U(S,"photoUrl",void 0),F("Student photo removed")},ue=S=>{setPrintOrientation(msOrientation);const V=document.title;document.title=`Result_Card_Roll_${S.rollNo}_${S.name.replace(/\s+/g,"_")}_${cardTemplate.toUpperCase()}_${msOrientation.toUpperCase()}`,window.print(),setTimeout(()=>{document.title=V},1500)},Ne=async S=>{u(S.id),o("singleCard"),B(!0),C(`Generating Roll ${S.rollNo} Result Card PDF (${cardTemplate.toUpperCase()})...`),await new Promise(q=>setTimeout(q,250));const V=`Result_Card_Roll_${S.rollNo}_${S.name.replace(/\s+/g,"_")}_${cardTemplate}.pdf`;try{await iC("resultcard-print-container",V,ae=>{C(ae)},msOrientation)&&F(`Result Card PDF downloaded successfully (${cardTemplate.toUpperCase()} Design, ${msOrientation} orientation)!`)}finally{B(!1)}},Le=S=>{tq(S,R,r,cardTemplate),F(`Result Card MS Word document downloaded (${cardTemplate.toUpperCase()} Design)!`)},Ce=()=>{o("masterSheet");setPrintOrientation(msOrientation);const S=document.title;document.title=`Master_Marksheet_${R.classLevel.replace(/\s+/g,"_")}_${msOrientation.toUpperCase()}`,window.print(),setTimeout(()=>{document.title=S},1500)},k=async()=>{o("masterSheet"),B(!0),C("Generating Master Marksheet PDF..."),await new Promise(V=>setTimeout(V,250));const S=`Master_Marksheet_${R.classLevel.replace(/\s+/g,"_")}.pdf`;try{await iC("mastersheet-print-container",S,q=>{C(q)},msOrientation)&&F(`Master Marksheet PDF downloaded successfully in ${msOrientation} orientation!`)}finally{B(!1)}},Y=()=>{nq(R,r),F("Master Marksheet Word document downloaded!")};return l.jsxs("div",{className:"space-y-6 max-w-7xl mx-auto font-sans text-slate-800",children:[y&&l.jsxs("div",{className:"fixed top-16 right-6 z-50 bg-slate-900 text-white px-4 py-2.5 rounded-xl shadow-2xl text-xs font-bold flex items-center gap-2 animate-in fade-in slide-in-from-top-2 no-print",children:[l.jsx(TC,{className:"w-4 h-4 text-emerald-400"}),l.jsx("span",{children:y})]}),l.jsx("input",{ref:E,type:"file",accept:"image/*",className:"hidden",onChange:ce}),l.jsxs("div",{className:"card-3d p-5 sm:p-6 bg-white border border-slate-200",children:[l.jsxs("div",{className:"flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4",children:[l.jsxs("div",{className:"flex items-center gap-3.5",children:[l.jsx("div",{className:"w-14 h-14 rounded-2xl flex items-center justify-center text-white shadow-md shrink-0",style:{backgroundColor:"#1d4ed8",border:"2px solid #60a5fa",boxShadow:"0 4px 12px rgba(29,78,216,0.4)"},title:"Result Card & Marksheet Generator",children:l.jsxs("svg",{className:"w-7 h-7 text-white",viewBox:"0 0 24 24",fill:"none",stroke:"#ffffff",strokeWidth:"2.4",strokeLinecap:"round",strokeLinejoin:"round",children:[l.jsx("circle",{cx:"12",cy:"8",r:"6"}),l.jsx("path",{d:"M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"})]})}),l.jsxs("div",{children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsx("span",{className:"text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded bg-amber-100 text-amber-950",children:"Item #9 • Academic Evaluation"}),l.jsx("span",{className:"text-[11px] font-bold text-slate-500",children:"A4 Single Card & Master Gazette"})]}),l.jsx("h1",{className:"text-xl sm:text-2xl font-black text-slate-950 tracking-tight mt-0.5",children:"Result Card & Marksheet Generator"}),l.jsx("p",{className:"text-xs text-slate-600 font-medium",children:"Manage dynamic marks entry, student photos, auto-calculations, and generate high-precision A4 result cards and consolidated master sheets"})]})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-1.5 p-1.5 bg-slate-100 rounded-2xl border-2 border-slate-200 w-full lg:w-auto justify-end",children:[l.jsxs("button",{onClick:()=>o("editor"),className:`px-3.5 py-2 rounded-xl text-xs font-black transition-all cursor-pointer flex items-center gap-1.5 ${a==="editor"?"btn-3d btn-3d-blue text-white shadow-md":"bg-white border-2 border-slate-300 text-slate-800 hover:bg-slate-50 hover:border-slate-400 font-extrabold shadow-2xs"}`,children:[l.jsx(J2,{className:"w-3.5 h-3.5 text-blue-600"}),l.jsx("span",{children:"Marks Entry Table"})]}),l.jsxs("button",{onClick:()=>o("singleCard"),className:`px-3.5 py-2 rounded-xl text-xs font-black transition-all cursor-pointer flex items-center gap-1.5 ${a==="singleCard"?"btn-3d btn-3d-emerald text-white shadow-md":"bg-white border-2 border-slate-300 text-slate-800 hover:bg-slate-50 hover:border-slate-400 font-extrabold shadow-2xs"}`,children:[l.jsx(z3,{className:"w-3.5 h-3.5 text-emerald-600"}),l.jsx("span",{children:"Single A4 Result Card"})]}),l.jsxs("button",{onClick:()=>o("masterSheet"),className:`px-3.5 py-2 rounded-xl text-xs font-black transition-all cursor-pointer flex items-center gap-1.5 ${a==="masterSheet"?"btn-3d btn-3d-indigo text-white shadow-md":"bg-white border-2 border-slate-300 text-slate-800 hover:bg-slate-50 hover:border-slate-400 font-extrabold shadow-2xs"}`,children:[l.jsx(n8,{className:"w-3.5 h-3.5 text-indigo-600"}),l.jsx("span",{children:"Class Master Sheet"})]})]})]}),l.jsxs("div",{className:"mt-5 pt-4 border-t border-slate-200 flex flex-wrap items-center justify-between gap-3",children:[l.jsxs("div",{className:"flex items-center gap-2",children:[l.jsxs("button",{type:"button",onClick:t,className:"btn-3d btn-3d-amber flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-black cursor-pointer shadow-sm",title:"Edit School Name, Monogram Logo, Address and Phone",children:[l.jsx(SAFE_sd,{className:"w-4 h-4 text-slate-950"}),l.jsx("span",{children:"Edit School Branding"})]}),l.jsxs("span",{className:"text-xs text-slate-500 font-medium hidden sm:inline",children:["Linked School: ",l.jsx("strong",{className:"text-slate-800",children:r.schoolName})]})]}),l.jsxs("div",{className:"flex flex-wrap items-center gap-2",children:[a==="singleCard"&&P&&l.jsxs(l.Fragment,{children:[l.jsxs("div",{className:"flex items-center gap-1 bg-slate-100 p-1 rounded-xl border border-slate-200 no-print",children:[l.jsxs("button",{type:"button",onClick:()=>{setMsOrientation("portrait");setPrintOrientation("portrait");},className:`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${msOrientation==="portrait"?"bg-white text-blue-700 shadow-xs font-black ring-1 ring-blue-300":"text-slate-600 hover:text-slate-900"}`,title:"Portrait (Vertical Orientation)",children:[l.jsx("span",{children:"📄"}),l.jsx("span",{children:"Portrait"})]}),l.jsxs("button",{type:"button",onClick:()=>{setMsOrientation("landscape");setPrintOrientation("landscape");},className:`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${msOrientation==="landscape"?"bg-white text-blue-700 shadow-xs font-black ring-1 ring-blue-300":"text-slate-600 hover:text-slate-900"}`,title:"Landscape (Horizontal Orientation)",children:[l.jsx("span",{children:"📑"}),l.jsx("span",{children:"Landscape"})]})]}),l.jsxs("button",{type:"button",onClick:()=>ue(P),className:"btn-print-preview",title:"Print single student result card on standard A4",children:[l.jsx(SAFE_od,{className:"w-4 h-4 text-emerald-100"}),l.jsx("span",{children:"Print & Preview"})]}),l.jsxs("details",{className:"relative inline-block text-left no-print",children:[l.jsxs("summary",{className:"btn-3d btn-3d-red flex items-center gap-2 px-4 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-md list-none select-none",title:"Export & Download Options",children:[f?l.jsx(Sc,{className:"w-4 h-4 animate-spin"}):l.jsx(SAFE_ad,{className:"w-4 h-4 text-white"}),l.jsx("span",{children:f?m||"Rendering...":"Downloads ▾"})]}),l.jsxs("div",{className:"dropdown-menu-panel",children:[l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");Ne(P);},disabled:f,className:"dropdown-menu-item text-rose-700 hover:bg-rose-50",title:"Download single student result card PDF",children:[l.jsx(SAFE_ad,{className:"w-3.5 h-3.5 text-rose-600"}),l.jsx("span",{children:"Download Card (PDF)"})]}),l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");Le(P);},className:"dropdown-menu-item text-blue-700 hover:bg-blue-50",title:"Download single student result card Word (.doc)",children:[l.jsx(Xu,{className:"w-3.5 h-3.5 text-blue-600"}),l.jsx("span",{children:"Download Card (.doc)"})]}),l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");printAllCardsAction();},className:"dropdown-menu-item text-purple-700 hover:bg-purple-50",title:"Print all students result cards in one go",children:[l.jsx(SAFE_od,{className:"w-3.5 h-3.5 text-purple-600"}),l.jsx("span",{children:"Print ALL Cards"})]})]})]})]}),a==="masterSheet"&&l.jsxs(l.Fragment,{children:[l.jsxs("div",{className:"flex items-center gap-1 bg-slate-100 p-1 rounded-xl border border-slate-200 mr-1 no-print",children:[l.jsxs("button",{type:"button",onClick:()=>{setMsOrientation("portrait");setPrintOrientation("portrait");},className:`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${msOrientation==="portrait"?"bg-white text-blue-700 shadow-xs font-black ring-1 ring-blue-300":"text-slate-600 hover:text-slate-900"}`,title:"Portrait (Vertical Orientation)",children:[l.jsx("span",{children:"📄"}),l.jsx("span",{children:"Portrait"})]}),l.jsxs("button",{type:"button",onClick:()=>{setMsOrientation("landscape");setPrintOrientation("landscape");},className:`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${msOrientation==="landscape"?"bg-white text-blue-700 shadow-xs font-black ring-1 ring-blue-300":"text-slate-600 hover:text-slate-900"}`,title:"Landscape (Horizontal Orientation)",children:[l.jsx("span",{children:"📑"}),l.jsx("span",{children:"Landscape"})]})]}),l.jsxs("button",{type:"button",onClick:Ce,className:"btn-print-preview",title:"Print full class master sheet / broadsheet",children:[l.jsx(SAFE_od,{className:"w-4 h-4 text-emerald-100"}),l.jsx("span",{children:"Print & Preview"})]}),l.jsxs("div",{className:"flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-xl border border-slate-200 shadow-2xs mr-1",children:[l.jsx("span",{className:"text-xs font-black text-slate-600 uppercase tracking-wide hidden sm:inline",children:"Filter Section:"}),l.jsxs("select",{value:m_sec,onChange:S=>setM_sec(S.target.value),className:"px-2.5 py-1 rounded-lg border border-slate-300 font-bold text-xs bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-xs cursor-pointer",children:[l.jsx("option",{value:"all",children:"All Sections (A, B, C, D)"}),l.jsx("option",{value:"A",children:"Section A"}),l.jsx("option",{value:"B",children:"Section B"}),l.jsx("option",{value:"C",children:"Section C"}),l.jsx("option",{value:"D",children:"Section D"})]})]}),l.jsxs("details",{className:"relative inline-block text-left no-print",children:[l.jsxs("summary",{className:"btn-3d btn-3d-emerald flex items-center gap-2 px-4 py-2 text-white rounded-xl text-xs font-black cursor-pointer shadow-md list-none select-none",title:"Export Options",children:[f?l.jsx(Sc,{className:"w-4 h-4 animate-spin"}):l.jsx(SAFE_ad,{className:"w-4 h-4 text-emerald-100"}),l.jsx("span",{children:f?m||"Rendering...":"Export Options ▾"})]}),l.jsxs("div",{className:"dropdown-menu-panel",children:[l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");k();},disabled:f,className:"dropdown-menu-item text-rose-700 hover:bg-rose-50",title:"Export Master Marksheet PDF",children:[l.jsx(SAFE_ad,{className:"w-3.5 h-3.5 text-rose-600"}),l.jsx("span",{children:"Export Master (PDF)"})]}),l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");exportMasterGazetteToExcel(R,r,m_sec);},className:"dropdown-menu-item text-emerald-700 hover:bg-emerald-50",title:"Download Consolidated Master Marksheet in Excel (.xls)",children:[l.jsx(SAFE_sd,{className:"w-3.5 h-3.5 text-emerald-600"}),l.jsx("span",{children:"Download Excel (.xls)"})]}),l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");Y();},className:"dropdown-menu-item text-blue-700 hover:bg-blue-50",title:"Export Master Document in Word (.doc)",children:[l.jsx(Xu,{className:"w-3.5 h-3.5 text-blue-600"}),l.jsx("span",{children:"Export Master (.doc)"})]})]})]})]})]})]})]}),a==="editor"&&l.jsxs("div",{className:"space-y-6",children:[l.jsxs("div",{className:"card-3d p-5 bg-white border border-slate-200 space-y-4",children:[l.jsxs("div",{className:"flex items-center justify-between border-b border-slate-200 pb-3",children:[l.jsxs("div",{className:"flex items-center gap-2 font-black text-sm text-slate-900",children:[l.jsx(q0,{className:"w-4 h-4 text-blue-600"}),l.jsx("span",{children:"Class, Exam & Session Configuration"})]}),l.jsxs("div",{className:"text-xs font-bold text-slate-500",children:["Total Exam Marks: ",l.jsx("strong",{className:"text-blue-900 text-sm font-black",children:ne})]})]}),l.jsxs("div",{className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-xs",children:[l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Class / Grade Input:"}),l.jsx("input",{type:"text",value:R.classLevel,onChange:S=>Z({...R,classLevel:S.target.value}),placeholder:"e.g. 10th Class (Science Group)",className:"w-full px-3 py-2 rounded-xl border border-slate-300 font-bold focus:outline-none focus:ring-2 focus:ring-blue-500"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Academic Session:"}),l.jsx("input",{type:"text",value:R.session,onChange:S=>Z({...R,session:S.target.value}),placeholder:"e.g. 2025-2026",className:"w-full px-3 py-2 rounded-xl border border-slate-300 font-bold focus:outline-none focus:ring-2 focus:ring-blue-500"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"block font-bold text-slate-700 mb-1",children:"Exam Category / Title:"}),l.jsx("input",{type:"text",value:R.examCategory,onChange:S=>Z({...R,examCategory:S.target.value}),placeholder:"e.g. Annual Examination",className:"w-full px-3 py-2 rounded-xl border border-slate-300 font-bold focus:outline-none focus:ring-2 focus:ring-blue-500"})]}),l.jsxs("div",{className:"bg-slate-50 border border-slate-200 rounded-xl p-2.5 flex flex-col justify-center",children:[l.jsx("span",{className:"text-[10px] font-bold uppercase text-slate-500",children:"Curriculum Overview:"}),l.jsxs("span",{className:"font-extrabold text-slate-900",children:[R.subjects.length," Subjects • ",R.students.length," Students"]}),l.jsx("span",{className:"text-[11px] text-emerald-700 font-bold",children:"Auto-Rank & Pass/Fail Active"})]})]})]}),l.jsxs("div",{className:"card-3d p-5 bg-white border border-slate-200 space-y-4",children:[l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 pb-3",children:[l.jsxs("div",{children:[l.jsx("h3",{className:"font-black text-sm text-slate-950",children:"Subject Curriculum & Total Marks"}),l.jsx("p",{className:"text-xs text-slate-600",children:"Add, rename or remove subjects for any class. Total exam marks calculate automatically."})]}),l.jsxs("button",{type:"button",onClick:T,className:"btn-3d btn-3d-amber flex items-center gap-1.5 px-3.5 py-2 text-slate-950 rounded-xl text-xs font-black cursor-pointer shadow-md",children:[l.jsx(SA,{className:"w-4 h-4 text-slate-950"}),l.jsx("span",{children:"Add Custom Subject"})]})]}),l.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 text-xs",children:R.subjects.map((S,V)=>l.jsxs("div",{className:"p-3 bg-slate-50 border border-slate-200 rounded-xl space-y-2 hover:border-blue-400 transition-colors",children:[l.jsxs("div",{className:"flex items-center justify-between",children:[l.jsxs("span",{className:"font-bold text-slate-500 text-[10px] uppercase",children:["Sub #",V+1]}),l.jsx("button",{type:"button",onClick:()=>G(S.id),className:"text-rose-600 hover:text-rose-800 p-0.5 cursor-pointer",title:"Remove Subject",children:l.jsx(Ql,{className:"w-3.5 h-3.5"})})]}),l.jsx("input",{type:"text",value:S.name,onChange:q=>H(S.id,"name",q.target.value),placeholder:"Subject Name",className:"w-full px-2.5 py-1.5 rounded-lg border border-slate-300 font-extrabold text-slate-900 text-xs"}),l.jsxs("div",{className:"grid grid-cols-2 gap-2 text-[11px]",children:[l.jsxs("div",{children:[l.jsx("label",{className:"text-slate-500 font-bold",children:"Total Marks:"}),l.jsx("input",{type:"number",min:"1",value:S.totalMarks,onChange:q=>H(S.id,"totalMarks",parseInt(q.target.value)||0),className:"w-full px-2 py-1 rounded border border-slate-300 font-black text-blue-900"})]}),l.jsxs("div",{children:[l.jsx("label",{className:"text-slate-500 font-bold",children:"Passing:"}),l.jsx("input",{type:"number",min:"0",value:S.passingMarks,onChange:q=>H(S.id,"passingMarks",parseInt(q.target.value)||0),className:"w-full px-2 py-1 rounded border border-slate-300 font-bold text-slate-700"})]})]})]},S.id))})]}),l.jsxs("div",{className:"card-3d p-5 bg-white border border-slate-200 space-y-4",children:[l.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 pb-3",children:[l.jsxs("div",{children:[l.jsx("h3",{className:"font-black text-sm text-slate-950",children:"Student Marks Entry Sheet"}),l.jsx("p",{className:"text-xs text-slate-600",children:"Enter student credentials, upload photos (optional), and input subject marks. Total, % and Grade compute live with manual override support."})]}),l.jsxs("div",{className:"flex items-center gap-2 flex-wrap",children:[l.jsx("input",{ref:fileInputRef,type:"file",accept:".csv,.tsv,.txt",className:"hidden",onChange:handleImportCSV}),l.jsxs("button",{type:"button",onClick:D,className:"btn-3d btn-3d-blue flex items-center gap-1.5 px-3.5 py-1.5 text-white rounded-xl text-xs font-black cursor-pointer shadow-md",children:[l.jsx(SA,{className:"w-4 h-4"}),l.jsx("span",{children:"Add New Student"})]}),l.jsxs("button",{type:"button",onClick:autoCalculateRanks,className:"btn-3d btn-3d-amber flex items-center gap-1.5 px-3.5 py-1.5 text-slate-950 rounded-xl text-xs font-black cursor-pointer shadow-sm hover:brightness-110",title:"Auto calculate student class positions (1st, 2nd, 3rd) based on total marks",children:[l.jsx("span",{children:"⚡"}),l.jsx("span",{children:"Auto-Calculate Positions"})]}),l.jsxs("details",{className:"relative inline-block text-left no-print",children:[l.jsxs("summary",{className:"btn-3d bg-slate-800 hover:bg-slate-700 border border-slate-600 flex items-center gap-1.5 px-3.5 py-1.5 text-white rounded-xl text-xs font-black cursor-pointer shadow-sm list-none select-none",title:"Data Import and Export Controls",children:[l.jsx("span",{children:"📊"}),l.jsx("span",{children:"Data & Export ▾"})]}),l.jsxs("div",{className:"dropdown-menu-panel",children:[l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");fileInputRef.current&&fileInputRef.current.click();},className:"dropdown-menu-item text-slate-700 hover:bg-slate-50",title:"Import student marks from Excel or CSV file",children:[l.jsx("span",{children:"📥"}),l.jsx("span",{children:"Import Marks (CSV/Excel)"})]}),l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");exportMasterGazetteToExcel(R,r,m_sec);},className:"dropdown-menu-item text-emerald-700 hover:bg-emerald-50",title:"Download complete class marksheet data in Excel (.xls) format",children:[l.jsx("span",{children:"📊"}),l.jsx("span",{children:"Class Excel (.xls)"})]}),l.jsxs("button",{type:"button",onClick:e=>{e.currentTarget.closest("details")?.removeAttribute("open");exportWholeSchoolConsolidatedGazette(savedSheets.length>0?savedSheets:[R],r);},className:"dropdown-menu-item text-purple-700 hover:bg-purple-50",title:"Export Whole School Consolidated Gazette across multiple grades",children:[l.jsx("span",{children:"🏫"}),l.jsx("span",{children:"Whole School Gazette"})]})]})]})]})]}),l.jsx("div",{className:"overflow-x-auto",children:l.jsxs("table",{className:"w-full text-xs text-left border-collapse border border-slate-200 min-w-[900px]",children:[l.jsx("thead",{children:l.jsxs("tr",{className:"bg-slate-900 text-white font-extrabold uppercase text-[11px]",children:[l.jsx("th",{className:"p-2 text-center w-14 border border-slate-800",children:"Roll#"}),l.jsx("th",{className:"p-2 w-14 text-center border border-slate-800",children:"Photo"}),l.jsx("th",{className:"p-2 w-44 border border-slate-800",children:"Student Name"}),l.jsx("th",{className:"p-2 w-36 border border-slate-800",children:"Father's Name"}),R.subjects.map(S=>l.jsxs("th",{className:"p-2 text-center border border-slate-800 max-w-[90px]",title:`${S.name} (Max: ${S.totalMarks})`,children:[l.jsx("div",{className:"truncate",children:S.name}),l.jsxs("div",{className:"text-[9px] text-blue-300 font-normal",children:["/",S.totalMarks]})]},S.id)),l.jsx("th",{className:"p-2 text-center w-20 border border-slate-800",children:"Obt. Marks"}),l.jsx("th",{className:"p-2 text-center w-16 border border-slate-800",children:"%"}),l.jsx("th",{className:"p-2 text-center w-14 border border-slate-800",children:"Grade"}),l.jsx("th",{className:"p-2 text-center w-16 border border-slate-800",children:"Status"}),l.jsx("th",{className:"p-2 text-center w-28 border border-slate-800",children:"Actions"})]})}),l.jsx("tbody",{className:"divide-y divide-slate-200",children:R.students.map((S,V)=>{const q=te(S);return l.jsxs("tr",{className:`hover:bg-blue-50/50 transition-colors ${V%2===0?"bg-white":"bg-slate-50"}`,children:[l.jsx("td",{className:"p-1.5 text-center border border-slate-200",children:l.jsx("input",{type:"text",value:S.rollNo,onChange:ae=>U(S.id,"rollNo",ae.target.value),className:"w-12 text-center px-1 py-1 rounded font-black text-blue-900 border border-slate-300 text-xs"})}),l.jsx("td",{className:"p-1.5 text-center border border-slate-200",children:l.jsx("div",{className:"flex items-center justify-center",children:S.photoUrl?l.jsxs("div",{className:"relative group",children:[l.jsx("img",{src:S.photoUrl,alt:"Student",className:"w-8 h-8 rounded-full object-cover border border-slate-300 shadow-2xs"}),l.jsx("button",{type:"button",onClick:()=>me(S.id),className:"absolute -top-1 -right-1 w-4 h-4 bg-rose-600 text-white rounded-full flex items-center justify-center text-[10px] opacity-0 group-hover:opacity-100 transition-opacity cursor-pointer",title:"Remove Photo",children:"×"})]}):l.jsx("button",{type:"button",onClick:()=>pe(S.id),className:"w-8 h-8 rounded-full bg-slate-200 hover:bg-blue-100 text-slate-500 hover:text-blue-700 flex items-center justify-center transition-colors cursor-pointer",title:"Upload Student Photo (Optional)",children:l.jsx(UC,{className:"w-3.5 h-3.5"})})})}),l.jsx("td",{className:"p-1.5 border border-slate-200",children:l.jsx("input",{type:"text",value:S.name,onChange:ae=>U(S.id,"name",ae.target.value),placeholder:"Student Name",className:"w-full px-2 py-1 rounded font-black text-slate-900 border border-slate-300 text-xs"})}),l.jsx("td",{className:"p-1.5 border border-slate-200",children:l.jsx("input",{type:"text",value:S.fatherName,onChange:ae=>U(S.id,"fatherName",ae.target.value),placeholder:"Father's Name",className:"w-full px-2 py-1 rounded font-medium text-slate-700 border border-slate-300 text-xs"})}),R.subjects.map(ae=>{var be;const Be=(be=S.marks[ae.id])!=null?be:"",xe=Number(Be),le=xe>0&&xe<ae.passingMarks;return l.jsx("td",{className:"p-1.5 text-center border border-slate-200",children:l.jsx("input",{type:"number",min:"0",max:ae.totalMarks,value:Be,onChange:Qe=>Q(S.id,ae.id,Qe.target.value===""?0:parseInt(Qe.target.value)||0),className:`w-14 text-center px-1 py-1 rounded font-black text-xs border ${le?"border-rose-400 bg-rose-50 text-rose-700":"border-slate-300 text-slate-900"}`})},ae.id)}),l.jsx("td",{className:"p-1.5 text-center font-black text-blue-950 border border-slate-200 text-xs",children:q.totalObtained}),l.jsxs("td",{className:"p-1.5 text-center font-bold text-slate-800 border border-slate-200 text-xs",children:[q.percentage,"%"]}),l.jsx("td",{className:"p-1.5 text-center font-black text-blue-900 border border-slate-200 text-xs",children:q.grade}),l.jsx("td",{className:"p-1.5 text-center border border-slate-200 text-xs font-black",children:l.jsx("span",{className:`px-1.5 py-0.5 rounded text-[10px] ${q.status==="PASS"?"bg-emerald-100 text-emerald-800":"bg-rose-100 text-rose-800"}`,children:q.status})}),l.jsx("td",{className:"p-1.5 text-center border border-slate-200",children:l.jsxs("div",{className:"flex items-center justify-center gap-1.5",children:[l.jsx("button",{type:"button",onClick:()=>{u(S.id),o("singleCard")},className:"px-2 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-[10px] font-black cursor-pointer shadow-2xs",title:"View Single Student A4 Result Card",children:"View Card"}),l.jsx("button",{type:"button",onClick:()=>se(S.id),className:"p-1 text-rose-600 hover:bg-rose-100 rounded cursor-pointer",title:"Delete Student",children:l.jsx(Ql,{className:"w-3.5 h-3.5"})})]})})]},S.id)})})]})})]})]}),a==="singleCard"&&P&&l.jsxs("div",{className:"space-y-5",children:[
-  /* 1. Design Template Selector Banner (English Only) */
+  /* 1. Design Template Selector Banner (English Only, Zero Yellow/Orange) */
   l.jsxs("div",{className:"bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 p-4 sm:p-5 rounded-2xl border-2 border-indigo-600/70 shadow-xl no-print text-white",children:[
     l.jsxs("div",{className:"flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4",children:[
       l.jsxs("div",{className:"flex items-center gap-3.5",children:[
@@ -6191,14 +6191,14 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
         l.jsxs("div",{children:[
           l.jsxs("div",{className:"flex items-center gap-2.5 flex-wrap",children:[
             l.jsx("h3",{className:"text-sm sm:text-base font-black uppercase tracking-wider text-white",children:"Select Result Card Design Template"}),
-            l.jsx("span",{className:"text-[10px] bg-gradient-to-r from-amber-400 to-yellow-300 text-slate-950 font-black px-2.5 py-0.5 rounded-full shadow-xs uppercase tracking-wide",children:"3 Distinct Designs Available"})
+            l.jsx("span",{className:"text-[10px] font-black px-2.5 py-0.5 rounded-full shadow-xs uppercase tracking-wide",style:{backgroundColor:"#059669",color:"#ffffff"},children:"3 Distinct Designs Available"})
           ]}),
           l.jsx("p",{className:"text-xs text-slate-300 font-medium mt-0.5",children:"Choose your preferred institutional layout to preview, print, or download in high-definition PDF and Word."})
         ]})
       ]}),
       l.jsxs("div",{className:"flex flex-wrap items-center gap-2 w-full lg:w-auto",children:[
         /* Template 1 Button */
-        l.jsxs("button",{type:"button",onClick:()=>{setCardTemplate("classic");try{localStorage.setItem("ptbb_rc_template","classic")}catch(e){}F("Active Design: Design 1 - Classic Academic Transcript");},className:`flex items-center gap-2.5 px-3.5 py-2.5 rounded-xl text-xs transition-all cursor-pointer border ${cardTemplate==="classic"?"bg-white text-blue-950 border-amber-400 ring-3 ring-amber-400/80 shadow-lg font-black":"bg-slate-800/90 text-slate-200 border-slate-700 hover:bg-slate-700/90 font-bold"}`,children:[
+        l.jsxs("button",{type:"button",onClick:()=>{setCardTemplate("classic");try{localStorage.setItem("ptbb_rc_template","classic")}catch(e){}F("Active Design: Design 1 - Classic Academic Transcript");},className:`flex items-center gap-2.5 px-3.5 py-2.5 rounded-xl text-xs transition-all cursor-pointer border ${cardTemplate==="classic"?"bg-white text-blue-950 border-blue-500 ring-3 ring-blue-500/80 shadow-lg font-black":"bg-slate-800/90 text-slate-200 border-slate-700 hover:bg-slate-700/90 font-bold"}`,children:[
           l.jsx("span",{className:"text-lg",children:"📜"}),
           l.jsxs("div",{className:"text-left",children:[
             l.jsx("div",{className:"font-black text-xs leading-tight",children:"Design 1: Classic Academic"}),
@@ -6207,7 +6207,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
           cardTemplate==="classic"&&l.jsx("span",{className:"ml-1 text-emerald-600 font-black text-xs",children:"✓"})
         ]}),
         /* Template 2 Button */
-        l.jsxs("button",{type:"button",onClick:()=>{setCardTemplate("modern");try{localStorage.setItem("ptbb_rc_template","modern")}catch(e){}F("Active Design: Design 2 - Modern Executive Certificate");},className:`flex items-center gap-2.5 px-3.5 py-2.5 rounded-xl text-xs transition-all cursor-pointer border ${cardTemplate==="modern"?"bg-white text-blue-950 border-amber-400 ring-3 ring-amber-400/80 shadow-lg font-black":"bg-slate-800/90 text-slate-200 border-slate-700 hover:bg-slate-700/90 font-bold"}`,children:[
+        l.jsxs("button",{type:"button",onClick:()=>{setCardTemplate("modern");try{localStorage.setItem("ptbb_rc_template","modern")}catch(e){}F("Active Design: Design 2 - Modern Executive Certificate");},className:`flex items-center gap-2.5 px-3.5 py-2.5 rounded-xl text-xs transition-all cursor-pointer border ${cardTemplate==="modern"?"bg-white text-blue-950 border-blue-500 ring-3 ring-blue-500/80 shadow-lg font-black":"bg-slate-800/90 text-slate-200 border-slate-700 hover:bg-slate-700/90 font-bold"}`,children:[
           l.jsx("span",{className:"text-lg",children:"🏆"}),
           l.jsxs("div",{className:"text-left",children:[
             l.jsx("div",{className:"font-black text-xs leading-tight",children:"Design 2: Modern Certificate"}),
@@ -6216,7 +6216,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
           cardTemplate==="modern"&&l.jsx("span",{className:"ml-1 text-emerald-600 font-black text-xs",children:"✓"})
         ]}),
         /* Template 3 Button */
-        l.jsxs("button",{type:"button",onClick:()=>{setCardTemplate("diagnostic");try{localStorage.setItem("ptbb_rc_template","diagnostic")}catch(e){}F("Active Design: Design 3 - Detailed Diagnostic Report");},className:`flex items-center gap-2.5 px-3.5 py-2.5 rounded-xl text-xs transition-all cursor-pointer border ${cardTemplate==="diagnostic"?"bg-white text-blue-950 border-amber-400 ring-3 ring-amber-400/80 shadow-lg font-black":"bg-slate-800/90 text-slate-200 border-slate-700 hover:bg-slate-700/90 font-bold"}`,children:[
+        l.jsxs("button",{type:"button",onClick:()=>{setCardTemplate("diagnostic");try{localStorage.setItem("ptbb_rc_template","diagnostic")}catch(e){}F("Active Design: Design 3 - Detailed Diagnostic Report");},className:`flex items-center gap-2.5 px-3.5 py-2.5 rounded-xl text-xs transition-all cursor-pointer border ${cardTemplate==="diagnostic"?"bg-white text-blue-950 border-blue-500 ring-3 ring-blue-500/80 shadow-lg font-black":"bg-slate-800/90 text-slate-200 border-slate-700 hover:bg-slate-700/90 font-bold"}`,children:[
           l.jsx("span",{className:"text-lg",children:"📊"}),
           l.jsxs("div",{className:"text-left",children:[
             l.jsx("div",{className:"font-black text-xs leading-tight",children:"Design 3: Detailed Diagnostic"}),
@@ -6259,6 +6259,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
         
         /* -------------------------------------------------------------
            DESIGN 1: CLASSIC ACADEMIC TRANSCRIPT (Official Board Style)
+           Kept exactly as requested, with strict photo size safeguards
            ------------------------------------------------------------- */
         cardTemplate==="classic"&&l.jsxs("div",{className:"classic-academic-template",children:[
           /* Classic Header */
@@ -6288,7 +6289,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
 
           /* Classic Candidate Info Box */
           l.jsxs("div",{className:"border border-slate-900 bg-slate-50 p-3.5 rounded-lg mb-5 flex flex-col sm:flex-row items-center gap-4",children:[
-            l.jsx("div",{className:"shrink-0 w-24 h-32 rounded-lg border-2 border-slate-700 bg-white p-1 overflow-hidden shadow-xs flex flex-col items-center justify-center",children:st.photoUrl?l.jsx("img",{src:st.photoUrl,alt:st.name,className:"w-full h-full object-cover rounded",style:{imageRendering:"-webkit-optimize-contrast"}}):l.jsxs("div",{className:"flex flex-col items-center justify-center p-2 text-center w-full h-full bg-slate-50 rounded",children:[
+            l.jsx("div",{className:"shrink-0 rounded-lg border-2 border-slate-700 bg-white p-1 overflow-hidden shadow-xs flex flex-col items-center justify-center",style:{width:"96px",height:"128px",minWidth:"96px",minHeight:"128px",maxWidth:"96px",maxHeight:"128px",flexShrink:0},children:st.photoUrl?l.jsx("img",{src:st.photoUrl,alt:st.name,className:"w-full h-full object-cover rounded",style:{width:"100%",height:"100%",objectFit:"cover",display:"block",imageRendering:"-webkit-optimize-contrast"}}):l.jsxs("div",{className:"flex flex-col items-center justify-center p-2 text-center w-full h-full bg-slate-50 rounded",children:[
               l.jsx("div",{className:"w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center border border-blue-300 mb-1",children:l.jsx("span",{className:"text-lg",children:"👤"})}),
               l.jsx("span",{className:"text-[9px] font-black uppercase text-slate-800 tracking-wider",children:"Candidate"}),
               l.jsx("span",{className:"text-[8px] text-slate-500 font-semibold",children:"(Photo ID)"})
@@ -6381,50 +6382,51 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
         ]}),
 
         /* -------------------------------------------------------------
-           DESIGN 2: MODERN EXECUTIVE CERTIFICATE (Award & Distinction Style)
+           DESIGN 2: MODERN EXECUTIVE CERTIFICATE (Sapphire & Emerald Edition)
+           NO yellow, NO orange! Strictly constrained photo dimensions!
            ------------------------------------------------------------- */
-        cardTemplate==="modern"&&l.jsxs("div",{className:"modern-certificate-template p-5 sm:p-7 border-4 border-double rounded-3xl relative overflow-hidden",style:{borderColor:"#1d4ed8",boxShadow:"inset 0 0 0 3px #f59e0b, 0 12px 30px -5px rgba(29, 78, 216, 0.2)",backgroundColor:"#fffdfa"},children:[
-          /* Ornamental Corner Stars */
-          l.jsx("div",{className:"absolute top-2 left-2 text-amber-500 font-black text-xl select-none",children:"⚜️"}),
-          l.jsx("div",{className:"absolute top-2 right-2 text-amber-500 font-black text-xl select-none",children:"⚜️"}),
-          l.jsx("div",{className:"absolute bottom-2 left-2 text-amber-500 font-black text-xl select-none",children:"⚜️"}),
-          l.jsx("div",{className:"absolute bottom-2 right-2 text-amber-500 font-black text-xl select-none",children:"⚜️"}),
+        cardTemplate==="modern"&&l.jsxs("div",{className:"modern-certificate-template p-5 sm:p-7 border-4 rounded-3xl relative overflow-hidden",style:{borderColor:"#1d4ed8",backgroundColor:"#ffffff",boxShadow:"inset 0 0 0 2px #059669, 0 10px 25px -5px rgba(29, 78, 216, 0.15)"},children:[
+          /* Ornamental Corner Accents (Royal Sapphire) */
+          l.jsx("div",{className:"absolute top-2 left-2 font-black text-lg select-none",style:{color:"#1d4ed8"},children:"⚜️"}),
+          l.jsx("div",{className:"absolute top-2 right-2 font-black text-lg select-none",style:{color:"#1d4ed8"},children:"⚜️"}),
+          l.jsx("div",{className:"absolute bottom-2 left-2 font-black text-lg select-none",style:{color:"#1d4ed8"},children:"⚜️"}),
+          l.jsx("div",{className:"absolute bottom-2 right-2 font-black text-lg select-none",style:{color:"#1d4ed8"},children:"⚜️"}),
 
           /* Modern Certificate Grand Header */
-          l.jsxs("div",{className:"text-center pb-4 mb-4 border-b-2 relative",style:{borderColor:"#d97706"},children:[
+          l.jsxs("div",{className:"text-center pb-4 mb-4 border-b-2 relative",style:{borderColor:"#059669"},children:[
             l.jsxs("div",{className:"flex items-center justify-between gap-4 mb-3",children:[
-              /* Left Monogram with Golden Ring */
-              l.jsx("div",{className:"shrink-0 p-1.5 rounded-2xl shadow-md",style:{border:"3px solid #f59e0b",backgroundColor:"#ffffff"},children:
+              /* Left Monogram with Emerald Ring */
+              l.jsx("div",{className:"shrink-0 p-1.5 rounded-2xl shadow-md",style:{border:"3px solid #059669",backgroundColor:"#ffffff"},children:
                 l.jsx(Rw,{logoUrl:r.logoUrl,schoolName:r.schoolName,size:76})
               }),
               /* Center School Typography */
               l.jsxs("div",{className:"flex-1 text-center px-2",children:[
-                l.jsx("div",{className:"text-[10px] font-black tracking-widest uppercase mb-0.5",style:{color:"#b45309"},children:"★ PRESTIGIOUS ACADEMIC EXCELLENCE & HONOURS GAZETTE ★"}),
+                l.jsx("div",{className:"text-[10px] font-black tracking-widest uppercase mb-0.5",style:{color:"#047857"},children:"★ PRESTIGIOUS ACADEMIC EXCELLENCE & HONOURS GAZETTE ★"}),
                 l.jsx("h1",{className:"text-2xl sm:text-3xl font-black uppercase tracking-tight leading-tight",style:{color:"#1e3a8a"},children:r.schoolName}),
                 l.jsxs("div",{className:"text-xs sm:text-sm font-extrabold tracking-wide mt-1",style:{color:"#0f172a"},children:[r.campusName," • ",r.address]}),
                 l.jsxs("div",{className:"text-[11px] font-bold mt-0.5",style:{color:"#475569"},children:["Board Affiliation: ",r.boardPattern||"BISE Punjab"," • Official Helpline: ",r.phone]})
               ]}),
-              /* Right Golden Honors Rosette Badge */
-              l.jsxs("div",{className:"shrink-0 hidden sm:flex flex-col items-center justify-center w-24 h-24 rounded-full p-1 text-center shadow-lg",style:{background:"linear-gradient(135deg, #fef3c7, #fde68a)",border:"3px solid #d97706",color:"#78350f"},children:[
+              /* Right Emerald & Silver Honors Rosette Badge (NO yellow!) */
+              l.jsxs("div",{className:"shrink-0 hidden sm:flex flex-col items-center justify-center w-24 h-24 rounded-full p-1 text-center shadow-md",style:{background:"linear-gradient(135deg, #ecfdf5, #d1fae5)",border:"3px solid #059669",color:"#064e3b"},children:[
                 l.jsx("span",{className:"text-2xl",children:"🏅"}),
                 l.jsx("span",{className:"text-[8px] font-black uppercase tracking-wider leading-tight",children:"Academic Award"}),
                 l.jsx("span",{className:"text-[11px] font-black mt-0.5",children:R.session}),
-                l.jsx("span",{className:"text-[7px] font-extrabold uppercase text-emerald-800",children:"Verified"})
+                l.jsx("span",{className:"text-[7px] font-extrabold uppercase",style:{color:"#047857"},children:"Verified"})
               ]})
             ]}),
             /* Certificate Title Ribbon */
-            l.jsxs("div",{className:"py-2 px-6 rounded-xl shadow-md mt-2",style:{backgroundColor:"#1e3a8a",border:"2px solid #f59e0b"},children:[
-              l.jsx("h2",{className:"text-sm sm:text-base font-black uppercase tracking-widest",style:{color:"#fef08a"},children:"Certificate of Academic Achievement & Report Card"}),
-              l.jsxs("p",{className:"text-[11px] font-bold tracking-wide mt-0.5",style:{color:"#ffffff"},children:["Academic Session: ",R.session," • Examination: ",R.examCategory," • Class: ",R.classLevel]})
+            l.jsxs("div",{className:"py-2 px-6 rounded-xl shadow-md mt-2",style:{backgroundColor:"#1e3a8a",border:"2px solid #10b981"},children:[
+              l.jsx("h2",{className:"text-sm sm:text-base font-black uppercase tracking-widest",style:{color:"#ffffff"},children:"Certificate of Academic Achievement & Report Card"}),
+              l.jsxs("p",{className:"text-[11px] font-bold tracking-wide mt-0.5",style:{color:"#93c5fd"},children:["Academic Session: ",R.session," • Examination: ",R.examCategory," • Class: ",R.classLevel]})
             ]})
           ]}),
 
-          /* Modern Executive Candidate Card */
+          /* Modern Executive Candidate Card (Strictly 80x80 Photo) */
           l.jsxs("div",{className:"rounded-2xl p-4 mb-5 shadow-xs flex flex-col sm:flex-row items-center gap-5",style:{backgroundColor:"#f0fdf4",border:"2px solid #059669"},children:[
-            /* Circular Portrait with Golden Laurel Ring */
+            /* Circular Portrait with Emerald Ring (Strictly Constrained) */
             l.jsxs("div",{className:"shrink-0 flex flex-col items-center",children:[
-              l.jsx("div",{className:"w-24 h-24 rounded-full overflow-hidden shadow-md p-0.5",style:{border:"4px solid #f59e0b",backgroundColor:"#ffffff"},children:
-                st.photoUrl?l.jsx("img",{src:st.photoUrl,alt:st.name,className:"w-full h-full object-cover rounded-full",style:{imageRendering:"-webkit-optimize-contrast"}}):
+              l.jsx("div",{className:"rounded-full overflow-hidden shadow-md p-0.5 flex items-center justify-center",style:{width:"80px",height:"80px",minWidth:"80px",minHeight:"80px",maxWidth:"80px",maxHeight:"80px",border:"3.5px solid #059669",backgroundColor:"#ffffff",flexShrink:0},children:
+                st.photoUrl?l.jsx("img",{src:st.photoUrl,alt:st.name,className:"rounded-full",style:{width:"100%",height:"100%",minWidth:"100%",minHeight:"100%",maxWidth:"100%",maxHeight:"100%",objectFit:"cover",display:"block",imageRendering:"-webkit-optimize-contrast"}}):
                 l.jsxs("div",{className:"w-full h-full rounded-full flex flex-col items-center justify-center text-center",style:{backgroundColor:"#eff6ff"},children:[
                   l.jsx("span",{className:"text-2xl",children:"🎓"}),
                   l.jsx("span",{className:"text-[8px] font-black uppercase",style:{color:"#1e40af"},children:"Candidate"})
@@ -6432,7 +6434,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
               }),
               l.jsxs("div",{className:"mt-2 px-3 py-0.5 rounded-full font-black text-[11px] tracking-wider shadow-xs",style:{backgroundColor:"#1e3a8a",color:"#ffffff"},children:["Roll # ",st.rollNo]})
             ]}),
-            /* Candidate Metadata Grid with Vibrant Colored Cards */
+            /* Candidate Metadata Grid with High-Contrast Non-Yellow Cards */
             l.jsxs("div",{className:"flex-1 w-full grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs",children:[
               l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#ffffff",border:"2px solid #93c5fd"},children:[
                 l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#2563eb"},children:"Student Name"}),
@@ -6446,9 +6448,9 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
                 l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#7c3aed"},children:"Class & Section"}),
                 l.jsxs("span",{className:"text-xs font-black block mt-0.5",style:{color:"#581c87"},children:[R.classLevel," - ",st.section||"A"]})
               ]}),
-              l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#fef3c7",border:"2px solid #f59e0b"},children:[
-                l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#92400e"},children:"Class Standing"}),
-                l.jsxs("span",{className:"text-xs font-black flex items-center gap-1 mt-0.5",style:{color:"#78350f"},children:[l.jsx("span",{children:"🏆"}),l.jsx("span",{children:st.rank||"1st Class"})]})
+              l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#ecfdf5",border:"2px solid #10b981"},children:[
+                l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#047857"},children:"Class Standing"}),
+                l.jsxs("span",{className:"text-xs font-black flex items-center gap-1 mt-0.5",style:{color:"#064e3b"},children:[l.jsx("span",{children:"🏆"}),l.jsx("span",{children:st.rank||"1st Class"})]})
               ]})
             ]})
           ]}),
@@ -6482,12 +6484,12 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
                     l.jsx("td",{className:"p-2 font-black border-r text-sm",style:{color:"#0f172a",borderColor:"#e2e8f0"},children:sub.name}),
                     l.jsx("td",{className:"p-2 text-center font-bold border-r",style:{color:"#1e293b",borderColor:"#e2e8f0"},children:sub.totalMarks}),
                     l.jsx("td",{className:"p-2 text-center font-medium border-r",style:{color:"#64748b",borderColor:"#e2e8f0"},children:sub.passingMarks}),
-                    /* Obtained Marks in Bright High-Contrast Badge */
+                    /* Obtained Marks in Bright Blue Badge */
                     l.jsx("td",{className:"p-2 text-center border-r",style:{borderColor:"#e2e8f0"},children:
                       l.jsx("span",{className:"px-2.5 py-1 rounded-lg font-black text-xs inline-block",style:{backgroundColor:isPass?"#dbeafe":"#ffe4e6",color:isPass?"#1e40af":"#b91c1c",border:isPass?"1.5px solid #3b82f6":"1.5px solid #f43f5e"},children:obt})
                     }),
                     l.jsxs("td",{className:"p-2 text-center font-extrabold border-r",style:{color:"#0f172a",borderColor:"#e2e8f0"},children:[pct,"%"]}),
-                    /* Grade in Bright Colored Pill */
+                    /* Grade in Colored Pill (NO yellow/orange) */
                     l.jsx("td",{className:"p-2 text-center border-r",style:{borderColor:"#e2e8f0"},children:
                       l.jsx("span",{className:"px-2.5 py-0.5 rounded-md font-black text-xs inline-block",style:{backgroundColor:isTop?"#d1fae5":isPass?"#e0f2fe":"#ffe4e6",color:isTop?"#065f46":isPass?"#0369a1":"#9f1239",border:isTop?"1.5px solid #10b981":isPass?"1.5px solid #0284c7":"1.5px solid #f43f5e"},children:grd})
                     }),
@@ -6501,7 +6503,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
             ]})
           }),
 
-          /* 4 Executive Stat Metric Cards (Deep High-Contrast Text) */
+          /* 4 Executive Stat Metric Cards (Deep High-Contrast Text, NO yellow/orange) */
           l.jsxs("div",{className:"grid grid-cols-2 sm:grid-cols-4 gap-3 mb-5",children:[
             /* Card 1: Total Obtained */
             l.jsxs("div",{className:"p-3.5 rounded-2xl text-center shadow-xs",style:{backgroundColor:"#eff6ff",border:"2.5px solid #2563eb"},children:[
@@ -6514,9 +6516,9 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
               l.jsxs("div",{className:"text-xl font-black mt-1",style:{color:"#581c87"},children:[q_stat.percentage,"%"]})
             ]}),
             /* Card 3: Grade */
-            l.jsxs("div",{className:"p-3.5 rounded-2xl text-center shadow-xs",style:{backgroundColor:"#fffbeb",border:"2.5px solid #d97706"},children:[
-              l.jsx("span",{className:"text-[10px] uppercase font-black tracking-wider block",style:{color:"#92400e"},children:"Final Letter Grade"}),
-              l.jsx("div",{className:"text-2xl font-black mt-1",style:{color:"#78350f"},children:q_stat.grade})
+            l.jsxs("div",{className:"p-3.5 rounded-2xl text-center shadow-xs",style:{backgroundColor:"#ecfdf5",border:"2.5px solid #059669"},children:[
+              l.jsx("span",{className:"text-[10px] uppercase font-black tracking-wider block",style:{color:"#047857"},children:"Final Letter Grade"}),
+              l.jsx("div",{className:"text-2xl font-black mt-1",style:{color:"#064e3b"},children:q_stat.grade})
             ]}),
             /* Card 4: Status */
             l.jsxs("div",{className:"p-3.5 rounded-2xl text-center shadow-xs",style:{backgroundColor:q_stat.status==="PASS"?"#f0fdf4":"#fff1f2",border:q_stat.status==="PASS"?"2.5px solid #059669":"2.5px solid #e11d48"},children:[
@@ -6526,19 +6528,19 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
           ]}),
 
           /* Modern Commendation & Certified Badge */
-          l.jsxs("div",{className:"rounded-2xl p-3.5 mb-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs shadow-xs",style:{backgroundColor:"#fffbeb",border:"2px solid #f59e0b"},children:[
+          l.jsxs("div",{className:"rounded-2xl p-3.5 mb-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs shadow-xs",style:{backgroundColor:"#f8fafc",border:"2px solid #059669"},children:[
             l.jsxs("div",{className:"flex-1",children:[
-              l.jsx("span",{className:"text-[10px] font-black uppercase tracking-wider block mb-0.5",style:{color:"#92400e"},children:"Executive Commendation & Remarks:"}),
-              l.jsxs("p",{className:"italic leading-relaxed font-bold text-sm",style:{color:"#451a03"},children:['"',st.remarks||"Exhibits commendable scholastic performance, exemplary character, and high learning aptitude.",'"']})
+              l.jsx("span",{className:"text-[10px] font-black uppercase tracking-wider block mb-0.5",style:{color:"#047857"},children:"Executive Commendation & Remarks:"}),
+              l.jsxs("p",{className:"italic leading-relaxed font-bold text-sm",style:{color:"#0f172a"},children:['"',st.remarks||"Exhibits commendable scholastic performance, exemplary character, and high learning aptitude.",'"']})
             ]}),
-            l.jsxs("div",{className:"shrink-0 flex items-center gap-2 px-3 py-1.5 rounded-xl text-[11px] font-black shadow-xs",style:{backgroundColor:"#fef3c7",border:"2px solid #d97706",color:"#78350f"},children:[
+            l.jsxs("div",{className:"shrink-0 flex items-center gap-2 px-3 py-1.5 rounded-xl text-[11px] font-black shadow-xs",style:{backgroundColor:"#ecfdf5",border:"2px solid #059669",color:"#064e3b"},children:[
               l.jsx("span",{className:"text-xl",children:"🛡️"}),
               l.jsx("span",{children:"Institutionally Certified Record"})
             ]})
           ]}),
 
           /* Modern 3 Executive Signatures */
-          l.jsxs("div",{className:"pt-6 border-t-2 grid grid-cols-3 text-center text-xs font-bold",style:{borderColor:"#d97706",color:"#0f172a"},children:[
+          l.jsxs("div",{className:"pt-6 border-t-2 grid grid-cols-3 text-center text-xs font-bold",style:{borderColor:"#059669",color:"#0f172a"},children:[
             l.jsx("div",{children:l.jsx("div",{className:"w-36 border-t-2 mx-auto pt-1 font-black",style:{borderColor:"#1e3a8a"},children:"Controller Examinations"})}),
             l.jsx("div",{children:l.jsx("div",{className:"w-40 border-t-2 mx-auto pt-1 font-black",style:{borderColor:"#1e3a8a"},children:"Principal / Executive Seal"})}),
             l.jsx("div",{children:l.jsx("div",{className:"w-36 border-t-2 mx-auto pt-1 font-black",style:{borderColor:"#1e3a8a"},children:"Parent / Guardian"})})
@@ -6548,6 +6550,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
 
         /* -------------------------------------------------------------
            DESIGN 3: MODERN STEM & ANALYTICAL DIAGNOSTIC INFOGRAPHIC
+           (Dedicated Candidate Box with Strict 80x80 Photo, NO yellow/orange)
            ------------------------------------------------------------- */
         cardTemplate==="diagnostic"&&l.jsxs("div",{className:"detailed-diagnostic-template p-5 sm:p-7 border-3 rounded-3xl relative shadow-md",style:{borderColor:"#0891b2",backgroundColor:"#ffffff"},children:[
           /* Tech-Academic Diagnostic Header */
@@ -6585,47 +6588,41 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
             l.jsxs("div",{className:"font-bold text-xs",style:{color:"#e2e8f0"},children:["Class: ",R.classLevel," • Cycle: ",R.examCategory," • Session: ",R.session]})
           ]}),
 
-          /* Candidate Infographic Profile (5 Colorful Stat Tiles) */
-          l.jsxs("div",{className:"grid grid-cols-2 sm:grid-cols-5 gap-2.5 mb-5 text-xs",children:[
-            /* Tile 1: Photo & Name */
-            l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs flex items-center gap-2.5",style:{backgroundColor:"#f0f9ff",border:"2px solid #0284c7"},children:[
-              l.jsx("div",{className:"w-11 h-11 rounded-full overflow-hidden bg-white shrink-0 shadow-xs",style:{border:"2.5px solid #0284c7"},children:
-                st.photoUrl?l.jsx("img",{src:st.photoUrl,alt:st.name,className:"w-full h-full object-cover"}):
-                l.jsx("div",{className:"w-full h-full flex items-center justify-center font-black text-xs",style:{color:"#0284c7"},children:"ID"})
+          /* Dedicated Candidate Profile (Strictly 80x80 Photo, Immune to Overflow) */
+          l.jsxs("div",{className:"rounded-2xl p-4 mb-5 shadow-xs flex flex-col sm:flex-row items-center gap-5",style:{backgroundColor:"#f0f9ff",border:"2px solid #0891b2"},children:[
+            /* Photo Container with Unbreakable Size Constraints */
+            l.jsxs("div",{className:"shrink-0 flex flex-col items-center",children:[
+              l.jsx("div",{className:"rounded-full overflow-hidden shadow-md p-0.5 flex items-center justify-center",style:{width:"80px",height:"80px",minWidth:"80px",minHeight:"80px",maxWidth:"80px",maxHeight:"80px",border:"3.5px solid #0891b2",backgroundColor:"#ffffff",flexShrink:0},children:
+                st.photoUrl?l.jsx("img",{src:st.photoUrl,alt:st.name,className:"rounded-full",style:{width:"100%",height:"100%",minWidth:"100%",minHeight:"100%",maxWidth:"100%",maxHeight:"100%",objectFit:"cover",display:"block",imageRendering:"-webkit-optimize-contrast"}}):
+                l.jsxs("div",{className:"w-full h-full rounded-full flex flex-col items-center justify-center text-center",style:{backgroundColor:"#ecfeff"},children:[
+                  l.jsx("span",{className:"text-2xl",children:"🔬"}),
+                  l.jsx("span",{className:"text-[8px] font-black uppercase",style:{color:"#0891b2"},children:"Candidate"})
+                ]})
               }),
-              l.jsxs("div",{className:"min-w-0 flex-1",children:[
-                l.jsx("span",{className:"text-[8px] font-black uppercase block",style:{color:"#0284c7"},children:"Candidate Name"}),
-                l.jsx("span",{className:"text-xs font-black truncate block",style:{color:"#0c4a6e"},children:st.name}),
-                l.jsxs("span",{className:"text-[10px] font-bold block",style:{color:"#0369a1"},children:["Roll # ",st.rollNo]})
+              l.jsxs("div",{className:"mt-2 px-3 py-0.5 rounded-full font-black text-[11px] tracking-wider shadow-xs",style:{backgroundColor:"#0891b2",color:"#ffffff"},children:["Roll # ",st.rollNo]})
+            ]}),
+            /* 4 Candidate Metadata Cards (NO yellow/orange) */
+            l.jsxs("div",{className:"flex-1 w-full grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs",children:[
+              l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#ffffff",border:"2px solid #0284c7"},children:[
+                l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#0284c7"},children:"Candidate Full Name"}),
+                l.jsx("span",{className:"text-xs font-black block mt-0.5",style:{color:"#0c4a6e"},children:st.name})
+              ]}),
+              l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#ffffff",border:"2px solid #8b5cf6"},children:[
+                l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#7c3aed"},children:"Father's Name"}),
+                l.jsx("span",{className:"text-xs font-bold block mt-0.5",style:{color:"#581c87"},children:st.fatherName||"-"})
+              ]}),
+              l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#ffffff",border:"2px solid #3b82f6"},children:[
+                l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#2563eb"},children:"Class & Section"}),
+                l.jsxs("span",{className:"text-xs font-black block mt-0.5",style:{color:"#1e40af"},children:[R.classLevel," - ",st.section||"A"]})
+              ]}),
+              l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs",style:{backgroundColor:"#ecfdf5",border:"2px solid #10b981"},children:[
+                l.jsx("span",{className:"text-[9px] font-black uppercase tracking-wider block",style:{color:"#059669"},children:"Attendance & Standing"}),
+                l.jsxs("span",{className:"text-xs font-black flex items-center gap-1 mt-0.5",style:{color:"#064e3b"},children:[l.jsx("span",{children:"🏆"}),l.jsxs("span",{children:[st.attendance||"96%"," • ",st.rank||"Top Tier"]})]})
               ]})
-            ]}),
-            /* Tile 2: Father Name */
-            l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs flex flex-col justify-center",style:{backgroundColor:"#faf5ff",border:"2px solid #8b5cf6"},children:[
-              l.jsx("span",{className:"text-[8px] font-black uppercase block",style:{color:"#7c3aed"},children:"Father's Name"}),
-              l.jsx("span",{className:"text-xs font-black truncate block mt-0.5",style:{color:"#581c87"},children:st.fatherName||"-"}),
-              l.jsxs("span",{className:"text-[10px] font-bold block",style:{color:"#6b21a8"},children:["Sec: ",st.section||"A"]})
-            ]}),
-            /* Tile 3: Attendance */
-            l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs flex flex-col justify-center",style:{backgroundColor:"#ecfdf5",border:"2px solid #10b981"},children:[
-              l.jsx("span",{className:"text-[8px] font-black uppercase block",style:{color:"#059669"},children:"Attendance & Punctuality"}),
-              l.jsx("span",{className:"text-sm font-black block mt-0.5",style:{color:"#064e3b"},children:st.attendance||"96%"}),
-              l.jsx("span",{className:"text-[10px] font-bold block",style:{color:"#047857"},children:"Regular Status"})
-            ]}),
-            /* Tile 4: Position Rank */
-            l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs flex flex-col justify-center",style:{backgroundColor:"#fffbeb",border:"2px solid #f59e0b"},children:[
-              l.jsx("span",{className:"text-[8px] font-black uppercase block",style:{color:"#d97706"},children:"Class Position Rank"}),
-              l.jsxs("span",{className:"text-sm font-black flex items-center gap-1 mt-0.5",style:{color:"#78350f"},children:[l.jsx("span",{children:"🏆"}),l.jsx("span",{children:st.rank||"Top Tier"})]}),
-              l.jsx("span",{className:"text-[10px] font-bold block",style:{color:"#92400e"},children:"Merit Category"})
-            ]}),
-            /* Tile 5: Session */
-            l.jsxs("div",{className:"p-2.5 rounded-xl shadow-2xs flex flex-col justify-center",style:{backgroundColor:"#f8fafc",border:"2px solid #64748b"},children:[
-              l.jsx("span",{className:"text-[8px] font-black uppercase block",style:{color:"#475569"},children:"Academic Session"}),
-              l.jsx("span",{className:"text-xs font-black block mt-0.5",style:{color:"#0f172a"},children:R.session}),
-              l.jsx("span",{className:"text-[10px] font-bold block",style:{color:"#334155"},children:R.examCategory})
             ]})
           ]}),
 
-          /* Subject Mastery Breakdown with Thick, Colorful 3D Progress Bars */
+          /* Subject Mastery Breakdown with Thick, Colorful 3D Progress Bars (NO yellow/orange) */
           l.jsxs("div",{className:"rounded-2xl overflow-hidden mb-5 shadow-xs",style:{border:"2px solid #0891b2"},children:[
             l.jsxs("div",{className:"px-4 py-2.5 flex items-center justify-between text-xs font-black uppercase tracking-wider",style:{backgroundColor:"#e0f2fe",color:"#0369a1",borderBottom:"2px solid #0891b2"},children:[
               l.jsx("span",{children:"Curriculum Subject Mastery & Proficiency Analytics"}),
@@ -6645,10 +6642,10 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
                 let badgeBorder="#f43f5e";
                 if(pNum>=90){grd="A+";level="Advanced Mastery 🌟";barColor="#059669";badgeBg="#d1fae5";badgeColor="#065f46";badgeBorder="#10b981";}
                 else if(pNum>=80){grd="A";level="Proficient 🎯";barColor="#10b981";badgeBg="#ecfdf5";badgeColor="#047857";badgeBorder="#34d399";}
-                else if(pNum>=70){grd="B";level="Competent 📘";barColor="#2563eb";badgeBg="#dbeafe";badgeColor="#1e40af";badgeBorder="#60a5fa";}
-                else if(pNum>=60){grd="C";level="Developing 💡";barColor="#7c3aed";badgeBg="#ede9fe";badgeColor="#5b21b6";badgeBorder="#a78bfa";}
-                else if(pNum>=50){grd="D";level="Basic 📙";barColor="#d97706";badgeBg="#fef3c7";badgeColor="#92400e";badgeBorder="#fbbf24";}
-                else if(pNum>=40){grd="E";level="Marginal ⚠️";barColor="#ea580c";badgeBg="#ffedd5";badgeColor="#9a3412";badgeBorder="#fb923c";}
+                else if(pNum>=70){grd="B";level="Competent 📘";barColor="#0891b2";badgeBg="#ecfeff";badgeColor="#0e7490";badgeBorder="#06b6d4";}
+                else if(pNum>=60){grd="C";level="Developing 💡";barColor="#2563eb";badgeBg="#dbeafe";badgeColor="#1e40af";badgeBorder="#60a5fa";}
+                else if(pNum>=50){grd="D";level="Basic 📙";barColor="#7c3aed";badgeBg="#ede9fe";badgeColor="#5b21b6";badgeBorder="#a78bfa";}
+                else if(pNum>=40){grd="E";level="Marginal ⚠️";barColor="#4f46e5";badgeBg="#e0e7ff";badgeColor="#3730a3";badgeBorder="#818cf8";}
                 return l.jsxs("div",{key:sub.id,className:"p-2.5 rounded-xl shadow-2xs flex flex-col gap-2",style:{backgroundColor:"#f8fafc",border:"1.5px solid #e2e8f0"},children:[
                   l.jsxs("div",{className:"flex items-center justify-between font-bold text-xs",children:[
                     l.jsxs("div",{className:"flex items-center gap-2",children:[
@@ -6662,7 +6659,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
                       l.jsx("span",{className:"text-xs font-extrabold w-36 text-right",style:{color:barColor},children:level})
                     ]})
                   ]}),
-                  /* Thick 3D Visual Progress Bar */
+                  /* Thick 3D Visual Progress Bar (12px height) */
                   l.jsx("div",{className:"w-full rounded-full h-3 overflow-hidden shadow-inner",style:{backgroundColor:"#e2e8f0",border:"1px solid #cbd5e1"},children:
                     l.jsx("div",{className:"h-full rounded-full transition-all shadow-xs",style:{width:`${Math.min(100,Math.max(4,pNum))}%`,backgroundColor:barColor}})
                   })
@@ -6695,7 +6692,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
                 l.jsx("span",{className:"font-black px-3 py-1 rounded-full text-xs shadow-xs",style:{backgroundColor:q_stat.status==="PASS"?"#dcfce7":"#fee2e2",color:q_stat.status==="PASS"?"#14532d":"#991b1b",border:q_stat.status==="PASS"?"1.5px solid #22c55e":"1.5px solid #ef4444"},children:q_stat.status==="PASS"?"PASSED & OFFICIALLY PROMOTED ✓":"RETAKE REQUIRED ⚠️"})
               ]})
             ]}),
-            /* Holistic Behavioral Scorecard */
+            /* Holistic Behavioral Scorecard (NO yellow/orange) */
             l.jsxs("div",{className:"p-4 rounded-2xl text-xs flex flex-col justify-between shadow-xs",style:{backgroundColor:"#faf5ff",border:"2px solid #8b5cf6"},children:[
               l.jsx("div",{className:"text-[11px] font-black uppercase tracking-wider mb-2",style:{color:"#6b21a8"},children:"Holistic Behavioral & Learning Matrix"}),
               l.jsxs("div",{className:"space-y-1.5 text-xs font-bold",children:[
@@ -6709,7 +6706,7 @@ const ne=R.subjects.reduce((S,V)=>S+V.totalMarks,0),te=S=>{const V=R.subjects.re
                 ]}),
                 l.jsxs("div",{className:"flex justify-between items-center p-1.5 rounded-lg bg-white border border-purple-200",children:[
                   l.jsx("span",{style:{color:"#475569"},children:"Assignment Punctuality:"}),
-                  l.jsx("span",{className:"font-black",style:{color:"#7c2d12"},children:"100% On-Time"})
+                  l.jsx("span",{className:"font-black",style:{color:"#047857"},children:"100% On-Time"})
                 ]}),
                 l.jsxs("div",{className:"flex justify-between items-center p-1.5 rounded-lg bg-white border border-purple-200",children:[
                   l.jsx("span",{style:{color:"#475569"},children:"Social Conduct & Discipline:"}),
