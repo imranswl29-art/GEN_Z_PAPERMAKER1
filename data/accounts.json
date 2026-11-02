@@ -1,5 +1,46 @@
 [
   {
+    "id": "school-verify-1793634573",
+    "username": "principal.multan",
+    "password": "MultanPassword2026",
+    "role": "principal",
+    "name": "Principal Multan Science Academy",
+    "schoolName": "MULTAN SCIENCE ACADEMY",
+    "campusName": "Bosan Road Campus",
+    "city": "Multan",
+    "phone": "03009876543",
+    "targetBoard": "multan",
+    "allowedClasses": [
+      "9th",
+      "10th"
+    ],
+    "status": "active",
+    "expiryDate": "2030-12-31",
+    "paperLimit": 500,
+    "papersCreated": 0,
+    "createdAt": "2026-11-02T15:40:00.000Z"
+  },
+  {
+    "id": "school-test-123",
+    "username": "testschool",
+    "password": "Password123",
+    "role": "principal",
+    "schoolName": "Test High School",
+    "campusName": "Main",
+    "city": "Lahore",
+    "phone": "03001112233",
+    "targetBoard": "lahore",
+    "allowedClasses": [
+      "9th",
+      "10th"
+    ],
+    "status": "active",
+    "expiryDate": "2030-12-31",
+    "paperLimit": 500,
+    "papersCreated": 0,
+    "createdAt": "2026-11-02T15:00:00.000Z"
+  },
+  {
     "id": "user-admin-01",
     "username": "admin",
     "password": "admin",
