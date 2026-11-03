@@ -1,0 +1,48 @@
+{
+  "entities": {
+    "Account": {
+      "title": "Account",
+      "description": "Registered institutional account for admin or school principal",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "username": { "type": "string" },
+        "password": { "type": "string" },
+        "role": { "type": "string" },
+        "schoolName": { "type": "string" },
+        "campusName": { "type": "string" },
+        "city": { "type": "string" },
+        "phone": { "type": "string" },
+        "targetBoard": { "type": "string" },
+        "status": { "type": "string" },
+        "paperLimit": { "type": "number" },
+        "papersCreated": { "type": "number" },
+        "expiryDate": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "username", "password"]
+    },
+    "Paper": {
+      "title": "Paper",
+      "description": "Generated examination question paper",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id"]
+    }
+  },
+  "firestore": {
+    "/accounts/{accountId}": {
+      "schema": "Account",
+      "description": "School and administrative user accounts"
+    },
+    "/papers/{paperId}": {
+      "schema": "Paper",
+      "description": "Generated question papers"
+    }
+  }
+}

@@ -1,4 +1,13 @@
-var __defProp=Object.defineProperty;var __name=(target,value)=>__defProp(target,"name",{value,configurable:true});import express from"express";import path from"path";import fs from"fs";import{fileURLToPath}from"url";import{GoogleGenAI,Type}from"@google/genai";import{MASTER_PTBB_SUBJECTS,getQuestionsForSubjectAndChapters,dedupeAndReplenishPaper}from"./src/data/questionBankStore.ts";const __filename=fileURLToPath(import.meta.url);const __dirname=path.dirname(__filename);const app=express();const PORT=3e3;app.use(express.json({limit:"10mb"}));const ai=new GoogleGenAI({apiKey:process.env.GEMINI_API_KEY||process.env.VITE_GEMINI_API_KEY,httpOptions:{headers:{"User-Agent":"aistudio-build"}}});const CANDIDATE_MODELS = ["gemini-3.8-flash", "gemini-flash-latest", "gemini-3.1-flash-lite"];
+var __defProp=Object.defineProperty;var __name=(target,value)=>__defProp(target,"name",{value,configurable:true});import express from"express";import path from"path";import fs from"fs";import{fileURLToPath}from"url";import{GoogleGenAI,Type}from"@google/genai";
+import { initializeApp as initFirebaseApp } from "firebase/app";
+import {
+  getFirestore as initFirestore,
+  collection as fsCollection,
+  getDocs as fsGetDocs,
+  doc as fsDoc,
+  setDoc as fsSetDoc,
+  deleteDoc as fsDeleteDoc
+} from "firebase/firestore";import{MASTER_PTBB_SUBJECTS,getQuestionsForSubjectAndChapters,dedupeAndReplenishPaper}from"./src/data/questionBankStore.ts";const __filename=fileURLToPath(import.meta.url);const __dirname=path.dirname(__filename);const app=express();const PORT=3e3;app.use(express.json({limit:"10mb"}));const ai=new GoogleGenAI({apiKey:process.env.GEMINI_API_KEY||process.env.VITE_GEMINI_API_KEY,httpOptions:{headers:{"User-Agent":"aistudio-build"}}});const CANDIDATE_MODELS = ["gemini-3.8-flash", "gemini-flash-latest", "gemini-3.1-flash-lite"];
 async function generateWithModelFallback(callFn: (model: string) => Promise<any>): Promise<any> {
   let lastError: any;
   for (const model of CANDIDATE_MODELS) {
@@ -19,7 +28,106 @@ async function generateWithModelFallback(callFn: (model: string) => Promise<any>
     }
   }
   throw lastError;
-}__name(generateWithModelFallback,"generateWithModelFallback");const DATA_DIR=process.env.VERCEL?path.join("/tmp","data"):path.resolve(__dirname,"data");if(!fs.existsSync(DATA_DIR)){try{fs.mkdirSync(DATA_DIR,{recursive:true})}catch(e){}}const ACCOUNTS_FILE=path.join(DATA_DIR,"accounts.json");const REPO_ACCOUNTS_FILE=path.resolve(__dirname,"data","accounts.json");const CWD_ACCOUNTS_FILE=path.resolve(process.cwd(),"data","accounts.json");const PAPERS_FILE=path.join(DATA_DIR,"papers.json");const DATESHEETS_FILE=path.join(DATA_DIR,"datesheets.json");const MARKSHEETS_FILE=path.join(DATA_DIR,"marksheets.json");const DEFAULT_ADMIN_ACCOUNT={id:"user-admin-01",username:"admin",password:"admin",role:"admin",name:"Muhammad Imran Khan (MSc Computer Science)",schoolName:"Punjab Board Examination Central Portal",campusName:"Central Admin Office, Lahore",city:"Lahore",phone:"03007603964",targetBoard:"lahore",allowedClasses:["9th","10th"],status:"active",expiryDate:"2030-12-31",paperLimit:99999,papersCreated:0,createdAt:"2026-01-01T00:00:00.000Z"};const DEFAULT_INITIAL_ACCOUNTS=[DEFAULT_ADMIN_ACCOUNT,{id:"user-smart-pakpattan",username:"pakpattan@smartschool.edu.pk",password:"SmartDemo123",role:"principal",name:"Principal - The Smart School",schoolName:"THE SMART SCHOOL PAKPATTAN",campusName:"Pakpattan Branch (City Campus)",city:"Pakpattan",phone:"03001234567",targetBoard:"sahiwal",allowedClasses:["9th","10th"],status:"active",expiryDate:"2030-12-31",paperLimit:500,papersCreated:12,createdAt:"2026-01-01T00:00:00.000Z"},{id:"user-knowledge-okara",username:"okara@knowledgeschool.edu.pk",password:"KnowledgeDemo123",role:"principal",name:"Principal - The Knowledge School",schoolName:"THE KNOWLEDGE SCHOOL OKARA",campusName:"Okara Branch (Main Campus)",city:"Okara",phone:"03149876543",targetBoard:"sahiwal",allowedClasses:["9th","10th"],status:"active",expiryDate:"2030-12-31",paperLimit:500,papersCreated:15,createdAt:"2026-01-01T00:00:00.000Z"}];function getCommittedSeedAccounts(){for(const c of[REPO_ACCOUNTS_FILE,CWD_ACCOUNTS_FILE]){try{if(fs.existsSync(c)){const raw=fs.readFileSync(c,"utf-8");const parsed=JSON.parse(raw);if(Array.isArray(parsed)&&parsed.length>0)return parsed}}catch(e){}}return[...DEFAULT_INITIAL_ACCOUNTS]}__name(getCommittedSeedAccounts,"getCommittedSeedAccounts");function readAccountsFromFile(){const map=new Map();const seed=getCommittedSeedAccounts();for(const a of seed){if(a&&(a.id||a.username)){map.set(String(a.id||a.username).toLowerCase(),a)}}try{if(fs.existsSync(ACCOUNTS_FILE)&&ACCOUNTS_FILE!==REPO_ACCOUNTS_FILE&&ACCOUNTS_FILE!==CWD_ACCOUNTS_FILE){const data=fs.readFileSync(ACCOUNTS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){for(const a of parsed){if(a&&(a.id||a.username)){map.set(String(a.id||a.username).toLowerCase(),a)}}}}}catch(e){console.error("Error reading runtime accounts file:",e)}for(const def of DEFAULT_INITIAL_ACCOUNTS){const k=String(def.id||def.username).toLowerCase();if(!map.has(k))map.set(k,def)}return Array.from(map.values())}__name(readAccountsFromFile,"readAccountsFromFile");function writeAccountsToFile(accounts){try{fs.writeFileSync(ACCOUNTS_FILE,JSON.stringify(accounts,null,2),"utf-8")}catch(e){console.error("Error writing accounts file:",e)}try{if(REPO_ACCOUNTS_FILE!==ACCOUNTS_FILE){fs.writeFileSync(REPO_ACCOUNTS_FILE,JSON.stringify(accounts,null,2),"utf-8")}}catch(e){}}__name(writeAccountsToFile,"writeAccountsToFile");function readPapersFromFile(){try{if(fs.existsSync(PAPERS_FILE)){const data=fs.readFileSync(PAPERS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){return parsed}}}catch(e){console.error("Error reading papers file:",e)}return[]}__name(readPapersFromFile,"readPapersFromFile");function writePapersToFile(papers){try{fs.writeFileSync(PAPERS_FILE,JSON.stringify(papers,null,2),"utf-8")}catch(e){console.error("Error writing papers file:",e)}}__name(writePapersToFile,"writePapersToFile");function readDateSheetsFromFile(){try{if(fs.existsSync(DATESHEETS_FILE)){const data=fs.readFileSync(DATESHEETS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){return parsed}}}catch(e){console.error("Error reading datesheets file:",e)}return[]}__name(readDateSheetsFromFile,"readDateSheetsFromFile");function writeDateSheetsToFile(dateSheets){try{fs.writeFileSync(DATESHEETS_FILE,JSON.stringify(dateSheets,null,2),"utf-8")}catch(e){console.error("Error writing datesheets file:",e)}}__name(writeDateSheetsToFile,"writeDateSheetsToFile");function readMarksheetsFromFile(){try{if(fs.existsSync(MARKSHEETS_FILE)){const data=fs.readFileSync(MARKSHEETS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){return parsed}}}catch(e){console.error("Error reading marksheets file:",e)}return[]}__name(readMarksheetsFromFile,"readMarksheetsFromFile");function writeMarksheetsToFile(marksheets){try{fs.writeFileSync(MARKSHEETS_FILE,JSON.stringify(marksheets,null,2),"utf-8")}catch(e){console.error("Error writing marksheets file:",e)}}__name(writeMarksheetsToFile,"writeMarksheetsToFile");function dedupeQuestions(paper, explicitSubjectId, explicitChapters){
+}__name(generateWithModelFallback,"generateWithModelFallback");
+// --- CLOUD FIRESTORE INTEGRATION ---
+let firestoreDb: any = null;
+try {
+  const cfgPaths = [
+    path.resolve(__dirname, "firebase-applet-config.json"),
+    path.resolve(process.cwd(), "firebase-applet-config.json")
+  ];
+  for (const p of cfgPaths) {
+    if (fs.existsSync(p)) {
+      const cfg = JSON.parse(fs.readFileSync(p, "utf-8"));
+      const fbApp = initFirebaseApp(cfg, "server-app");
+      firestoreDb = initFirestore(fbApp, cfg.firestoreDatabaseId);
+      console.log("[FIREBASE] Connected to Firestore database:", cfg.firestoreDatabaseId);
+      break;
+    }
+  }
+} catch (e) {
+  console.warn("[FIREBASE] Firestore init warning:", e);
+}
+const DATA_DIR=process.env.VERCEL?path.join("/tmp","data"):path.resolve(__dirname,"data");if(!fs.existsSync(DATA_DIR)){try{fs.mkdirSync(DATA_DIR,{recursive:true})}catch(e){}}const ACCOUNTS_FILE=path.join(DATA_DIR,"accounts.json");const REPO_ACCOUNTS_FILE=path.resolve(__dirname,"data","accounts.json");const CWD_ACCOUNTS_FILE=path.resolve(process.cwd(),"data","accounts.json");const PAPERS_FILE=path.join(DATA_DIR,"papers.json");const DATESHEETS_FILE=path.join(DATA_DIR,"datesheets.json");const MARKSHEETS_FILE=path.join(DATA_DIR,"marksheets.json");const DEFAULT_ADMIN_ACCOUNT={id:"user-admin-01",username:"admin",password:"admin",role:"admin",name:"Muhammad Imran Khan (MSc Computer Science)",schoolName:"Punjab Board Examination Central Portal",campusName:"Central Admin Office, Lahore",city:"Lahore",phone:"03007603964",targetBoard:"lahore",allowedClasses:["9th","10th"],status:"active",expiryDate:"2030-12-31",paperLimit:99999,papersCreated:0,createdAt:"2026-01-01T00:00:00.000Z"};const DEFAULT_INITIAL_ACCOUNTS=[DEFAULT_ADMIN_ACCOUNT,{id:"user-smart-pakpattan",username:"pakpattan@smartschool.edu.pk",password:"SmartDemo123",role:"principal",name:"Principal - The Smart School",schoolName:"THE SMART SCHOOL PAKPATTAN",campusName:"Pakpattan Branch (City Campus)",city:"Pakpattan",phone:"03001234567",targetBoard:"sahiwal",allowedClasses:["9th","10th"],status:"active",expiryDate:"2030-12-31",paperLimit:500,papersCreated:12,createdAt:"2026-01-01T00:00:00.000Z"},{id:"user-knowledge-okara",username:"okara@knowledgeschool.edu.pk",password:"KnowledgeDemo123",role:"principal",name:"Principal - The Knowledge School",schoolName:"THE KNOWLEDGE SCHOOL OKARA",campusName:"Okara Branch (Main Campus)",city:"Okara",phone:"03149876543",targetBoard:"sahiwal",allowedClasses:["9th","10th"],status:"active",expiryDate:"2030-12-31",paperLimit:500,papersCreated:15,createdAt:"2026-01-01T00:00:00.000Z"}];function getCommittedSeedAccounts(){for(const c of[REPO_ACCOUNTS_FILE,CWD_ACCOUNTS_FILE]){try{if(fs.existsSync(c)){const raw=fs.readFileSync(c,"utf-8");const parsed=JSON.parse(raw);if(Array.isArray(parsed)&&parsed.length>0)return parsed}}catch(e){}}return[...DEFAULT_INITIAL_ACCOUNTS]}__name(getCommittedSeedAccounts,"getCommittedSeedAccounts");function readAccountsFromFile(){const map=new Map();const seed=getCommittedSeedAccounts();for(const a of seed){if(a&&(a.id||a.username)){map.set(String(a.id||a.username).toLowerCase(),a)}}try{if(fs.existsSync(ACCOUNTS_FILE)&&ACCOUNTS_FILE!==REPO_ACCOUNTS_FILE&&ACCOUNTS_FILE!==CWD_ACCOUNTS_FILE){const data=fs.readFileSync(ACCOUNTS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){for(const a of parsed){if(a&&(a.id||a.username)){map.set(String(a.id||a.username).toLowerCase(),a)}}}}}catch(e){console.error("Error reading runtime accounts file:",e)}for(const def of DEFAULT_INITIAL_ACCOUNTS){const k=String(def.id||def.username).toLowerCase();if(!map.has(k))map.set(k,def)}return Array.from(map.values())}__name(readAccountsFromFile,"readAccountsFromFile");let inMemoryAccounts: any[] = [];
+
+async function refreshAccountsFromFirestore(): Promise<any[]> {
+  const local = readAccountsFromFile();
+  if (!firestoreDb) {
+    inMemoryAccounts = local;
+    return local;
+  }
+  try {
+    const snap = await fsGetDocs(fsCollection(firestoreDb, "accounts"));
+    const map = new Map();
+    for (const a of local) {
+      if (a && (a.id || a.username)) map.set(String(a.id || a.username).toLowerCase(), a);
+    }
+    snap.forEach((d: any) => {
+      const data = d.data();
+      if (data && (data.id || data.username)) {
+        map.set(String(data.id || data.username).toLowerCase(), data);
+      }
+    });
+    for (const def of DEFAULT_INITIAL_ACCOUNTS) {
+      const k = String(def.id || def.username).toLowerCase();
+      if (!map.has(k)) map.set(k, def);
+    }
+    const merged = Array.from(map.values());
+    inMemoryAccounts = merged;
+    // Persist to local cache files
+    writeAccountsToFile(merged);
+    return merged;
+  } catch (err) {
+    console.warn("[FIREBASE] refreshAccountsFromFirestore error:", err);
+    inMemoryAccounts = local;
+    return local;
+  }
+}
+
+async function persistAccount(account: any): Promise<void> {
+  const current = inMemoryAccounts.length > 0 ? [...inMemoryAccounts] : readAccountsFromFile();
+  const accUser = (account.username || "").trim().toLowerCase();
+  const accId = (account.id || "").trim().toLowerCase();
+  const idx = current.findIndex(a => {
+    const aId = (a.id || "").trim().toLowerCase();
+    const aUser = (a.username || "").trim().toLowerCase();
+    return aId === accId || (accUser && aUser === accUser);
+  });
+  if (idx >= 0) {
+    current[idx] = { ...current[idx], ...account };
+  } else {
+    current.unshift(account);
+  }
+  inMemoryAccounts = current;
+  writeAccountsToFile(current);
+
+  if (firestoreDb && account && account.id) {
+    try {
+      await fsSetDoc(fsDoc(firestoreDb, "accounts", String(account.id)), account);
+      console.log(`[FIREBASE] Persisted account ${account.username} (${account.id}) to Firestore`);
+    } catch (err) {
+      console.error("[FIREBASE] Failed to save account to Firestore:", err);
+    }
+  }
+}
+
+async function removeAccount(id: string): Promise<void> {
+  const current = inMemoryAccounts.length > 0 ? inMemoryAccounts : readAccountsFromFile();
+  const updated = current.filter(a => a.id !== id);
+  inMemoryAccounts = updated;
+  writeAccountsToFile(updated);
+
+  if (firestoreDb && id) {
+    try {
+      await fsDeleteDoc(fsDoc(firestoreDb, "accounts", id));
+      console.log(`[FIREBASE] Deleted account ${id} from Firestore`);
+    } catch (err) {
+      console.error("[FIREBASE] Failed to delete account from Firestore:", err);
+    }
+  }
+}
+
+function writeAccountsToFile(accounts){try{fs.writeFileSync(ACCOUNTS_FILE,JSON.stringify(accounts,null,2),"utf-8")}catch(e){console.error("Error writing accounts file:",e)}try{if(REPO_ACCOUNTS_FILE!==ACCOUNTS_FILE){fs.writeFileSync(REPO_ACCOUNTS_FILE,JSON.stringify(accounts,null,2),"utf-8")}}catch(e){}}__name(writeAccountsToFile,"writeAccountsToFile");function readPapersFromFile(){try{if(fs.existsSync(PAPERS_FILE)){const data=fs.readFileSync(PAPERS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){return parsed}}}catch(e){console.error("Error reading papers file:",e)}return[]}__name(readPapersFromFile,"readPapersFromFile");function writePapersToFile(papers){try{fs.writeFileSync(PAPERS_FILE,JSON.stringify(papers,null,2),"utf-8")}catch(e){console.error("Error writing papers file:",e)}}__name(writePapersToFile,"writePapersToFile");function readDateSheetsFromFile(){try{if(fs.existsSync(DATESHEETS_FILE)){const data=fs.readFileSync(DATESHEETS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){return parsed}}}catch(e){console.error("Error reading datesheets file:",e)}return[]}__name(readDateSheetsFromFile,"readDateSheetsFromFile");function writeDateSheetsToFile(dateSheets){try{fs.writeFileSync(DATESHEETS_FILE,JSON.stringify(dateSheets,null,2),"utf-8")}catch(e){console.error("Error writing datesheets file:",e)}}__name(writeDateSheetsToFile,"writeDateSheetsToFile");function readMarksheetsFromFile(){try{if(fs.existsSync(MARKSHEETS_FILE)){const data=fs.readFileSync(MARKSHEETS_FILE,"utf-8");const parsed=JSON.parse(data);if(Array.isArray(parsed)){return parsed}}}catch(e){console.error("Error reading marksheets file:",e)}return[]}__name(readMarksheetsFromFile,"readMarksheetsFromFile");function writeMarksheetsToFile(marksheets){try{fs.writeFileSync(MARKSHEETS_FILE,JSON.stringify(marksheets,null,2),"utf-8")}catch(e){console.error("Error writing marksheets file:",e)}}__name(writeMarksheetsToFile,"writeMarksheetsToFile");function dedupeQuestions(paper, explicitSubjectId, explicitChapters){
   return dedupeAndReplenishPaper(paper, explicitSubjectId, explicitChapters);
 }__name(dedupeQuestions,"dedupeQuestions");
 function dedupeNotes(notes: any): any {
@@ -76,7 +184,90 @@ function dedupeNotes(notes: any): any {
 
   return clean;
 }
-app.get("/api/accounts",(req,res)=>{res.setHeader("Cache-Control","no-cache, no-store, must-revalidate");const accounts=readAccountsFromFile();res.json(accounts)});app.post("/api/accounts",(req,res)=>{const accounts=req.body;if(!Array.isArray(accounts)){return res.status(400).json({error:"Expected an array of accounts."})}writeAccountsToFile(accounts);res.json({success:true,count:accounts.length})});app.post("/api/accounts/save",(req,res)=>{const account=req.body;if(!account||!account.id){return res.status(400).json({error:"Valid account object with id required."})}const current=readAccountsFromFile();const accUser=(account.username||"").trim().toLowerCase();const accId=(account.id||"").trim().toLowerCase();const idx=current.findIndex(a=>{const aId=(a.id||"").trim().toLowerCase();const aUser=(a.username||"").trim().toLowerCase();return aId===accId||(accUser&&aUser===accUser)});if(idx>=0){current[idx]={...current[idx],...account}}else{current.unshift(account)}writeAccountsToFile(current);console.log(`[ACCOUNTS] Persisted account: ${account.username} (${account.schoolName||""}), total: ${current.length}`);res.json({success:true,account})});app.delete("/api/accounts/:id",(req,res)=>{const id=req.params.id;const current=readAccountsFromFile();const updated=current.filter(a=>a.id!==id);writeAccountsToFile(updated);res.json({success:true,deletedId:id})});app.post("/api/accounts/login",(req,res)=>{const{username="",password=""}=req.body||{};const query=String(username).trim();const queryLower=query.toLowerCase();const queryDigits=query.replace(/\D/g,"");const pwd=String(password).trim();const accounts=readAccountsFromFile();const found=accounts.find(a=>{const aUser=(a.username||"").trim().toLowerCase();const aId=(a.id||"").trim().toLowerCase();const aEmail=(a.email||"").trim().toLowerCase();const aPhone=(a.phone||"").replace(/\D/g,"");const aPwd=(a.password||"").trim();const matchesIdentity=aUser===queryLower||aId===queryLower||(aEmail&&aEmail===queryLower)||(queryDigits.length>=7&&aPhone.length>=7&&(queryDigits.endsWith(aPhone)||aPhone.endsWith(queryDigits)));const matchesPassword=aPwd===pwd;return matchesIdentity&&matchesPassword});if(!found){return res.status(401).json({error:"Invalid Username or Password! Please verify your official credentials."})}if(found.status==="suspended"||found.status==="freeze"||found.status==="frozen"){return res.status(403).json({error:"This institutional account has been frozen by the Super Administrator."})}const token=`token-${found.id}-${Date.now()}`;res.json({success:true,user:found,token})});app.get("/api/papers",(req,res)=>{const papers=readPapersFromFile();const userId=req.query.userId;if(userId){const filtered=papers.filter(p=>p.userId===userId||p.createdByUserId===userId);return res.json(filtered)}res.json(papers)});app.post("/api/papers",(req,res)=>{const incoming=req.body;const current=readPapersFromFile();if(Array.isArray(incoming)){writePapersToFile(incoming);return res.json({success:true,count:incoming.length})}else if(incoming&&incoming.id){ if(incoming.objectiveSection) dedupeAndReplenishPaper(incoming);const existingIdx=current.findIndex(p=>p.id===incoming.id);if(existingIdx>=0){current[existingIdx]=incoming}else{current.unshift(incoming)}writePapersToFile(current);return res.json({success:true,paper:incoming})}res.status(400).json({error:"Invalid paper payload."})});app.delete("/api/papers/:id",(req,res)=>{const id=req.params.id;const current=readPapersFromFile();const updated=current.filter(p=>p.id!==id);writePapersToFile(updated);res.json({success:true,deletedId:id})});app.get("/api/datesheets",(req,res)=>{const dateSheets=readDateSheetsFromFile();const userId=req.query.userId;if(userId){const filtered=dateSheets.filter(d=>d.userId===userId);return res.json(filtered)}res.json(dateSheets)});app.post("/api/datesheets",(req,res)=>{const incoming=req.body;const current=readDateSheetsFromFile();if(Array.isArray(incoming)){writeDateSheetsToFile(incoming);return res.json({success:true,count:incoming.length})}else if(incoming&&incoming.id){const existingIdx=current.findIndex(d=>d.id===incoming.id);if(existingIdx>=0){current[existingIdx]=incoming}else{current.unshift(incoming)}writeDateSheetsToFile(current);return res.json({success:true,dateSheet:incoming})}res.status(400).json({error:"Invalid date sheet payload."})});app.delete("/api/datesheets/:id",(req,res)=>{const id=req.params.id;const current=readDateSheetsFromFile();const updated=current.filter(d=>d.id!==id);writeDateSheetsToFile(updated);res.json({success:true,deletedId:id})});app.get("/api/marksheets",(req,res)=>{const marksheets=readMarksheetsFromFile();const userId=req.query.userId;if(userId){const filtered=marksheets.filter(m=>m.userId===userId);return res.json(filtered)}res.json(marksheets)});app.post("/api/marksheets",(req,res)=>{const incoming=req.body;const current=readMarksheetsFromFile();if(Array.isArray(incoming)){writeMarksheetsToFile(incoming);return res.json({success:true,count:incoming.length})}else if(incoming&&incoming.id){const existingIdx=current.findIndex(m=>m.id===incoming.id);if(existingIdx>=0){current[existingIdx]=incoming}else{current.unshift(incoming)}writeMarksheetsToFile(current);return res.json({success:true,marksheet:incoming})}res.status(400).json({error:"Invalid marksheet payload."})});app.delete("/api/marksheets/:id",(req,res)=>{const id=req.params.id;const current=readMarksheetsFromFile();const updated=current.filter(m=>m.id!==id);writeMarksheetsToFile(updated);res.json({success:true,deletedId:id})});app.get("/api/notes/index",(req,res)=>{try{const indexPath=path.join(__dirname,"src","data","notes","index.json");if(fs.existsSync(indexPath)){return res.json(JSON.parse(fs.readFileSync(indexPath,"utf-8")))}return res.json([])}catch(err){return res.status(500).json({error:err.message})}});
+app.get("/api/accounts", async (req, res) => {
+  res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+  try {
+    const accounts = await refreshAccountsFromFirestore();
+    res.json(accounts);
+  } catch (e) {
+    res.json(readAccountsFromFile());
+  }
+});
+
+app.post("/api/accounts", async (req, res) => {
+  const accounts = req.body;
+  if (!Array.isArray(accounts)) {
+    return res.status(400).json({ error: "Expected an array of accounts." });
+  }
+  inMemoryAccounts = accounts;
+  writeAccountsToFile(accounts);
+  if (firestoreDb) {
+    for (const a of accounts) {
+      if (a && a.id) {
+        fsSetDoc(fsDoc(firestoreDb, "accounts", String(a.id)), a).catch(() => {});
+      }
+    }
+  }
+  res.json({ success: true, count: accounts.length });
+});
+
+app.post("/api/accounts/save", async (req, res) => {
+  const account = req.body;
+  if (!account || !account.id) {
+    return res.status(400).json({ error: "Valid account object with id required." });
+  }
+  await persistAccount(account);
+  console.log(`[ACCOUNTS] Persisted account: ${account.username} (${account.schoolName || ""})`);
+  res.json({ success: true, account });
+});
+
+app.delete("/api/accounts/:id", async (req, res) => {
+  const id = req.params.id;
+  await removeAccount(id);
+  res.json({ success: true, deletedId: id });
+});
+
+app.post("/api/accounts/login", async (req, res) => {
+  const { username = "", password = "" } = req.body || {};
+  const query = String(username).trim();
+  const queryLower = query.toLowerCase();
+  const queryDigits = query.replace(/\D/g, "");
+  const pwd = String(password).trim();
+
+  const matchFn = (a: any) => {
+    const aUser = (a.username || "").trim().toLowerCase();
+    const aId = (a.id || "").trim().toLowerCase();
+    const aEmail = (a.email || "").trim().toLowerCase();
+    const aPhone = (a.phone || "").replace(/\D/g, "");
+    const aPwd = (a.password || "").trim();
+    const matchesIdentity =
+      aUser === queryLower ||
+      aId === queryLower ||
+      aId === `school-${queryLower}` ||
+      (aEmail && aEmail === queryLower) ||
+      (queryDigits.length >= 7 && aPhone.length >= 7 && (queryDigits.endsWith(aPhone) || aPhone.endsWith(queryDigits)));
+    const matchesPassword = aPwd === pwd;
+    return matchesIdentity && matchesPassword;
+  };
+
+  let accounts = inMemoryAccounts.length > 0 ? inMemoryAccounts : readAccountsFromFile();
+  let found = accounts.find(matchFn);
+
+  if (!found) {
+    // If not found in current memory/file, refresh from live Firestore database!
+    accounts = await refreshAccountsFromFirestore();
+    found = accounts.find(matchFn);
+  }
+
+  if (!found) {
+    return res.status(401).json({ error: "Invalid Username or Password! Please verify your official credentials." });
+  }
+  if (found.status === "suspended" || found.status === "freeze" || found.status === "frozen") {
+    return res.status(403).json({ error: "This institutional account has been frozen by the Super Administrator." });
+  }
+  const token = `token-${found.id}-${Date.now()}`;
+  res.json({ success: true, user: found, token });
+});app.get("/api/papers",(req,res)=>{const papers=readPapersFromFile();const userId=req.query.userId;if(userId){const filtered=papers.filter(p=>p.userId===userId||p.createdByUserId===userId);return res.json(filtered)}res.json(papers)});app.post("/api/papers",(req,res)=>{const incoming=req.body;const current=readPapersFromFile();if(Array.isArray(incoming)){writePapersToFile(incoming);return res.json({success:true,count:incoming.length})}else if(incoming&&incoming.id){ if(incoming.objectiveSection) dedupeAndReplenishPaper(incoming);const existingIdx=current.findIndex(p=>p.id===incoming.id);if(existingIdx>=0){current[existingIdx]=incoming}else{current.unshift(incoming)}writePapersToFile(current);return res.json({success:true,paper:incoming})}res.status(400).json({error:"Invalid paper payload."})});app.delete("/api/papers/:id",(req,res)=>{const id=req.params.id;const current=readPapersFromFile();const updated=current.filter(p=>p.id!==id);writePapersToFile(updated);res.json({success:true,deletedId:id})});app.get("/api/datesheets",(req,res)=>{const dateSheets=readDateSheetsFromFile();const userId=req.query.userId;if(userId){const filtered=dateSheets.filter(d=>d.userId===userId);return res.json(filtered)}res.json(dateSheets)});app.post("/api/datesheets",(req,res)=>{const incoming=req.body;const current=readDateSheetsFromFile();if(Array.isArray(incoming)){writeDateSheetsToFile(incoming);return res.json({success:true,count:incoming.length})}else if(incoming&&incoming.id){const existingIdx=current.findIndex(d=>d.id===incoming.id);if(existingIdx>=0){current[existingIdx]=incoming}else{current.unshift(incoming)}writeDateSheetsToFile(current);return res.json({success:true,dateSheet:incoming})}res.status(400).json({error:"Invalid date sheet payload."})});app.delete("/api/datesheets/:id",(req,res)=>{const id=req.params.id;const current=readDateSheetsFromFile();const updated=current.filter(d=>d.id!==id);writeDateSheetsToFile(updated);res.json({success:true,deletedId:id})});app.get("/api/marksheets",(req,res)=>{const marksheets=readMarksheetsFromFile();const userId=req.query.userId;if(userId){const filtered=marksheets.filter(m=>m.userId===userId);return res.json(filtered)}res.json(marksheets)});app.post("/api/marksheets",(req,res)=>{const incoming=req.body;const current=readMarksheetsFromFile();if(Array.isArray(incoming)){writeMarksheetsToFile(incoming);return res.json({success:true,count:incoming.length})}else if(incoming&&incoming.id){const existingIdx=current.findIndex(m=>m.id===incoming.id);if(existingIdx>=0){current[existingIdx]=incoming}else{current.unshift(incoming)}writeMarksheetsToFile(current);return res.json({success:true,marksheet:incoming})}res.status(400).json({error:"Invalid marksheet payload."})});app.delete("/api/marksheets/:id",(req,res)=>{const id=req.params.id;const current=readMarksheetsFromFile();const updated=current.filter(m=>m.id!==id);writeMarksheetsToFile(updated);res.json({success:true,deletedId:id})});app.get("/api/notes/index",(req,res)=>{try{const indexPath=path.join(__dirname,"src","data","notes","index.json");if(fs.existsSync(indexPath)){return res.json(JSON.parse(fs.readFileSync(indexPath,"utf-8")))}return res.json([])}catch(err){return res.status(500).json({error:err.message})}});
 async function generateOrSynthesizeChapterNotes(classLevel = "9th", subjectName = "Physics", chapterNo = 1, chapterTitle = "") {
   const clsNorm = classLevel.toLowerCase().includes("10") ? "class10" : "class9";
   const subNorm = subjectName.toLowerCase().replace(/[^a-z0-9]/g, "_").replace(/^class\d+_?/, "");
@@ -452,3 +643,12 @@ const targetCh = Number(req.body?.chapterNo || 1);
 const pool = getQuestionsForSubjectAndChapters(matchedSub.id, [targetCh]);
 res.json({ mcqs: pool.mcqs.slice(0, 15), shortQuestions: pool.shortQuestions.slice(0, 15), longQuestions: pool.longQuestions.slice(0, 3) })}});app.use("/assets", express.static(path.join(__dirname, "assets")));
 async function startServer(){const isProd=process.env.NODE_ENV==="production";if(!isProd){const{createServer:createViteServer}=await import("vite").then(s=>{const e="default";return s[e]&&typeof s[e]=="object"&&"__esModule"in s[e]?s[e]:s});const vite=await createViteServer({server:{middlewareMode:true},appType:"spa"});app.use(vite.middlewares);app.use("*",async(req,res,next)=>{const url=req.originalUrl;try{let template=fs.readFileSync(path.resolve(__dirname,"index.html"),"utf-8");template=await vite.transformIndexHtml(url,template);res.status(200).set({"Content-Type":"text/html"}).end(template)}catch(e){vite.ssrFixStacktrace?.(e);next(e)}})}else{app.use(express.static(path.join(__dirname,"dist")));app.get("*",(req,res)=>{res.sendFile(path.join(__dirname,"dist","index.html"))})}app.listen(PORT,"0.0.0.0",()=>{console.log(`Server listening on http://localhost:${PORT}`)})}__name(startServer,"startServer");var server_default=app;if(!process.env.VERCEL){startServer().catch(err=>{console.error("Failed to start server:",err)})}export{server_default as default};
+
+// Background initial sync with Firestore
+setTimeout(() => {
+  refreshAccountsFromFirestore().then(accs => {
+    console.log(`[FIREBASE] Synchronized ${accs.length} accounts from Firestore.`);
+  }).catch(err => {
+    console.warn("[FIREBASE] Initial sync warning:", err);
+  });
+}, 1000);
